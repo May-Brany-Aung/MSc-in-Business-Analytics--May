@@ -1,0 +1,1110 @@
+Speaker A: Good afternoon, sir. Can you see and hear us?
+
+Speaker B: Yes, thank you.
+
+Speaker A: May I call Ron Warmington, please?
+
+Speaker C: Yeah. Okay.
+
+Speaker A: Repeat after me.
+
+Speaker D: I do solemnly. I do solemnly.
+
+Speaker A: Sincerely and truly.
+
+Speaker D: Sincerely and truly.
+
+Speaker A: Declare and affirm.
+
+Speaker D: Declare and affirm that the evidence I shall give That the evidence I shall give shall be the truth, shall be the truth, the whole truth, the whole truth, and nothing but the truth, and nothing but the truth.
+
+Speaker E: Thank you.
+
+Speaker A: Good afternoon, Mr. Warmington. My name is Jason Beer and I ask questions on behalf of the inquiry. Can you give us your full name, please?
+
+Speaker D: Ronald John Warmington.
+
+Speaker A: Thank you. You've made 2 witness statements to the inquiry, the first 54 pages long, the second 12 pages long. Can we look at the first please? It's dated the 20th of May 2024, WITN 0105-0100. I think there's a correction that you'd like to make on page 20, if that— is that right?
+
+Speaker D: That's right, Mr.
+
+Speaker C: Veer.
+
+Speaker D: There's a sentence, the very first sentence at the top of page 20, which starts with not only and finishes with the word integrity. I'd like to remove that. It was mistaken.
+
+Speaker A: Thank you. And then if we go to the last page, please, which is page 54.
+
+Speaker C: Yes.
+
+Speaker A: Is that your signature?
+
+Speaker C: It is.
+
+Speaker A: And including the correction that you've just made, are the contents of that statement true to the best of your knowledge and belief?
+
+Speaker D: They are.
+
+Speaker A: Thank you. Can we turn to your second witness statement, please, which is dated the 10th of June, 2024, WITN 0105-0200? Is that your signature on page 12?
+
+Speaker D: Sorry, it's here. It is.
+
+Speaker A: And are the contents of that witness statement true to the best of your knowledge and belief?
+
+Speaker D: They are.
+
+Speaker A: Thank you very much. Can we look at your background to start with, please? I think you became a chartered accountant in 1971; is that right?
+
+Speaker D: That's right.
+
+Speaker A: And in 1979 you became a Fellow of the Institute; is that right?
+
+Speaker D: Yes.
+
+Speaker A: In terms of your work career, you worked as an external auditor between 1968 and 1975 for a company that was subsequently acquired by Ernst Young, is that right?
+
+Speaker D: I think it was from 1966, September '66 onwards. Have I made a mistake somewhere?
+
+Speaker A: I don't think it matters. I've got in my notes '68, which I would have taken from your witness statement. You're quite right, '66. My fat fingers. In any event, it was a company that was subsequently acquired by Ernst Young?
+
+Speaker E: That's right.
+
+Speaker A: Between '75 and 2002, you worked for Citibank, is that right?
+
+Speaker D: Yes.
+
+Speaker A: Variously as a regional head of internal audit, chairman of the audit and risk committee, CFO, Head of Investigations for Europe, the Middle East, and Africa, and then Global Head of Investigations?
+
+Speaker D: That's right.
+
+Speaker A: Between 2000 and 2010, you were a director of GE Capital as Head of Fraud Management in Europe, the Middle East, and Africa?
+
+Speaker D: Yes.
+
+Speaker A: In 2009 and 2010, you became part of and then a director of Second Sight Support Services Limited?
+
+Speaker C: Yes.
+
+Speaker A: Thank you. Before we get into some of the detail, can I, um, seek to explore with you at a higher level the issues that are raised in your witness statement? So a summary. To summarise, is this right, you were an independent forensic accountant contracted by the Post Office to conduct an investigation into, broadly speaking, Horizon?
+
+Speaker D: Yes.
+
+Speaker A: You had the backing of MPs who were trying to get the Post Office to address their concerns, i.e., the concerns of MPs raised on behalf of constituents?
+
+Speaker B: Yes.
+
+Speaker A: In the course of your work, you had access to senior people within the Post Office? who either themselves had access or could access information concerning issues with Horizon?
+
+Speaker D: Yes.
+
+Speaker A: And could access information about criminal, civil and disciplinary action taken against subpostmasters?
+
+Speaker D: That's correct.
+
+Speaker A: According to your statement, no need to turn it up, it's paragraph 22, you initially received clear promises of cooperation, assistance, and unrestricted access to whatever documents you might call for?
+
+Speaker D: Yes.
+
+Speaker A: That were— those promises were made by Susan Kreischer, Paula Venles, and Alice Perkins?
+
+Speaker D: That's right.
+
+Speaker A: Despite this, you tell us in your witness statement, you found that the Post Office reneged on those promises?
+
+Speaker B: Yes.
+
+Speaker A: By withholding documentation and information from you?
+
+Speaker D: Yes.
+
+Speaker A: By failing to provide proper answers?
+
+Speaker D: Yes.
+
+Speaker A: And you eventually formed the view that the Post Office considered that Second Sight was, quote, entirely under its control and could be ordered to do or could be disallowed from doing whatever it, the Post Office, wanted?
+
+Speaker D: Yes, that was clearly their position and view. It wasn't my position and view.
+
+Speaker A: You say in your witness statement that you experienced the Post Office's strategy of denying problems that it, the Post Office, knew of.
+
+Speaker D: Yes.
+
+Speaker A: Of trying to remove oversight or investigation which may have led to adverse conclusions about Horizon in particular.
+
+Speaker B: Yes.
+
+Speaker A: At the time you were doing the work, did those thoughts occur to you?
+
+Speaker D: Oh yes.
+
+Speaker A: This isn't after the event?
+
+Speaker D: Oh, most certainly not.
+
+Speaker A: At the time you were doing the work, why did you think they were— they, the Post Office, it, the Post Office, was conducting itself in this way?
+
+Speaker D: Well, very much along the lines of what Mr Henderson said that it was very clear that Post Office knew, insofar as a corporation can know anything, the people at the top knew that they were dealing with an existential issue, that if it turned out that Horizon was generating spurious shortfalls, that they had a lousy investigation function, that they had wrongfully prosecuted people, that would be existential.
+
+Speaker A: In what sense would it be existential and why? What were the stepping stones?
+
+Speaker D: Well, the need to rely on the integrity of Horizon in order to be able to, if you like, control the network of subpostmasters, their agents, to be able to exercise or to carry out that sort of level of control, to have it known that the Horizon system was unreliable or that the supplier of the Horizon system, Fujitsu, or that the user of it, the purchaser of it, Post Office, was— could not be relied upon, would mean that all hell would break loose in the branch network.
+
+Speaker A: Was this a view that you formed in the course of your 2 or so years' work?
+
+Speaker D: I'd say right from the very outset. I warned the Post Office top brass of that possibility from day zero.
+
+Speaker A: What you say in your witness statement about the promises of cooperation, assistance and unrestricted access being reneged on, when did that start to occur?
+
+Speaker D: Difficult to put an exact date on it. It must have been probably about February of 2013, as early as that, within months of us starting work.
+
+Speaker A: The inquiry has seen a number of internal Post Office documents that show that at least in 2013, individuals within the Post Office were contemplating minimising the role of Second Sight or ending the role of Second Sight completely. You've described in your witness statement a ferocious pushback from the Post Office during your investigation. Do you think there was ever a time when the Post Office staff were cooperating with your investigation fully?
+
+Speaker D: Oh yes, initially the response from Susan Crichton and from Simon Baker, the young IT expert that was assigned to help us to get access to data, Attitudinally had exactly the right— they definitely shared our, or they appeared to share our objective of seeking the truth regardless of consequences.
+
+Speaker A: What caused the ferocious pushback?
+
+Speaker D: I think when they started lawyering up. It was pretty clear that as soon as Ian came to me and said, look what I've found, I'm finding some really odd stuff in these legal files.
+
+Speaker A: Just stopping there, when was that?
+
+Speaker D: It must— it was very early on. Again, I would say it was during August of 2012. I may be mistaken, but it was very early on.
+
+Speaker A: What was the odd stuff that Ian was finding?
+
+Speaker D: Well, you've looked at it earlier today, the Brander Report, and considering he was only looking at a dozen or so files and we knew there were a lot more cases behind that, it was giving very clear evidence of what I saw, or we saw, as wholly inadequate investigation.
+
+Speaker A: One of the accusations that is levied against Second Sight very frequently in the internal Post Office material, and it sometimes breaks out into things said, for example, to James Arbuthnot and then subsequently to Sir Anthony Hooper, is that one of the chief problems with your investigation was that the slow pace at which it was proceeding. Was that a view that was expressed to you at the time?
+
+Speaker D: Yes, it was.
+
+Speaker A: Was there substance in the view?
+
+Speaker D: Yes, it was taking longer, particularly in the— during the mediation scheme with 150 applicants, each with a very detailed story. And the need to wait for evidence to be produced by Post Office, which was taking much longer than we had ever expected it to.
+
+Speaker A: What was the cause of the delay, firstly, in the initial investigation, i.e., up until the interim report of 8 July 2013?
+
+Speaker D: Well, part of it, I think, Mr Veer, was because Post Office This is not unusual in big companies. Post Office seemed to be excessively siloed with different departments, each of which would have some but not all of the information. And so gathering in the information, which Simon Baker was helping us to do, just proved to be like swimming up a waterfall. It was really, really difficult to get the information, and that slowed— that was the— I'm not trying to— shoulder duck the issue or pass off blame, but getting the data to us to be able to reach any conclusions was taking an inordinate amount of time.
+
+Speaker A: If we turn up paragraph 41 of your witness statement, please, which is at page 18, it will come up on the screen for you.
+
+Speaker D: Yes, sure.
+
+Speaker A: Page 18. Foot of the page. You're here in the mediation scheme and you say, where we couldn't resolve a point of conflict, within a report, we'd flag it in the relevant place. An example of a conflict within a report would be the issue regarding Fujitsu's Bracknell office, i.e., the Post Office denying that Michael Rudkin had ever arrived at the meeting he said he'd been invited to. I encouraged Michael to search through his emails to locate the original invitation, which fortunately he found. I'd requested this email from the Post Office multiple times, but they— but they said they could not find it. It was this kind of pushback that meant our CRRs, our case review reports, went through multiple drafts, sometimes 5 or more. I'd never encountered before— sorry, I had never before encountered such ferocious and determined pushback from a business or client. I was very used to dealing with conflict in my profession, but had never encountered such ferocious resistance to almost every sentence used in every report. Every point we raised that we knew to be true received monstrous and illogical pushback. Their approach was, in my experience, unprecedented, particularly during the drafting of our final report and many of the case review reports. Can you— you've given one example there. of Mr. Rudkin and seeking an email that might have confirmed his presence on Fujitsu's premises in Bracknell, as he said. Can you help us with, without specific examples, but what you're talking about there, monstrous pushback and illogical pushback on sentences used in your reports?
+
+Speaker D: Yes, I mean, it was constant. So— and much of it revolved around what Post Office was asserting, with some justification, was inadequately evidenced remarks that we were making. A good example of that would be in connection with the contention by many of the subpostmasters that they'd never seen a copy of their 114-page contract. prior to sort of running into the barbed wire fence in legal action some years later. And Post Office was saying, well, hang on a minute, you can't— you're just spouting anecdotal evidence given to you by a few postmasters. And my reaction was, well, hang on a minute, I can't provide evidence of that. I think that's a very good point. Because I have yet to see a contract that has been signed and dated by a subpostmaster. And then we were getting the— what became almost like a mantra of the Post Office's position is that we would have— our procedures would have ensured that this had happened. Similarly, when we— when I was trying to get across the point— this is one of scores of points— that the postmasters were— that risk had been transferred onto the postmasters' shoulders without their acknowledgement or, for that matter, knowledge on matters like the— doing away with paying-in slips or the fact that they no longer had any local record of cheques that had been sent in for processing. And it might turn out to be mangled and totally shredded in the check clearing machines, the check processing machines. Matters that ordinarily I would have had zero difficulty in communicating in conversations like this just seemed to be beyond the ken of the people in Post Office. At first I was taken in by that. Later I wasn't.
+
+Speaker A: When you say you were taken in by it, what do you mean?
+
+Speaker D: I took it at face value. I took it that I was pretty pathetic at explaining points and had lost the knack of explaining things simply. But eventually I twigged that in my judgment, I may be wrong, it was feigned. ignorance, not real.
+
+Speaker A: Did the Post Office seek to influence the drafting of your final CRR reports?
+
+Speaker D: Oh yes.
+
+Speaker A: And how did they do that?
+
+Speaker D: Well, by examining every word, every phrase, every full stop and comma. Again, I mean, we made a point, my entire team made a point of writing things with extreme clarity. We checked for that. So it was unusual to have any report that wasn't completely clear, and yet Post Office seemed to find reason to challenge just about everything we said.
+
+Speaker A: Did you adapt the words used, the language used in the reports, the CRRs, as a result?
+
+Speaker D: To a degree. You probably realise that Mr Henderson and I, and in fact our colleagues, are not easily— not necessarily for turning, so there were some pretty intense scraps, but we obviously listened to and tried to accommodate the changes they were requesting, and certainly where we'd made mistakes, we corrected them.
+
+Speaker A: In his witness statement, Mr Henderson said, it's page 22, paragraph 71, to the credit of the Post Office, they, the Post Office, did not try to directly interfere with or influence Second Sight's reports other than by withholding potentially relevant documents. That's slightly different from what you're saying now, that there was an attempt to interfere with or influence the language used.
+
+Speaker D: Yes, there is a little bit of difference there. I mean, I was involved in a lot more of the— if you like, what Ian himself would refer to as having been down in the weeds and dealing with a lot of the accounting issues in minute detail. I probably encountered a little more pushback than he did, although he was of course encountering pushback on the matters to do with evidential quality.
+
+Speaker A: I was going to ask you, what was the division of responsibilities between you and Mr Henderson?
+
+Speaker D: Well, he's better than I am, so I mean he got the difficult stuff to deal with. I mean essentially it was pretty obvious. Ian is a specialist in documentation, computers, evidence handling. And also he was living in London, I wasn't. It made sense for him to be on site at Old Street, whereas I was haring around the country making face-to-face contact with the subpostmasters, which of course I'd been asked to do by James Arbuthnot and his colleagues. So it was very clear that— and I omitted to mention that of course Ian had had that very valuable experience with the CCRC, so I had far less knowledge of criminal procedure than he did, but neither of us put ourselves forward as lawyers. I hope I answered the question adequately.
+
+Speaker A: Yes, you have. Can we move forward please to Paragraph 58 of your witness statement, which is on page 28. The foot of page 28. You're here dealing with— at about the point of publication time of the interim report.
+
+Speaker B: Yes.
+
+Speaker A: And you say, we in Second Sight held the view that those concerns that have been so clearly expressed by the MPs and their equally clear expectation we would be investigating them had certainly not gone away, but that our interim report was to focus in the main on the narrow issue of systemic flaws in Horizon. The inference and our understanding was that the original far wider scope had simply— had never simply vaporised, and that we were still expected by the MPs and by the JFSA to address them. On reflection, it would have been helpful had we included words to that effect in our interim report, although it seems now to be pretty obvious that the Post Office would have fought hard to avoid conceding that. It's now clear that the Post Office really had hoped that after Second Sight's interim report, report, that wider scope investigation, that would simply never happen. Can we just look at your interim report, please? Poll 3099063. This is the interim report of the 8th of July, and can we look at page 8 please? Paragraph 8.1, this is an interim report and there is still much— sorry, there is much work still to be done. At this point, what in your mind was still to be done?
+
+Speaker D: Well, Ian referred to this earlier. Colloquially, we had come to regard the work that we were doing as what we called Job 1 and Job 2. In fact, that terminology was accepted by Post Office. Job 1 was the broader investigation that definitely included consideration of the conduct of investigations and prosecutions, but this was narrower, and as we went into the mediation scheme, that became a more narrowly defined piece of work which we referred to as Job 2. The reason we called it the interim report was because it was an interim report.
+
+Speaker A: In your witness statement, you describe things the other way round, that the narrower piece of work was Job 1, it focused in the main on the narrower issue of systemic flaws in Horizon. Why was the narrower issue the systemic— the issue of systemic flaws in Horizon?
+
+Speaker D: If that's what I've said, Mr. Bearer, I've got it the wrong way around, because job one was the— unsurprisingly, the first piece of work which the MPs had asked us to do. The narrower job was— manifested itself principally in the mediation scheme, which was underway at this point.
+
+Speaker A: Let's look at your witness statement alongside this then, please.
+
+Speaker D: Yes.
+
+Speaker A: Page 28 of the witness statement.
+
+Speaker D: You may have caught me out.
+
+Speaker A: Page 28. Paragraph 58 at the bottom. I'll read the whole sentence. We in Second Sight held the view that those concerns that have been so clearly expressed by MPs... had certainly not gone away, but that our interim report was to focus in the main on the narrower issue of systemic flaws in Horizon.
+
+Speaker D: Mr. Chairman? Well, I have expressed that the way I intended to, but I think the confusion that I've allowed to creep in here, for which I apologise, is that the Post Office's understanding of the mediation scheme was that that, in a sense, in a sense displaced, vaporised the original work that we'd been asked to carry out. And we did not share that view. We, as far as we were concerned, the initial request by the MPs to— which involved, quote, taking the JFSA along with us, had definitely not gone away, but Post Office completely disagreed with that position.
+
+Speaker A: So without reference to the documents then, if I can just try and get an understanding of it, it was your view that there were always going to be 2 pieces of work, job 1 and job 2?
+
+Speaker E: Yes.
+
+Speaker A: That the first of those, which is reflected in the interim report, focused on the existence or non-existence of system-wide or systemic problems with Horizon?
+
+Speaker D: Yes, Mr. Beer, but I think the point that has been confusing everybody is that job one was actually very broad, but that the interim report was not— it probably should have been, but it was not an attempt to answer all of those broad questions that had been posed by the MPs, At that point we'd been asked to just produce a report, the interim report, on these narrow issues.
+
+Speaker A: Okay.
+
+Speaker D: Which was in fact probably absurd and we should have said no.
+
+Speaker A: I was about to ask, was it a request of the Post Office that led to the production of the interim report?
+
+Speaker E: Yes.
+
+Speaker A: Why did Second Sight agree to it?
+
+Speaker D: Well, because it wasn't just the Post Office that was communicating that. The MPs were getting quite irritated— wouldn't be too strong a word— that the investigation had been chuntering along for a year at that point and there didn't seem to be much output from it. And so at least we should produce a report that said something, and so this narrow request was agreed upon.
+
+Speaker A: I see. In your mind, and putting aside the events which happened, namely the development of the initial complaint and mediation scheme, what was still left after the production of the interim report?
+
+Speaker D: Well, had the mediation scheme not fired up, and diverted our attention onto the 150 applicants' cases. We would have continued to do the work that the MPs had asked us to do, which had been covered in my original proposal of work, which had never been other than acknowledged. There never had been an initial letter of engagement.
+
+Speaker A: And so all of the other issues raised by the MPs on behalf of their constituents still failed to be addressed?
+
+Speaker C: Yes.
+
+Speaker A: The Post Office determined that that should be done through the mediation scheme?
+
+Speaker C: Yes.
+
+Speaker A: At the time, was it your view that that was an appropriate means of addressing those issues?
+
+Speaker D: Yes, seemed like a good idea.
+
+Speaker A: Why did it seem like a good idea?
+
+Speaker D: Well, I think it was— I mean, at that point Susan Crichton was still involved and still— there still seemed to be this a persuasive search for the truth, and it involved seeking applications from the entire network, and we wanted to get cases that could be efficiently, or even at all, investigated, and getting newer cases. where the data was more likely to be available still, was clearly going to be a good thing.
+
+Speaker A: This conclusion at 8.2 on the right-hand side, our preliminary conclusions are, we have so far found no evidence of system-wide systemic problems with the Horizon software. On the investigation of how many cases, was that preliminary conclusion formed?
+
+Speaker D: I think it was about 50, 49, something like that. We had, I think, 29 cases from the MPs, 18 from the JFSA, that's 47 by my counting. So I think it was based on those, but of course we'd narrowed that down, we had to, because we investigating 49 cases right across the detail wasn't feasible, so that's where I think Ian came up with the good idea of spot— what we called spot reviews, just focus on events within a case and dig into those.
+
+Speaker A: And is it right therefore that that conclusion is both based ultimately on the examination of 4 cases?
+
+Speaker D: I think by that point we had about— we had 20-something spot reviews, but only 4 of them had really been bottomed out, and even then one of them was Spot Review 5, the Rudkin matter, which hadn't been bottomed out. So there were still lots of unanswered questions as we wrote this.
+
+Speaker A: And so that conclusion was— preliminary conclusion was reached on the basis of the 4 cases that had been investigated the most, one of which was still incomplete?
+
+Speaker B: Yes.
+
+Speaker A: Do you think on reflection that ought to have been made clearer in paragraph 8.2, so that it might not be misused or misappropriated by others for a different purpose?
+
+Speaker D: Well, with the benefit of hindsight, absolutely. I wish we'd said that. I think Ian mentioned earlier, it would have been probably better if we'd spelled out exactly what we meant by systemic. We didn't use the word by accident, and a considerable amount of thought and discussion went into the wording we used there. But with the benefit of hindsight, the Post Office pounced on it and, as Ian said, trumpeted it from the rooftops. And Alan had warned us that that would happen.
+
+Speaker A: Before you wrote it or afterwards?
+
+Speaker D: Before, because of course he was entitled to and was seeing the drafts of these documents. I think he saw the draft of this. Certainly he'd— Sir Alan, as we all know, pretty astute, and I think he was— he foresaw better than I did the danger of this.
+
+Speaker A: Can I look at something that you later said, a year and a half later, about this in a call that you had with Tim McCormack, just to explore what was meant here and what you thought this conclusion was meant to represent? Can we look please at SSL 40126. This is a recording or a transcript of a recording that I think you made with Mr McCormack on 26 October 2015.
+
+Speaker D: Yes.
+
+Speaker A: If we go to page 3, please. And scroll down please. It's that section there. You say, you know, should anyone be surprised? Of course there are bugs in the system. Now we were at pains, you probably are aware, in that when we released that interim report, we studiously avoided using the term that there had been systemic errors, even though there had been some disclosed to us. We steered clear from that. We have now— I've made it clear in emails to Cameron Freeman, the Minister herself— we are now of the view that not only did systemic bugs exist during the time of these cases arising, but that systemic bugs in all likelihood definitely still exist, and then you carry on. The point there, we studiously avoided using that term systemic errors, even though some have been disclosed to us. Why did you avoid using the term systemic errors in the interim report? if, as you say here, systemic errors had been disclosed to you by that time?
+
+Speaker D: It is contradictory, I see the point, and probably not very wise wording at the time. Let me elicit— let me clarify. Systemic to us meant that this was something that was occurring right through the network of the 12,000-odd branches. And had there been such systemic bugs, they would have been glaringly obvious to at least some of— quite a lot of the people. That was the opposite of what we'd found. What we found was that the— whether it was bugs or other forms of error and defect that were manifesting themselves were unusual, were rare. but had life-changing impact on those that the bugs hit, but were inconsequential in the context of the entirety of the system. So Mr Cameron— Al Cameron was one of the few witnesses that's referred to the comparative impact, the materiality of events that in Post Office's world are immaterial, but in the individual cases are hugely material. And so I guess I'm still in this transcript, Probably still being a little bit muddle-headed into the use of the word systemic. I wish we'd never used it. You know, it— we did, we used it advisedly, we gave it a lot of thought, but it led to such abuse that I wish we'd used a different form of words.
+
+Speaker A: Thank you. That can come down. Can I go right back to the beginning then, the initial instruction? of Second Sight. You describe this in your witness statement, if we can turn it up please, at paragraphs 15 and 16. Which is on page 8. You're here referring to a PowerPoint proposal that we've seen many times. I'm not going to go into it, but you say, by reference to that PowerPoint proposal, I suggest that no reasonable person could possibly have failed to understand that the review envisaged in my proposal was intended to address the possibility of prosecutorial misconduct. Just stopping there, you're saying that as a matter of plain language and fair reading of the document?
+
+Speaker D: Oh yes.
+
+Speaker A: You go on to say, indeed we've been informed that this was the primary focus of the MPs who had brought pressure to bear on the Chairman and CEO to carry out a review. So stopping there, does that sentence reflect the fact that the MPs were not concerned with whether there were intricate or arcane coding problems in the Horizon system? They were concerned that some of their constituents had been wrongfully prosecuted?
+
+Speaker D: Yes, the simple answer to that is yes. The one or two of the MPs expressed as the inquiry has already heard, a desire to sort of carry out some sort of deep code review, and we'd said it's going to be difficult to do that. We need to find exactly which piece of software existed on a particular date. But the short answer to the question is that it was crystal clear that all of the MPs, their primary concern was that there had been prosecutorial misconduct.
+
+Speaker A: And you say, in due course, as we met them, it became crystal clear that this indeed was their primary concern.
+
+Speaker D: Yes.
+
+Speaker A: In 16, you say, I've subsequently learned on reading a 2-page email of 6 June 2012— you hadn't previously seen it— that Susan Crichton had summarised your PowerPoint for Paul Venells. It's largely a cut and paste from your PowerPoint with relatively few changes. Having now read that email, I'm even more shocked than I was when as early as May 2013 and thereafter Paul Venells contended that Second Sight had never been invited to look for any evidence of unsafe prosecutions. Was that something that was emphasised to you by Paul Venells? that it wasn't part of Second Sight's brief, its terms of reference, to look for evidence of unsafe prosecutions?
+
+Speaker D: Well, it's a matter of huge regret, and not only myself but my colleagues at Second Sight, that we had far less face-to-face contact with Paula Vannells than I would ordinarily have expected as to have, and therefore we'd been shunted down to the second level of, as I say, I think they called themselves conduits, who were, as far as we were at first aware, were conveying to us what Paula wanted and didn't want. So I'm using a sort of shorthand there. I mean, I now see from the material that I've read that I hadn't seen before, that it's pretty clear that she was pushing that. But we were getting messages from Paula and Paula's intentions and desires through the conduit of people like Ojard, Allin Lyons and others.
+
+Speaker A: Can we look then at what her initial reaction was to your proposals? By looking at poll 0018/0779. This is an email you wouldn't have seen at the time. It's from Paula Venles, one of her staff in fact is sending it. to Susan Crichton, copy to Alice Perkins and Olwyn Lyons. I've just met Ron Wilmington and want to put on record that he would do an excellent job for us, exactly the right quality level of engagement, etc., we're looking for. I've made it very clear to Ron that our primary objective of this exercise is to be transparent and to deal with whatever outcomes and conclusions he comes to. Does that fairly reflect the meeting that you had with her in June 2021?
+
+Speaker D: Yes, it's a bit of an abbreviation of it, but yes.
+
+Speaker A: Abbreviation in what sense? I mean, obviously this is the minute of the meeting, it's a summary of the outcome.
+
+Speaker D: As best I recall, She's probably referring to the meeting where I sort of laid it on the line that there were extraordinary risks associated with this search for the truth, and that I might— although she might think me to be a good choice, I might not be, that she might be better off with somebody that would do things differently.
+
+Speaker A: Did you receive any formal feedback on the PowerPoint proposal that you presented?
+
+Speaker D: Well, strangely enough, and I kick myself on this, I don't think we did. It was just— we said, look, we'll work on it. Initially it was a very small job, seemed to be a very small job, so we said we'll just proceed on a time and materials basis. And these days, of course, we would have insisted on a proper contract and a proper letter of engagement and so on. Otherwise, you know, we'd be missing out. But it was just called go ahead. I now know that behind the scenes there was a considerable amount of debate on sort of putting together a letter of engagement. But it was never communicated to us.
+
+Speaker A: After the meeting with Ms Venables, did you believe that what— did you believe what she meant, what she said, she meant what she said rather, namely what's recorded in this email, namely the Post Office's objective, primary objective was to be transparent and deal with whatever outcomes and conclusions Second Sight reaches?
+
+Speaker D: Call me stupid, but I believed that and I later learned that probably wasn't the case. But I think it probably was the case at that point. That was what she conveyed convincingly and I accepted it.
+
+Speaker A: Do you know why, did you know why the Post Office appointed Second Sight over other forensic accountants?
+
+Speaker D: As Ian said this morning, we were cheap. But we were certainly, with fewer overheads and less greed, we had a pretty good value-for-money proposition. But I think the driving factor was that Susan Crichton, with whom I've never played tennis, incidentally, had held the view that I had form for pursuing evidence of innocence when people looked guilty, and very often finding that the innocent had been or would have otherwise been fired or worse for acts that they had not carried out themselves.
+
+Speaker A: Was that in Citibank or at GE Capital?
+
+Speaker D: Principally in Citibank. My role at GE Capital was more sort of fraud management with an occasional investigation thrown in, whereas in Citibank it was pure investigations, often into the conduct of employees at all sorts of levels Right up to the top brass.
+
+Speaker A: If we go back to your witness statement at page 9, please. And look at paragraph 19 on page 9. You say, in due course, Second Sight was approved by all of the parties and a decision was made, which we later came deeply to regret, that although Second Sight's clients comprised the MPs and the JFSA as well, the contract would be between Second Sight and the Post Office, with no oversight by the MPs and only some mild oversight on behalf of the JFSA by Kay Lynell. Why were you concerned when you learnt that Second Sight was to be contractually engaged only with Post Office rather than all of the interested persons?
+
+Speaker D: Well, it was very clear from the outset that the subject the principal subject or subjects of the investigation were to be the postmasters, who may well have had their hands in the till, and Post Office, the 2 parties involved, and perhaps Fujitsu. To have the subject, the principal subject of an investigation also be the paymaster is absurd, and it was Andrew Bridgen, as I say in paragraph 20, that was the most outspoken on that point, he spotted that problem right up front and was very angry about it. I mean, I— we accepted that. The Treasury apparently said we haven't got any money and therefore Post Office is going to have to pay for it, but it was a daft decision.
+
+Speaker A: Was that explored at the time, the Treasury being the paying client rather than the Post Office itself?
+
+Speaker D: I don't think it was. I don't think that was— Oliver Letwin was representing the Treasury at that point and his view was it's out of the question, Post Office is going to have to pay for this, but they could have paid for it through a conduit of the Treasury.
+
+Speaker A: Thank you, that can come down. You say that it was obvious from very early on that the number of cases that you were expected to investigate was increasing and you would therefore need to hire in additional investigators, yes?
+
+Speaker D: Yes.
+
+Speaker A: You say that you and Mr Henderson had no difficulty in coming up with suitable candidates?
+
+Speaker D: Yes.
+
+Speaker A: Because of your years of work in this field, is that right?
+
+Speaker D: Yes.
+
+Speaker A: You brought in 3 further investigators, is that right?
+
+Speaker C: Yes.
+
+Speaker A: Are those— were those 3 investigators— Chris Hollyoake?
+
+Speaker D: Yes.
+
+Speaker A: Did he join the investigation in about February 2014?
+
+Speaker D: Yes, I think shortly after he retired from his bank.
+
+Speaker A: We've got a confidentiality agreement with him dated the 18th of February 2014.
+
+Speaker D: Yes.
+
+Speaker A: Which would tend to indicate if things were working well that would be the beginning of his engagement?
+
+Speaker D: Yes, that was when we were starting to realise that we were— the two of us wasn't going to cut the mustard.
+
+Speaker A: Did Kim Evans join the investigation in about July 2014?
+
+Speaker D: Yes.
+
+Speaker A: Again, we've got a confidentiality agreement of the 30th of July 2014?
+
+Speaker D: Yes.
+
+Speaker A: And lastly, Niall Young, did he join the investigation in about August 2014?
+
+Speaker D: Yes.
+
+Speaker A: So does that mean that for the time up until the publication of the interim report, there were the 3 of you?
+
+Speaker B: Yes.
+
+Speaker A: Were there any attempts made to bolster your resources in that time?
+
+Speaker D: Not by us. No, I think the answer is no, because by then we knew how much had been invested in acquiring the knowledge of what had been going on, and we recognised that bringing anybody in, no matter how good they were as an investigator, would then divert attention from— by Ian and myself— onto bringing that person up the curve. It was a bit of a catch-22 situation.
+
+Speaker A: The number of cases, I think, increased sharply from, from around 10 in June 2012 at startup, yeah, to 49 or so by February 2013, is that right?
+
+Speaker D: That's right.
+
+Speaker A: Did that pose resourcing problems?
+
+Speaker D: Oh yes, broadly.
+
+Speaker A: When you started the investigation, I think you were struck by the lack of what you call a general file, is that right?
+
+Speaker D: Yes.
+
+Speaker A: To deal with already reported Horizon-related events, is that a fair description?
+
+Speaker D: It most certainly is.
+
+Speaker A: What were you expecting to find?
+
+Speaker D: Well, my experience as a corporate investigator meant that whenever broadly similar events occurred, whether it was ATM shortfalls or fraud by customers or whatever, the investigation team would draw those cases together and look for linkages and help— in order to help its investigators to get to grips with what systemically had gone wrong to allow that fraud or that event to occur. So you would normally have, you know, a case management system that would draw things together and then be searchable to say, What other cases have we had involving motor vehicle licences, or for that matter, that have involved remittances in or out that have gone adrift? Ordinarily you'd be able to say, yeah, we've had 25 of those cases, let's have a look if there are any similarities, and that was completely absent.
+
+Speaker A: It may sound a bit of a noddie question, but why would you expect an organisation in receipt of a series of complaints or grievances or suggestions or allegations to draw them together in a central repository for the purposes of investigation and analysis?
+
+Speaker D: Well, quite frankly, Mr. Veer, it's hard to see how an investigation team could deliver an effective service to its employer without having that. So being able to answer questions like, in the extreme, how many people have committed suicide or attempted it, you would expect that sort of answer to be available. Less seriously, how many instances have we had of customers who have said, I got lucky, I got a windfall, There's something gone wrong, I've had something for nothing, I'd like to tell you about it. There was no— you would expect there to be scores of those sort of cases, but to be told that there haven't been any is just ludicrous. I hope that's an adequate answer.
+
+Speaker A: You're referring to a compendium, whether written or electronic that would bring together, would I be right, letters from subpostmasters, reports via line managers or similar, am I right?
+
+Speaker D: Yes, very much so.
+
+Speaker A: Any court judgments?
+
+Speaker D: Yes.
+
+Speaker A: Whether in favour or against the subpostmaster?
+
+Speaker D: Yes.
+
+Speaker A: news pieces, articles in The Grocer, Computer Weekly?
+
+Speaker D: Yes.
+
+Speaker A: Letters to The Sunday Times saying I have wrongly been gifted £2,500 worth of premium bonds, that kind of thing?
+
+Speaker D: Most specifically including that kind of thing, yes.
+
+Speaker A: Yes. And would it also include matters that had come up through any form of help desk that the Post Office or Fujitsu operated?
+
+Speaker D: Yes, that's a subject in itself, isn't it? The answer to the question is yes.
+
+Speaker A: Would it include reports on any bugs, errors or defects, however they're described? that were found to have caused or potentially caused balancing or other data integrity issues?
+
+Speaker D: In any company I've ever worked for, yes, those sort of things, all of the above would be included.
+
+Speaker A: When you were instructed and in the absence of such a compendium of material, Were you in fact made aware that— by the Post Office— that there had been acquittals of subpostmasters in criminal trials, of subpostmasters who had alleged that Horizon was responsible for the shortfall of which they were accused of either stealing or falsely accounting?
+
+Speaker B: No.
+
+Speaker A: the names Nicola Arch, Maureen McKelvie, Susan Palmer mentioned to you?
+
+Speaker D: No, not at that stage.
+
+Speaker A: Did the Post Office draw to your attention right at the beginning any suites of documents held by the Post Office concerning the functioning of or deficiencies in the Horizon system, including release notes documenting bug fixes?
+
+Speaker D: No.
+
+Speaker A: Major incident reports?
+
+Speaker D: No.
+
+Speaker A: Service management documents?
+
+Speaker D: No.
+
+Speaker A: Did they, the Post Office, present you with documentation, and I include in that phrase memoranda, reports, emails, minutes of meetings, concerning bugs of which the Post Office was already aware, in particular the Calendar Square bug and the receipts and payments mismatch bug?
+
+Speaker D: No, first we heard of that was from Simon Baker in, I think, May 2013.
+
+Speaker A: Did the Post Office provide you with Jason Coyne's report prepared for the purposes of the case involving Julie Walstenholme in 2004?
+
+Speaker D: No, I wish they had.
+
+Speaker A: Did the Post Office provide you with the BDO Stoy Heywood report prepared for the purposes of the Lee Castleton case in 2006?
+
+Speaker E: No.
+
+Speaker A: Did the Post Office provide you with any witness statements that had been prepared in past cases concerning the Post Office in criminal proceedings which set out categories of documents, including pinnacles, peaks and kells, that may be relevant to your investigation?
+
+Speaker D: No.
+
+Speaker A: And same question in relation to civil proceedings brought by or against the Post Office?
+
+Speaker D: No, first we heard of civil proceedings was the Lee Castleton case, which came up quite a bit later.
+
+Speaker A: Did the Post Office provide you with any operational change proposal records which set out the existence of a facility for remote access and email correspondence in which the Post Office approved Fujitsu remotely inserting messages at a branch level?
+
+Speaker D: No, first we heard of that was Ian's discovery of the Gareth Jenkins document while he was sitting next to Susan Crichton and John Elsing.
+
+Speaker A: Did you discuss with anyone within Post Office why haven't you got a general file, a compendium or a case management system?
+
+Speaker D: Absolutely, with Susan Crichton.
+
+Speaker A: And what was the answer?
+
+Speaker D: Well, she was as exasperated as I was. She knew full well how efficient companies would not even need to ask about that sort of thing, it would just be there. And so I was pushing on an open door as far as that was concerned.
+
+Speaker A: Can you help us a bit more with what she explained to you?
+
+Speaker D: Yes, I mean, I said literally, Susan, where's the general file on this that will help to give Ian and myself an efficient briefing on what has been going on? She said, there isn't one. I mean, I think I'd probably used an expletive. But she was— I can't fault Susan, she just knew there wasn't anything there.
+
+Speaker A: Can we look please at Poll 00345051. You recognise this document?
+
+Speaker D: Oh, yes.
+
+Speaker A: Is this a document that you drafted or Mr Henderson?
+
+Speaker B: I did.
+
+Speaker A: And what was its purpose?
+
+Speaker D: Well, Susan had said to me, as best I recall, and I recall these things pretty well, she said something along the lines of, I've been asked to take over the POID, the Post Office Investigation Department, John Scott's department.
+
+Speaker A: I'm—
+
+Speaker D: I'd like your views on more or less how sensible that would be for me to do that. What are your views on— can you write me a little report outside of the main piece of work that you're doing on your observations about the investigation department?
+
+Speaker A: When was this prepared roughly?
+
+Speaker D: Now you've got me on that. I think it was— it must have been— I would have thought it was like August of 2012, but I might be wrong on that. Is there no date on this?
+
+Speaker A: No.
+
+Speaker D: Oops, sorry.
+
+Speaker A: Well, it's a draft, in fairness to you.
+
+Speaker D: And it remained a draft. It was just really almost a personal memo between between myself and Susan, with caveats as to its reliability. But it was pretty well straight away. I remember she had almost immediately been asked to take over the department and she was in some— almost trepidation might not be too strong a word about that.
+
+Speaker A: Draft observations on the investigations function.
+
+Speaker D: Yes.
+
+Speaker A: What have we found about Post Office's investigation function in reviewing case files during the Horizon investigation. In reviewing the Post Office's documentation relating to the 29 MP-referred cases and the 20 cases referred by the JFSA, Second Sight has gained an insight into the workings of Post Office's investigation team. That might help you to date it.
+
+Speaker D: Yes, this might— on reflection, this was a little later than end of 2012. This was sometime early in 2013.
+
+Speaker A: Thank you. The following observations are based solely on what we've seen in those case files. We've not interviewed any of the members of the investigation team nor its senior management.
+
+Speaker E: Yes.
+
+Speaker A: We've not reviewed its mandate, manpower, or workload. We've also not researched the legal basis on which the Post Office conducts either investigations or prosecution. With that proviso, we make the following interim observations. One, Post Office investigators and investigations are overwhelmingly focused on obtaining an admission of false accounting from the interviewed subpostmaster. Did you form that view based on reading the file and in particular the interviews?
+
+Speaker D: Yes.
+
+Speaker A: 2, Post Office investigators often appear to have paid scant attention to the interviewee's assertions of innocence or his or her reference to specific transaction anomalies, they seem to have shown little or no willingness to establish the underlying root cause of any given shortfall. This disinterest seems to be driven by the desire to get the money back from the subpostmaster, knowing that a false accounting conviction will provide a relatively inexpensive pathway to that goal. In the event that the subpostmaster has not committed any criminal offence, offence, then Clause 12 of the contract provides an equivalent pathway to asset recovery using civil law. In either event, since Post Office doesn't need to show where the money's gone, investigators see no business benefit in trying to establish the underlying root causes of the loss. Under the contract, the burden of proof that they are not responsible for the loss falls on the shoulders of each subpostmaster, even though none of them in the cases reviewed had any investigative skills, and their requests for assistance and provision of underlying data were routinely denied, mostly on cost grounds. This meant that they neither had the expertise, the external support, nor the data to establish the true reason for the loss, and thereby either prove their own innocence or realize that they really were responsible for the loss. Was that on a reading of the 49 case files?
+
+Speaker D: Yes.
+
+Speaker A: 3, your third provisional view or conclusion was in none of the cases examined so far did any investigator record anything that indicated that there might be any widespread systemic problem worthy of investigation, despite similar allegations being made by different unconnected subpostmasters. And then if we go on to 4, we saw repeated failure to reach consensus or closure with the interviewees. Where the subpostmaster was wrong in his or her assertions, one would expect that to be convincingly articulated and proved by the investigator. Time and again, however, the investigator and the subpostmaster got close to consensus but failed to arrive at it. And then 5, the overwhelming impression gained from reviewing the transcripts of investigative interviews is that the subpostmaster was viewed as an enemy of the business. The culture within the investigation team appears to be one of a presumption of guilt when conducting an investigation rather than the seeking of the truth. See comments on the consequences of tunnel vision at the foot of this report. I'm not going to read the rest of the report, it will be there for anyone else time to read. You then go on to make some recommendations and why those 5 problems that you have identified are indeed problems.
+
+Speaker B: Yes.
+
+Speaker A: This report is headed up as draft, was it ever finalised?
+
+Speaker D: No, I'm afraid not. I think it served its purpose. Susan, I think, was foisted off, I think she had to take over the department in the end, So— and it was just done as a kind of an aside, so I'm afraid I never did see the need to finalise it. But I stand by everything in it.
+
+Speaker A: Can we look at what some other documents tell us as to what happened with the report?
+
+Speaker D: Poll 00245685.
+
+Speaker A: This is an email of much later from Amanda Peacock of the CCRC.
+
+Speaker D: Piers.
+
+Speaker A: To Roderick Williams, you're not copied in, she says, I've managed to find a bit more information about the report that Ron apparently wrote. That's the document we've just looked at. Ron tells me that, and then there is a quote attributed to you. engage in email correspondence with the CCRC, or is that a quote from you saying something over the phone?
+
+Speaker D: I suspect this is a quote from the meeting that I had in Birmingham with the CCRC at their request.
+
+Speaker A: I see. So you are said to have said, I wrote the report on the investigations function in 2013 at the specific verbal request Susan Crichton.
+
+Speaker C: Yes.
+
+Speaker A: That's accurate, yes?
+
+Speaker C: Yes.
+
+Speaker A: Who later shared with me her concerns about Post Office's Investigations Department, POID.
+
+Speaker D: Yes.
+
+Speaker A: Is that accurate?
+
+Speaker D: Yes, I mean, when I say shared her concerns, she said, I think you've nailed it, or words to that effect.
+
+Speaker A: Later, in the latter part of January '14, as I recall, my colleague Ian Henderson sent a copy of the report, still marked as draft as far as I can recall, to Chris O'Yard, who at that time was Post Office's General Counsel, copying Belinda Crowe at the Post Office. Is that accurate?
+
+Speaker D: Yes.
+
+Speaker A: I.e., both that you said that and the facts themselves are true?
+
+Speaker D: Yes.
+
+Speaker A: Mr. O'Yard had asked to see a copy of the report after existence was mentioned at a meeting of the mediation working group. Post Office ought to be able to locate a copy copy of that email to which the report was attached. As mentioned, it was sent by Ian to those 2 Post Office employees, copying also myself. Is that accurate, that that's what you said, but also the underlying facts that Mr O'Yard had asked to see a copy of the report and it was sent over to him?
+
+Speaker D: Yes, I think it was Ian, Mr Henderson, that relayed to me that Mr Ojaard had asked him. So I don't think Mr Ojaard asked me, I think he asked Ian, but I'm a little bit hazy on that. But I know the request came from Mr Ojaard and that's why an old copy of the thing was dusted off and produced.
+
+Speaker A: He accepted when he gave evidence that he received the report from Second Sight.
+
+Speaker D: Yes.
+
+Speaker A: Do you know why it was being sent to him?
+
+Speaker D: Well, as it says here, it had been mentioned, and I recall it being mentioned in the working group meeting and us being— Ian and I being surprised that yet again a key document had not been handed over from one General Counsel to the next, and therefore it was obviously something that, although I'd produced it for Susan, I'd produced it for her in her capacity as the General Counsel and therefore he was entitled to see it.
+
+Speaker A: Was anything done about what you found in your 5 points or your recommendations second time around, i.e., when it was produced to Mr Ollard?
+
+Speaker D: Not to my knowledge.
+
+Speaker A: Thank you. Sir, it's just gone 5 past 2. I wonder whether we might take the afternoon break now until, say, 20 past 2? 3 rather, 20 past 3.
+
+Speaker B: Yes, I was beginning to think that there was something the matter with my clock this morning.
+
+Speaker A: Time slows down when you're standing here, sir.
+
+Speaker B: In any event, we will take the break for the period you mentioned.
+
+Speaker A: 20 past. Thank you very much, sir.
+
+Speaker D: Good afternoon, sir.
+
+Speaker A: Can you see and hear us?
+
+Speaker D: Okay, thank you.
+
+Speaker B: Yes, I can.
+
+Speaker A: Thank you. Good afternoon, Mr. Warmington. Can we turn up please page 21 of your witness statement?
+
+Speaker E: Yep.
+
+Speaker A: Paragraph 46, which is in the bottom half of the page, you say that after discussions with Ian Henderson as to the seriousness of his findings of probable prosecutorial misconduct from his review of the small number of legal files to which he had been given unrestricted access— only 7, as you recall it— I decided to speak directly with Susan Creisham about that very important matter. I believe this discussion took place in August or September 2012. During a meeting with her, I said that whereas I was confident that Second Sight had the ability to assess the adequacy of evidence in cases of suspected fraud and financial theft, we were forensic accountants, not lawyers experienced in criminal prosecutions or defence, so it was essential that our findings be quickly, thoroughly, and independently independently either ratified or refuted by a competent barrister experienced in criminal cases. Susan, who like practically every other general counsel I'd ever met claimed no expertise herself in matters of criminal prosecution, said that she would take the matter to Cartwright King. So firstly, this was a face-to-face meeting, was it?
+
+Speaker C: Yes.
+
+Speaker A: And was it just you and Susan Crichton present? You drew to her attention matters of prosecutorial misconduct that your colleague Mr Henderson had uncovered in a small number of files to which he had had access?
+
+Speaker B: Yes.
+
+Speaker A: Can you recall in general terms what the type or species of that prosecutorial misconduct was?
+
+Speaker D: Yes, in every case, inattention to the underlying root causes of the shortfalls that were being pursued civilly or criminally, but also, as Ian has mentioned, the failure to disclose, as far as he could detect, because I was relying on his input on this and it was entirely credible to me, not disclosing exculpatory evidence, evidence of innocence if you like, or evidence that would undermine the prosecution or a civil case. And so this— I had and still have less experience than does Ian on matters of prosecutorial conduct, but it was pretty compelling to me, and so I thought that I needed to share those views with Susan.
+
+Speaker A: Did any of the 5 things that you were subsequently to mention in the first part of 2013 in that draft document that we looked at before the break form part of your briefing to Susan Crichton?
+
+Speaker D: Yes, I think all of them, but as is my nature, I probably put it in rather coarse language.
+
+Speaker A: What did you envisage needed to happen as a result of the provision of this information?
+
+Speaker D: Oh, it was very clear. don't rely on us, we need to deal with this urgently and go and either rubbish what we've said or confirm it, and if, God forbid, an expert in criminal law says that Mr Henderson and I— more Mr Henderson is right, you're going to have to review a whole load more cases. Not just the ones that we've looked at, but if it turns out that we're wrong, have the decency to come back to us and tell us you're talking nonsense and we will recalibrate. That's about the sum of it.
+
+Speaker A: Now, none of this ultimately finds its way into the interim report of July 2013?
+
+Speaker B: No.
+
+Speaker A: Is that because you saw this as going down a a different route, or I should ask the broader open question, why?
+
+Speaker D: I think it's what we were referring to earlier, Mr Beer. This interim report was produced in order to just come out with something that evidenced the work that was going on and had gone on. And it wasn't intended to cover all of the issues that were still open. My view on this was toddle off, get the independent view and have the decency to share it with us. So yes, with the benefit of hindsight, some of these embryonic or as yet unconcluded thoughts could have been dumped out in the interim report, but we didn't.
+
+Speaker A: Because you've explained to us already that the primary concern of the MPs on behalf of their constituencies— constituents was possible prosecutorial misconduct, and here you were potentially uncovering some.
+
+Speaker D: Yes, but to be fair to Post Office, And to Mr Henderson, I had to consider the possibility that we were wrong. I didn't think we were, I don't think Ian was and he never has been, but we had to give the benefit of the doubt and say go off and get a second opinion on this, but not the second opinion that they eventually sought.
+
+Speaker A: Moving to that, you say at the foot of that paragraph, she said— Susan Crichton— she would take the matter to Cartwright King, and you tell us over the page that you laughed out loud at that simply preposterous suggestion, responding by saying that Cartwright King would be entirely unsuitable because they could never be viewed as independent and they would then be marking their own homework.
+
+Speaker D: Yes.
+
+Speaker A: You suggested going to a higher-ranking firm and suggested some names. You were astonished at her reply, which was along the lines of, that won't work, the board won't approve that sort of expense. I responded with the words along the lines of, well then you're all— and then there's an expletive I suspect.
+
+Speaker D: Afraid so.
+
+Speaker A: Which has been caught by our Sadly. Data protection machine. This is an extraordinarily important issue. Why is cost in any way relevant? This was a very serious issue, wasn't it?
+
+Speaker D: Oh yes, at that point it was the most serious issue that we'd come across and of remained so for years afterwards.
+
+Speaker A: Because the MPs had said that they were interested on behalf of their constituents in the cases that had gone to prosecution?
+
+Speaker D: Oh, let's face it, Lord Arbuthnot was— he had, I think, 3 constituents, one of which was Jo, where this was central to the reason he was pushing for investigation be carried out. So it was central in his mind, and if it was central in his mind, you can bet that it was central in the minds of his group of MPs.
+
+Speaker A: Did you find out what in fact happened at this time or shortly thereafter, namely in August or September 2012, whether or not your suggestion of referring this to a competent barrister experienced in criminal cases, or as Susan Crichton said she was going to do, refer it to Cartwright King, in fact happened?
+
+Speaker D: No, we didn't find out until much later what actually happened.
+
+Speaker A: And is it your understanding that what actually happened was a result of your suggestion in August or September 2012, or was prompted by something entirely different, namely the Simon Clarke advice of July '13?
+
+Speaker D: Simply stated, I don't know. I mean, my ego would like to think that we precipitated the action that was taken, but I doubt it. Whether the Clarke advice was sought because of what we'd raised, or just because they thought it was a good idea anyway, I don't know.
+
+Speaker A: Okay. That wasn't fed back, that wasn't a communication that you were a party to, i.e., the motivating cause for going off to Cartwright King?
+
+Speaker D: No, I regret not sort of chasing the point more vigorously. I mean, I probably should have gone back and said, said, where the devil have you got to on this point? But I think that coincided with— I can't for the moment remember why, I'm afraid, why I didn't go back and kick Susan's door down on this. I'm not sure— she left at some point, so I think perhaps—
+
+Speaker A: September 2013, I think.
+
+Speaker D: Yes, quite a bit later than this. Yes.
+
+Speaker A: Can we look at an exchange that I showed Mr Henderson this morning of May 2013 between you and Simon Baker? Poll 0014/4687. Look at page 2, please. And scroll down. There's an email to you from Simon Baker of May 2013, so a couple of months before publication of the interim report.
+
+Speaker B: Yes.
+
+Speaker A: And it looks like it's in readiness for a meeting that you're to have with Paula And he, Mr Baker, says, just to ensure we're on the same page, Paula would like to say we've agreed at the following, the second slide, can you confirm you agree? And then 2, by using the 2 to 3 cases, you'll answer the question, have systemic defects in the Horizon system resulted in the wrongful conviction or suspension of subpostmasters? Now, can you see that that question is mixing 2 things? Defects in the Horizon system which are systemic and the conviction wrongfully of subpostmasters?
+
+Speaker D: It may well be combining 2 things, but I think it's very carefully crafted to be— to ask us to agree to something which is Ludicrous.
+
+Speaker A: And then at 4, if question 2 was posed to you today, would— you would answer it no. And then can we see your reply on page 1? You say at the top of the page, I'm surprised at the questions you've raised, as these include matters that are outside our scope of work. and then scroll down to 2, you reprint his question and say, our role is to establish the facts relating to specific MP or JFSA-nominated cases. We're not qualified to answer a legal question about what may or may not be an unsafe conviction or suspension. Just 3 points on that, firstly. You had in the earlier August or September been told quite a lot by Mr Henderson about prosecutorial misconduct, and you had yourself told Susan Crichton about prosecutorial conduct. We don't see that reflected here. This was going to be dealt with by a different route, this was going to be my suggestion taken up by an experienced criminal law barrister to see whether we're right or wrong. Instead, you essentially bat it back and say this isn't within our sphere of expertise. Why is that?
+
+Speaker D: You know, when I looked at this earlier today, I couldn't quite work out why I worded it this way. I'm sort of hovering around the thought that I was actually being facetious. I was being— I was so irritated by the daft question that I've answered it in a rather daft way. What I meant was, I think by that point we had made it abundantly clear— when I say we, Ian and I had made it clear— that we weren't going to use the term systemic defects. It follows if we weren't going to define— say there had been any systemic defects, how on earth could there be systemic defects that had resulted in a wrongful conviction or suspension of the tiny volume of subpostmasters whose cases we'd looked at that point? It was just patently absurd, and I probably should have said that. And not answered it as narrowly as I did. I wish now I'd actually sort of given them both barrels in terms of the suspicion that there was room for prosecutions, but I don't— I can't recall exactly why I worded it that way, I'm afraid, Mr. Beer.
+
+Speaker A: Okay, i.e., hold on, we told your general counsel about this back in August or September 2012. We found some on a preliminary basis some probable prosecutorial misconduct. We explained then that we didn't have the experience and we suggested a way forward for the Post Office. It hasn't taken that up.
+
+Speaker D: Yes, that's in abeyance, was the blasted answer to that, but certainly in terms of this narrow question, of course we'd be stark raving mad if we had agreed to that. We just wouldn't be a reliable statement if we had made it.
+
+Speaker A: And again, I think you may have answered this already, do you think on reflection this episode, i.e., picking up probable misconduct of prosecutions as early as August and September 2012, raising that with the Post Office, suggesting a solution, them not taking it up seemingly, but then asking you to use a 2 or 3 case sample size to A, answer the question whether there are systemic defects, and B, to say that has not resulted in the wrongful conviction of any subpostmasters, is absurd, should have been included in the interim report.
+
+Speaker D: Yes, we were somewhat inured to receiving absurd responses from Post Office already at that point. It would have been nice if we'd been less constrained and less professional in expanding on that, perhaps, in the interim report.
+
+Speaker A: We didn't.
+
+Speaker D: And I suppose— I'm not inventing this, but I think that at that point I still was naive enough to be thinking that my suggestion to Susan was underway and that there would be an educational input to us which would have said, Hang on, boys, thank you for alerting us to this, but you're completely wrong on that. Here is the words of, you know, Mr Atkinson or whoever, somebody of that stature, that would have said, you're barking up the wrong tree, you two. And I was ready to receive that input, but it never came.
+
+Speaker A: Thank you. That can come down. You tell us in your witness statement that you need to correct something that you heard in Ms Crichton's evidence.
+
+Speaker B: Yes.
+
+Speaker A: And the thing that you need to correct is she said that you were impressed by Mr Jenkins as an expert witness. You say that to the best of your knowledge, neither you nor Mr Henderson said that you were impressed by Mr Jenkins as an expert witness, but instead impressed by him as a computer or systems expert; is that right?
+
+Speaker D: Yes, exactly.
+
+Speaker A: Was it you or Mr Henderson that said that to Susan Crichton?
+
+Speaker D: Probably both, but it would have come more credibly from Mr Henderson, who had more contact with Gareth Jenkins than I did.
+
+Speaker A: In your witness statement, we ought to turn it up at paragraph 49— sorry, page 49, paragraph 106. Page 49 at the top.
+
+Speaker D: Thank you.
+
+Speaker A: The second line in, you say, what we did say, as I remember it, is we were impressed by him as a systems/computer expert. The distinction was clear to us. We did not think from what we had seen that he could have been aware of the duties that an expert witness would owe to the court and so was partisan in his views concerning Horizon. It's possible we failed to make that distinction clear to Susan, such as she misunderstood us on the that point. The first point is you say, we did not think from what we'd seen that Mr Jenkins could have been aware of the duties that an expert would owe to the court. Is that a view that you formed contemporaneously, i.e., back in 2012, 2013?
+
+Speaker D: I find it difficult to think that we could have been as Prescient. Crisp, or yes, prescient, as it turned out to be. But having said that, Ian is and has served as an expert witness. I have never chosen to do that work, and I know in that sense what an expert witness looks like and how they conduct themselves and the format the form and format of report— expert witness reports. I've seen enough of them. And I didn't think— and I would— I recognised as early as that, without the benefit of second sight, haha, that we would later learn that— what we have later learned in regard to his briefing and the the modifications of his witness statements and so on. He was just an expert in the Horizon system, and Ian and I knew enough about it to say, how on earth could the courts accept that this person who, if you like, never— we didn't know at the time he never before acted as an expert witness, but he just didn't come across as an expert witness. He came across as an expert. So I don't think we We weren't prescient, but I know that we would not have described him as— to Susan— as a very good expert witness. That would have been silly of us to do that. We didn't do something like that.
+
+Speaker A: Were you made aware of the existence of the Simon Clarke advice of 15 July 2013, in either 2013, '14 or '15?
+
+Speaker C: No.
+
+Speaker A: And therefore you weren't shown a copy of it at that time?
+
+Speaker D: That's correct.
+
+Speaker A: When did you first become aware of the existence of the document?
+
+Speaker D: Well, actually it was— it came out with a fanfare of trumpets, didn't it, at the Court of Appeal when the Clarke advice was first in the Hamilton versus—
+
+Speaker A: Okay, so November 2020?
+
+Speaker C: Yes.
+
+Speaker D: I had not seen it, neither, as far as I'm aware, had Mr Henderson seen it before that date.
+
+Speaker A: Had you been made aware by the Post Office that— of the substance of the conclusions reached in relation to Mr Jenkins?
+
+Speaker E: No.
+
+Speaker A: There's evidence that the inquiry has that in autumn 2013, specifically September, the Post Office lawyers knew that there was at least a serious issue as to whether it, the Post Office, had properly instructed Mr Jenkins as to his expert duties. Did anyone reveal— within the Post Office ever reveal that to you?
+
+Speaker E: No.
+
+Speaker A: Did you know that Mr Jenkins had given evidence on one view, as an expert in court proceedings?
+
+Speaker D: Yes. I think the first I knew of that, to be precise, would have been when I looked at the Seema Misra, Lee Carstleton and other cases where he had submitted written witness statements, and I think only in one case did Did he give— did he follow that up with oral evidence?
+
+Speaker A: Had the Post Office confirmed to you that it had relied on Mr Jenkins as an expert witness in a series of criminal cases, I think 15 in total, but that it had not instructed him as an expert witness properly or had failed to explain the duties owed by an expert, would that have added to your concerns about the conduct of criminal prosecutions by Post Office?
+
+Speaker D: Well, the first part of the question is no, they didn't tell us, and would it have added? It most certainly would have.
+
+Speaker A: Would it have made you question still further the competency and ethics of the Post Office prosecutors?
+
+Speaker D: Yes.
+
+Speaker A: If you had had revealed to you the substance of the Simon Clarke advice of the 15th of July 2013, would that— what effect would have that had upon you as to the propriety of certain criminal proceedings conducted by the Post Office?
+
+Speaker D: Well, it would have heightened our suspicions that it had been a complete and utter mess.
+
+Speaker A: You said that one of the cases you were considering was Seema Misra.
+
+Speaker D: Yes.
+
+Speaker A: Did you read a Seema Misra file?
+
+Speaker D: I think Ian had looked at the file. We had the scanned searchable images of those files on what we call CD1, and I reviewed those. So I came to that stuff after Ian had already looked at the paper documents.
+
+Speaker A: And to the best of your memory, the, the Seema Misra file, was that the disclosed documents, i.e., the documents that would have been disclosed to the defence, or was it the prosecution case file?
+
+Speaker D: I'm not sure I know the answer to that. comprised a lot of documents. I did not, I think, establish which among those documents had been disclosed to the defence and which hadn't. That would be more the sort of work that Ian was doing. I looked at every document that that was produced to us, so I'd reviewed those documents electronically.
+
+Speaker B: And—
+
+Speaker D: but to me at that point it was just another case.
+
+Speaker A: Thank you. Can I turn to your concluding thoughts, which you set out from paragraph 107 onwards in your witness statement? You say, in answering our question, would you you have done anything differently, you say this: firstly, you wish you'd refused to allow your firm to be contracted with the subjects of the investigation. That's a very big hindsight point, isn't it?
+
+Speaker D: Yes.
+
+Speaker A: But more particularly, you say, I wish I had demanded rather than asked more frequently to see Paula Venles, but also when I was doubting whether the truth was penetrating through to her and the I should have demanded to address the Post Office's full board. Did you ever receive an invitation to address the board?
+
+Speaker D: No, other than, as has been mentioned earlier today, the post-firing December 2015 invitation to speak to Mr. Parker.
+
+Speaker A: Did you ever ask to see the board?
+
+Speaker D: No, I'm afraid not. I think it's fair to say I didn't. I wish I had.
+
+Speaker A: You say in C that you wish you had flatly refused to communicate with the Post Office's CEO and its board through the conduit of Chris Oyarb, Belinda Crowe, Patrick Baulk and Angela Vanden Bogart. 4 principal actors who performed the function of conduit?
+
+Speaker D: Yes, there might have been others. I think Roderick Williams was in, was in that sort of central team, but those are the main ones. And of course later, after Chris Ojard left, Jane McLeod. The absent witness.
+
+Speaker A: Why do you, on reflection, wish that you hadn't used them as conduits?
+
+Speaker D: Well, as is immediately obvious to anybody reviewing the transcripts or, better still, listening to any of the tapes, It was awful just dealing with people who were not just seemingly failing to understand just about everything we said, but were— we now know, but it was apparent at the time, we suspected at the time— were in a sort of cabal that was colluding to conspiring to thwart every move that we made. And to forgive the language, or not as you see fit, Mr. Baird, but I felt that I was— I, if you like, accepted that I should be talking to the monkeys instead of the organ grinder. And I felt—
+
+Speaker A: I now, with retrospect, with hindsight, I feel ashamed that I allowed myself to You tell us in paragraph 108, in answer to the question, any other matters that you wish to bring to Sir Wynne's attention, if you had to select one document, it would be an email that you sent on 3 March 2015, which in fact I looked at with Mr Henderson this morning. Can we look, please, rather than repeat that exercise, we've got that on the transcript.
+
+Speaker E: Yes.
+
+Speaker A: Look at SSL 40109. Thank you. This is in relation to the case of Case MO18, Alan Jones. Was he a subpostmaster?
+
+Speaker C: Yes.
+
+Speaker A: I don't think we've got a date on this one. But is this a transcript of a call that you recorded?
+
+Speaker B: Yes.
+
+Speaker A: Can we go to page 8, please? You say to him in the 3rd paragraph, I know it's absolutely— well, I tell you what, I've been an investigator for off and on for about 40 years. I've done other jobs at some point, but you know, I've been global head of fraud investigation for 2 of the world's largest companies, and so I've investigated frauds in 110 countries around the world, thousands of fraud cases. I've never— skipping a paragraph— I've never come across anything as bad as this. This is the worst corporate behaviour I have ever come across. He says, they're bullies, and you say, yes, and then the conversation continues. Is what you said to Mr Jones there an accurate view of your engagement with the Post Office, or does it contain hyperbole because you were speaking to a subpostmaster?
+
+Speaker D: That's a very good way of expressing the question, because one does encourage and develop rapport with whoever one's speaking to. It doesn't mean you become chameleon-like, but no, it's exactly what I felt then and I still feel it now.
+
+Speaker A: Mr. Warmington, thank you. They're the questions that I ask you. I know that there's some questions on behalf of one subpostmaster group. group, in fact 2 sub-postmaster groups. Thank you. I think it's Mr Steele.
+
+Speaker B: For all the questions that are asked, the date of that conversation with Mr Jones, can you give me any idea of the year we're talking about?
+
+Speaker D: I'm not sure, sir. I suspect it was 2014, probably towards the end of 2014, because my view was quite negative at that point. It became more negative as time went by. It wouldn't have been 2015, so I would guess— and the recording will have a date on it, so the inquiry will be able to find that— but I suspect it was— I'm kind of making an educated guess here— I'd say sort of August of 2014.
+
+Speaker B: And that's fine. And it was in the context then, was it, of you gathering information in terms of your role in the mediation scheme?
+
+Speaker D: Yes, I mean, I mentioned in my witness statement, sir, that there was in a sense 2 sorts of recordings. There were the recordings that any investigator would routinely make when dealing with a— when interviewing a subject. I won't call them a suspect, a subject, i.e., one of the subpostmasters, I would routinely record those, seeking their permission to do so, with a view to later going back and checking what they— exactly what they said, because it wouldn't always mean immediately what I would later learn that it did mean. It was one of those conversations, that one. It wasn't one of the sort of covertly recorded calls that I felt pressed to make later on in the— when dealing with Post Office management.
+
+Speaker B: All right, thank you. I may have another question, but I'll wait to see if either of the questioners on behalf of the CPs ask it.
+
+Speaker D: Thank you, sir.
+
+Speaker A: Just on the issue of dates, where we can see a date, either because on the recording description, it's given as RJW 26/10/15. We've put that on there. Where we can't see a date, the transcribers have not put a date on there.
+
+Speaker B: Anyway, I, I simply wanted to be clear in my mind that it was a conversation while, uh, Mr. Normington was still, um, investigating, so to speak?
+
+Speaker D: Yes, it was, yes.
+
+Speaker A: Thank you, sir. I think Mr. Steen.
+
+Speaker C: Mr. Warmington, a few areas to just deal with briefly, or 3 I think to deal with briefly and one slightly more lengthy about suspense accounts, okay? All right. You've answered some questions from Mr Beer regarding the possibility of the Post Office keeping a general file. Did you find out from Ms Crichton whether there was anything similar to a general file that might have been kept by Fujitsu?
+
+Speaker D: No, and I didn't remember— I don't remember asking that. It would have been a good question to ask, but I don't remember doing that.
+
+Speaker C: Moving then on to just a couple of other small areas, there was an NDA, non-disclosure agreement, that was signed by Second Sight.
+
+Speaker D: Yes.
+
+Speaker C: We've heard today the evidence of Mr Henderson about how he viewed the fact that he wished there had been an agreement, essentially a whistleblowing agreement, part of the contract. I note that you refer in your first statement at paragraph 102 to the fact that both you and Mr Henderson, you offered your assistance to Freeths to provide assistance and support for subpostmasters, presumably in the GLO process; is that right?
+
+Speaker D: Yes, that's correct, yes.
+
+Speaker C: But that the severe restraints of your contract and its confidentiality undertakings ensured that did not happen?
+
+Speaker D: Yes, with the exception of 2 meetings, one with Patrick Green very briefly, when we were essentially told there's not much you can tell us, or that, you know, I don't want you to tell us very much, we'll find things out ourselves, and more importantly, I think, with— in a much longer meeting with Jason Coyne and Dr. Warden, when we were helping them to arrive at their witness statement. I think they produced a combined witness statement.
+
+Speaker A: Thank you.
+
+Speaker D: statement in the end.
+
+Speaker C: If you hadn't had the restriction of the NDA, do you feel that that would have enabled you and Mr Henderson to come forward with more information at perhaps an earlier stage?
+
+Speaker D: Oh yes.
+
+Speaker C: And learning lessons for the future in relation to anyone else that engages in work with a corporation such as Pole or any other company, do you think there should be a different way of handling those questions, an NDA that allows for an perception in relation to whistleblowing. How would you regard that process in terms of learning lessons?
+
+Speaker D: Thank you, Mr. Dean. I think it stems— one goes back to the underlying problem. To try and patch the situation by having an escape clause in the NDA circumvents the— or ignores the original problem, which we've referred to, if you make the investigator a vassal of the subject of the investigation, nobody should be surprised that there's tears before bedtime. This was a daft way of carrying on an investigation. And I only hope that one of the conclusions, recommendations from this inquiry is that that's not a particularly clever way to go about conducting an independent investigation, because the pressure it put on us was— I'd go so— without bragging, I'd go so far as to say very, very few other firms would have withstood that. If it hadn't been for the courage of Mr Henderson and maybe my, you know, not telling my wife what all the risks were, I would have pulled stumps on the whole thing.
+
+Speaker C: Talking of courage and dedication, Kay Linnell was someone who has provided over now many, many years superb support to Sir Alan. Do you agree?
+
+Speaker D: I hold Kay in the very highest regard. She flew at me like a tigress in the original meeting, which wasn't amusing until about 10 minutes later. I mean, she obviously suspected that we were incompetent or those that were going to produce a whitewash, or both. But as the case evolved, for very little recompense— and I know what she was paid— she was required to keep an eye on on us to make sure that we weren't producing a whitewash and that we were conducting ourselves properly, and she did a super job.
+
+Speaker C: And over the many years, she's also provided, with her business partner, Mrs Jeremiah, hours and hours, days, weeks, months of support annually to subpostmasters with their business affairs so badly affected by the Post Office. Do you agree?
+
+Speaker D: I not only agree, but I think she's one of the few people that hasn't been sitting in the dining car of the Horizon gravy train. I mean, she has contributed, to my knowledge, massively to this case without being paid.
+
+Speaker C: Thank you. Now let's turn to Suspense accounts. Yes.
+
+Speaker B: All right.
+
+Speaker C: Your statement, second statement, WITN01050200.
+
+Speaker B: Yes.
+
+Speaker C: We can go to that please and go to the subheading paragraph 3, suspense accounts. I wonder whether that paragraph could go up on the screen please. So WITN01050200. Paragraph 3, which is at page 2. Page 2, please.
+
+Speaker B: Grateful.
+
+Speaker C: Now, here you make the point that you've heard the inquiry many times seeking clarification in respect of concerns that were first expressed by Second Sight and repeated by others. So obviously we know that this was dealt with in relation to the working group, Anthony Hooper was raising this, this was a matter of clear discussion, is that correct?
+
+Speaker A: Yes.
+
+Speaker C: Now paragraph 5, you set out there, and I'm just going to ask you to explain please what you're saying here, paragraph 5 you describe the different types of suspense accounts, the first one was affected by the essentially the closure off of the original suspense accounts by the impact programme that the inquiry heard from, I think if I remember right, from Ms Harding, who described her work in relation to that. So the first type of suspense accounts, what were they?
+
+Speaker D: Well, they were simply accounts within Horizon itself at branch level which allowed shortfalls, or also theoretically surpluses, to be parked while the subpostmaster and his or her staff was investigating to find the root cause.
+
+Speaker E: They—
+
+Speaker D: because the balances that had been posted by the subpostmasters, those accounts started to clock up quite seriously and cause concern in Post Office itself, the fantastic solution that was evolved to do that was to just removed the functionality. It was replaced with the settled centrally and dispute function, which was meant to be a sort of an adequate replacement, but it wasn't.
+
+Speaker C: And you conclude that the final part of paragraph 5, in relation to subpostmasters, the removal of the suspense account at that time, leaving many of them with no realistic alternative which faced— when faced with shortfalls that they could neither understand nor make good, but to falsify branch books in order to buy time. Is that how you see it?
+
+Speaker D: Yes, I mean, one of the— when I mentioned the sort of incomplete replacement, functional replacement, one of the restrictions of the settled central lien dispute function was that there was a value limit on how much could be placed I think it was essentially based on the subpostmaster's salary. So if you had a subpostmaster on £18,000 a year and you tried to post a shortfall of £19,000 a year, it wasn't going to work. If it was £10,000, it wouldn't work. You couldn't do it. If it was £5,000, you couldn't do it. There was a limit to how much could be put in there. And that meant that all the big shortfalls that we were seeing— You It mean the just couldn't be parked anywhere. It had to be dealt with immediately on the final— on the day that that shortfall manifested itself in the books.
+
+Speaker C: Do you recall that during the impact programme, the double whammy effect was the removal of the suspense accounts and also the pressure essentially recognised within the impact programme on subpostmasters? In other words, they threw back upon upon subpostmasters the need to prove that it wasn't their fault?
+
+Speaker D: Yes, I think there was always an expectation that even something in the original pre-2006 suspense accounts, there was a— the onus was on the subpostmaster to carry the burden of proof and work things out. There was always this point that don't worry, it will sort itself out. An incoming TC, a credit TC in that case, will sort out your problem, but never the promise as to how long it would take for that to zero out the amount that was in the suspense account.
+
+Speaker C: I think you recognise— well, I'll ask it as a question. Do you recognise that there was a very real issue for subpostmasters trying to, in fact, find what's gone wrong, see if they can look at the material that they had, with huge limitations of access into the Horizon system?
+
+Speaker D: Well, that was the very point, of course, that Sir Alan himself raised first. There was a person who understood point-of-sale systems and there he found himself looking at this 8-centimetre-wide piece of paper that was across the room to try and find the reason for a shortfall. Simply not remotely feasible. If you're looking at a whole month's transactions to try and find out why you've got a shortfall of £19,000 or whatever. It was just not— to say it wasn't user-friendly is a raging understatement. It just wasn't a reasonable expectation to expect the subpostmasters and mistresses to be able to find the underlying root cause of a problem using the material that they had in the branch.
+
+Speaker C: Moving on then from the time of the pre-impact project suspense accounts, help us understand a little better the suspense accounts that continued to exist after that time.
+
+Speaker D: Right, well now we're talking, of course, there's a lot been said about this, so I'll be very brief, unless you want me to be otherwise, and that is that When I first— in fact, it was Sir Anthony Hooper that said— asked the question under the umbrella heading of, where the devil did the money go? He said, is it possible that a shortfall in one branch could be accounted for by a surplus in another? You know, what's happening here? And, you know, second sight, find out. And so I'd say something like, there'll be amounts in accounts, and the reaction that I got was, what are you talking about? Don't know what you're talking about. We don't have any suspense accounts. Yes, you will. You'll have suspense accounts. And so we started to pursue that, and again, it was like swimming up a waterfall in terms of explaining what we were talking about and why we were interested in that. And eventually we explained that wherever there is a difference between what one of your clients, like Royal Mail or National Savings Investments or Camelot or whatever, says is due to or from them, if that is different from what your own books in Post Office shows is due from or to them, there will be entries in both parties' suspense accounts, and those would expect, as Mr Henderson has mentioned, ordinary businesses would expect to clear those very quickly indeed, otherwise they get out of hand.
+
+Speaker C: What does very quickly mean?
+
+Speaker D: Well, in Citibank, they had to be cleared by 7:30 the following morning, and you'd expect them to be, because if Citibank does a $500 million foreign exchange deal with Bank of America and one processes it at $500 million, the other at $50 million, you'd better get to the bottom of that damn quick.
+
+Speaker C: Does it make any difference that the Post Office is dealing with, say, 11,000 and the size of the system in operation. Does that have any relationship to the getting it done PDQ?
+
+Speaker D: Yes, I'd be a cruel person to fail to acknowledge that. It was a complicated process.
+
+Speaker C: Meaning what? Meaning that it should take longer than say 24 hours, it should take any particular time? What would be your estimate as to how?
+
+Speaker D: If I was auditing it, Mr. Steen, I would be fairly forgiving if it was taking a month or or maybe even 2 to clear some of those items. But I would understand the impact of the time delay in clearing those on the people impacted by it, whether it was a customer— not so much the clients, they can live with that sort of time delay— but if it's a customer or a subpostmaster that was having to wait 2 months, 3 months, 6 months, to sort out a problem that he or she had had to cover financially during that interim period, you can bet your life we would have given a lot of credibility or a lot of emphasis to that point.
+
+Speaker C: So the driver from the auditor perspective would be to get this sorted, it impacts real people, real families, small businesses?
+
+Speaker D: Yes, that's part and parcel of the reference earlier that I made to materiality. What's— and of course, Post Office dined out on this sort of phraseology that contextually, the size and frequency of occurrence of these tiny little amounts was so small and so insignificant in their books as to be immaterial. But to the people on the other end of the transaction, you bet it was material.
+
+Speaker C: Materiality is a term of art used within accountancy?
+
+Speaker D: Yes.
+
+Speaker C: You are an accountant?
+
+Speaker D: Yes.
+
+Speaker C: Materiality seems, if we understand it correctly, to vary depending upon perhaps the size of the business. So if we look at something the size of, say, Lloyds Bank, I use as an example, what may relate to a banking business in relation to materiality concerning its turnover and operations, £10,000 may not be material. Is that a fair way to look at it? Oh yes, and regarding the question of materiality, where you've got this complex mixture, so materiality to a subpostmaster or mistress may be £5,000, £10,000, maybe a few hundred, but to the overall post office business it may be— it may not be the same. Is that a fair description of the problem? Yes, it is.
+
+Speaker D: The only thing I'd add to that, Mr. Steen, is that if we're dealing with— there was a sort of uniqueness about the Post Office business model where the coalface workers, the agents, the subpostmasters were separate businesses. They were held accountable for the debts. We know all that stuff, don't we? There's nothing new in what I've just said. That's radically different from, shall we say, a big bank. If a shortfall, whether ATM-related or else, occurs in a bank branch of Lloyds Bank and it's £12,000, it's immaterial in their books, and it's actually immaterial in the branch's books because nobody's being expected to pay it out of their own pocket. So the materiality issue is different in Post Office's case because of the uniqueness of the business model. I hope I haven't made that confusing.
+
+Speaker C: And should that have been considered by the accountants as being a different way to look at materiality within the Post Office?
+
+Speaker D: Well, it would have if I'd been doing the audit, yes.
+
+Speaker C: Now paragraph 11 of your second statement, you refer then to the suspense accounts issue and the amounts that remain sitting. If we can go to paragraph 11, top of page 7, please. Thank you. So it follows that any amounts— any amount that remains sitting as a component of the balances in any of Paul's client suspense accounts will always in truth properly be owned by, and therefore properly refundable to, only one of 4 potential owners, and those 4 are—
+
+Speaker D: Yes.
+
+Speaker C: —POL itself, POL's customers, one of POL's clients, or a subpostmaster. And then at paragraph 12, you then set out that you and your colleagues formed a hypothesis that you wished to test and hopefully disprove, that some of the unreconciled net credits that POL had every year after 3 years credited to its own profit and loss account might have included amounts that had Pole been able to establish to whom they truly belonged, ought to have been returned to subpostmasters, mistresses and the branches. You go on to say this: We later learned from Pole when it wrote to us about its suspense accounts that it had released during the year 2010/2011 gross unresolved credits that aggregated to £612,000. Help us understand what that means and also help us understand whether you had any other amounts for other years going on through.
+
+Speaker D: Yes, I hope I haven't been too journalistic in picking the largest amount that we were told about, because they varied from £100,000, £212,000 and so on. And the last figures that we had related to 2010/2011, and I believe later there was perhaps a KPMG report that looked into later years and the figures went up even further. What we were interested in was specifically point 4 there. We knew that it was likely that some customers had been shortchanged, but callously we didn't give two hoots about that. We weren't concerned about that. Similarly, we weren't concerned if Royal Mail or Camelot or National Savings Investments had been shortchanged in some way. Why did— why should we worry? And we weren't worried if Post Office had trousered, as it were, amounts that it should have trousered. We were concerned solely with those items that were— that remained not uninvestigated, I suspect they were investigated, but unresolved, that were then— that then found their way into the profit and loss account. It was deeply concerning that there existed the possibility, I would go so far as the— in my mind the certainty, that some of those— some of that aggregate, £612,000, would have been, had there been deeper and more thorough investigation carried out, though that would have included amounts that would— should rightly have been returned to subpostmasters, and there are enormous consequences from that.
+
+Speaker C: Let me ask you the same last question I asked Mr Henderson. Has the situation changed to date? In other words, to the date of your evidence given before— being given now before this inquiry, have you had a resolution to these issues in relation to the suspense accounts, what's happened to the money paid into balance shortfalls that may have been due to a Horizon system error? Where's it gone? Have you got answers to that question?
+
+Speaker D: Simple answer is no. The slightly longer answer is I have read in material that has been supplied to me by the inquiry reports by KPMG and others that took place as late as 2020, that seemingly gives some reassurance that everything currently is okay. What they didn't do was go back and pick up the specific items that we drew to Post Office's attention that had come to the surface out of the 136 cases that we looked at, where specific examples of subpostmasters not being reimbursed with amounts that they'd had to cough out in relation to one-sided entries and so on, the specific cases that we brought to the attention of the Chief Financial Officer were not, as far as I can see, ever even looked at. by the subsequent auditors that— and accountants that allegedly gave a clean bill of health on suspense accounts?
+
+Speaker E: No.
+
+Speaker C: Thank you, Mr. Warnton.
+
+Speaker D: Thank you, sir.
+
+Speaker E: Sir, thank you. I should be able to finish by 4:30.
+
+Speaker B: Okay.
+
+Speaker E: Picking up on the last point that you've just been asked about, I actually would like to take you to that KPMG report, so we'll bring up poll 0003-0909, please. Is this the document that you were referring to when you were asking Mr. Steen— answering Mr. Steen's questions?
+
+Speaker D: Certainly is.
+
+Speaker E: And we can see there that that's from 2020, and I believe we'll be able to hear who commissioned that. Um, have you had a chance to look at it properly?
+
+Speaker D: I've looked at it pretty thoroughly, yes.
+
+Speaker E: So if we go to the first page, there's a sort of set of what we might call caveats. Is there anything that you would like to draw the inquiry's attention to about those?
+
+Speaker D: Wait a minute. Let me see. Hang on. I mean, it's a pretty draconian sort of set of caveats. Hang on a second. Well, obviously, the second paragraph, I've gone through it all, but coming back to the second paragraph, the sort of terms of reference to me is always a sort of danger signal. What exactly did they get asked to look at?
+
+Speaker B: Yes.
+
+Speaker D: Did they— were they let off the leash to follow investigative instincts, or were they set on a set of tramlines and the clockwork wound up to just go where the client wanted them to go?
+
+Speaker E: And do you understand from that second paragraph, or indeed from anywhere else, that they were let off the leash?
+
+Speaker D: I got the sense that they weren't let off the leash, and because I mentioned in my second witness statement that the obvious lines of inquiry that Ian and I would have pursued, along with our fellow investigators, just didn't appear here. They didn't even mention those sort of things, which was to look at the history of what had been cleared and find out where what Post Office had learned about who really did have to be repaid when they actually bothered to or actually found out who the true owners of items in suspense were. Were any of the amounts that they did bottom out returned to subpostmasters? And if it was none, then we were wrong in our hypothesis. So I didn't see any evidence—
+
+Speaker E: None of that's answered here, is it?
+
+Speaker D: No, I don't think it is.
+
+Speaker E: And what we get in the 3rd paragraph is, the report should not therefore be regarded as suitable to be used or relied upon by any person for any purpose, including any court or other investigatory proceedings.
+
+Speaker D: Yes, like us here.
+
+Speaker E: Quite. Then we've got the paragraph on the right-hand side, 2nd down.
+
+Speaker C: Yes.
+
+Speaker E: KPMG does not provide any assurance on the appropriateness or accuracy of sources of information relied upon.
+
+Speaker D: Yes.
+
+Speaker E: And KPMG does not accept any responsibility for the underlying data used in this report.
+
+Speaker D: Yes, this is the sort of wording, this is the page that you put in when you're going to do what I think has also been described as a desk-based audit, that says we're just going to ask some questions and we're going to believe everything we're told. And we're not going to actually dig into the— forensically dig into the detail.
+
+Speaker C: Yes.
+
+Speaker D: But I hesitate to criticise a fine firm like KPMG.
+
+Speaker E: But it's not the sort of job that you would have done?
+
+Speaker D: They're bigger than us, they'll beat me up. No, not the sort of thing that we would have done, no.
+
+Speaker E: All right, well, thank you very much. Can I just ask you—
+
+Speaker B: Thank you.
+
+Speaker E: We can take that document down now. Can I ask you a little bit more though about this subject of suspense accounts? If it turns out, if it can ever be found out, that the Post Office was absorbing sums into their profit and loss which rightfully should have been returned to subpostmasters, who within Post this would or should have known that that was happening?
+
+Speaker D: You want names? Well, it would be the Chief Financial Officer, Mr Cameron. I think he's been on gardening leave, so he probably might not know that now. And Mr Ismay, who was the functionary in Chesterfield whose department handled this stuff, and he was in the meeting between myself and Mr Henderson and Mr Cameron just about 2 weeks before we were chopped.
+
+Speaker E: And do you think that there's any directors on the board apart from Mr Cameron who would or should have known about this?
+
+Speaker D: Well, they all should have known about it, but there wasn't a lot of attention to detail as far as we could detect.
+
+Speaker E: Can I then also just ask you This about your investigations, did you find that Horizon conducted true double-entry bookkeeping?
+
+Speaker D: Oh, I didn't ask you to raise that question, but I'm glad you did. I harbour a suspicion, and I've mentioned it I think in my second witness statement, that the assertion that Horizon is a double-entry bookkeeping system is not safe. I think it is at a branch level for some products. If you sell £100 worth of stamps, Joe, for cash, the double entry is simple. Less stock, more cash. £100 both sides. Not a problem. But if you're— if you're As in Joe's case, if you have a £2,000 shortfall that in a moment in time becomes a £4,000 shortfall, that extra £2,000 has got to come from somewhere and go to somewhere. It doesn't— there's no such thing as an invented amount of money in a double-entry booking system. It would have to go somewhere. And when Joe pressed that button and the and her shortfall doubled, and she's not the only person that asserted that. If that truly happened, then the system invented a one-sided entry, and what it effectively did was said to Jo, you need to have £2,000 more in the till or in the safe than you've actually got.
+
+Speaker E: But—
+
+Speaker D: But why? So in that context, it doesn't satisfy the test of a double-entry booking system. I'd also raise the points about entries that were processed by other bolted-on front-end systems, like the Ford money changer.
+
+Speaker E: Well, I was just about to ask you that as my final question, which is that was that exacerbated by those systems? So obviously we've got the electronic point-of-sale system which managed Post Office products, like stamps and so forth, but then we've got these bolt-ons that Fed figures into Horizon, whether it be from Bank of Ireland cash points, lottery terminals, and I think you mentioned foreign exchange. There may have been others. Did the double entry problem that you've described with the 2,000/4,000— was that made any worse from your investigations when looking at those bolt-ons?
+
+Speaker D: processed on a Wednesday once a week, you don't— you can't assert that to be horizon double entry. These are block entries that are passed, so to claim the benefits of double entry bookkeeping in relation to those front-end bolt-on systems I think is unsafe.
+
+Speaker E: And do I understand this rightly, that if they had been being processed in real time, they would have stood a much better chance of been true double entry, but because there was this once every period batch entry of, say, lottery transactions, that caused problems?
+
+Speaker D: Well, yes, in theory, but I mean, the issue on, for example, foreign exchange transactions is when I asked Post Office for a copy of the Forward Money Changer user manual to be able to work out how the accounting was was working, they said they hadn't got one. I had to reverse engineer the foreign exchange accounting from the 2,500 pages of documents supplied to me by one of the subpostmaster's professional advisers, as opposed to the 3 documents that Post Office supplied in that case.
+
+Speaker E: Well, thank you. Those are my questions, Mr. Thank you, sir.
+
+Speaker D: Thank you.
+
+Speaker B: Mr. Warmington, I think I should ask you a few questions along the following lines, so please bear with me. Some of the senior executives, and I believe Ms Perkins in particular as Chair, were asked the question, or the suggestion was put to them, I think is a better way of putting it, that the mediation scheme was a scam. Right. And they denied that and in effect told me that so far as they were concerned, the mediation scheme was a scheme which was operated by all concerned in good faith. You were very much part of the core of people engaged in the operation of that scheme. 2 questions really. First of all, is it right that the idea of the scheme came from the Post Office?
+
+Speaker D: Yes, yes, I think from Susan Crichton, my understanding.
+
+Speaker B: Right, and contemporaneously with your operation of the scheme, I.e., at the time, did you gain any, um, or did you have any idea about whether or not you were engaged in a scheme which was being operated by all concerned in good faith, or whether Post Office were engaged in a scam?
+
+Speaker D: Well, well, call me naive, sir, but, um, I, I mean, we would not have I would not have wasted the time of my team, my own and my team's time, pursuing something that we'd recognized from the outset was a waste of time. We actually— I now regard us as pretty naive about this. I kick myself. But it looked like a legitimate process until eventually we realized that it wasn't. It was just, um, I mean, it was much later that we learned about the phraseology of only the expectation that token payments would be made. Um, I think it was, it was Sir Alan Bates that twigged that in the vernacular, um, and realized that it was a scam, a sham, um, well before I did. I apologize for my stupidity.
+
+Speaker B: Well, I, I'm— I wasn't asking you the question really to in any sense be critical of you, but rather to gain an insight into how you viewed things at the time. All right. So is the answer to my question that for much of the time during which you were involved in the mediation scheme, you did think that it was being operated in good faith, but there came a point in time when you began to doubt that? Is that a fair summary? summary of what you're telling me?
+
+Speaker D: Yes, it is. And when we realised, as soon as we realised the POIRs were taking an awful long time to get to us and that when they arrived none of them gave an inch in regard to any improper conduct or poor behaviour or mistakes made by Post Office itself, we sort of twigged, we realised that this was going through a filtering process that was filtering out any, uh, any, any, um, admission by Post Office. I think at that point we realized that we were— that it was a waste of time.
+
+Speaker B: And just so that I can try and put things into sequence, how, how, um, or rather when did you form that view, saying comparison with when the schemes ceased to operate at all?
+
+Speaker D: Well, by the time we got to around about October 2014, it was just open warfare, so it was well before that. Go back to sort of January, February 2013, it was running quite well. On the departure of Susan, It took a marked turn for the worse. So I would say by early— certainly by January— by year-end 2013, we were realizing that it had become dysfunctional in the extreme, so badly that I— was prepared to pull stumps and pull the team out.
+
+Speaker B: And what was the— I've heard about 2 issues which were clearly thorny issues to be grappled with. One was the expectation gap, as it's called, namely that on the one side, subpostmasters who'd suffered significant losses expected to have proper compensation, whereas on the Post Office side, the expectation was that the compensation would be much lower. So that was thorny issue number one. And thorny issue number two, as I see it— so tell me if I've got it wrong— was the very significant debate which took place as to whether or not convicted people should be Mediated with at all. Were those the 2 major difficulties?
+
+Speaker D: Well, there certainly were 2 major difficulties. Yes, the second one, dealing with that first, it was just obvious, it was obvious to everybody that the principal driving force for calling us in and carrying out an investigation was— had resulted from a meeting between Lord Arbuthnot and Alice Perkins before, I think before she became chairman, and there was this agreement to proceed, and it's absurd to think that Lord Arbuthnot would have said, oh, and it's perfectly okay if you leave Joe Hamilton and anybody else out of this. I mean, he'd made it completely clear that people with convictions of any sort should be entitled to benefit from the mediation scheme. But the corruption of the mediation scheme, this expectation gap, the first point that you asked, sir, when we started to see the CQRs, the case questionnaire responses, the work done by the professional advisers, including Howe Co and others, when we started to see those coming in with pretty big numbers attached, it didn't surprise Mr Henderson and myself at all. Some of the numbers were quite big, but it didn't surprise us. But we of course hadn't been told at that point that Post Office was harbouring the view that they were only expecting to make token payments. They never said that to us. If they had, we would have said, "Well, what are you smoking?" You know.
+
+Speaker B: So I've identified two major difficulties. You say they were two of the major difficulties. Oh yes. Last question: What were the other major difficulties which caused it in the end to founder?
+
+Speaker D: It was the lawyering up. I mean, the worst problem was the lawyering up. This this this fact that. I harbour the suspicion, I think Mr Henderson probably shares this, that the 2 teams of investigators— I'll call them investigators, they weren't really— the people that were preparing the POIRs on a reporting line to Angela Vanna-Bogaert, I met some of those people, lovely people, and they were empathetic towards the postmasters' cases. I strongly suspect that the reports they were producing contained quite a few acknowledgements of failings by Post Office, and yet none of them that got through to us had any such concessions, and we would have to be pretty thick not to notice that. We did, and my suspicion, and I think this is probably the case, is that It just went through a filtering process to remove anything that was in any way an admission of failure, let alone guilt, by Post Office. So the work, the good work that those people were doing, I think was filtered through Cartwright King and Bonn Pierce and the offices of Roderick Williams and Belinda Ojard and others into such an anodyne response. As to completely dismiss any assertions that the professional advisers were making or that we ourselves were making. Sorry, that's a very long answer to a short question.
+
+Speaker B: Thank you. That's it, Mr. Warmington, I assume, since I usually have the last word if anybody is going to have the last word. So thank you very much for making 2 witness statements. Thank you for giving oral evidence this afternoon. I'm very grateful to you, and I'm sorry I prolonged your stay by about 10 minutes, unusually for me, by asking a number of questions. So I think we'll adjourn now until tomorrow and start again at 9:45. Mr. Beer? Yes.
+
+Speaker A: Thank you, sir. Thank you very much, Mr. Beer.
+

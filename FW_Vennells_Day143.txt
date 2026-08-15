@@ -1,0 +1,1927 @@
+[0.00s -> 19.84s]  Yes, Mr. Beer.
+[19.84s -> 20.84s]  Thank you, sir.
+[20.84s -> 21.84s]  Good morning, Ms. Venald.
+[21.84s -> 22.84s]  Good morning, Mr. Beer.
+[22.84s -> 29.40s]  Yesterday, aside from the seven general topics that I dealt with in the morning, we addressed
+[29.40s -> 36.76s]  two issues of substance, one was the complaints made by some postmasters and others about
+[36.76s -> 43.16s]  bugs errors and defects, and then secondly we looked at remote access in the afternoon.
+[43.16s -> 48.80s]  Can I turn to my third topic of substance then, which is the second site investigation
+[48.80s -> 54.56s]  and the complaint and mediation scheme.
+[54.56s -> 61.68s]  like first to look at the process by which second site were chosen and Deloitte were
+[61.68s -> 71.20s]  not to conduct an investigation. And can we look, please, at poll 0018-0209? I want to
+[71.20s -> 80.08s]  come up on the screen for you.
+[80.08s -> 86.50s]  And if we look at the foot of the page, there's an email from Simon Baker.
+[86.50s -> 90.40s]  You're not on this chain.
+[90.40s -> 98.40s]  To Susan Crichton and Leslie Sewell of the 6th of June 2012.
+[98.40s -> 104.20s]  And he says, Susan Leslie attached is Ron's proposal.
+[104.20s -> 109.80s]  My view is that we make it clear to Alice and Paula, the distinction between the work
+[109.80s -> 118.52s]  Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+[118.52s -> 127.32s]  audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+[127.32s -> 137.60s]  be the 7th of June. At this stage, were you aware that there were two contenders for the
+[137.60s -> 145.92s]  undertaking of some form of investigation, review or audit?
+[145.92s -> 151.84s]  From the documentation I can see that's the case. I couldn't recall it at the time and
+[151.84s -> 159.08s]  I think I say in my statement that the Deloitte work which was named Project Spire was not
+[159.08s -> 163.92s]  something that I remembered but I can see that there were those two alternatives being
+[163.92s -> 165.32s]  discussed.
+[165.32s -> 172.84s]  Can you remember the distinction between them, i.e. what was proposed to be done by a second
+[172.84s -> 176.08s]  side and what was to be done by Deloitte?
+[176.08s -> 182.84s]  No, I can't recall the distinction, but I can see it from what was being said here.
+[182.84s -> 188.20s]  And I don't know, to be honest, how much I remember that, how much I understood that
+[188.20s -> 189.86s]  distinction at the time.
+[189.86s -> 192.56s]  Looking at the documents, they're clearly very different.
+[192.56s -> 197.12s]  The Project SPIRE document is a forensic investigation of the Horizon System.
+[197.12s -> 204.92s]  And by, sorry to interrupt, by a forensic investigation of the Horizon System, is that
+[204.92s -> 208.12s]  captured by these words here, a forensic audit?
+[208.12s -> 212.44s]  Yes, and I've just read that, so I've used forensic because I've just seen it on there.
+[212.44s -> 217.60s]  I would have said a detailed investigation of the Horizon System.
+[217.60s -> 225.36s]  My concern at the time, my priority at the time, was to choose an organisation whom I
+[225.36s -> 235.24s]  felt would relate best with the postmasters who had been raising their claims.
+[235.24s -> 240.72s]  As it's described here, the work that Second Sight were proposing, by contrast, was a review
+[240.72s -> 242.08s]  of past cases.
+[242.08s -> 243.08s]  Yes.
+[243.08s -> 245.52s]  Can we see what happened then, please?
+[245.52s -> 265.40s]  0023 3736. Now this is a timeline that has been prepared after the event of the events
+[265.40s -> 271.60s]  which led to and happened in the course of the mediation scheme. But it's the best and
+[271.60s -> 277.20s]  only record I think we've got of what happened on the 7th of June, the day following the
+[277.20s -> 279.68s]  email that I've just read to you.
+[279.68s -> 280.68s]  Right.
+[280.68s -> 286.78s]  And can we look please at page 3?
+[286.78s -> 292.36s]  And do you see in the box that's at the bottom of the screen there, it's recorded that on
+[292.36s -> 299.12s]  the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+[299.12s -> 305.16s]  lines in Simon Baker where the Deloitte and Second Site proposals are discussed and Second
+[305.16s -> 314.84s]  Site was chosen as the preferred supplier. Why was Second Site proposal preferred to
+[314.84s -> 316.56s]  that of Deloitte?
+[316.56s -> 325.04s]  I think because of what I just said earlier, from my own recollection is I felt very strongly
+[325.04s -> 328.34s]  that we needed an organization who would be able to work well
+[328.34s -> 333.72s]  with sub-postmasters, I was concerned that any one
+[333.72s -> 336.08s]  of the big four, Deloitte being one of them,
+[336.08s -> 337.92s]  may have come across two corporates
+[337.92s -> 339.30s]  and wouldn't necessarily have had
+[339.30s -> 342.52s]  the understanding of running a post office
+[342.52s -> 345.80s]  in small retail businesses.
+[345.80s -> 350.00s]  I don't recall, which is why, sorry,
+[350.00s -> 351.30s]  let me finish on this thing.
+[351.30s -> 358.78s]  I don't recall looking at the proposals in detail at the meeting.
+[358.78s -> 363.86s]  That's what I was going to ask, rather than which might be preferred by sub-postmasters,
+[363.86s -> 367.96s]  how it might look going to one of the big four.
+[367.96s -> 377.38s]  Was the substance of what each organization was going to do a relevant consideration?
+[377.38s -> 379.38s]  I don't recall that.
+[379.38s -> 385.96s]  I don't, and the reason I feel sure about that recollection is that when in preparing
+[385.96s -> 391.96s]  for today I looked at what was called the project's bio document, I was quite surprised
+[391.96s -> 393.28s]  about the detail in it.
+[393.28s -> 398.00s]  And one of my reflections now is that actually that would have been a very good piece of
+[398.00s -> 402.76s]  work to have done because it may have brought more data to the fore than we knew.
+[402.76s -> 406.76s]  That's a question that I'm going to turn to in a moment.
+[406.76s -> 416.16s]  And is the short point that the second site review was much narrower in scope in that
+[416.16s -> 425.36s]  it was proposed that the system should be reviewed by looking at a sample of past cases?
+[425.36s -> 429.40s]  Yes, I believe that's the case.
+[429.40s -> 434.52s]  Rather than auditing the Verizon system as a whole?
+[434.52s -> 441.72s]  the case in terms of my view today, I don't believe we went through that particular angle
+[441.72s -> 444.96s]  of discussion in the meeting.
+[444.96s -> 452.22s]  Is that right? What would you say to the suggestion that a deliberate choice was made to pick
+[452.22s -> 459.14s]  a proposal that was much narrower in scope, that only looked at a sample of past cases
+[459.14s -> 463.76s]  rather than auditing the Horizon system as a whole?
+[463.76s -> 468.20s]  Well, from a personal point of view, I would say that was absolutely not the case.
+[468.20s -> 472.72s]  I have no recollection of that at all.
+[472.72s -> 476.86s]  You agree, I think, cutting to the chase, that it would have been preferable, looking
+[476.86s -> 485.60s]  back now, had Deloitte been chosen, because their proposal may or even would have brought
+[485.60s -> 491.84s]  to the surface, if carried through to its conclusion, many of the issues that were subsequently
+[491.84s -> 493.16s]  discovered.
+[493.16s -> 500.60s]  I think the operative word is may. I have reflected on that. Whether Deloitte would
+[500.60s -> 505.94s]  in fact have surfaced some of the other important areas that Second Sight did, I don't know,
+[505.94s -> 511.44s]  because I think one of the other outcomes of this has been the right decision was looking
+[511.44s -> 516.14s]  at the contract, and that may not have surfaced through the Deloitte work, which was particularly
+[516.14s -> 520.60s]  focused on the system itself.
+[520.60s -> 525.16s]  Can we look, please, at the terms of reference, or at least an early copy of the terms of
+[525.16s -> 543.36s]  reference that were settled for second site, poll 3096576.
+[543.36s -> 552.32s]  And if we just blow that up, please, you'll see that this is a second site document.
+[552.32s -> 558.52s]  And it is, quote, a proposal to carry out an independent review of past fraud and theft
+[558.52s -> 565.08s]  cases in order to determine whether the facts support the business's findings and the charges
+[565.08s -> 570.32s]  brought against individuals.
+[570.32s -> 579.20s]  And then if we go to the detail on page five, please.
+[579.20s -> 587.20s]  Can you see that the proposal is for a case review, and the case review will include the
+[587.20s -> 597.40s]  following tasks, said second site, selecting a representative sample of cases that have
+[597.40s -> 605.96s]  led to prosecutions, court-appointed restitution. The sample needs to cover cases where defendants
+[605.96s -> 612.48s]  claim they didn't take any cash, where assertions have been made that the system, i.e. Horizon,
+[612.48s -> 618.20s]  caused the shortage, including old and new versions of Horizon, if possible, and which
+[618.20s -> 623.16s]  have been taken up by MPs.
+[623.16s -> 629.06s]  And then if you look at the last or the second to last bullet point, study and selectively
+[629.06s -> 636.68s]  test the Horizon system in order to find any black hole, program bug, et cetera, that might
+[636.68s -> 643.36s]  have caused mysterious shortages.
+[643.36s -> 650.88s]  What's described there, selecting a representative sample of cases that led to prosecutions or
+[650.88s -> 658.20s]  court-appointed restitutions and then study and selectively test the Horizon system in
+[658.20s -> 664.68s]  order to find bugs for shorthand that may have caused mysterious shortages.
+[664.68s -> 667.24s]  Was exactly what was needed, wasn't it?
+[667.24s -> 668.28s]  Yes.
+[668.28s -> 674.16s]  It didn't happen though, did it?
+[674.16s -> 682.12s]  The work that the post office and second site did over this quite a long period of time
+[682.12s -> 686.08s]  didn't come to a final conclusion, no.
+[686.08s -> 691.28s]  It didn't and we're not talking about the mediation scheme yet because that was a second
+[691.28s -> 693.36s]  piece of work essentially.
+[693.36s -> 701.16s]  We're talking about the events that led to the interim report in July 2013, that's what
+[701.16s -> 709.96s]  this proposal is about. A representative sample of cases that led to prosecutions was not
+[709.96s -> 714.04s]  selected, was it?
+[714.04s -> 725.84s]  I don't recall the cases that were selected. Looking at this today, I don't recall the
+[725.84s -> 733.88s]  a narrow focus on prosecution and court-appointed restitution. My recollection is that we were
+[733.88s -> 740.20s]  looking at a broad sample of cases, of which some were cases with criminal convictions.
+[740.20s -> 743.36s]  I thought it was broader than that. I don't recall it as being that narrow.
+[743.36s -> 746.84s]  We'll see how things got changed by the post office.
+[746.84s -> 749.00s]  Right, okay.
+[749.00s -> 755.76s]  in the events which happened, i.e. over time, would you agree that if what is described
+[755.76s -> 765.24s]  here in those two bullet points that I have identified had in fact been undertaken, again,
+[765.24s -> 776.48s]  there is, to use the may word, a possibility that the decade that followed until faults
+[776.48s -> 783.92s]  in Horizon and the miscarriages of justice identified by the Court of Appeal may have
+[783.92s -> 784.92s]  been discovered earlier?
+[784.92s -> 792.58s]  I think that is a possibility. I saw in the inquiry documentation that there is a piece
+[792.58s -> 798.64s]  of advice that Susan Crichton sought from Richard Morgan, QC, where he said that he
+[798.64s -> 803.52s]  thought that the advice was that the post office really shouldn't get into this at
+[803.52s -> 806.56s]  at all, because it would be a no-win situation.
+[806.56s -> 807.56s]  It would open the floodgates.
+[807.56s -> 809.44s]  It would open the floodgates.
+[809.44s -> 811.76s]  Well, I think he made two conclusions from memory.
+[811.76s -> 812.88s]  That was one, and I can't remember
+[812.88s -> 814.12s]  what the other one was.
+[814.12s -> 817.80s]  But my reflection, as I read this recently,
+[817.80s -> 820.40s]  was that, first of all, I didn't know
+[820.40s -> 822.36s]  that she had taken that advice.
+[822.36s -> 825.24s]  And it came up later, a year later,
+[825.24s -> 828.12s]  when she and I had a conversation about her wanting
+[828.12s -> 828.96s]  to leave the business.
+[828.96s -> 831.80s]  And I suspect we may come onto that.
+[831.80s -> 835.88s]  But when I look at that advice now,
+[835.88s -> 838.88s]  I think it is a great pity that we didn't know about that
+[838.88s -> 842.28s]  because we may have approached this differently.
+[842.28s -> 844.40s]  And can you explain why?
+[844.40s -> 848.08s]  I had you, and I think you mean the executive and the board.
+[848.08s -> 848.92s]  Yes, yes.
+[848.92s -> 850.96s]  Known about Richard Morgan's advice,
+[850.96s -> 855.00s]  you may have approached things differently in what way?
+[855.00s -> 858.32s]  In that we may well have focused completely separate,
+[858.32s -> 861.08s]  understanding the advice he gave,
+[861.08s -> 866.70s]  that we may have focused very differently on what we called in shorthand the criminal
+[866.70s -> 875.70s]  cases, because they needed to be reviewed differently to others that were not criminal
+[875.70s -> 883.40s]  cases. And what we ended up with was a scheme that tried to respond to a variety of different
+[883.40s -> 886.68s]  cases and themes.
+[886.68s -> 891.90s]  Let's look at what the Post Office did in relation, in particular, to criminal cases.
+[891.90s -> 895.22s]  That document can come down, please.
+[895.22s -> 901.50s]  I turn to a couple of days after the meeting of the 7th of June to the 9th of June, poll
+[901.50s -> 930.06s]  3 0 9 6 6 0 6. If you forgive me one moment. If we look at the foot of the page, please.
+[930.06s -> 941.94s]  There is an email from Alice Perkins of the 9th of June, 9.36, to you. And she says, following
+[941.94s -> 947.26s]  a conversation with Alwyn yesterday, given I'm away for a few days, I thought I should
+[947.26s -> 954.18s]  let you know before I went where I stand on which cases should be in or out of this review.
+[954.18s -> 957.74s]  I've given this more thought since yesterday.
+[957.74s -> 961.90s]  I am clear that we should include all, in capital letters,
+[961.90s -> 965.22s]  the MP's cases, irrespective of whether they
+[965.22s -> 967.86s]  have been decided in court.
+[967.86s -> 970.18s]  If we try to draw a distinction here,
+[970.18s -> 973.38s]  we will be accused of picking cases to suit ourselves
+[973.38s -> 976.66s]  and being vulnerable on the ones we omit.
+[976.66s -> 980.10s]  We'll have a row about that instead of moving the issue on.
+[984.18s -> 989.24s]  On reflection, I don't buy the argument that we would somehow undermine the court process
+[989.24s -> 990.24s]  by doing this.
+[990.24s -> 995.78s]  There are plenty of ways in which people can go over ground which has been settled in court,
+[995.78s -> 999.90s]  and if there weren't, no one would ever be able to get a conviction overturned.
+[999.90s -> 1005.08s]  And if, which we don't believe, there were new evidence in a case which had been decided,
+[1005.08s -> 1010.78s]  we would want to do and be seen to do the right thing by that.
+[1010.78s -> 1023.18s]  And if we scroll up the page, we see you replying in the bottom part of the page, which I think
+[1023.18s -> 1026.94s]  is about admin, essentially.
+[1026.94s -> 1027.94s]  And then...
+[1027.94s -> 1030.78s]  I think it says I wasn't part of the discussion, doesn't it?
+[1030.78s -> 1031.78s]  Yes.
+[1031.78s -> 1032.78s]  Yes.
+[1032.78s -> 1045.14s]  little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+[1045.14s -> 1052.50s]  doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+[1052.50s -> 1058.94s]  came to light with the list of MP cases was that they included the Mishra, I think that's
+[1058.94s -> 1064.02s]  Seema Misra, you will remember the case and the publicity.
+[1064.02s -> 1068.02s]  She went to prison and had her baby whilst in there.
+[1068.02s -> 1071.98s]  The husband got publicity through radio and press.
+[1071.98s -> 1075.26s]  Susan's anxiety, and she raised this at the meeting
+[1075.26s -> 1080.02s]  with Alice before you joined, was whether now contacting her
+[1080.02s -> 1085.38s]  to tell her we review the case would be a red rag to a bull.
+[1085.38s -> 1089.82s]  Alice feels this is the business pushing back unnecessarily.
+[1089.82s -> 1092.58s]  And she feels this happened throughout the process.
+[1092.58s -> 1096.26s]  And she is having to keep pushing us.
+[1096.26s -> 1098.82s]  Susan's getting external advice on the effect
+[1098.82s -> 1101.18s]  that this would have on cases which have
+[1101.18s -> 1104.82s]  been brought through the courts.
+[1104.82s -> 1106.38s]  There's quite a lot in there.
+[1109.42s -> 1114.30s]  Did you agree with Alice Perkins that all cases should
+[1114.30s -> 1119.38s]  be included in the independent review, even if they involved criminal convictions?
+[1119.38s -> 1124.74s]  Yes, I wasn't making any distinction.
+[1124.74s -> 1134.50s]  Did you agree with Alice Perkins that the business was pushing back unnecessarily against
+[1134.50s -> 1136.34s]  that?
+[1136.34s -> 1138.62s]  I don't think I knew that.
+[1138.62s -> 1144.64s]  I think this is, so I, the bit of admin that we skipped over is I say that I'll call Alice,
+[1144.64s -> 1149.62s]  which I did, and I think she explained to me the conversation that she had had.
+[1149.62s -> 1153.82s]  And from what I've seen in documentation, clearly, there was an awful lot of consideration
+[1153.82s -> 1158.90s]  going on about what should and shouldn't happen, which I was not in the loop on.
+[1158.90s -> 1165.86s]  Who would be the business that was pushing back unnecessarily against the chair?
+[1165.86s -> 1171.34s]  Well, the only thing that I can think is relating back to this piece of advice that Susan sought
+[1171.34s -> 1177.52s]  from Richard Morgan, which was very clear advice to her, and one assumes that she would
+[1177.52s -> 1181.08s]  have – she was in a meeting, she discussed it in a meeting, and one assumes that that
+[1181.08s -> 1188.28s]  must have alerted her to maybe needing to take a different approach with cases like
+[1188.28s -> 1194.42s]  Mrs. Miserice, for instance, but I wasn't involved in those conversations.
+[1194.42s -> 1203.98s]  And there is a further pushback, I can't remember if it's before this or after, where the terms
+[1203.98s -> 1212.02s]  of reference which are prepared by, again, I think, Susan, refer to defence documents,
+[1212.02s -> 1216.54s]  and Alice comes back and says, no, it should be all of the documentation.
+[1216.54s -> 1224.46s]  So, the business here, you take pushing back unnecessarily, you take to mean shorthand
+[1224.46s -> 1226.06s]  for Susan Crichton?
+[1226.06s -> 1227.06s]  For the legal team, yes.
+[1227.06s -> 1230.74s]  I think it was Susan Crichton and Hugh Flemington who were at the meeting.
+[1230.74s -> 1235.82s]  It says that this has happened, it's Alice's view that this has happened throughout the
+[1235.82s -> 1237.82s]  process.
+[1237.82s -> 1246.34s]  Was that a view that you were aware of, that the business was pushing back unnecessarily
+[1246.34s -> 1249.50s]  against a review throughout the process?
+[1249.50s -> 1252.14s]  Not until I spoke to Alice, which I did, I think,
+[1252.14s -> 1253.26s]  on the Saturday morning.
+[1253.26s -> 1254.10s]  I was concerned.
+[1254.10s -> 1256.98s]  And so if a chairman raises issues like this,
+[1256.98s -> 1260.42s]  I wanted to know what had arisen.
+[1260.42s -> 1262.30s]  Did you think that Mrs. Misra's case
+[1262.30s -> 1266.74s]  should be included in an independent review?
+[1266.74s -> 1269.34s]  I wasn't even involved in the conversation about that.
+[1269.34s -> 1273.34s]  My view was that all the cases that had come forward
+[1273.34s -> 1277.34s]  through Lord Arbuthnot and then and thereafter from other MPs,
+[1278.30s -> 1280.14s]  we were going to review all of the cases.
+[1281.02s -> 1284.30s]  Did you share Miss Crichton's concerns recorded here
+[1284.86s -> 1288.94s]  that even contacting Miss Misra would be a red rag to a bull?
+[1290.14s -> 1290.64s]  No.
+[1292.78s -> 1300.70s]  Did you know that post office was getting external advice on the effect
+[1300.70s -> 1304.70s]  that bringing such cases within the review would have?
+[1308.22s -> 1313.98s]  Well, clearly I did in the sense that Alwyn mentions it in the final line on this email.
+[1314.94s -> 1322.14s]  I don't at that stage think I would have asked more about it because the situation was resolved
+[1322.14s -> 1327.10s]  in that all of the cases were going to come in. If Susan was seeking advice on something
+[1327.10s -> 1332.72s]  of a legal nature, A, I would expect her to do that, and then I would listen to whatever
+[1332.72s -> 1336.52s]  that advice was.
+[1336.52s -> 1343.08s]  Do you know what external advice the post office did take regarding the effect of including
+[1343.08s -> 1347.32s]  cases like SEMA misers in the independent review?
+[1347.32s -> 1348.64s]  I don't think so.
+[1348.64s -> 1351.60s]  I certainly didn't see the Richard Morgan advice.
+[1351.60s -> 1353.00s]  I don't think there was a written advice.
+[1353.00s -> 1354.00s]  There was a meeting with him.
+[1354.00s -> 1355.84s]  There was a meeting note, right, yeah.
+[1355.84s -> 1358.88s]  I don't think I did, no.
+[1358.88s -> 1362.04s]  Have you got a date readily to hand to remind me
+[1362.04s -> 1365.12s]  of when that was, Mr. P?
+[1365.12s -> 1368.04s]  Given a moment, I probably could.
+[1368.04s -> 1369.52s]  I'm sure we'll find it between us.
+[1369.52s -> 1372.04s]  Don't take yourself out of your stride.
+[1372.04s -> 1374.08s]  Thank you.
+[1374.08s -> 1376.32s]  Did you know the substance of the advice,
+[1376.32s -> 1379.28s]  the external advice, that was given?
+[1379.28s -> 1382.12s]  No, not until I read it in preparation for the inquiry.
+[1385.84s -> 1399.52s]  Did you and therefore the board not take the advice given, as you now know, by Richard
+[1399.52s -> 1406.04s]  Morgan Casey into account in deciding the scope of Second Sight's review?
+[1406.04s -> 1412.16s]  No, I don't believe, you would have to ask Alice Perkins, but I don't believe that Alice
+[1412.16s -> 1420.06s]  as Perkins, all the board knew of that advice, but Susan had had a conversation with Alice
+[1420.06s -> 1426.36s]  that I was not involved in, so it's possible it was shared in that meeting, but my understanding
+[1426.36s -> 1431.02s]  is not.
+[1431.02s -> 1452.22s]  Thank you. Can we move on into 2013, please? And look at poll 0010-0200. This is a minute,
+[1452.22s -> 1458.86s]  I think, from, as we can see, David, Oliver, to you, copied to others, of the 5th of February
+[1458.86s -> 1464.30s]  2013. Can you explain who David Oliver was, please?
+[1464.30s -> 1476.50s]  David Oliver, I believe, was on a short-term contract, maybe a year or two. He was either
+[1476.50s -> 1480.84s]  a consultant with PA Consulting or had left them and came to the Post Office and was working
+[1480.84s -> 1488.50s]  on the Project Sparrow work. In fact, looking at the list, what date is this, please?
+[1488.50s -> 1490.50s]  of February 2013.
+[1490.50s -> 1492.50s]  2013.
+[1492.50s -> 1500.10s]  No, I, no, he was working on the Sparrow project.
+[1500.10s -> 1507.34s]  He sends this minute to you and others regarding essentially options that the post office could
+[1507.34s -> 1510.54s]  take to deliver the scheme in a timely fashion.
+[1510.54s -> 1512.18s]  You can see that there.
+[1512.18s -> 1513.18s]  Yes.
+[1513.18s -> 1516.38s]  In, under summary.
+[1516.38s -> 1520.48s]  We identified three broad courses of action that might be taken to improve the ability
+[1520.48s -> 1529.46s]  of post office successfully to deliver the mediation scheme in a timely fashion.
+[1529.46s -> 1534.96s]  Can we look at page two, please?
+[1534.96s -> 1541.82s]  And scroll down to what was the third option, plan C, a contingency plan to replace second
+[1541.82s -> 1554.74s]  site if they refuse to work on the scheme under terms which the post office find acceptable.
+[1554.74s -> 1558.74s]  Engagement of a professional accountancy firm such as Grant Thornton to replace second site
+[1558.74s -> 1565.22s]  entirely. It's possible that second site will refuse to work under the proposed terms
+[1565.22s -> 1570.90s]  of engagement from the post office and that they may attempt to insist terms that neither
+[1570.90s -> 1577.20s]  you or the board can accept. In this scenario, they may either walk away from the scheme
+[1577.20s -> 1584.08s]  or post office may have to end their engagement. Was it the case that despite their appointment
+[1584.08s -> 1593.40s]  in mid 2012, no terms of reference or terms of engagement had been settled by February
+[1593.40s -> 1596.28s]  2013 for second site?
+[1596.28s -> 1600.00s]  I don't know about terms of engagement.
+[1600.00s -> 1608.60s]  I do know that terms of reference were drawn up.
+[1608.60s -> 1609.68s]  Engagement, I don't know.
+[1609.68s -> 1611.12s]  That wouldn't have been something
+[1611.12s -> 1615.04s]  that I would have been involved in.
+[1615.04s -> 1618.04s]  By this time, was it anticipated that SecondSight
+[1618.04s -> 1623.24s]  would refuse to work under the terms of engagement
+[1623.24s -> 1625.88s]  that the post office required?
+[1625.88s -> 1627.44s]  It seems to say so here.
+[1627.44s -> 1631.44s]  I don't recall being aware of that, presumably,
+[1631.44s -> 1635.28s]  until this is presented to me.
+[1635.28s -> 1638.96s]  And I'm not entirely sure what that refers to.
+[1638.96s -> 1642.24s]  Do you know which of these options was chosen?
+[1642.24s -> 1645.12s]  Do you want to look back at options A and B, please?
+[1645.12s -> 1646.16s]  On page one, please.
+[1651.24s -> 1654.28s]  A was clarification of second site's engagement.
+[1654.28s -> 1668.88s]  Yes. I think A and B, actually. So, my recollection at this stage is that there were concerns
+[1668.88s -> 1679.96s]  from the team that very few cases had been reviewed. We were, the time was being extended
+[1679.96s -> 1684.44s]  and therefore the cost extended, and I think that was the main concern, is that the work
+[1684.44s -> 1689.84s]  for whatever reason wasn't being completed, and I was given a number of options.
+[1689.84s -> 1696.54s]  I'm sorry, I don't remember the discussion, but my sense is that it was, we want a second
+[1696.54s -> 1698.96s]  site to see this work through.
+[1698.96s -> 1704.74s]  It would have been difficult to stand somebody else up, I think, and anyway, they had the
+[1704.74s -> 1708.32s]  commitment of Lord Arbuthnot and the MPs.
+[1708.32s -> 1713.32s]  And I do think we brought in or changed the way they worked in some way to help them.
+[1713.32s -> 1717.48s]  But I may be confusing that with the mediation scheme because this issue of time and cost
+[1717.48s -> 1722.60s]  overrun was a fairly frequent topic of conversation.
+[1722.60s -> 1730.26s]  Can we move forwards to later in 2013, still before their interim report was produced,
+[1730.26s -> 1740.26s]  by looking at poll 309-8437.
+[1740.26s -> 1744.06s]  And looking at page two, please.
+[1744.06s -> 1747.86s]  If we just look at the foot of page one,
+[1747.86s -> 1756.06s]  we'll see an email from Mr. Bates to you of the 21st of May 2013.
+[1756.06s -> 1757.66s]  And he says, hello, Paula.
+[1757.66s -> 1761.86s]  a while since we met at James R. Buffnot's office, but at that time, you did say that
+[1761.86s -> 1767.98s]  if I had any concerns, I should contact you directly, hence the reason for this email.
+[1767.98s -> 1772.58s]  Would it be possible for Kay Linnell and I to meet you? You'll recall that Kay is an
+[1772.58s -> 1778.26s]  independent forensic accountant who, on behalf of JFSA, has been monitoring the work Second
+[1778.26s -> 1782.70s]  Sight has been undertaking. The main purpose of the meeting is to ensure that you have
+[1782.70s -> 1789.66s]  been receiving the full details of what has been occurring with the second site investigation.
+[1789.66s -> 1794.28s]  Bearing in mind what has been discovered so far, I for one am surprised that we haven't
+[1794.28s -> 1797.10s]  yet met to discuss the implications.
+[1797.10s -> 1803.30s]  Whilst I appreciate the majority of the issues began under previous regimes, and you've expressed
+[1803.30s -> 1808.22s]  a genuine willingness to address the concerns that JFSA has been raising, these issues are
+[1808.22s -> 1809.22s]  still continuing.
+[1809.22s -> 1814.46s]  I've little doubt it's now feasible to show that many of the prosecutions that the post
+[1814.46s -> 1818.08s]  officers pressed home should never have taken place.
+[1818.08s -> 1825.72s]  I believe this is a view shared by Kay.
+[1825.72s -> 1832.34s]  At this point in time, did you understand why Mr. Bates was saying that it was feasible
+[1832.34s -> 1840.10s]  that many prosecutions that the post office had undertaken should never have taken place?
+[1840.10s -> 1845.32s]  I don't believe I did because we were still waiting, the work was still very much a work
+[1845.32s -> 1847.54s]  in progress.
+[1847.54s -> 1856.74s]  Had any of the in progress work been fed back to you, i.e. provisional views, what it was
+[1856.74s -> 1862.24s]  showing, early themes, emerging issues?
+[1862.24s -> 1869.36s]  Not that I can recall with any clarity, I, because I remember being surprised about,
+[1869.36s -> 1872.08s]  I think slightly, what is the date of this, please?
+[1872.08s -> 1873.08s]  Twenty-first of May.
+[1873.08s -> 1874.08s]  Of May.
+[1874.08s -> 1881.76s]  Maybe not too long after this, but as we were approaching the production of the interim report,
+[1881.76s -> 1887.12s]  I remember being surprised about some of the conclusions that were being reached, because
+[1887.12s -> 1891.44s]  the criticisms from post office were that their work hadn't been taken into account.
+[1891.44s -> 1899.72s]  I think at this stage, possibly not, other than feedback that the work was going too
+[1899.72s -> 1905.84s]  slowly and post office's input either hadn't taken place or second site, there were concerns
+[1905.84s -> 1912.88s]  being raised perhaps that second site were not taking account of it.
+[1912.88s -> 1920.10s]  Would you have been very concerned reading an email like this that the person representing
+[1920.10s -> 1926.30s]  a key stakeholder, JFSA, was saying that the prosecutions and many of them that the post
+[1926.30s -> 1931.78s]  office had brought ought never to have taken place.
+[1931.78s -> 1937.20s]  I was concerned to get the email from Alan, certainly. The point he's making about the
+[1937.20s -> 1943.34s]  prosecutions was the point that the JFSA had made for, I know for a number of years, but
+[1943.34s -> 1947.02s]  that wasn't new news to me at this stage.
+[1947.02s -> 1950.94s]  Is that how you would have thought of it, that this is just Mr Bates saying something
+[1950.94s -> 1951.94s]  that he's always said?
+[1951.94s -> 1953.02s]  No, not at all.
+[1953.02s -> 1961.30s]  I think that I went back to my team and said, because I had said to Mr Bates that if he
+[1961.30s -> 1963.62s]  needed to, he should get in touch.
+[1963.62s -> 1968.06s]  So I don't know if there's documentation on this, but I'm pretty sure that I went
+[1968.06s -> 1972.02s]  back to the team and said, what should we do about this?
+[1972.02s -> 1974.62s]  I've offered to meet Mr Bates.
+[1974.62s -> 1976.62s]  What is your view?
+[1976.62s -> 1983.14s]  Had you been given any inkling that anything had emerged that might undermine the safety
+[1983.14s -> 1985.14s]  of convictions?
+[1985.14s -> 1987.64s]  No.
+[1987.64s -> 1994.10s]  If we go to page one, please, we'll see your reply.
+[1994.10s -> 2005.30s]  And if we scroll up, you say, I am second paragraph happy to meet, but can't make the
+[2005.30s -> 2010.74s]  suggested date and then the third paragraph, my understandings were too early in the investigation
+[2010.74s -> 2015.62s]  to suggest that things have been discovered which call into question the integrity of
+[2015.62s -> 2020.74s]  the system or the validity of the prosecutions and to suggest that at this stage would be
+[2020.74s -> 2030.36s]  wrong. In order to say that, you must have been told would this be right, the stage at
+[2030.36s -> 2036.50s]  which the investigation had reached and whether it was possible to say that the integrity
+[2036.50s -> 2043.68s]  of the system or the validity of prosecutions had even at that stage been called into question.
+[2043.68s -> 2044.68s]  Yes.
+[2044.68s -> 2049.16s]  And who were you getting that feedback from?
+[2049.16s -> 2054.56s]  At this stage I would have talked to whoever was leading the work on this, so Susan Crichton,
+[2054.56s -> 2059.36s]  Alwyn Lyons, I can't remember who else.
+[2059.36s -> 2061.28s]  Simon Baker, presumably David Oliver,
+[2061.28s -> 2062.84s]  whose name we've seen.
+[2062.84s -> 2066.08s]  And so were you then getting feedback
+[2066.08s -> 2071.20s]  on the state of the investigation by second side
+[2071.20s -> 2074.84s]  in order to be able to say, essentially, Mr. Bates,
+[2074.84s -> 2075.92s]  you're jumping the gun?
+[2075.92s -> 2079.72s]  I'm almost certain that when I got Alan's note
+[2079.72s -> 2083.36s]  that I went to the team and said, I've had this note.
+[2083.36s -> 2089.90s]  what's the current status, and as I say here, I would like to meet with Mr. Bates. So I
+[2089.90s -> 2092.36s]  suspect that's where I got that information from.
+[2092.36s -> 2098.50s]  You say in the last paragraph, I've been advised that Second Sight have now agreed that the
+[2098.50s -> 2105.06s]  focus over the next few weeks will be on three specific cases, and the meeting might be a
+[2105.06s -> 2110.42s]  more productive one when that work has been completed.
+[2110.42s -> 2120.30s]  Do you know how it came about that what started as a debate between the choice of Deloitte
+[2120.30s -> 2129.98s]  conducting a full forensic audit of Horizon, second site conducting a review of past cases
+[2129.98s -> 2136.22s]  that would be a representative sample but include some testing of the integrity of the
+[2136.22s -> 2143.34s]  Horizon system ended up with focusing on three cases?
+[2143.34s -> 2154.78s]  My recollection is that the team, what I can recall is frustration from the team that the
+[2154.78s -> 2162.64s]  work Second Sight was doing had moved away from focusing on individual cases to development
+[2162.64s -> 2168.82s]  of themes, and what they were trying to do at this stage, and second side as well, to
+[2168.82s -> 2176.04s]  be fair, was to try and corral this back into a piece of work which could have a report
+[2176.04s -> 2181.76s]  which could be fed back to the MPs before we got to recess in just a small number of
+[2181.76s -> 2185.70s]  weeks after this.
+[2185.70s -> 2191.18s]  That's my recollection, and that was a, to misuse a word in this context, but that was
+[2191.18s -> 2196.96s]  the theme that ran through, which was second site were focusing on themes rather than on
+[2196.96s -> 2206.40s]  individual cases. And at some stage, we will come on to how that then developed into spot
+[2206.40s -> 2211.60s]  reviews, which I think came after this.
+[2211.60s -> 2221.64s]  And so was it the post office in your view or second site that narrowed focus down to
+[2221.64s -> 2225.00s]  a very small number of cases?
+[2225.00s -> 2231.04s]  My view is it was both because both second site and the post office had a commitment
+[2231.04s -> 2235.72s]  to Lord Arbuthnot and the MPs to get some work out for people to look at and we were
+[2235.72s -> 2241.00s]  We're now very, not quite a year, but sort of 10 months into this.
+[2241.00s -> 2242.76s]  That's my recollection.
+[2242.76s -> 2249.80s]  Were you aware of a view amongst the lawyers, and in particular Susan Crichton, that if
+[2249.80s -> 2257.68s]  we review a large number of cases, that might open the floodgates to damages claims by some
+[2257.68s -> 2259.12s]  postmasters?
+[2259.12s -> 2260.80s]  No.
+[2260.80s -> 2267.46s]  And that a less risky approach would be to just pick the cases in which the MPs happen
+[2267.46s -> 2268.46s]  to be interested in.
+[2268.46s -> 2272.08s]  No, I don't remember that at all.
+[2272.08s -> 2278.36s]  Can we go to the, this is slightly out of order, but it's in order to answer the Chairman's
+[2278.36s -> 2284.10s]  question from earlier, the Richard Morgan Casey advice.
+[2284.10s -> 2302.22s]  poll four zeros six four eight four and the date says the 12th of June 2012. I think this
+[2302.22s -> 2310.98s]  is the advice we'll see in a moment that it's recorded as a note of an in-person conference
+[2310.98s -> 2312.38s]  of which you weren't aware.
+[2312.38s -> 2313.58s]  That's right, yes.
+[2313.58s -> 2317.02s]  And to the best of your knowledge, the board was not aware.
+[2317.02s -> 2318.22s]  No, I don't believe so.
+[2318.22s -> 2323.60s]  The only possible, the only person who could possibly be aware might have been
+[2323.60s -> 2327.02s]  Alice Perkins in that conversation Susan had had.
+[2327.02s -> 2329.58s]  But actually, looking at the data of this,
+[2329.58s -> 2332.82s]  I think this comes afterwards, doesn't it?
+[2332.82s -> 2338.86s]  Yes, if we look at the second bullet point, the proposal
+[2338.86s -> 2344.30s]  to instruct an independent expert to prepare a report on the system is the highest risk
+[2344.30s -> 2352.10s]  response to the issue. Was that view communicated to you?
+[2352.10s -> 2362.14s]  No. In fact, a decision had been made, it seems
+[2362.14s -> 2371.14s]  already at the meeting of the 7th of June 2012 not to instruct an expert to prepare
+[2371.14s -> 2377.20s]  a report, a forensic audit of the Horizon system, hadn't it?
+[2377.20s -> 2385.02s]  The decision had been made to go in my head to go with Second Sight for the right reasons.
+[2385.02s -> 2389.50s]  The note records what will it achieve, and I'm not going to attribute any of these words
+[2389.50s -> 2395.54s]  to anyone, because when he gave evidence, Mr. Morgan took the point that it's not clear
+[2395.54s -> 2402.58s]  that it's him speaking and it's here, and it doesn't necessarily represent his advice.
+[2402.58s -> 2410.10s]  It could be anyone speaking. What will it achieve? It will not be able to address any
+[2410.10s -> 2417.18s]  of the civil or criminal cases dealt with under old horizon.
+[2417.18s -> 2423.72s]  Was that advice communicated back to you that an independent report couldn't look at civil
+[2423.72s -> 2427.92s]  or criminal cases dealt with under old horizon?
+[2427.92s -> 2430.56s]  No.
+[2430.56s -> 2434.36s]  Will it seek to review particular cases, if so which ones?
+[2434.36s -> 2439.08s]  And then what might be said to be the important paragraph is the third one.
+[2439.08s -> 2442.88s]  Whatever the findings of the expert report, it will not resolve the problem.
+[2442.88s -> 2447.02s]  The post office will be damned if they do and damned if they don't.
+[2447.02s -> 2451.22s]  If the findings are that there are no issues with Horizon, people will see that as a white
+[2451.22s -> 2452.90s]  wash.
+[2452.90s -> 2459.10s]  And then this, whereas if the findings are negative, that will open the floodgates to
+[2459.10s -> 2465.06s]  damages claims by sub-postmasters who were imprisoned for false accounting.
+[2465.06s -> 2469.10s]  And Access Legal, that's part of Shoesmiths, will start to pursue the civil cases they're
+[2469.10s -> 2472.30s]  currently sitting on.
+[2472.30s -> 2478.30s]  Has that view communicated back to you as relevant to decision making?
+[2478.30s -> 2484.82s]  If we commission an independent report which comes back with negative conclusions, people
+[2484.82s -> 2488.06s]  who have been prisoned might bring claims against us?
+[2488.06s -> 2490.02s]  No, absolutely not.
+[2490.02s -> 2496.42s]  And that that would be a reason not to commission an independent report?
+[2496.42s -> 2503.06s]  it might find out things that entitle people to question their convictions or bring damages
+[2503.06s -> 2504.58s]  claims against us?
+[2504.58s -> 2509.06s]  No, I didn't know about this.
+[2509.06s -> 2515.94s]  Did that ever form part of your decision making? We best not ask for the Deloitte report because
+[2515.94s -> 2519.46s]  if it discovers too much we may face damages claims.
+[2519.46s -> 2521.06s]  No.
+[2521.06s -> 2525.74s]  To your knowledge, did that ever form part of any discussion or decision making at board
+[2525.74s -> 2532.78s]  level? No. And as I say, in the meeting where we took the decision to go with second sight,
+[2532.78s -> 2540.18s]  I don't remember looking at two separate sets of documents and comparing and contrasting.
+[2540.18s -> 2546.18s]  And the foot of the screen that's being displayed, a less risky approach is to agree to take
+[2546.18s -> 2552.70s]  the relevant MPs privately through particular cases in which they are interested. Was that
+[2552.70s -> 2562.62s]  ever communicated back to you? No. Thank you. Can we return to where we were in the chronology,
+[2562.62s -> 2581.22s]  which is the following year, June 2023, by looking at Poll 309-8789?
+[2581.22s -> 2588.22s]  And if we scroll down and look at the text, the message from Olin Lyons, it's dated the
+[2588.22s -> 2591.70s]  28th of June 2013.
+[2591.70s -> 2596.18s]  We're getting quite close here to the date of the production of the second site interim
+[2596.18s -> 2597.18s]  report, aren't we?
+[2597.18s -> 2602.54s]  Which we know was published on the 8th of July 2013.
+[2602.54s -> 2609.98s]  It's quite difficult because the way the text has been printed on this email.
+[2609.98s -> 2616.48s]  But if you look at the fourth bullet point, Miss Lyon says to you that she is going to
+[2616.48s -> 2619.62s]  spend time with Janet.
+[2619.62s -> 2621.10s]  Is that Janet Walker?
+[2621.10s -> 2622.10s]  Yes.
+[2622.10s -> 2624.22s]  And remind us who Janet Walker was.
+[2624.22s -> 2632.26s]  Janet Walker was the executive assistant for Lord Al Buthnott.
+[2632.26s -> 2634.86s]  She says she can give me as long as it takes.
+[2634.86s -> 2644.86s]  My approach will be to try and get to understand the status of the review and the risk to Lord
+[2644.86s -> 2650.38s]  Arbuthnot and us of an incomplete interim report.
+[2650.38s -> 2655.42s]  I'll share the fact that Second Sight are not using all the evidence they've been given,
+[2655.42s -> 2660.72s]  and our concern is that their approach to try and keep everyone happy is not how we
+[2660.72s -> 2665.24s]  we would expect a forensic accountant to behave.
+[2665.24s -> 2670.36s]  I do think this is the right place to share the bugs we found and how we have dealt with
+[2670.36s -> 2678.06s]  them, which is why the report from Rod, stroke Leslie, checked by legal and Mark is important.
+[2678.06s -> 2687.80s]  My objective is to get Janet to a place where she also wants the meeting to be canceled.
+[2687.80s -> 2701.16s]  And then if we scroll up, please, we'll see your reply, um, sending on to Alice Perkins.
+[2701.16s -> 2706.00s]  Second paragraph, you'll see below Alice's, uh, Alwyn's proposed next steps, covers all
+[2706.00s -> 2707.00s]  the ground.
+[2707.00s -> 2714.56s]  Uh, Alwyn and I, third paragraph, are staying close, and I'm expecting an update later
+[2714.56s -> 2721.20s]  this afternoon, no need to bother you today.
+[2721.20s -> 2728.12s]  On what basis did you understand the post officer determined that Second Sight were
+[2728.12s -> 2734.24s]  not using all of the evidence that the post office had given them?
+[2734.24s -> 2738.20s]  From conversations with the team involved in the work.
+[2738.20s -> 2739.36s]  Second Sight were getting it wrong.
+[2739.36s -> 2742.36s]  They were not looking at the evidence.
+[2742.36s -> 2746.36s]  I'm sorry, I didn't mean to cut across you.
+[2746.36s -> 2750.16s]  No, I don't think that is what I was told.
+[2750.16s -> 2753.08s]  What I was told is that they hadn't,
+[2753.08s -> 2757.36s]  because this had run on too long, they hadn't yet had time
+[2757.36s -> 2759.88s]  to take account of the post office's view
+[2759.88s -> 2761.44s]  in the investigations they were doing.
+[2761.44s -> 2763.68s]  That's my recollection of what I was told,
+[2763.68s -> 2766.44s]  not because they were getting it wrong.
+[2766.44s -> 2767.68s]  Was there any?
+[2767.68s -> 2768.64s]  Sorry, I beg your pardon.
+[2768.64s -> 2770.58s]  They may have been getting it wrong
+[2770.58s -> 2778.14s]  because they hadn't yet taken account of the input from the post office.
+[2778.14s -> 2784.98s]  Was there a suggestion in what you were told that second sites were biased in their approach?
+[2784.98s -> 2796.00s]  No, certainly not at this stage. My very clear recollection is this was simply, to describe
+[2796.00s -> 2801.86s]  bit more colloquially, the team felt it was unfair because post office hadn't had the
+[2801.86s -> 2808.72s]  opportunity to contribute yet. Whether that was true or not, I didn't check that was Second
+[2808.72s -> 2812.92s]  Sight, but what I was told is that the work was so far behind that Second Sight had yet
+[2812.92s -> 2816.94s]  to take account of the post office's input.
+[2816.94s -> 2820.42s]  Was the sense of unfairness conveyed to you?
+[2820.42s -> 2822.76s]  Frustration, I think.
+[2822.76s -> 2825.76s]  By who?
+[2825.76s -> 2838.80s]  Alwyn certainly was one of the main people I spoke to, Susan and I think David Oliver,
+[2838.80s -> 2843.16s]  but that's only, I'm only remembered by having seen his name today.
+[2843.16s -> 2848.52s]  What evidence were you told that the post office had provided to Second Sides that they
+[2848.52s -> 2851.84s]  were not using or taking account of?
+[2851.84s -> 2855.36s]  I can't remember today, I'm sorry.
+[2855.36s -> 2861.44s]  They were looking at a number of cases, is my understanding, and these cases raised different
+[2861.44s -> 2862.44s]  issues.
+[2862.44s -> 2868.20s]  So, it would have been whatever data the post office needed to present about the issue that
+[2868.20s -> 2869.76s]  was being investigated.
+[2869.76s -> 2876.76s]  But were you told that SecondSight were trying to, in the words of the email, keep everyone
+[2876.76s -> 2880.24s]  happy?
+[2880.24s -> 2887.60s]  I was told that, and I knew, I think, because we had agreed to fund KALIN-L to support the
+[2887.60s -> 2895.96s]  JFSA, I was told that they, I think, if I remember the timing correctly, that they had
+[2895.96s -> 2901.80s]  been asked by Lord Arbuthnot to keep the JFSA happy.
+[2901.80s -> 2909.84s]  And I don't think we had any problem with that until the team began to raise these questions
+[2909.84s -> 2912.54s]  that perhaps because of that second site,
+[2912.54s -> 2915.44s]  we're not looking at the post office work.
+[2915.44s -> 2919.28s]  But I'm probably now speculating too much, to be fair.
+[2919.28s -> 2922.36s]  Did you tell second site that they were being unfair
+[2922.36s -> 2926.02s]  on the post office by not taking account of the evidence
+[2926.02s -> 2928.12s]  that the post office was giving to them?
+[2929.46s -> 2932.60s]  I didn't have regular conversations with second site.
+[2932.60s -> 2934.48s]  I was running the organization.
+[2934.48s -> 2937.76s]  I wasn't closely involved in the detail of this work.
+[2937.76s -> 2944.42s]  I'm sure if I, I'm not sure if I spoke to him at this time, but I would have had no
+[2944.42s -> 2948.62s]  problem sharing that piece of information.
+[2948.62s -> 2956.82s]  Did you tell Second Sight about the post office's concerns about its approach or alleged approach
+[2956.82s -> 2960.36s]  of keeping the GFSA happy?
+[2960.36s -> 2963.94s]  I don't believe I spoke to Second Sight.
+[2963.94s -> 2970.02s]  anyone to your knowledge say, you're not treating us fairly, you're trying to keep the sub-postmasters
+[2970.02s -> 2972.98s]  happy and you're not looking at our evidence?
+[2972.98s -> 2978.98s]  I would hope that the post office team, sorry, first of all, I don't think the post office
+[2978.98s -> 2981.54s]  team would have said you're trying to keep the sub-postmasters happy.
+[2981.54s -> 2987.06s]  I may be wrong on that because that feels too strong a view in one direction.
+[2987.06s -> 2992.18s]  This whole point was to look at the sub-postmasters' cases, but I think the team would undoubtedly
+[2992.18s -> 2998.22s]  has said to Second Sight, there is more information here to be taken account of.
+[2998.22s -> 3004.74s]  Can we look a little more deeply at the move to select a small number of cases by looking
+[3004.74s -> 3018.54s]  at poll 00144687?
+[3018.54s -> 3021.56s]  This is the previous month.
+[3021.56s -> 3031.42s]  If we look at page two, please, and scroll down.
+[3031.42s -> 3041.38s]  An email between Simon Baker and Second Sight with all the lions copied in.
+[3041.38s -> 3045.42s]  Not you at this stage, but it's about a meeting.
+[3045.42s -> 3051.46s]  I think this is the meeting that we've just seen, post office was going to try and get
+[3051.46s -> 3053.70s]  cancelled.
+[3053.70s -> 3062.08s]  Ron, just to ensure that we're on the same page, Paula would like to say we've agreed
+[3062.08s -> 3064.26s]  the following with SecondSide.
+[3064.26s -> 3066.94s]  Can you confirm you agree?
+[3066.94s -> 3075.04s]  The investigation reports on two to three EMPs cases by summer assess or more, by using
+[3075.04s -> 3081.30s]  the two to three cases, you'll answer the question, have systemic defects in the horizon
+[3081.30s -> 3093.46s]  system resulted in the wrongful conviction or suspension of sub-postmasters?
+[3093.46s -> 3105.20s]  By this stage, had the proposal that we saw at the first thing this morning to examine
+[3105.20s -> 3112.22s]  a representative sample of cases been abandoned?
+[3112.22s -> 3118.86s]  Not on my understanding.
+[3118.86s -> 3131.58s]  How did it come about that by late May, the post office was proposing that by looking
+[3131.58s -> 3139.46s]  at two to three cases, second site could answer the very big question, have systemic defects
+[3139.46s -> 3146.10s]  in the horizon resulted in the wrongful conviction or suspension of sub-postmasters?
+[3146.10s -> 3155.16s]  I'm not sure, but when the report was produced, as the inquiry knows, one of the conclusions
+[3155.16s -> 3158.82s]  was that so far no systemic defects had been found.
+[3158.82s -> 3163.42s]  So whether as a result of the broader work, so Second Sight had been working.
+[3163.42s -> 3166.42s]  Sorry, can you repeat that answer, please?
+[3166.42s -> 3167.42s]  Yes.
+[3167.42s -> 3174.70s]  When the Second Sight Injury Report was published, one of its initial conclusions was that so
+[3174.70s -> 3179.08s]  So far, no systemic issues had been found with the Horizon system.
+[3179.08s -> 3182.32s]  And just stopping there, that's two months after this.
+[3182.32s -> 3189.04s]  Yes, but I'm getting to answer your question, if I may, because to have reached that conclusion,
+[3189.04s -> 3197.56s]  which in a sense is what point four here refers to, referring back to point two, you couldn't
+[3197.56s -> 3199.92s]  reach that conclusion on two to three cases.
+[3199.92s -> 3202.42s]  So how could you do it on two to three cases?
+[3202.42s -> 3204.90s]  Because of the other work they had done.
+[3204.90s -> 3210.52s]  They were working through different themes, as I understood it, so potentially through
+[3210.52s -> 3212.72s]  that work.
+[3212.72s -> 3215.28s]  Second site had been working on this for 10 months now.
+[3215.28s -> 3219.84s]  They hadn't just done two to, well, they hadn't even done two to three cases in that period
+[3219.84s -> 3220.84s]  of time.
+[3220.84s -> 3228.20s]  Why was the proposal to limit the report to determining whether systemic defects in Horizon
+[3228.20s -> 3234.60s]  that resulted in wrongful convictions on the basis of two or three cases?
+[3234.60s -> 3235.60s]  I don't know.
+[3235.60s -> 3238.04s]  I wasn't involved in the conversation.
+[3238.04s -> 3244.92s]  I believe from other documentation I've seen that the recommendation was to choose two
+[3244.92s -> 3250.96s]  of the three, I don't think this is the word, but hardest cases.
+[3250.96s -> 3257.20s]  So not cases that would have presented the post office in the best light, but cases which
+[3257.20s -> 3264.00s]  which could have been used to challenge the Horizon system and then do that work through.
+[3264.00s -> 3266.70s]  There is some documentation on this somewhere else.
+[3266.70s -> 3274.16s]  How could two or three cases possibly answer the question, have systemic defects in Horizon
+[3274.16s -> 3276.54s]  generally resulted in the wrongful conviction?
+[3276.54s -> 3277.54s]  They couldn't.
+[3277.54s -> 3279.80s]  They could not possibly do that.
+[3279.80s -> 3285.48s]  And I wasn't involved in this conversation, but by this stage, there was an urgency to
+[3285.48s -> 3291.88s]  have a report produced that showed that some work was at least in progress and I
+[3291.88s -> 3302.88s]  You say you weren't involved in this conversation. This email says you want to say this.
+[3302.88s -> 3312.00s]  Paula would like to say the following. Yes.
+[3312.00s -> 3318.42s]  Did you want to say that by looking at two or three cases, we can answer the entire question
+[3318.42s -> 3324.92s]  of whether systemic defects had resulted in the wrongful conviction of sub-postmasters?
+[3324.92s -> 3333.98s]  I was absolutely not, to be completely clear, trying to drive a conclusion from Second Sight
+[3333.98s -> 3337.98s]  that they would not have given.
+[3337.98s -> 3340.78s]  That's an answer to a different question.
+[3340.78s -> 3347.60s]  No, I realize that, but I don't recall the back, so I didn't write this email.
+[3347.60s -> 3350.08s]  I wasn't copied in this email.
+[3350.08s -> 3355.60s]  I don't recall a conversation where I consciously said it would be possible, because it wouldn't
+[3355.60s -> 3361.64s]  be possible, to come to a conclusion on systemic defects as a result of two to three cases.
+[3361.64s -> 3362.64s]  My only-
+[3362.64s -> 3367.84s]  Isn't that exactly what happened, Ms. Reynolds, that the second site report addressed a very
+[3367.84s -> 3369.74s]  small number of cases?
+[3369.74s -> 3375.80s]  It contained the sentence about no systemic defects and then forever after the post office
+[3375.80s -> 3379.04s]  paraded that conclusion.
+[3379.04s -> 3382.20s]  It did come to that conclusion in its interim report.
+[3382.20s -> 3386.48s]  There is no way the post office, that first of all there is no way that I would have wanted
+[3386.48s -> 3390.64s]  to persuade Second Sight on something that they were not prepared to say and I don't
+[3390.64s -> 3393.92s]  believe Second Sight would ever have agreed to that.
+[3393.92s -> 3400.52s]  If they came to that conclusion in their interim report, that was their conclusion.
+[3400.52s -> 3403.20s]  Isn't that what the Post Office wanted to drive them to?
+[3403.20s -> 3406.62s]  And isn't this the evidence of such driving?
+[3406.62s -> 3413.76s]  The Post Office most certainly wanted the reassurance that the Horizon system could
+[3413.76s -> 3415.96s]  be relied upon.
+[3415.96s -> 3420.04s]  That has been the objective all the way through this.
+[3420.04s -> 3428.86s]  At no stage did I get the sense that anybody in the post office was going to be able to
+[3428.86s -> 3433.44s]  influence Second Sight over what conclusions they came to.
+[3433.44s -> 3437.44s]  I would be very surprised if that was the case here.
+[3437.44s -> 3445.92s]  Did you receive or the board receive any advice as to the appropriate scope of an investigation
+[3445.92s -> 3452.96s]  by Second Site as to the nature and extent of any investigation that would be required
+[3452.96s -> 3459.32s]  in order to determine whether there were systemic defects in Horizon.
+[3459.32s -> 3464.72s]  The only information I and the Board had was contained in the terms of reference of the
+[3464.72s -> 3469.36s]  work the Second Site were doing, which is what we looked at earlier.
+[3469.36s -> 3477.36s]  i.e. we, the post office, need to engage somebody to produce a report whose conclusions are
+[3477.36s -> 3483.54s]  respectable and truly provide us with the answer as to whether or not there are systemic
+[3483.54s -> 3485.58s]  defects in Horizon.
+[3485.58s -> 3487.54s]  Yes.
+[3487.54s -> 3493.34s]  You think that's the report they produced?
+[3493.34s -> 3501.06s]  Second site didn't produce the report that Project Spire under Deloitte could have produced.
+[3501.06s -> 3505.26s]  Second site responded to the terms of reference which were agreed with them.
+[3505.26s -> 3514.06s]  This work was approached from the point of view of trying to resolve postmaster cases.
+[3514.06s -> 3515.42s]  That was the genesis of it.
+[3515.42s -> 3524.34s]  That was the initial conversation with Rood, Arbuthnot and Alice Perkins.
+[3524.34s -> 3529.02s]  Can we move forwards, please?
+[3529.02s -> 3534.66s]  Before we do, Mr. Baker, can I just be clear about what you are saying about this email,
+[3534.66s -> 3536.62s]  Ms. Wells?
+[3536.62s -> 3549.38s]  As I read it, it is a request by Mr. Baker to Mr. Warmington that four matters are agreed,
+[3549.38s -> 3554.62s]  and it reads as if he is making that request on your behalf.
+[3554.62s -> 3555.62s]  All right?
+[3555.62s -> 3556.62s]  That's how it reads.
+[3556.62s -> 3557.62s]  Yes, it does read that way.
+[3557.62s -> 3565.64s]  So what is your evidence to me about whether Mr. Baker was accurately representing what
+[3565.64s -> 3567.64s]  you had told him in this email?
+[3581.08s -> 3585.16s]  Firstly, Suin, I don't recall the conversation
+[3585.16s -> 3588.32s]  with Simon Baker at all.
+[3588.32s -> 3593.32s]  I rarely met with Simon.
+[3593.32s -> 3595.88s]  And if I did, it was usually with Susan or Alwyn.
+[3599.72s -> 3606.08s]  But it sounds as though, at some stage,
+[3606.08s -> 3608.20s]  a conversation was had.
+[3608.20s -> 3611.36s]  And I may have accepted that you could,
+[3611.36s -> 3613.84s]  this email could have been produced one of two ways,
+[3613.84s -> 3614.96s]  couldn't it, multiple ways.
+[3614.96s -> 3617.68s]  I could have said, this is what I want.
+[3617.68s -> 3620.96s]  Or he could have said to me, this is where we're at.
+[3620.96s -> 3627.08s]  We think that actually we will get two to three MP cases done, and I may well have said,
+[3627.08s -> 3633.44s]  will that help us answer the question about other systemic defects in the Horizon system?
+[3633.44s -> 3640.96s]  I wouldn't have known personally from any of the, because I wasn't involved in the work
+[3640.96s -> 3647.64s]  or conversations at Second Sight, point four about whether they could have said no or not
+[3647.64s -> 3649.06s]  at this stage.
+[3649.06s -> 3654.62s]  So I can only assume that has come from a conversation with Simon Baker and or somebody
+[3654.62s -> 3655.62s]  else.
+[3655.62s -> 3656.62s]  All right.
+[3656.62s -> 3657.62s]  Thank you.
+[3657.62s -> 3677.18s]  Can we move forward a couple of days to poll 309-8317?
+[3677.18s -> 3684.24s]  This is a briefing for you, for the meeting that was proposed to be held between you and
+[3684.24s -> 3686.14s]  James R. Buffnot on the 23rd of May.
+[3686.14s -> 3687.14s]  Can you see that?
+[3687.14s -> 3688.14s]  Yes.
+[3688.14s -> 3689.14s]  Yes.
+[3689.14s -> 3696.98s]  And it says, under key messages, we're concerned that the investigation is overrunning, the
+[3696.98s -> 3703.06s]  findings will not be definitive, and there'll be no satisfactory outcome to the horizon
+[3703.06s -> 3706.70s]  question for MPs or the post office.
+[3706.70s -> 3713.46s]  We would like to discuss ways to more clearly define the scope so we get a definitive outcome
+[3713.46s -> 3720.24s]  within reasonable time scales.
+[3720.24s -> 3726.50s]  And then under the heading background, 2.1, when the post office commissioned second site,
+[3726.50s -> 3734.82s]  the expectation was that the investigation would review a small number of MP cases, six
+[3734.82s -> 3744.90s]  to 12 cases. Firstly, does that represent your recollection of the post office's expectation
+[3744.90s -> 3748.82s]  when Second Sight were being instructed?
+[3748.82s -> 3754.38s]  I don't remember today, but we were talking to Lord Arbuthnot and I think two or three
+[3754.38s -> 3758.88s]  other MPs, so that's entirely possible.
+[3758.88s -> 3767.40s]  Do you know why it was the post office's expectation that a smallish number of cases, six to 12,
+[3767.40s -> 3771.44s]  would be the limit of second site's review?
+[3771.44s -> 3778.32s]  Presumably because that was the number that was being discussed at the time.
+[3778.32s -> 3780.12s]  Discussed by who?
+[3780.12s -> 3784.68s]  With James R. Buffnot and the team working on it.
+[3784.68s -> 3791.68s]  I don't recollect six to 12 cases as a particular number, because what I remember is that the
+[3791.68s -> 3795.56s]  number increased as more MPs raised cases.
+[3795.56s -> 3800.32s]  You remember the second site proposal that we looked at.
+[3800.32s -> 3810.36s]  It suggested scope of work was to review a representative sample of cases in order to
+[3810.36s -> 3813.68s]  answer the question of whether there had been wrongful convictions.
+[3813.68s -> 3815.44s]  Yes.
+[3815.44s -> 3820.08s]  Was that the post office's understanding when it was commissioning second side, that that's
+[3820.08s -> 3826.72s]  the work that it would be undertaking?
+[3826.72s -> 3832.76s]  If that is what was in the final terms of reference, yes.
+[3832.76s -> 3838.92s]  The minute, oh sorry, the speaking note or briefing carries on, MPs have now submitted
+[3838.92s -> 3844.52s]  29 cases, and JFSA have submitted about 20 cases.
+[3844.52s -> 3851.48s]  It's unlikely that the investigation, no matter how long it runs, will conclude anything definitive.
+[3851.48s -> 3856.78s]  As the remit has become blurred, different stakeholders have different expectations,
+[3856.78s -> 3860.10s]  and the evidence is open to interpretation.
+[3860.10s -> 3864.36s]  Was that a view that you held at the time?
+[3864.36s -> 3869.76s]  I didn't have a view on the work because I wasn't closely associated with it.
+[3869.76s -> 3875.08s]  So I would take the view that I was given by the experts who were doing the work at
+[3875.08s -> 3876.08s]  the time.
+[3876.08s -> 3884.38s]  So you would subscribe to or be willing to repeat that view expressed in 2.3?
+[3884.38s -> 3885.38s]  Not necessarily.
+[3885.38s -> 3888.74s]  I mean, if I was given information, I would usually ask questions about it.
+[3888.74s -> 3892.68s]  I don't know what I did with this brief at the time.
+[3892.68s -> 3899.88s]  the suggestion that any investigation would conclude anything definitive, was that your
+[3899.88s -> 3900.88s]  understanding?
+[3900.88s -> 3905.92s]  No, I don't think that was my understanding at any time throughout this, and the inquiry
+[3905.92s -> 3911.40s]  will see there is further documentation where I have, I'm exhorting the post office and
+[3911.40s -> 3917.88s]  second site to move through the cases because I wanted the cases looked at.
+[3917.88s -> 3925.88s]  There was at this time, actually, a potential helpful issue, a number of cases had come
+[3925.88s -> 3932.36s]  through, I think, from MPs, and there was some debate about whether there was sufficient
+[3932.36s -> 3939.08s]  information and quality of information to be able to do any work on them at all.
+[3939.08s -> 3940.38s]  And that was second sight for you.
+[3940.38s -> 3944.20s]  They went back to some of those cases, and in some cases, they couldn't produce information.
+[3944.20s -> 3948.20s]  So whether that was part of this point, I don't know.
+[3948.20s -> 3955.32s]  Did the post office subsequently present Second Sites interim report as a definitive view
+[3955.32s -> 3963.32s]  that there were no systemic errors or failures in Horizon?
+[3963.32s -> 3968.48s]  The post office presented it sometimes definitively and sometimes less so.
+[3968.48s -> 3969.48s]  Yes.
+[3969.48s -> 3977.48s]  Do you know how that came about given what is recognized by this note at this stage?
+[3977.48s -> 3985.48s]  No, I think what happened is that when the interim report was published and it said it
+[3985.48s -> 3991.20s]  was an interim report and so far it had found no systemic issues with Horizon, that was
+[3991.20s -> 3998.88s]  reported sometimes in communications saying so far they had found none, and there is documentation
+[3998.88s -> 4004.22s]  where I'm asked about, or maybe I offered the view that actually the qualification was
+[4004.22s -> 4010.98s]  so far. And there are other communications which may simply be inconsistency of communication,
+[4010.98s -> 4016.70s]  I don't know, which simply says they had found nothing systemic.
+[4016.70s -> 4023.82s]  Under the heading, sorry, just above the heading, proposal 2.6, the investigation's been running
+[4023.82s -> 4034.38s]  for a year and to date no evidence of systemic failures has been found. Proposal. James Arbuthnot
+[4034.38s -> 4042.62s]  to request Second Sight to complete the investigations on two to three MPs cases, selecting the ones
+[4042.62s -> 4050.22s]  they feel best indicate systemic problems. That was the point I was trying to make earlier.
+[4050.22s -> 4065.46s]  How would an individual case indicate systemic problems?
+[4065.46s -> 4069.10s]  I don't know that I can answer that question.
+[4069.10s -> 4070.62s]  It could be tricky, isn't it?
+[4070.62s -> 4078.74s]  It's very tricky, yes.
+[4078.74s -> 4085.54s]  This was a briefing to you of what you should say and seek to achieve in a meeting with
+[4085.54s -> 4089.54s]  James R. Buthnodt.
+[4089.54s -> 4092.54s]  Yes?
+[4092.54s -> 4095.54s]  Yes.
+[4095.54s -> 4106.38s]  Had you signed up to this idea by this time at least then that James R. Buthnodt should
+[4106.38s -> 4114.38s]  be asked to persuade Second Sight to wind their investigation up on two to three cases,
+[4114.38s -> 4120.24s]  and those two to three cases would answer the question, have systemic defects resulted
+[4120.24s -> 4129.98s]  in the wrongful conviction of sub-postmasters?
+[4129.98s -> 4131.14s]  Could you ask the question again?
+[4131.14s -> 4132.14s]  Yes.
+[4132.14s -> 4133.14s]  I'm sorry.
+[4133.14s -> 4134.14s]  Yes.
+[4134.14s -> 4143.54s]  In readiness for the meeting with James Arbuthnot on the 23rd of May 2013, you signed up to
+[4143.54s -> 4152.10s]  the idea that he would be asked to persuade second site or request second site to wind
+[4152.10s -> 4160.02s]  their investigation up on the basis of two to three MP cases answering the question,
+[4160.02s -> 4168.04s]  systemic defects in Horizon resulted in the wrongful conviction of some postmasters?
+[4168.04s -> 4177.28s]  I don't believe so because we had committed to a larger number of cases. There were significantly
+[4177.28s -> 4181.00s]  more cases now in, I was going to say the scheme, but we're not yet into the scheme,
+[4181.00s -> 4190.22s]  it now in the project. This was an interim report and I don't think there is any evidence
+[4190.22s -> 4195.40s]  that I thought that was the case. My understanding was that this, we had made a commitment to
+[4195.40s -> 4201.44s]  the MPs and all the way through this I wanted all of the cases looked at.
+[4201.44s -> 4207.90s]  We've seen now an email that attributes to you a suggestion that you wanted to agree
+[4207.90s -> 4220.12s]  this with James Arbuthnot and a speaking note or a briefing note saying the same thing?
+[4220.12s -> 4229.46s]  It doesn't say that I am trying to wind the scheme up, which I think was your question.
+[4229.46s -> 4236.82s]  Okay, they should focus on answering the question, have systemic defects in Horizon resulted
+[4236.82s -> 4241.72s]  on in the wrongful conviction of sub-postmasters by reference to two to three cases.
+[4241.72s -> 4242.72s]  Yeah, so.
+[4242.72s -> 4246.00s]  Was that your view as to what should happen?
+[4246.00s -> 4247.00s]  No.
+[4247.00s -> 4256.10s]  At no stage did I make the link that you have just led me to make between these two to three
+[4256.10s -> 4260.44s]  cases and being able to reach a view on the system and being able to complete the whole
+[4260.44s -> 4262.16s]  piece of work.
+[4262.16s -> 4267.22s]  What I was very aware of is that this was an interim review coming up, and that there
+[4267.22s -> 4271.16s]  were more cases to go through the scheme.
+[4271.16s -> 4282.78s]  The link is made right here in this document, isn't it, in paragraphs 3.1 and 3.2?
+[4282.78s -> 4291.04s]  It is, and as I mentioned earlier, before the document came up, my understanding was
+[4291.04s -> 4296.08s]  that from the work Second Sight had done, presumably around the thematic work where
+[4296.08s -> 4300.46s]  they had been looking at a number of cases, and they're now being asked to take two or
+[4300.46s -> 4312.80s]  three cases, which may or may not show whether sub-postmasters had been wrongfully convicted.
+[4312.80s -> 4313.80s]  Can we move forward?
+[4313.80s -> 4316.44s]  I was not trying to close anything down.
+[4316.44s -> 4319.86s]  It's really important that I say that.
+[4319.86s -> 4323.90s]  Can we move forward, please, to closer to the production of the interim report, poll
+[4323.90s -> 4339.10s]  309, 9003.
+[4339.10s -> 4343.90s]  An email from Martin Edwards.
+[4343.90s -> 4346.98s]  Can you explain who Mr. Edwards was at this time, July 13th?
+[4346.98s -> 4359.32s]  Ed was my Chief of Staff. He emails you on the 4th of July with a draft for the board.
+[4359.32s -> 4364.74s]  He says hopefully it's not too long but it's difficult not to open some of these issues
+[4364.74s -> 4372.54s]  without providing a reasonable explanation. And so what follows is this writer draft email
+[4372.54s -> 4374.46s]  that you were to send to your board.
+[4374.46s -> 4375.18s]  Right.
+[4375.18s -> 4376.18s]  Is that right?
+[4376.18s -> 4376.94s]  Yes.
+[4376.94s -> 4377.78s]  OK.
+[4377.78s -> 4381.50s]  And then beneath the dotted line, we see the draft email.
+[4381.50s -> 4382.98s]  I wanted to send you a brief email
+[4382.98s -> 4385.22s]  to update you on where we are with the second site
+[4385.22s -> 4386.94s]  investigation.
+[4386.94s -> 4388.86s]  We've been engaging closely with second site
+[4388.86s -> 4390.90s]  throughout the week to understand the position they
+[4390.90s -> 4393.26s]  intend to take in the interim report
+[4393.26s -> 4396.22s]  and emphasizing our concern that their findings must be even
+[4396.22s -> 4399.06s]  handed and grounded in the facts.
+[4399.06s -> 4401.22s]  In line with our discussion on Monday's board call,
+[4401.22s -> 4407.30s]  we understand they've not found any evidence yet of systemic issues with the Horizon system,
+[4407.30s -> 4413.54s]  and it should be noted that this is based on a detailed review of their four best cases
+[4413.54s -> 4420.46s]  in terms of compelling evidence. So, by this time, I think you had drawn a link between
+[4420.46s -> 4426.28s]  a review of a small number of cases, it's got up to four, and whether there were systemic
+[4426.28s -> 4428.10s]  issues with Horizon.
+[4428.10s -> 4432.26s]  Yes, but I hadn't drawn that link.
+[4432.26s -> 4440.98s]  I think the way I read this is that is what the team had understood from second site.
+[4440.98s -> 4446.06s]  What second site were prepared to say that there were no systemic issues with Horizon
+[4446.06s -> 4451.06s]  generally on the basis of looking at four cases?
+[4451.06s -> 4457.82s]  That appears to be the case, but as I've said, they also were doing wider work by this stage.
+[4457.82s -> 4467.46s]  What was your understanding at this point, at what systemic issues meant?
+[4467.46s -> 4477.90s]  I'm not sure, as I say in my statement, that I was able to make an informed decision on
+[4477.90s -> 4478.90s]  that.
+[4478.90s -> 4487.10s]  Second site themselves, I think, refer to it as something that might have a broad impact
+[4487.10s -> 4490.62s]  the post offices or across the system. I can't remember, but you will have the reference.
+[4490.62s -> 4494.30s]  Was there a shared? I'm so sorry.
+[4494.30s -> 4500.34s]  And so my assumption, if they felt they could reach this conclusion from a small number
+[4500.34s -> 4506.34s]  of cases, was that perhaps, but this is my reflection today. I don't think I had the
+[4506.34s -> 4513.02s]  reflection at the time, was that perhaps they had seen something in those cases that could
+[4513.02s -> 4521.28s]  have occurred elsewhere. But I'm really, I'm speculating to try and help answer the question
+[4521.28s -> 4523.54s]  that I didn't ask at the time.
+[4523.54s -> 4530.24s]  Was there a shared understanding between you and the post office board as to what systemic
+[4530.24s -> 4534.84s]  issues meant?
+[4534.84s -> 4537.58s]  I don't think the conversation ever happened.
+[4537.58s -> 4542.40s]  Was there a shared understanding between you and the post office team that were leading
+[4542.40s -> 4547.68s]  on the work with Second Sight as to what systemic issues meant.
+[4547.68s -> 4556.84s]  Was there any discussion over what systemic issues meant?
+[4556.84s -> 4560.28s]  I don't recall one, no.
+[4560.28s -> 4561.28s]  Thank you.
+[4561.28s -> 4563.08s]  Sir, it's 11 o'clock.
+[4563.08s -> 4564.96s]  May we take the morning break until quarter past?
+[4564.96s -> 4565.96s]  Yeah.
+[4565.96s -> 4566.96s]  Thank you.
+[4566.96s -> 4596.16s]  Ms. Reynolds, can we turn please to some documents that may provide some insight into your approach
+[4596.16s -> 4603.12s]  and decision making in relation to the post office's decision not to review all past
+[4603.12s -> 4610.12s]  convictions in the light of what was emerging from second sight. Can we look please at poll
+[4610.12s -> 4628.80s]  And if we look at the bottom of page one, please.
+[4628.80s -> 4633.84s]  And if we just look at the top of the page, I think we'll see who this is sent to.
+[4633.84s -> 4639.54s]  Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+[4639.54s -> 4646.36s]  Go back to the bottom of page one, please.
+[4646.36s -> 4648.06s]  Thanks for your inputs today.
+[4648.06s -> 4654.64s]  Susan, I need your thoughts on the note below, especially one and two, please, and the questions
+[4654.64s -> 4657.38s]  at the end of the mail.
+[4657.38s -> 4660.26s]  I think we have the following, which is a variant.
+[4660.26s -> 4665.36s]  One, a working party over the next three to four months.
+[4665.36s -> 4668.60s]  This comprises the post office working collaboratively
+[4668.60s -> 4672.00s]  with the JFSA and does three things.
+[4672.00s -> 4674.12s]  So just stopping where we are at the moment.
+[4674.12s -> 4679.88s]  I think you knew, is this right, of the likely content
+[4679.88s -> 4682.80s]  and conclusions of the interim report?
+[4682.80s -> 4685.72s]  This is two days before it was published.
+[4685.72s -> 4689.18s]  And you're now working out the next steps.
+[4689.18s -> 4692.66s]  I think that's right, yes.
+[4692.66s -> 4698.66s]  The working party firstly explores the second site, eight themes for improvement, can we
+[4698.66s -> 4702.42s]  get less than eight, and agrees how they can be implemented.
+[4702.42s -> 4708.16s]  Secondly, looks at the remaining past cases with the JFSA and MPs if they wish to see
+[4708.16s -> 4712.86s]  if further themes or new evidence emerge.
+[4712.86s -> 4721.66s]  And then this, thirdly, our external lawyers review all prosecutions in the past 12 to
+[4721.66s -> 4728.94s]  18 months since the post office has been independent of Royal Mail in the light of the second site
+[4728.94s -> 4730.22s]  findings.
+[4730.22s -> 4736.62s]  The JFSA post office working group reviews the findings, and then in square brackets,
+[4736.62s -> 4742.34s]  why would they not review all cases of false accounting, e.g. over the last five to ten
+[4742.34s -> 4751.10s]  years, especially where amounts have been small. I assume large amounts would be less
+[4751.10s -> 4759.94s]  likely to get away with saying they were muddle-headed and not helped. But could we review all? It's
+[4759.94s -> 4767.46s]  the false accounting charge that James R. Buffnot was most concerned about.
+[4767.46s -> 4776.50s]  And then if we scroll on, please, over the page, I'm going to skip over two and three
+[4776.50s -> 4784.06s]  for the moment and look at four, issuing a statement that although the system has been
+[4784.06s -> 4794.42s]  proved to have no systemic issues, and our training support processes and helplines have
+[4794.42s -> 4800.74s]  have worked for most of the 50,000 to 60,000 colleagues over the past decade, we're nonetheless
+[4800.74s -> 4806.98s]  genuinely sorry that some of our sub-postmasters who were struggling did not feel we offered
+[4806.98s -> 4816.66s]  them sufficient help and support when they needed it. We're grateful to the JFSA and
+[4816.66s -> 4822.54s]  James R. Buffnot for highlighting the issues. Many are historic and already improved, but
+[4822.54s -> 4828.74s]  rules always open to new ways to improve how we do business to ensure the post office stays
+[4828.74s -> 4836.42s]  as trusted and effective in its communities as it ever was.
+[4836.42s -> 4846.82s]  So going back, and sorry, you say can we draft this into something I could send to Alan Bates?
+[4846.82s -> 4847.82s]  Yes?
+[4847.82s -> 4848.82s]  Yes.
+[4848.82s -> 4849.82s]  Yes.
+[4849.82s -> 4858.38s]  A last paragraph, Susan, would we ever ask the lawyers to consider reviewing past prosecutions?
+[4858.38s -> 4863.10s]  Is that what we're talking about in one above, but simply not using the terms?
+[4863.10s -> 4865.54s]  If not, why would it be different?
+[4865.54s -> 4869.34s]  Of our 500 prosecutions, how many are for false accounting?
+[4869.34s -> 4873.42s]  The clarity, these are open questions, just want to know the answers, not an indication
+[4873.42s -> 4874.94s]  that I want us to do so.
+[4874.94s -> 4887.14s]  So just going back to the first page, please, at the foot, the point three, our lawyers,
+[4887.14s -> 4895.80s]  external lawyers reviewing all prosecutions in the past 12 to 18 months.
+[4895.80s -> 4901.88s]  And then you ask the question, why would the external lawyers not review all cases of false
+[4901.88s -> 4911.14s]  accounting over the last five to ten years. Why was the proposed review to be limited
+[4911.14s -> 4914.84s]  to prosecutions in the last 12 to 18 months?
+[4914.84s -> 4920.92s]  I don't remember, and if I might just add in case there's any confusion, the description
+[4920.92s -> 4928.22s]  muddle-headed was one that Mr Bates had used. That wasn't a word and I had picked that up.
+[4928.22s -> 4935.86s]  But in terms of answering your question specifically, I can't recall why 12 to 18 months.
+[4935.86s -> 4941.50s]  There was a question raised by the board at some stage as to...
+[4941.50s -> 4945.26s]  That these are your proposals, though?
+[4945.26s -> 4947.46s]  No, I think this is...
+[4947.46s -> 4956.22s]  I believe this is me pulling together a number of suggestions that had come in over a period
+[4956.22s -> 4958.50s]  with time from different colleagues.
+[4958.50s -> 4966.26s]  And you have drawn them together and said, we've got the following, which is a variant,
+[4966.26s -> 4970.74s]  and you've said, can this be drawn up into a document that can be sent to Alan Bates?
+[4970.74s -> 4975.78s]  Yes. And what I'm doing here, I think, is showing with colleagues, have I, the way that
+[4975.78s -> 4982.82s]  I worked and they worked in an iterative process, is have I understood what, you know, does
+[4982.82s -> 4984.82s]  this seem a sensible way forward?
+[4984.82s -> 4990.90s]  And so you were going to propose that the lawyers review all prosecutions in the past
+[4990.90s -> 4992.90s]  12 to 18 months?
+[4992.90s -> 4995.06s]  No, I wasn't proposing that.
+[4995.06s -> 4998.34s]  I had been given that information, I think, by somebody else.
+[4998.34s -> 5000.86s]  Okay, who had given you the information?
+[5000.86s -> 5002.58s]  It could only have been Susan.
+[5002.58s -> 5006.34s]  Why were they proposing the past 12 to 18 months?
+[5006.34s -> 5007.34s]  That I'm not sure.
+[5007.34s -> 5017.06s]  What I was just trying to say is that the board had asked at some stage, but I'm not
+[5017.06s -> 5025.90s]  sure if it was at this point, whether the company, and this is also an Alice Perkins
+[5025.90s -> 5035.02s]  statement, had conducted any prosecutions which had relied solely on Horizon because
+[5035.02s -> 5041.06s]  there was a concern, clearly, because of the issues that were being raised by Lord Arbuthnot,
+[5041.06s -> 5047.42s]  that the Board didn't want to be taking prosecutions until the various investigations had been
+[5047.42s -> 5051.98s]  seen through. But I don't know whether that was anything to do with this particular point.
+[5051.98s -> 5059.50s]  If I have collated this from information from colleagues, that could only have come from
+[5059.50s -> 5061.14s]  Susan, I think.
+[5061.14s -> 5066.90s]  You drew this up as a collection of what had been said to you or asked to you, and you
+[5066.90s -> 5074.34s]  were happy to put it forward as a proposal subject to the questions that you asked.
+[5074.34s -> 5080.94s]  Yes, I think we were trying to find a way through post the interim report.
+[5080.94s -> 5085.26s]  The interim report was about to be published, and we still had numbers of cases that needed
+[5085.26s -> 5086.66s]  to be reviewed.
+[5086.66s -> 5093.14s]  We were trying to find, and what actually happens is this is moved on a couple more
+[5093.14s -> 5099.38s]  stages, was a solution that would get us through the other cases that would work for the JFSA.
+[5099.38s -> 5106.66s]  So what was the logic of the proposal to review prosecutions in the past 12 to 18 months?
+[5106.66s -> 5110.94s]  I'm afraid I can't remember and I can see that I'm asking in a sense, I don't put it
+[5110.94s -> 5115.70s]  that clearly, but I'm saying why would they not review all the cases?
+[5115.70s -> 5122.54s]  It says review all prosecutions in the past 12 to 18 months since the post office has
+[5122.54s -> 5129.26s]  been independent of Royal Mail. Was that seen in your discussions with the people involved
+[5129.26s -> 5137.74s]  as the important point of distinction will only go back to the point of separation, i.e.
+[5137.74s -> 5138.74s]  April 2012?
+[5138.74s -> 5146.66s]  No, I think that is my point about the question that was raised in the Board, because the
+[5146.66s -> 5153.26s]  Board had only been in place since the Post Office had been independent of Royal Mail.
+[5153.26s -> 5160.38s]  You ask in brackets why would they, the external lawyers, not review all cases, e.g. over the
+[5160.38s -> 5165.50s]  last five to ten years. Why were you asking that?
+[5165.50s -> 5169.78s]  I assume, because that seemed a fairly sensible question, which is why would we be restricting
+[5169.78s -> 5172.46s]  ourselves to a particular time period?
+[5172.46s -> 5173.82s]  That's logical, isn't it?
+[5173.82s -> 5178.12s]  If we're trying to do this properly, why wouldn't we do all of them, yes?
+[5178.12s -> 5182.34s]  If we're doing this properly and fairly, why wouldn't we look back at all cases of false
+[5182.34s -> 5183.34s]  accounting?
+[5183.34s -> 5184.34s]  Yes.
+[5184.34s -> 5188.54s]  Was that done?
+[5188.54s -> 5196.70s]  The scheme, no, in terms of what we know today, clearly not.
+[5196.70s -> 5207.10s]  The scheme was opened to 150 cases that came forwards, and the post office advertised across
+[5207.10s -> 5213.62s]  the network for any post masters who wanted to come into the scheme and have their cases
+[5213.62s -> 5214.62s]  reviewed.
+[5214.62s -> 5220.24s]  So, my understanding at the time is that we were open to, however many postmasters came
+[5220.24s -> 5226.64s]  forwards, but in terms of specifically the post office legal team and its lawyers, going
+[5226.64s -> 5233.48s]  back and looking at all the cases, that wasn't the work that was in place and I wouldn't...
+[5233.48s -> 5234.92s]  Why wasn't it put in place?
+[5234.92s -> 5240.64s]  Here you're suggesting that the post office itself, through external lawyers, proactively
+[5240.64s -> 5247.72s]  review all cases of false accounting going back up to a decade and you've I think accepted
+[5247.72s -> 5255.60s]  that that would be the fair and proper thing to do. Why didn't the proper and fair thing
+[5255.60s -> 5259.16s]  to do get done?
+[5259.16s -> 5263.48s]  I can't remember whether you have any further documentation that would see what answer I
+[5263.48s -> 5266.48s]  got to that.
+[5266.48s -> 5272.06s]  We're going to come to the answers, the narrow answers, and essentially we're going to find
+[5272.06s -> 5278.40s]  out that Mark Davis, the PR guy, said it's very dangerous.
+[5278.40s -> 5279.84s]  I don't remember that.
+[5279.84s -> 5285.76s]  I was asking the question to do this work the right way, and my understanding and acceptance
+[5285.76s -> 5292.04s]  of what was proposed, which was accepted by the MPs and everybody else involved, was that
+[5292.04s -> 5295.28s]  the mediation scheme was the right way through.
+[5295.28s -> 5303.08s]  I think we see other documentation that sees cases go to the CCRC.
+[5303.08s -> 5308.58s]  There is documentation that says cases can't be resolved through mediation in the scheme
+[5308.58s -> 5313.28s]  and they would need to go through the Court of Appeal.
+[5313.28s -> 5317.56s]  The fact I can recall those, I suspect there was a wider discussion around this at some
+[5317.56s -> 5318.56s]  stage.
+[5318.56s -> 5334.68s]  Do you agree that your nascent idea here of a review of all prosecutions of false accounting,
+[5334.68s -> 5347.18s]  if it had been carried into effect, that may have avoided a lost decade until miscarriages
+[5347.18s -> 5357.66s]  of justice were discovered?
+[5357.66s -> 5359.54s]  It may well have done.
+[5359.54s -> 5360.54s]  It may well have done.
+[5360.54s -> 5366.86s]  Do you think the failure to carry into effect the idea that you posit here was a missed
+[5366.86s -> 5369.86s]  opportunity?
+[5369.86s -> 5378.90s]  At the time, I and the board and everybody else involved in what succeeded after this
+[5378.90s -> 5385.62s]  particular point, sorry, wrong word, what took place after this particular point, felt
+[5385.62s -> 5388.86s]  that that was completely the right way to do this.
+[5388.86s -> 5396.46s]  We were concentrating on individual cases.
+[5396.46s -> 5403.46s]  You say that such a review, especially where cases have been small, because large amounts
+[5403.46s -> 5408.44s]  would be less likely to get away with saying they were muddle-headed.
+[5408.44s -> 5411.64s]  What do you mean by that?
+[5411.64s -> 5415.96s]  I'm not entirely sure now.
+[5415.96s -> 5420.84s]  You can see from the way these questions are asked that I'm operating in an area of business
+[5420.84s -> 5427.68s]  the legal sphere that I, at the time especially, was very naive about and
+[5427.68s -> 5433.50s]  didn't understand. So I am asking questions because one of the roles of a
+[5433.50s -> 5439.48s]  chief executive is to not sit on questions, is to not stay quiet on things
+[5439.48s -> 5444.32s]  that you don't understand. Sometimes you ask questions and they sound stupid but
+[5444.32s -> 5448.68s]  it's the right thing to do because you you need to ask those questions. And I
+[5448.68s -> 5459.60s]  I'm not entirely sure here whether I was assuming that large amounts of false
+[5459.60s -> 5465.92s]  accounting might point more to crime than not. I don't know.
+[5465.92s -> 5472.80s]  Can you help us as to why you would come up with that idea?
+[5472.80s -> 5486.12s]  A person accused of false accounting in relation to a small amount of money may be more likely
+[5486.12s -> 5495.88s]  to deserve or need a review of their conviction versus a person accused of false accounting
+[5495.88s -> 5498.72s]  a large amount of money.
+[5498.72s -> 5500.56s]  I don't think that's what I'm saying.
+[5500.56s -> 5507.40s]  I think what I'm saying is that if, so first of all, I'm asking questions and I don't
+[5507.40s -> 5509.64s]  understand this.
+[5509.64s -> 5515.80s]  I think what I was asking is that if somebody had committed false accounting over a long
+[5515.80s -> 5523.44s]  period of time and had therefore reached a large sum, and I realize today and I regret
+[5523.44s -> 5532.68s]  what I said, that I understand very much today why sub-postmasters were driven to do this,
+[5532.68s -> 5538.56s]  but at the time, my naive assumption was that if somebody was false accounting on a regular
+[5538.56s -> 5545.40s]  basis over a long period of time and accumulated a large amount false accounted, that might
+[5545.40s -> 5555.28s]  give an intention of something that was perhaps more planned than where an amount might have
+[5555.28s -> 5557.48s]  been an occasional example.
+[5557.48s -> 5562.96s]  Okay, can we look at Mr Davies' reply?
+[5562.96s -> 5572.96s]  Poll 3099055.
+[5572.96s -> 5581.88s]  to the page. Hi, Paula, could we have a word at some point today to discuss this, and specifically
+[5581.88s -> 5590.12s]  how far we go in terms of the wording below? I'm sending this just to you at this stage.
+[5590.12s -> 5595.88s]  I'm very concerned that we may get into a position, sorry, get to a position where we
+[5595.88s -> 5601.86s]  go so far in our commitments that we actually fuel the story and turn it into something
+[5601.86s -> 5608.14s]  bigger than it is. I'm not at all complacent about the issues, but there is a real danger
+[5608.14s -> 5616.20s]  in going too far in commitments about past cases.
+[5616.20s -> 5621.44s]  This is for two reasons. First, the substance of the report doesn't justify this response.
+[5621.44s -> 5626.82s]  Indeed, the response is at such a level that our current media strategy would mean there
+[5626.82s -> 5630.08s]  There will be some coverage, but not very much.
+[5630.08s -> 5636.38s]  If we say publicly that we'll look at past cases, whether from recent history or going
+[5636.38s -> 5642.10s]  further back, we will open this up very significantly into front page news.
+[5642.10s -> 5646.00s]  In media terms, it becomes mainstream, very high profile.
+[5646.00s -> 5651.10s]  It will also give James Arbuthnot a very strong case for asking for a parliamentary statement
+[5651.10s -> 5652.82s]  from BIS.
+[5652.82s -> 5656.50s]  My second concern is the impact this would have more broadly.
+[5656.50s -> 5662.24s]  It would have the ballistic impact, which A.B. fears.
+[5662.24s -> 5668.16s]  It would lead to a very public narrative about the very nature of the business, raising questions
+[5668.16s -> 5670.36s]  about Horizon.
+[5670.36s -> 5675.52s]  The reality of what Second Sight has found would be misunderstood, and having an impact
+[5675.52s -> 5684.38s]  on public views about the post office, and really widening the issue to the whole network.
+[5684.38s -> 5692.70s]  Do you agree that Mr Davis is here giving you personal advice on the extent to which
+[5692.70s -> 5702.14s]  past convictions are reviewed on the basis of the extent of the media coverage that each
+[5702.14s -> 5709.74s]  decision might generate?
+[5709.74s -> 5721.02s]  My understanding at the time was that he, and I think the post office generally, and
+[5721.02s -> 5728.54s]  we've seen similar comments from the chairman as well, believed we were dealing with a small
+[5728.54s -> 5735.18s]  number of cases, and the numbers that were coming forward seemed to, at that stage, clearly
+[5735.18s -> 5739.92s]  more came later, seemed to indicate that was the case.
+[5739.92s -> 5747.54s]  And the inquiry heard from Mark Davis last week, I think, where he explained, and that
+[5747.54s -> 5756.18s]  was my understanding at the time, that what he was trying to do was to minimize misinterpretation.
+[5756.18s -> 5762.80s]  It was wrong, because clearly, if all past cases needed investigating, they needed investigating.
+[5762.80s -> 5767.84s]  at the time that wasn't what the post office thought and I think what he was trying to
+[5767.84s -> 5774.56s]  do here was, as I say, to minimize misinterpretation and exaggeration in the media.
+[5774.56s -> 5785.32s]  Do you agree that his first point says you should make a decision about the extent to
+[5785.32s -> 5796.44s]  to which you review possible past miscarriages of justice by reference to the extent of media
+[5796.44s -> 5799.60s]  coverage that it will generate?
+[5799.60s -> 5803.48s]  It does say, it could be read that way, that wasn't my...
+[5803.48s -> 5808.08s]  Is there another way of reading it?
+[5808.08s -> 5811.36s]  I wouldn't have...
+[5811.36s -> 5826.04s]  And if there is, please explain which words help to read it in a different way.
+[5826.04s -> 5833.52s]  He's saying don't go back 10 years or say that you'll go back 10 years.
+[5833.52s -> 5838.22s]  Our current approach would mean there's going to be some coverage but not very much, the
+[5838.22s -> 5839.96s]  usual suspects.
+[5839.96s -> 5846.16s]  If we say we'll look back at past cases, we'll be on the front page.
+[5846.16s -> 5849.80s]  Isn't he directly saying?
+[5849.80s -> 5856.44s]  Yes, I can see that that's what he's saying, but my mindset at the time when I received
+[5856.44s -> 5863.44s]  this is that we were working on specific cases that were coming forwards, and we opened up
+[5863.44s -> 5864.44s]  No, no, no.
+[5864.44s -> 5866.32s]  Hold on, Ms. Reynolds.
+[5866.32s -> 5871.72s]  The email that you had sent to which this is a response posits, should we look back
+[5871.72s -> 5873.72s]  12 to 18 months in separation?
+[5873.72s -> 5875.52s]  Or should we go back further?
+[5875.52s -> 5878.64s]  Why aren't we going back further, five to ten years?
+[5878.64s -> 5884.60s]  And this says, you can't do that, you'll be on the front page.
+[5884.60s -> 5887.20s]  That's a grossly improper perspective, isn't it?
+[5887.20s -> 5890.84s]  Yes it is.
+[5890.84s -> 5895.60s]  Do you know why he cut everyone else out of the chain and replied directly to you?
+[5895.60s -> 5899.40s]  No, I don't.
+[5899.40s -> 5902.72s]  Was he a very trusted advisor?
+[5902.72s -> 5905.36s]  He was trusted by all of the team.
+[5905.36s -> 5911.16s]  As I said yesterday, I trusted all of the team, none of them more than the others.
+[5911.16s -> 5915.12s]  Did you remain in contact with Mr Davis after you left post office?
+[5915.12s -> 5916.12s]  I did.
+[5916.12s -> 5923.60s]  Did you exchange messages with him about media statements that you might make and the media
+[5923.60s -> 5931.72s]  lines that you might take in the announcement of this inquiry, for example?
+[5931.72s -> 5934.96s]  I believe the inquiry has texts that show that.
+[5934.96s -> 5944.04s]  Even though you'd moved on, he was still advising you into 2020 as the lines to take in your
+[5944.04s -> 5946.16s]  media statements.
+[5946.16s -> 5956.48s]  I had kept in touch with Mr. Davies for reasons that were very personal to him and I think
+[5956.48s -> 5964.48s]  he offered that advice at the time.
+[5964.48s -> 5975.04s]  To what extent did what Mr. Davies advised here affect your decision making?
+[5975.04s -> 5981.06s]  I would never, it was simply not the way I worked, have taken a decision based on the
+[5981.06s -> 5991.90s]  advice of one colleague. Never. My way of working was to take as many different views
+[5991.90s -> 5996.88s]  as I possibly could and to involve those individuals in the decision making as much as I possibly
+[5996.88s -> 5997.88s]  could.
+[5997.88s -> 6003.20s]  Look at the top of page one, please.
+[6003.20s -> 6007.24s]  Your reply, Mark, thanks for this.
+[6007.24s -> 6009.78s]  I don't think we're too far apart.
+[6009.78s -> 6012.90s]  I didn't say this approach would be our media statement,
+[6012.90s -> 6015.90s]  but they'd need to be aligned.
+[6015.90s -> 6017.94s]  You're right to call this out.
+[6017.94s -> 6019.14s]  I will take your steer.
+[6019.14s -> 6030.98s]  You did take the advice of the PR guy, didn't you?
+[6030.98s -> 6034.94s]  I really don't remember it relating to the decision.
+[6034.94s -> 6037.46s]  Hang on now, please.
+[6037.46s -> 6040.66s]  Thank you.
+[6040.66s -> 6050.32s]  As I tried to say before, my, what we were working to at this stage was numbers of cases
+[6050.32s -> 6054.18s]  going through a scheme and a scheme that was going to be opened up to anybody who wanted
+[6054.18s -> 6057.82s]  to come forward.
+[6057.82s -> 6067.78s]  I understand how this reads, but I don't recall making any conscious decision not to go back
+[6067.78s -> 6079.46s]  and put in place a review of all past criminal cases, my conviction as we were going forwards
+[6079.46s -> 6085.82s]  in this was that this scheme would enable any case that want, any postmaster that wanted
+[6085.82s -> 6093.06s]  their case to be reviewed, that the scheme would allow for that.
+[6093.06s -> 6100.78s]  continue, there are two objectives. The most urgent being to manage the media.
+[6100.78s -> 6105.66s]  The second is to make sure we do address the concerns of James R.
+[6105.66s -> 6112.26s]  Buffnot and Alan Bates, mainly looking forwards. We should be aware of Alan
+[6112.26s -> 6117.78s]  Bates' driver is really justice for the past, otherwise they will call for
+[6117.78s -> 6122.82s]  reopening cases. It may be that we get to manage Alan Bates and James
+[6122.82s -> 6129.74s]  James R. Buffnot by playing on the go ballistic view, i.e. I'll meet him privately to hear
+[6129.74s -> 6136.70s]  his views about these cases, but we cannot refer to anything in relation to past convictions.
+[6136.70s -> 6144.66s]  Any challenge must be, must go by normal legal routes. Is that the way your mind worked at
+[6144.66s -> 6150.92s]  this time? The priority was to manage the media and then deal with the actual substance
+[6150.92s -> 6157.16s]  of issues?
+[6157.16s -> 6167.40s]  The media issue related to, I believe, because we were right on the day or the day before
+[6167.40s -> 6175.92s]  the release of the second site interim report, and that's my recollection that that is the
+[6175.92s -> 6178.32s]  media conversation that we were having.
+[6178.32s -> 6184.40s]  But what we're talking about here is how far back a review of possible miscarriages of
+[6184.40s -> 6187.40s]  justice should go.
+[6187.40s -> 6190.72s]  Yes, and I'm not closing that down at all.
+[6190.72s -> 6196.52s]  You say there are two objectives, the most urgent being to manage the media.
+[6196.52s -> 6200.80s]  I'm pretty sure that that was in relation to the interim report, which was due out any
+[6200.80s -> 6208.88s]  time, which, as the inquiry has seen and heard from other people, there were issues in that
+[6208.88s -> 6215.52s]  report which the post office disagreed with and the team felt Second Sight hadn't taken
+[6215.52s -> 6221.68s]  account of. That, I think, was the issue that we were talking. So this was a really urgent
+[6221.68s -> 6226.92s]  today or tomorrow issue. And then there was the concerns looking forwards.
+[6226.92s -> 6236.96s]  No, no. What you're saying here is you're right, Mark. We will put the past behind us.
+[6236.96s -> 6244.38s]  We won't look at past cases. We'll focus on the future.
+[6244.38s -> 6249.76s]  That isn't what happened. That simply isn't the case, because the scheme was open to past
+[6249.76s -> 6252.36s]  cases. There was no time limit or type of...
+[6252.36s -> 6262.96s]  The burden was put on the sub-postmaster to prove their case, wasn't it?
+[6262.96s -> 6268.04s]  The scheme was open to any postmaster who wanted to bring their case forward.
+[6268.04s -> 6274.00s]  It was advertised in various ways to encourage people to come forward.
+[6274.00s -> 6280.96s]  There were other conversations going on at the same time as this exchange with colleagues.
+[6280.96s -> 6290.36s]  And it was very clear that any cases that included criminal convictions would need to
+[6290.36s -> 6294.00s]  go through the Court of Appeal and the normal legal routes.
+[6294.00s -> 6302.28s]  I don't think I understood any more about the legal side of things to have got involved
+[6302.28s -> 6304.52s]  in anything more complex than that.
+[6304.52s -> 6316.12s]  I believed very sincerely that the scheme we were putting in place would help.
+[6316.12s -> 6323.04s]  Do you accept that this exchange of emails shows that in making decisions as to the substance
+[6323.04s -> 6330.04s]  as to what the post office should do, i.e. whether it itself should seek to review whether
+[6330.04s -> 6336.74s]  that had been past miscarriages of justice, you took into account the views of your media
+[6336.74s -> 6344.82s]  adviser as to the extent to which your decision would meet with front-page news.
+[6344.82s -> 6351.18s]  I do not recall that being...I see what is written here. There were other conversations
+[6351.18s -> 6356.54s]  going on at the same time. The highlighted paragraph isn't as clear as what you're saying.
+[6356.54s -> 6364.70s]  I do not think, and I would not have taken personally any decision on review of historic
+[6364.70s -> 6365.70s]  cases.
+[6365.70s -> 6366.70s]  That was not my role.
+[6366.70s -> 6370.26s]  I wasn't qualified or competent to do that.
+[6370.26s -> 6372.58s]  I did not take that decision.
+[6372.58s -> 6377.70s]  What I was trying to do at this stage was to find a way forwards through the cases that
+[6377.70s -> 6384.36s]  had come into the post office and to encourage more to come forwards, which would have enabled
+[6384.36s -> 6389.44s]  any case to go through normal legal routes if the post office couldn't help it.
+[6389.44s -> 6398.64s]  So no, I absolutely don't accept that I took a decision to not review past criminal cases
+[6398.64s -> 6402.28s]  based on a media outcome.
+[6402.28s -> 6404.64s]  I didn't take any decision on that.
+[6404.64s -> 6406.28s]  I wouldn't have been able to do so.
+[6406.28s -> 6409.10s]  And it would have been such an important decision.
+[6409.10s -> 6414.84s]  That would have had to have gone to the board.
+[6414.84s -> 6422.62s]  Can I just ask, and this may be entirely my fault, so I preface it by that, but I'm not
+[6422.62s -> 6432.78s]  clear that as of the 6th of July or 7th of July or this period of time, this discussion
+[6432.78s -> 6443.02s]  of how to approach the issue of past cases is taking place in the context of Second Sight
+[6443.02s -> 6453.34s]  continuing its investigative work beyond the interim report or in the context of the idea
+[6453.34s -> 6457.94s]  of a mediation scheme. Do you understand the distinction I'm trying to draw?
+[6457.94s -> 6470.10s]  Well, as I see it in simple terms, Second Sight began by investigating in the context
+[6470.10s -> 6471.90s]  of a number of cases.
+[6471.90s -> 6473.22s]  Yes.
+[6473.22s -> 6480.18s]  And after their interim report, somehow a transition took place so that what I'll call
+[6480.18s -> 6482.58s]  a mediation scheme emerged.
+[6482.58s -> 6490.74s]  And I'm not sure as of this date, i.e., at or about the time when Second Sight was to
+[6490.74s -> 6499.34s]  produce its interim report, whether the discussions of how to deal with past cases was in the
+[6499.34s -> 6507.52s]  context simply of Second Sight moving forward with their investigations, or by that stage
+[6507.52s -> 6511.02s]  in the post office's mind, that was at an end
+[6511.02s -> 6512.98s]  and something new was emerging.
+[6512.98s -> 6515.52s]  No, I think that's a helpful question.
+[6515.52s -> 6519.44s]  I think there was a process of evolution.
+[6519.44s -> 6528.36s]  So, second site had done the work it had done up to the publication
+[6528.36s -> 6530.00s]  of the interim report.
+[6530.00s -> 6534.40s]  There was still a number of cases that hadn't been looked at,
+[6534.40s -> 6537.64s]  which needed to be continued.
+[6537.64s -> 6540.78s]  I had been disappointed
+[6540.78s -> 6546.58s]  about the way the post office team hadn't worked as well
+[6546.58s -> 6549.28s]  or been able to contribute to the work Second Sight had done.
+[6549.28s -> 6551.64s]  And I say that I would like us to work collaboratively
+[6551.64s -> 6556.14s]  with the JFSA who still had a very serious vested interest
+[6556.14s -> 6557.28s]  in that.
+[6557.28s -> 6562.40s]  And a proposal was made to form a working party,
+[6562.40s -> 6570.70s]  I think, was the word that was used, and that was, I recollect, an attempt to work together
+[6570.70s -> 6573.40s]  to go through the remaining cases.
+[6573.40s -> 6578.68s]  At some stage, and as we were going through this, because it was an iterative process,
+[6578.68s -> 6585.52s]  people were contributing ideas as to how this might play out, I had a conversation with
+[6585.52s -> 6588.92s]  Susan, and this I remember very clearly because I can remember where it was.
+[6588.92s -> 6596.00s]  I'd arrived home and I was standing on the station and she called me and Susan suggested
+[6596.00s -> 6605.48s]  that a way of bringing, the trouble is I now know what didn't happen, but some of these
+[6605.48s -> 6612.60s]  cases or these cases to a conclusion would be to introduce mediation.
+[6612.60s -> 6619.72s]  What she said was that, and again, this isn't documentation somewhere, is that mediation
+[6619.72s -> 6625.68s]  that sometimes what was needed in cases is for people to hear the post office apologize
+[6625.68s -> 6630.22s]  and say that it was sorry that it got things wrong, or for the post office to explain to
+[6630.22s -> 6636.56s]  a sub-postmaster that perhaps they had done something wrong, and that once the cases had
+[6636.56s -> 6645.08s]  been reviewed through this working party process, that might then be a way to reach some finality
+[6645.08s -> 6646.08s]  on those cases.
+[6646.08s -> 6650.64s]  What was also talked about at the same time was that if this was a good thing to do, which
+[6650.64s -> 6660.16s]  clearly it was, the post office then needed an ongoing process, possibly an adjudication
+[6660.16s -> 6666.76s]  process and external ombudsman on a permanent basis so that if this type of challenge arose
+[6666.76s -> 6673.82s]  again there was an external appeal process, if you like, for supposed masters to go to.
+[6673.82s -> 6680.12s]  And the thing that I'm missing, Sir Wynn, in telling you all of that is if Susan knew,
+[6680.12s -> 6687.56s]  which of course she did and I wouldn't have known so well, that criminal cases couldn't
+[6687.56s -> 6691.50s]  be resolved through mediation.
+[6691.50s -> 6693.16s]  And this is simply a question.
+[6693.16s -> 6699.90s]  Did she know that there would need to have been a further review, or was her understanding
+[6699.90s -> 6705.30s]  at that time, which is a fact that was later described, that any criminal cases going through
+[6705.30s -> 6711.00s]  the mediation scheme would be open to all of the investigation work that was done by
+[6711.00s -> 6716.16s]  post office and second site on Fujitsu, which may then give them information to take forward
+[6716.16s -> 6720.16s]  to through the normal legal routes, through the Court of Appeal or the CCRC.
+[6720.16s -> 6728.92s]  Ms. Reynolds, can we look at page two of this document and scroll down?
+[6728.92s -> 6735.80s]  This is your thoughts on the proposal as at the 6th of July.
+[6735.80s -> 6741.04s]  In direct answer to the Chairman's question, isn't it the case that second site were to
+[6741.04s -> 6744.56s]  play no part going forwards?
+[6744.56s -> 6748.62s]  There were conversations about whether Second Sight should or shouldn't, because there were
+[6748.62s -> 6754.60s]  concerns about the fact that this had run on too long and was way over budget, and there
+[6754.60s -> 6764.48s]  were, and this again is in many documents, there were concerns that their work was not
+[6764.48s -> 6767.68s]  at this stage sufficiently evidence-based.
+[6767.68s -> 6772.48s]  Your proposal didn't involve any role for Second Sight, did it?
+[6772.48s -> 6773.84s]  I'm not sure that's true.
+[6773.84s -> 6778.08s]  Look at the email on the screen.
+[6778.08s -> 6799.44s]  Your written proposal did not contain any role for Second Sight, did it?
+[6799.44s -> 6803.86s]  It doesn't at this stage, because we're in this process of evolution, say that Second
+[6803.86s -> 6804.86s]  Site was...
+[6804.86s -> 6808.90s]  At this process of evolution, it doesn't involve any role for Second Site?
+[6808.90s -> 6813.24s]  I'm not sure, because it doesn't say that they would or they wouldn't.
+[6813.24s -> 6816.80s]  What it says is that it would explore their themes for improvement.
+[6816.80s -> 6823.04s]  And I'm being frank with you that there were conversations about whether Second...
+[6823.04s -> 6828.80s]  There was criticism of the work that Second Site had done, but there was equal understanding
+[6828.80s -> 6835.80s]  saying that they had the support of MPs, notably James R. Buthnott, and that we had committed
+[6835.80s -> 6840.52s]  to do that work, but it's a...
+[6840.52s -> 6848.24s]  Back to page one, please. You say, you're right to call this out. I'll take your steer.
+[6848.24s -> 6858.76s]  No issue. Do you agree that this email chain reads as if the PR man has influenced you
+[6858.76s -> 6866.76s]  you conclusively as to a decision as to whether or not the post office would itself review
+[6866.76s -> 6878.72s]  whether and to what extent there had been past miscarriages of justice?
+[6878.72s -> 6888.38s]  I wouldn't take that steer on a legal matter from Mark Davis. He clearly, he was talking
+[6888.38s -> 6894.70s]  about, and again in the time scales we're talking about, we're talking about publicity
+[6894.70s -> 6902.90s]  within the next couple of days as a report coming out, but I wouldn't have taken a decision
+[6902.90s -> 6908.06s]  on anything at all to do with legal matters from Mark Davis.
+[6908.06s -> 6911.34s]  Okay, let's see what the, I'm so sorry I spoke over you.
+[6911.34s -> 6913.02s]  Sorry, it's fine.
+[6913.02s -> 6919.58s]  see what the IT person was telling you on what to do about looking at possible miscarriages
+[6919.58s -> 6921.42s]  of justice.
+[6921.42s -> 6935.58s]  Poll 3099056.
+[6935.58s -> 6942.66s]  This is a separate chain remembering that Mark Davies had just replied to you.
+[6942.66s -> 6950.82s]  This is Lesley Sewell's reply to your email setting out your proposals, that she does
+[6950.82s -> 6954.34s]  include everyone on the chain and doesn't cut people out.
+[6954.34s -> 6958.14s]  Paula, just a couple of thoughts.
+[6958.14s -> 6965.14s]  If we state we will review the cases in separation, that implies that there are material findings
+[6965.14s -> 6972.46s]  in the second site review and leaves us open to challenge against all cases.
+[6972.46s -> 6979.22s]  It may be better to offer in the spirit of the review and how we have listened to those
+[6979.22s -> 6983.04s]  affected and how we want to change our business.
+[6983.04s -> 6985.62s]  This is the delicate line we are balancing.
+[6985.62s -> 6992.74s]  And from memory, Susan quoted, more than 500 cases in the last 10 years.
+[6992.74s -> 7000.46s]  It may be an option to allow some postmasters to come forward and request the review.
+[7000.46s -> 7012.52s]  I agree on the points about the working group and user group, et cetera.
+[7012.52s -> 7019.94s]  Did you bring into account in your decision-making the views that the head of IT was giving you
+[7019.94s -> 7028.18s]  on the extent to which the post office should itself ask independent lawyers to review past
+[7028.18s -> 7037.86s]  convictions. I would have read Leslie Sewell's email sent to me. I wouldn't take any decision
+[7037.86s -> 7046.54s]  on legal matters personally without the advice of the General Counsel and on something this
+[7046.54s -> 7055.58s]  significant as the Board. We can see that you've had what the PR expert has been telling
+[7055.58s -> 7067.56s]  you to do about past convictions and hear the head of IT telling you, I think your position
+[7067.56s -> 7076.86s]  is that you did not see Simon Clarke's advices which address looking at past convictions
+[7076.86s -> 7083.50s]  until after the Court of Appeal Criminal Division disclosures in late 2020, early 2021.
+[7083.50s -> 7084.50s]  Yes.
+[7084.50s -> 7085.50s]  Is that right?
+[7085.50s -> 7094.38s]  So you didn't know that there were lawyers advising on the very issues that you were
+[7094.38s -> 7103.26s]  considering at this time, bringing into account the PR man and the IT lady's views?
+[7103.26s -> 7109.22s]  I had no side of the Simon Clarke advisers, no.
+[7109.22s -> 7113.38s]  You tell us in your witness statement, that can come down, thank you, it's paragraph
+[7113.38s -> 7121.10s]  of 562, no need to turn it up, that you recall that you were told by Susan Crichton that
+[7121.10s -> 7128.58s]  due to advice from external lawyers, there was a need for a review to ensure that proper
+[7128.58s -> 7133.58s]  disclosure had been given in previous criminal cases.
+[7133.58s -> 7136.62s]  Yes.
+[7136.62s -> 7145.18s]  You say that you had a conversation with Lesley Soule in which she told you that the post
+[7145.18s -> 7151.62s]  office had been advised that the expert witness that the post office had used in criminal
+[7151.62s -> 7159.82s]  cases to give evidence about Horizon had failed to mention there were bugs in Horizon, including
+[7159.82s -> 7163.14s]  in the Seema Misra case.
+[7163.14s -> 7166.14s]  You tell us that in your witness statement.
+[7166.14s -> 7170.66s]  Yes, that's right.
+[7170.66s -> 7178.70s]  Can we please try to pin down the date on which you had knowledge of a problem with
+[7178.70s -> 7197.42s]  the post office's expert evidence?
+[7197.42s -> 7200.26s]  It's difficult to find the date exactly.
+[7200.26s -> 7209.10s]  I remember that I, so I learned of it first from Leslie Sewell, not from Susan Crichton.
+[7209.10s -> 7212.94s]  What had happened is I passed Leslie in the corridor.
+[7212.94s -> 7217.22s]  She was looking particularly concerned or grumpy about something, and I asked her what
+[7217.22s -> 7218.86s]  was the matter.
+[7218.86s -> 7223.82s]  And she said that she had just heard that, so I don't know that she said this, but I'm
+[7223.82s -> 7234.40s]  assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+[7234.40s -> 7243.04s]  cases now had to be stood down because he had not revealed, and as I said yesterday,
+[7243.04s -> 7251.16s]  I think one or two bugs that he knew about in a case, and that's right, I think it was
+[7251.16s -> 7257.56s]  Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+[7257.56s -> 7265.82s]  that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+[7265.82s -> 7270.20s]  the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+[7270.20s -> 7272.64s]  come into effect until Horizon Online.
+[7272.64s -> 7281.22s]  Ms Meadows, the way you described it there is that Ms Sewell was telling you that the
+[7281.22s -> 7287.26s]  expert had failed to mention bugs in one case, and that was Seema Misra.
+[7287.26s -> 7288.26s]  I think so.
+[7288.26s -> 7294.52s]  In your witness statement, you say that she told you that he had failed to give disclosure
+[7294.52s -> 7299.82s]  in criminal cases, including Seema Misra.
+[7299.82s -> 7300.82s]  Right.
+[7300.82s -> 7301.82s]  That's probably right then.
+[7301.82s -> 7302.82s]  I don't think, yes.
+[7302.82s -> 7307.66s]  Again, can you help us as to the time of this, please?
+[7307.66s -> 7316.66s]  Well, I then spoke to Susan, I think, within a day or so of that conversation.
+[7316.66s -> 7323.30s]  Susan explained more about it, so if you can date when Susan found out, it would have been
+[7323.30s -> 7328.20s]  just before that, because Leslie could only have found out from Susan.
+[7328.20s -> 7337.36s]  By this time, and I'll call it mid-2013, you had been engaged on the issues of Horizon
+[7337.36s -> 7340.36s]  Integrity for some time, hadn't you?
+[7340.36s -> 7341.80s]  From when, yes, yes.
+[7341.80s -> 7347.50s]  You knew that there had been prosecutions and that those prosecutions had been founded
+[7347.50s -> 7351.16s]  on evidence from Horizon.
+[7351.16s -> 7354.68s]  Yes.
+[7354.68s -> 7364.88s]  been told by Lesley Sewell and then Susan Crichton that there was an issue with the
+[7364.88s -> 7371.86s]  post office's expert evidence that had been relied on to convict sub-postmasters, including
+[7371.86s -> 7375.02s]  Mrs Misra. Were you concerned?
+[7375.02s -> 7382.28s]  Yes, and I think Susan had, and I think the documentation says this, Susan had told, at
+[7382.28s -> 7390.36s]  At the time I spoke to Susan about it, she said I think that she had already put in chain
+[7390.36s -> 7395.36s]  a review by the external lawyers.
+[7395.36s -> 7400.08s]  And I think the documentation shows that she had done that before the written advice from
+[7400.08s -> 7404.28s]  Simon Clarke came in on the 15th.
+[7404.28s -> 7411.72s]  Did you at the time join the dots between the debates that we've seen you have in emails
+[7411.72s -> 7419.34s]  here with Mr Davis and Ms Sewell about the extent to which the post office should announce
+[7419.34s -> 7426.60s]  that it was going to review past convictions and the information that you were being given
+[7426.60s -> 7433.74s]  quite separately that the post office's expert witness had failed to mention bugs of which
+[7433.74s -> 7436.64s]  he had knowledge in criminal cases?
+[7436.64s -> 7440.44s]  No, I didn't make that link.
+[7440.44s -> 7450.96s]  not? I think because my, the emails from Mark Davies and Leslie Sewell are part of an iterative
+[7450.96s -> 7461.48s]  process as to how we took this important ongoing piece of work forwards. The conversation with
+[7461.48s -> 7473.04s]  Susan Crichton about the work that became known as the Cartwright King's Sift Review
+[7473.04s -> 7480.48s]  was I think I took as a piece of reassurance that the lawyers were doing what they needed
+[7480.48s -> 7487.24s]  to do in terms of what I, and I think this is at the stage where I learned about disclosure,
+[7487.24s -> 7489.68s]  of what they needed to do in respect to disclosure.
+[7489.68s -> 7493.36s]  What I didn't know at this stage, to be very clear,
+[7493.36s -> 7499.36s]  was that by dint of what had happened with Gareth Jenkins,
+[7499.36s -> 7502.56s]  the post office had breached its duties as a prosecutor.
+[7502.56s -> 7506.56s]  I don't think that was mentioned to me at the time.
+[7506.56s -> 7510.24s]  Did you never, at any time, connect
+[7510.24s -> 7515.00s]  the long-running criticism of Horizon's integrity
+[7515.00s -> 7524.20s]  that has been forced upon the post office by some post masters for years and years with
+[7524.20s -> 7529.60s]  being informed that there was a problem with the expert evidence on which the post office
+[7529.60s -> 7535.76s]  had relied about bugs?
+[7535.76s -> 7540.60s]  I don't think I made that connection because it was very specific.
+[7540.60s -> 7546.72s]  information I was told was very specific, which was that these two bugs were related
+[7546.72s -> 7551.84s]  to Horizon Online. There were two of them which affected, and by this stage I knew about
+[7551.84s -> 7559.64s]  them, which affected 14 and 62 post offices, I think, all of whom had been informed, or
+[7559.64s -> 7567.16s]  in the case of the 14 were in the process of being informed. And the bugs had been fixed
+[7567.16s -> 7572.56s]  And the postmasters had not lost any money as a result of that.
+[7572.56s -> 7575.16s]  So this was Leslie's frustration, which was
+[7575.16s -> 7577.56s]  that these were two isolated incidents.
+[7577.56s -> 7581.30s]  I accept now that is incorrect.
+[7581.30s -> 7584.60s]  But that was what I was told.
+[7584.60s -> 7586.52s]  They had been fixed.
+[7586.52s -> 7590.74s]  There is even documentation which refers to them as a red herring.
+[7590.74s -> 7595.08s]  And the fact that Susan was going through this SIFT review,
+[7595.08s -> 7600.68s]  to me seem to be reassuring rather than concerning.
+[7600.68s -> 7604.48s]  Did you ask who this witness was?
+[7604.48s -> 7608.12s]  I don't believe I knew Mr. Jenkins' name because there is...
+[7608.12s -> 7613.16s]  I'm asking, did you ask who was this witness?
+[7613.16s -> 7618.20s]  I think I was told that it was a Fujitsu, someone who worked for Fujitsu who was very
+[7618.20s -> 7620.62s]  competent on the system.
+[7620.62s -> 7624.08s]  Did you ask how many cases he had given evidence in?
+[7624.08s -> 7634.56s]  Did you ask what was being done in relation to the evidence that the post office was concerned
+[7634.56s -> 7641.28s]  about? I'm sorry, ask the question again? Did you ask what the post office was doing
+[7642.48s -> 7650.16s]  as a result of its concern that he had failed to mention in cases? Knowledge of bugs?
+[7650.16s -> 7657.48s]  I was told that we were going back looking or that Cartwright King were going back looking
+[7657.48s -> 7658.48s]  at cases.
+[7658.48s -> 7659.96s]  So, I don't think that...
+[7659.96s -> 7664.44s]  Why were they doing that if it was a red herring?
+[7664.44s -> 7669.20s]  I understood because that was the obligation that one had to do, was that any case that
+[7669.20s -> 7676.72s]  he had given evidence in needed to be given this evidence around these two bugs, even
+[7676.72s -> 7680.00s]  if it didn't affect those cases.
+[7680.00s -> 7689.48s]  you told that he was an unsafe witness? No. Can we jump forwards please to October of
+[7689.48s -> 7708.42s]  this year, October 2013, and look at poll 0038-2001. At the foot of page one please.
+[7708.42s -> 7713.42s]  an email from you to Alice Perkins, signing out.
+[7715.50s -> 7717.42s]  Hi Alice, don't worry about the lateness of the note,
+[7717.42s -> 7720.10s]  I'm clearing the tray before I'm signing out.
+[7721.94s -> 7725.82s]  Couple of updates, Sir Anthony Hooper Sparrow,
+[7725.82s -> 7728.46s]  very positive phone call on Friday PM,
+[7728.46s -> 7730.02s]  no issue at all, Ree Hillsborough,
+[7730.02s -> 7731.62s]  he's going to send a file note.
+[7732.48s -> 7735.06s]  And then my concern, Ree Sparrow,
+[7735.06s -> 7737.58s]  is currently our obligations of disclosure,
+[7737.58s -> 7747.50s]  an unsafe witness. The representative from Fujitsu made statements about no bugs, which
+[7747.50s -> 7752.66s]  later could be seen to have been undermined by the second site report. We don't think
+[7752.66s -> 7760.62s]  it is material, but it could be high profile. Is the unsafe witness that you're referring
+[7760.62s -> 7768.62s]  to there the same person that Lesley Sewell and Susan Crichton had referred to earlier?
+[7768.62s -> 7769.62s]  Yes.
+[7769.62s -> 7770.62s]  Yes.
+[7770.62s -> 7771.62s]  Yeah.
+[7771.62s -> 7775.74s]  Had they described him as an unsafe witness?
+[7775.74s -> 7783.46s]  I don't know where, I only saw this disclosure recently, so I haven't had a chance to go
+[7783.46s -> 7792.46s]  go back and see whether I, an unsafe witness is not a term that I would have used. So,
+[7792.46s -> 7793.46s]  and the other thing.
+[7793.46s -> 7794.46s]  You did use it.
+[7794.46s -> 7802.62s]  Yes, sorry. The work, the adjective unsafe is not something in relation to the word witness.
+[7802.62s -> 7808.34s]  It's quite a specific description. And I'm not sure that that's something that I would
+[7808.34s -> 7817.18s]  have just used coincidentally and when I looked at this email this is some
+[7817.18s -> 7826.70s]  considerable time so this is three months after I found out about Mr.
+[7826.70s -> 7834.14s]  Jenkins being stood down so I don't know whether at this stage I had been given
+[7834.14s -> 7838.02s]  more information about him or not.
+[7838.02s -> 7846.34s]  It's six days after Mr Altman did his general review, a document which I think you say you
+[7846.34s -> 7849.66s]  weren't told about and didn't see.
+[7849.66s -> 7850.66s]  No.
+[7850.66s -> 7852.98s]  Does he use the term?
+[7852.98s -> 7861.26s]  Not precisely, but in any event, you understood that there was an issue by the date of this
+[7861.26s -> 7868.34s]  email concerning disclosure that related to an unsafe witness, correct?
+[7868.34s -> 7869.70s]  Yes.
+[7869.70s -> 7877.32s]  And that related to him making statements about there not being bugs in Horizon?
+[7877.32s -> 7880.08s]  That was my understanding.
+[7880.08s -> 7886.72s]  So you understood by this time that there was an issue about the reliability of the
+[7886.72s -> 7897.60s]  Fujitsu expert evidence about there being bugs, i.e. the absence of them, and not merely
+[7897.60s -> 7906.88s]  about the presence of bugs that have been revealed by the second site report.
+[7906.88s -> 7908.32s]  That's what it says here.
+[7908.32s -> 7909.32s]  Yes.
+[7909.32s -> 7919.40s]  say, we do not think it is material or it's material, but could be high profile. If the
+[7919.40s -> 7931.00s]  issue of the expert evidence in criminal cases was not material, why would it be high profile?
+[7931.00s -> 7938.70s]  I suspect this is the media aspect again, which is the worry that something that could
+[7938.70s -> 7945.22s]  be taken out of context. I'm not entirely sure because I don't, whether I was given
+[7945.22s -> 7951.70s]  this information very quickly, because I'm clearly going somewhere and Martin Edwards
+[7951.70s -> 7957.82s]  is briefed to give Alice more detail. I just have no record of this at all.
+[7957.82s -> 7963.54s]  Who's the we in that sentence? I can only imagine that this has come from,
+[7963.54s -> 7968.02s]  Well, it wouldn't, yes, possibly Susan Crichton, the legal team.
+[7969.22s -> 7980.02s]  Where is it recorded that what it was alleged that Mr. Jenkins had failed to do or had done
+[7980.74s -> 7981.94s]  was not material?
+[7981.94s -> 7994.94s]  I don't know. I would not have personally been able to make that statement without getting
+[7994.94s -> 8001.98s]  it from someone who knew. I didn't understand about, as I now do, about the nature of an
+[8001.98s -> 8003.78s]  expert witness.
+[8003.78s -> 8011.80s]  There existed at this time the Simon Clarke advice of the 15th of July 2013, which addressed
+[8011.80s -> 8015.68s]  page upon page, this very issue, the materiality.
+[8015.68s -> 8018.24s]  I'm sorry, I think I've just remembered.
+[8018.24s -> 8020.52s]  I'm sorry, I didn't mean to cut across you.
+[8020.52s -> 8027.76s]  You go ahead.
+[8027.76s -> 8037.48s]  The – I think Cartwright King had said that – because they had obviously by this stage
+[8037.48s -> 8047.44s]  done a number of checks across, I suppose, master cases. And I think they had said that
+[8047.44s -> 8054.80s]  the disclosures were a fairly small number, and that may be what this is relating to.
+[8054.80s -> 8059.60s]  So material means not many?
+[8059.60s -> 8063.52s]  It could be that, yes.
+[8063.52s -> 8068.28s]  As I was saying, there existed at this time the Simon Clarke review of the 15th of July
+[8068.28s -> 8079.12s]  2013 on this very issue, the materiality of what Gareth Jenkins had said in witness statements
+[8079.12s -> 8086.40s]  and to a court in oral evidence, but you hadn't been given it.
+[8086.40s -> 8087.40s]  No.
+[8087.40s -> 8088.40s]  No.
+[8088.40s -> 8097.40s]  Did you even know that external lawyers had been instructed to advise on the very issue that you're debating?
+[8097.40s -> 8106.40s]  Do you mean in the sense of the Cartwright King review?
+[8106.40s -> 8113.40s]  No, the materiality of what Mr Jenkins had said or had failed to say.
+[8113.40s -> 8117.80s]  I don't think so.
+[8122.20s -> 8128.28s]  Do you know where you got the idea that we do not think it, i.e.
+[8130.44s -> 8136.28s]  the expert witness making statements about there being no bugs in Horizon from?
+[8136.28s -> 8152.08s]  I am sure there is something in the documentation about numbers of cases.
+[8152.08s -> 8156.12s]  I was not personally involved in any of this at all.
+[8156.12s -> 8160.88s]  I wasn't working with the external lawyers during the review, so I couldn't have known
+[8160.88s -> 8164.52s]  what they did or didn't think.
+[8164.52s -> 8170.24s]  And therefore, it can only have come through the legal team.
+[8170.24s -> 8171.24s]  Or possibly Martin.
+[8171.24s -> 8175.52s]  I mean, it is possible that Martin was briefed by, but again, he would have had it through
+[8175.52s -> 8179.84s]  the legal team.
+[8179.84s -> 8185.56s]  Isn't the material comment here another reference back to the supposed red herring, rather than
+[8185.56s -> 8189.80s]  about numbers?
+[8189.80s -> 8191.96s]  I don't think so.
+[8191.96s -> 8196.20s]  Why not?
+[8196.20s -> 8207.16s]  Well only in the context that, no, that isn't what I understood.
+[8207.16s -> 8212.64s]  And there is certainly something in documentation somewhere that makes the statement that the
+[8212.64s -> 8222.16s]  lawyers, Cartwright King, did not think that there would be a large number of
+[8222.16s -> 8226.24s]  cases where the disclosure needed to be made.
+[8226.80s -> 8233.36s]  Can we go back then to mid-July 2013 but probably after the break?
+[8233.36s -> 8237.76s]  So can we say half past, please?
+[8237.76s -> 8238.76s]  Yep, certainly.
+[8261.60s -> 8262.72s]  Thank you, Ms. Benals.
+[8262.72s -> 8279.16s]  Can we pick up in mid-July 2013, please, by looking at poll 0010-0702?
+[8279.16s -> 8285.48s]  This is a letter from the CCRC directly to you of the 12th of July 2013.
+[8285.48s -> 8287.28s]  If we just look at it.
+[8287.28s -> 8288.68s]  Horizon Computer System.
+[8288.68s -> 8291.36s]  The CCRC is an independent body.
+[8291.36s -> 8296.52s]  Our purpose is to review possible miscarriages of justice in the criminal courts of England,
+[8296.52s -> 8301.70s]  Wales, and Northern Ireland, and refer appropriate cases to the appeal court.
+[8301.70s -> 8306.08s]  For obvious reasons, we've read the recent media coverage concerning the Post Office
+[8306.08s -> 8309.56s]  Horizon computer system with interest.
+[8309.56s -> 8313.14s]  Clearly it would be very useful for us to have more information directly from the Post
+[8313.14s -> 8318.72s]  Office, especially accurate information as to the number of criminal convictions that
+[8318.72s -> 8324.80s]  might be impacted by the issue and what action is proposed or being taken in that respect,
+[8324.80s -> 8329.48s]  we see that the AG was called upon on Tuesday to set up an inquiry.
+[8329.48s -> 8332.44s]  We're in contact with his office about that.
+[8332.44s -> 8336.80s]  In essence, the commission's role in this is likely to relate to anyone who is convicted
+[8336.80s -> 8340.76s]  of a criminal offense in England, Wales, or Northern Ireland, where evidence from the
+[8340.76s -> 8345.88s]  Horizon computer system is relevant, where one, they've already tried to appeal against
+[8345.88s -> 8351.48s]  that conviction, or two, they were convicted at a magistrate's court following a guilty
+[8351.48s -> 8360.60s]  plea. I look forward to receiving your reply. This must have been a very unwelcome development.
+[8360.60s -> 8369.18s]  I remember receiving the letter from the CCRC. I don't remember personally regarding it as
+[8369.18s -> 8371.24s]  unwelcome.
+[8371.24s -> 8377.88s]  It arrived at a time at which you would have been told, is this right, by Susan Crichton
+[8377.88s -> 8383.00s]  about the need to review past convictions?
+[8383.00s -> 8384.44s]  I would think so, yes.
+[8384.44s -> 8390.44s]  And it would have arrived at a time when you'd been told by Susan Crichton and Leslie Sewell
+[8390.44s -> 8396.60s]  about the concern about the Fujitsu expert witnesses' evidence to the courts, including
+[8396.60s -> 8398.12s]  in the Seema Misra case?
+[8398.12s -> 8399.12s]  Yes.
+[8399.12s -> 8405.52s]  A letter like this does not land on the doorstep of the CEO every day of the week, does it?
+[8405.52s -> 8407.32s]  No.
+[8407.32s -> 8414.20s]  Would you agree that the right and honest thing to do would have been to let the CCRC
+[8414.20s -> 8427.88s]  know about the post office's concerns over Gareth Jenkins?
+[8427.88s -> 8435.72s]  I, what I did with this letter was to ask Susan to reply
+[8435.72s -> 8441.04s]  as the legal expert in the organization.
+[8441.04s -> 8447.64s]  I don't believe that I would have given her direction
+[8447.64s -> 8450.72s]  as to how we should reply to it.
+[8450.72s -> 8455.20s]  And for clarity, I wouldn't have either instructed her
+[8455.20s -> 8457.16s]  to leave things out.
+[8457.16s -> 8463.36s]  The right and honest thing for the post office to have done would be to have let the CCRC
+[8463.36s -> 8472.36s]  know and know promptly over its concerns about the truthfulness and reliability of the evidence
+[8472.36s -> 8475.64s]  that Gareth Jenkins had given to cause, wouldn't it?
+[8475.64s -> 8478.08s]  Yes, it would.
+[8478.08s -> 8481.04s]  That didn't happen for years and years, did it?
+[8481.04s -> 8489.28s]  I understand that to be the case now, yes.
+[8489.28s -> 8495.08s]  Given what was on your mind, what you'd said to Alice Perkins a couple of days before this
+[8495.08s -> 8510.48s]  in the email that we saw, did you think we need to say to the CCRC what we know about
+[8510.48s -> 8519.68s]  Gareth Jenkins? I don't think we're looking at the same time scale. The email that I sent
+[8519.68s -> 8527.92s]  to Alice Perkins was in October. This is July. I'm talking about the, I'm sorry, the exchange
+[8527.92s -> 8535.32s]  with Lesley Sewell and Mark Davis. My mistake. I'm sorry, so what was the question? Yes.
+[8535.32s -> 8543.44s]  In the light of the exchanges you had with Mark Davis and Leslie Sewell about the extent
+[8543.44s -> 8552.00s]  to which we have to go back and look at past previous convictions, up to 500 of them for
+[8552.00s -> 8558.16s]  false accounting, do you think the, and the conversations that you'd had with Leslie Sewell
+[8558.16s -> 8563.96s]  and Susan Crichton about the person you now know to be Gareth Jenkins, do you think the
+[8563.96s -> 8572.88s]  right thing to have said in response to the CCRC, but was we have got concerns about a
+[8572.88s -> 8577.20s]  key witness in a number of our cases?
+[8577.20s -> 8589.16s]  Yes. Assume, yes, I sound slightly hesitant because I wouldn't have known what we, my,
+[8589.16s -> 8598.08s]  My understanding and expectation is that when the post office receives something like this
+[8598.08s -> 8606.84s]  from the CCRC, that it should respond in the fullest way possible to be transparent about
+[8606.84s -> 8614.12s]  whatever it was that needed to be shared with the CCRC.
+[8614.12s -> 8619.96s]  Can we turn forwards, please, to poll 00, in fact, it's a couple of days before this,
+[8619.96s -> 8629.52s]  poll 00407582.
+[8629.52s -> 8632.92s]  This is an attendance note of the 10th of July.
+[8632.92s -> 8636.28s]  You're not present.
+[8636.28s -> 8646.80s]  It seems to be between Susan Crichton, Hugh Flemington, and Simon Richardson.
+[8646.80s -> 8649.32s]  Can you recall who Simon Richardson was?
+[8649.32s -> 8656.76s]  Yes, he was one of the partners from Bond Dickinson, who had worked on Post Office work
+[8656.76s -> 8659.72s]  for quite some time.
+[8659.72s -> 8665.92s]  And then if we scroll down, please, to six.
+[8665.92s -> 8666.92s]  Thank you.
+[8666.92s -> 8669.10s]  I should just read the introduction to this.
+[8669.10s -> 8673.66s]  There was then something of a general discussion around how they were going to manage the additional
+[8673.66s -> 8675.22s]  complaints and resourcing.
+[8675.22s -> 8679.52s]  Essentially where we got to was quite a lengthy brainstorming session.
+[8679.52s -> 8686.08s]  And then six, the real worry was around the Fujitsu expert who appeared to have known
+[8686.08s -> 8690.82s]  of some of the problems but not referred to them in his report or statement, even though
+[8690.82s -> 8692.82s]  they could be dismissed.
+[8692.82s -> 8695.60s]  There are non-disclosure issues here.
+[8695.60s -> 8703.36s]  looking at replacing that expert with somebody else. And then seven, there was generally
+[8703.36s -> 8712.48s]  an overall defensive air and the board were also feeling bruised. Stopping there, by this
+[8712.48s -> 8722.48s]  time was it the case that the board was feeling bruised? This is 10th of July.
+[8722.48s -> 8729.02s]  These are Simon's words. I don't, I certainly don't recall, well, he's reflecting a conversation
+[8729.02s -> 8731.48s]  he's had with two colleagues at the post office.
+[8731.48s -> 8732.48s]  Yes.
+[8732.48s -> 8740.20s]  I, it's not an adjective I'd have used in respect to the Board. The Board are feeling
+[8740.20s -> 8741.20s]  very frustrated.
+[8741.20s -> 8743.88s]  Frustrated about what?
+[8743.88s -> 8754.20s]  that the second site interim report had not, according to colleagues, had not taken account
+[8754.20s -> 8759.16s]  of the post office's factual evidence against issues that were raised and criticisms made
+[8759.16s -> 8766.86s]  of the post office. And secondly, that it had taken too long and was continuing to run
+[8766.86s -> 8771.72s]  up budgets to levels that had not been expected.
+[8771.72s -> 8773.72s]  Do you think that's what this might be a reference to?
+[8773.72s -> 8775.18s]  They're feeling bruised.
+[8778.44s -> 8781.64s]  I can't think what else it would be a reference to.
+[8781.64s -> 8785.04s]  The board were very frustrated by
+[8788.76s -> 8791.56s]  the criticisms in the second site interim report,
+[8791.56s -> 8794.48s]  which at that stage, they were told,
+[8796.50s -> 8798.68s]  were at least in some cases,
+[8798.68s -> 8800.16s]  according to the team, unfounded,
+[8800.16s -> 8804.04s]  because Second Sight hadn't had sufficient time
+[8804.04s -> 8807.92s]  in preparing it to take on board the post office's evidence.
+[8807.92s -> 8809.96s]  The note continues seemingly on the basis
+[8809.96s -> 8813.68s]  of what your two colleagues, Susan Crichton
+[8813.68s -> 8816.56s]  and Hugh Flemington said.
+[8816.56s -> 8819.28s]  There are tensions between people,
+[8819.28s -> 8824.72s]  and that includes Alice Perkins, the chair, Paula Venals,
+[8824.72s -> 8827.32s]  and Susan Crichton.
+[8827.32s -> 8829.76s]  At this time, were there tensions
+[8829.76s -> 8832.84s]  between Alice Perkins, you, and Susan Crichton?
+[8837.64s -> 8842.32s]  There had been some difficult conversations.
+[8842.32s -> 8846.00s]  I can't remember exactly.
+[8846.00s -> 8855.16s]  Alice, well, we were all frustrated by the report.
+[8855.16s -> 8859.82s]  Alice felt frustrated by it.
+[8859.82s -> 8865.78s]  She could not understand, and again, there's documentation on this as to why we had ended
+[8865.78s -> 8871.02s]  up in the, why the business, as she put it, had ended up in the position that it had with
+[8871.02s -> 8876.50s]  a report that hadn't taken account of post office's input, and conclusions seemingly
+[8876.50s -> 8884.70s]  reached or suggested, to be fair to Second Psych, they said it was an interim report.
+[8884.70s -> 8888.12s]  I had been challenged over that,
+[8889.18s -> 8891.30s]  and there was going to be more challenge to come
+[8891.30s -> 8893.70s]  a couple of days after this in a board meeting.
+[8895.42s -> 8898.02s]  And I don't know what, at this stage,
+[8898.02s -> 8900.54s]  I don't know what conversations had taken place
+[8900.54s -> 8903.04s]  between Alice and Susan.
+[8903.04s -> 8904.70s]  Certainly Susan and I
+[8908.30s -> 8911.62s]  had discussed about how we were going to,
+[8911.62s -> 8914.34s]  we'd had conversations about the first draft
+[8914.34s -> 8920.24s]  of a second site report, which I think she went back to talk to them about and some changes
+[8920.24s -> 8926.02s]  were made but nothing substantive. And it was a difficult time.
+[8926.02s -> 8935.78s]  Were there tensions between you and Alice Perkins?
+[8935.78s -> 8938.62s]  I don't recall that she had been critical.
+[8938.62s -> 8948.42s]  I mean, Alice was a very straightforward chair, and I generally took feedback pretty well,
+[8948.42s -> 8953.14s]  and again, forgive me for repeating the phrase, but there is documentation on that as well.
+[8953.14s -> 8958.02s]  I'm sure she gave me some fairly straightforward feedback about why this had taken so long,
+[8958.02s -> 8964.26s]  why it was over budget, why the report contained things that the post office felt were inaccurate.
+[8964.26s -> 8971.42s]  minute continues, I said, that's Simon Richardson, that I thought the minister had dealt with
+[8971.42s -> 8977.62s]  the questions extremely well and looked in control of the brief. Evidently, she had the
+[8977.62s -> 8983.18s]  post office in to tear them off a strip for not putting someone up earlier in the day
+[8983.18s -> 8988.10s]  for interviews on radio and TV. I said, my view, it was a good thing that no one was
+[8988.10s -> 8994.06s]  there. It was a no-win, given the nature of the complaints, and some are sub-postmasters
+[8994.06s -> 8996.54s]  who were generally reporting rather wild stories
+[8996.54s -> 8997.78s]  of what had gone on.
+[8997.78s -> 9000.84s]  However, I understood the political imperative
+[9000.84s -> 9002.84s]  of somebody being put up.
+[9002.84s -> 9004.62s]  Susan Crichton said she would pass my comments
+[9004.62s -> 9006.82s]  on to the comms director.
+[9006.82s -> 9009.14s]  However, I told them that my view was they need to be
+[9009.14s -> 9011.42s]  much more on the offensive about this.
+[9011.42s -> 9013.86s]  This was a new management team who put in place
+[9013.86s -> 9015.92s]  a new independent report
+[9015.92s -> 9017.72s]  and were dealing with the problems.
+[9017.72s -> 9019.66s]  The chair, that's Alice Perkins,
+[9019.66s -> 9022.86s]  seems to have been taken by surprise by the reaction
+[9022.86s -> 9024.92s]  and the noise generated.
+[9024.92s -> 9027.96s]  Paula Venals may be sensitive around some of these issues
+[9027.96s -> 9033.52s]  happening on her watch as the network director.
+[9033.52s -> 9036.30s]  I said I still thought there were positive messages
+[9036.30s -> 9041.06s]  to deliver and people just need to get into a different mindset.
+[9041.06s -> 9046.34s]  She said that Paula Venals had asked about what I knew
+[9046.34s -> 9048.74s]  and she might pass on my comments to her.
+[9048.74s -> 9051.02s]  I said I was happy to talk to Paula Venals
+[9051.02s -> 9054.14s]  since we knew each other from another difficult project
+[9054.14s -> 9055.68s]  in the days when they were a subsidiary
+[9055.68s -> 9058.24s]  of the Royal Mail Group, et cetera.
+[9060.74s -> 9065.74s]  In your approach to the reaction to the second site report,
+[9068.04s -> 9072.46s]  were you sensitive that some of the issues it addressed
+[9072.46s -> 9075.66s]  happened on your watch as network director?
+[9076.82s -> 9078.12s]  No, I wasn't.
+[9081.02s -> 9090.16s]  The note says that the real issue here, the real worry, was around the Fujitsu expert
+[9090.16s -> 9095.52s]  who appeared to have known some of the problems and not referred to them in his report or
+[9095.52s -> 9096.52s]  statement.
+[9096.52s -> 9100.60s]  There are non-disclosure issues here.
+[9100.60s -> 9104.52s]  Was the result of this meeting fed back to you?
+[9104.52s -> 9107.36s]  I don't believe so.
+[9107.36s -> 9113.44s]  Would you be surprised that members of your team were having this in-depth and frank conversation
+[9113.44s -> 9118.86s]  about Gareth Jenkins being the real worry that was facing the post office after the
+[9118.86s -> 9125.20s]  interim report, and yet this information not being fed back to you, nor indeed to the board?
+[9125.20s -> 9127.50s]  Yes, I would be surprised at that.
+[9127.50s -> 9131.78s]  How has it come about that they're having this very frank conversation with somebody
+[9131.78s -> 9139.02s]  with whom you have a history, as is referred to here, Simon Richardson, and you never get
+[9139.02s -> 9141.02s]  to know about it.
+[9141.02s -> 9147.38s]  Oh, my history with Simon Richardson was one case that we sat on at Royal Mail Group where
+[9147.38s -> 9154.58s]  we were on an appeal panel and working with him a long time ago on post office closures,
+[9154.58s -> 9157.90s]  but I hardly met with Simon.
+[9157.90s -> 9164.44s]  It's recorded here that she said that Paula Venals had asked about what I, that Simon
+[9164.44s -> 9165.58s]  Richardson knew.
+[9165.58s -> 9168.22s]  Do you know what that's a reference to?
+[9168.22s -> 9169.22s]  I don't.
+[9169.22s -> 9172.86s]  If you'd like to take me back up the email in case there's something there that prompts
+[9172.86s -> 9173.86s]  that.
+[9173.86s -> 9182.22s]  It's an attendance note, but yes, let's go back up.
+[9182.22s -> 9189.28s]  It may simply be that I was asking for what Simon's view was on the work that was underway
+[9189.28s -> 9196.06s]  because he was the partner for the post office or had been a partner for the post office.
+[9196.06s -> 9201.86s]  Again asking the general question, how is it that two relatively senior members of your
+[9201.86s -> 9207.30s]  team, Susan Crichton, the general counsel no less, were having this frank conversation
+[9207.30s -> 9215.04s]  with a solicitor, and the outcome of it never reached you or the board, if your evidence
+[9215.04s -> 9229.10s]  is correct.
+[9229.10s -> 9240.74s]  To be honest, I don't know whether Susan, as you've heard previously, it was not a process
+[9240.74s -> 9248.14s]  in the post office, which was wrong, for advice, if this is considered advice, which in a sense
+[9248.14s -> 9253.28s]  it is, to be fed back, and the reason I was looking down the list of numbered points is
+[9253.28s -> 9256.98s]  in case any of it was fed back and some wasn't.
+[9256.98s -> 9264.30s]  Is it every day of the week, though, in the post office that it is told that the safety
+[9264.30s -> 9273.16s]  of its convictions, its criminal convictions, may be called into question by unreliable evidence
+[9273.16s -> 9274.16s]  given by an expert witness?
+[9274.16s -> 9279.08s]  No, Mr. Beer, I agree. It should have been shared.
+[9279.08s -> 9285.64s]  You are explaining perhaps why it wasn't shared because of a convention of not giving
+[9285.64s -> 9288.88s]  counsel's advice or solicitor's advice, documents to the board.
+[9288.88s -> 9289.88s]  Yes, yes.
+[9289.88s -> 9293.68s]  That doesn't prevent any of the substance being conveyed, does it?
+[9293.68s -> 9294.68s]  No.
+[9294.68s -> 9296.80s]  So what's at work here in your view?
+[9296.80s -> 9300.04s]  Why is this information not coming back up to you?
+[9300.04s -> 9305.36s]  You've got Cartwright King through Simon King advising on the one hand.
+[9305.36s -> 9313.04s]  You've got Bond Dickinson advising here that the real worry is Gareth Jenkins on the other.
+[9313.04s -> 9329.40s]  My hesitation on this is that I now know much more than I did at the time, so I'm now aware
+[9329.40s -> 9334.32s]  that Mr. Jenkins had never been briefed as an expert witness.
+[9334.32s -> 9341.32s]  I don't know whether this is suggesting that that was part of the real worry, or whether
+[9341.32s -> 9350.58s]  the worry that is expressed at point six is what the organization knew already, which
+[9350.58s -> 9355.60s]  was non-disclosure issues because the Can't Write King review had started by this stage.
+[9355.60s -> 9361.76s]  But I'm afraid I can't help you why more of that wasn't shared.
+[9361.76s -> 9362.76s]  Thank you.
+[9362.76s -> 9368.88s]  The second site interim report was in fact published on the 8th of July.
+[9368.88s -> 9375.20s]  The reference we needn't show it at the moment is poll 3029744.
+[9375.20s -> 9380.88s]  And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+[9380.88s -> 9387.92s]  suspense account bug, and although it didn't name it, the calendar square or Falkirk bug.
+[9387.92s -> 9412.34s]  If we just look at your witness statement, please, it's paragraph 253F on page 111.
+[9412.34s -> 9427.70s]  page 111, please. And if we scroll down to F, please. You say, I was not made aware between
+[9427.70s -> 9435.98s]  joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+[9435.98s -> 9441.72s]  been identified in Legacy Horizon or Horizon Online. And then you say, the first that I
+[9441.72s -> 9447.60s]  knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+[9447.60s -> 9453.20s]  made aware for the first time that the bug known as the calendar square problem in legacy
+[9453.20s -> 9460.36s]  horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+[9460.36s -> 9461.36s]  problem.
+[9461.36s -> 9466.92s]  Can I ask for your assistance on what your evidence means here?
+[9466.92s -> 9475.92s]  You state in the first sentence that you were not aware until early 2012 that any bugs had
+[9475.92s -> 9478.52s]  been identified in either system.
+[9478.52s -> 9483.40s]  Then in the second sentence, you say the first that I knew that any bugs had been discovered
+[9483.40s -> 9484.40s]  was in mid 2013.
+[9484.40s -> 9485.40s]  I'm sorry.
+[9485.40s -> 9486.40s]  They appear contradictory.
+[9486.40s -> 9487.40s]  Yes, they do.
+[9487.40s -> 9488.40s]  I'm sorry.
+[9488.40s -> 9489.40s]  So sorry.
+[9489.40s -> 9494.84s]  So, what's the correct answer to the question?
+[9494.84s -> 9497.84s]  When did you first know of any bugs, errors, or defects?
+[9497.84s -> 9498.84s]  2013.
+[9498.84s -> 9507.84s]  So why did you say here that it was early 2012 that you were made aware that bugs, errors,
+[9507.84s -> 9518.28s]  and defects had been identified in Horizon?
+[9518.28s -> 9526.52s]  I don't know, because the only thing I can think is an explanation is that the local
+[9526.52s -> 9533.20s]  suspense bug was, I think, drawn to the post office's attention in 2012, but nobody knew
+[9533.20s -> 9540.72s]  about that, because it had been referred to the MBSC, and I suspect this is just a mistake.
+[9540.72s -> 9544.44s]  So the correct evidence is that represented in the second sentence?
+[9544.44s -> 9545.44s]  Yes.
+[9545.44s -> 9546.44s]  Is that right?
+[9546.44s -> 9547.44s]  And the first is just a mistake?
+[9547.44s -> 9548.44s]  Yes.
+[9548.44s -> 9549.44s]  Yeah.
+[9549.44s -> 9562.92s]  Can we turn to what was said in the run-up to the second site report about the post office's
+[9562.92s -> 9568.00s]  position on the three bugs?
+[9568.00s -> 9592.80s]  Can we look, please, at poll 00105632?
+[9592.80s -> 9600.84s]  And you see this is an email to you and others from Alwin Lyons.
+[9600.84s -> 9603.00s]  Read the James brief.
+[9603.00s -> 9608.96s]  And she says, Paula, the only thing that's not in the brief for James is our move away
+[9608.96s -> 9615.80s]  from, quote, there are no bugs in Horizon to there are known bugs in every computer
+[9615.80s -> 9621.92s]  system this size, but they're found and put right and no sub-postmaster is disadvantaged
+[9621.92s -> 9627.48s]  by them. It would be good to be able to go on and say, or has been successfully, wrongfully
+[9627.48s -> 9634.52s]  suspended or prosecuted.
+[9634.52s -> 9646.44s]  Did this represent a move, a shift in position, preemptively before the second site report
+[9646.44s -> 9657.96s]  from there are no bugs in horizon to the then altered position that's set out by Alwyn Lyons?
+[9657.96s -> 9668.32s]  It was, so firstly, I don't recall, and I think Alwyn said this on Tuesday as well,
+[9668.32s -> 9675.84s]  that there had been a line, as it were, that there were no bugs in horizon. I don't remember,
+[9675.84s -> 9683.36s]  and I haven't seen it anywhere as being used, but it would be completely right for the post
+[9683.36s -> 9686.72s]  office if that was a line that it had used to correct it.
+[9686.72s -> 9687.72s]  I mean, if that's right.
+[9687.72s -> 9691.36s]  It wouldn't have been done preemptively because of the second site report.
+[9691.36s -> 9694.66s]  It would just have been done because it was the right thing to do.
+[9694.66s -> 9703.06s]  If that's right, that there hadn't been a position adopted by the post office of there
+[9703.06s -> 9704.82s]  are no bugs in Horizon.
+[9704.82s -> 9707.26s]  This email makes no sense.
+[9707.26s -> 9709.06s]  No, I agree.
+[9709.06s -> 9712.84s]  And they're written as lines in inverted commas.
+[9712.84s -> 9716.82s]  I can only assume that this came from Mark Davies and the communications team.
+[9716.82s -> 9724.34s]  I don't recall having a conversation about that.
+[9724.34s -> 9731.90s]  You tell us in your witness statement that its paragraph 389 on page 183, no need to
+[9731.90s -> 9735.80s]  to turn it up, that after the receipts and payments
+[9735.80s -> 9740.98s]  mismatch bug and the local suspense account bug
+[9740.98s -> 9745.20s]  came to light, as you put it, in May 23,
+[9745.20s -> 9748.80s]  we no longer lived in a world where no bugs had
+[9748.80s -> 9751.32s]  been found in the system.
+[9751.32s -> 9754.72s]  That was your position and the post office's position
+[9754.72s -> 9759.60s]  up until at least May 2013, that no bugs had been found
+[9759.60s -> 9761.68s]  in the system.
+[9761.68s -> 9765.48s]  wasn't it?
+[9765.48s -> 9766.52s]  I think that's right.
+[9766.52s -> 9769.00s]  What I'm trying to say here is that I don't remember seeing
+[9769.00s -> 9772.08s]  it as a line in communications.
+[9772.08s -> 9779.24s]  But as soon as we had discovered these bugs, if we
+[9779.24s -> 9781.96s]  had been saying publicly that there were no bugs, clearly
+[9781.96s -> 9785.20s]  that needed to be corrected.
+[9785.20s -> 9789.92s]  In any event, in May 2013, you no longer lived in a world
+[9789.92s -> 9792.52s]  where no bugs have been found in the system.
+[9792.52s -> 9793.34s]  Yes.
+[9796.00s -> 9799.10s]  In your position as chief executive,
+[9799.10s -> 9802.90s]  was that not very significant information?
+[9805.88s -> 9809.72s]  We've got three bugs or had three bugs in the system.
+[9814.12s -> 9815.76s]  It is significant.
+[9815.76s -> 9818.40s]  At that stage, it doesn't make any difference,
+[9818.40s -> 9821.00s]  but there were only two that I knew of.
+[9821.00s -> 9824.80s]  And what was very important to me,
+[9824.80s -> 9826.82s]  and the inquiry can see this,
+[9826.82s -> 9829.92s]  from emails that I sent and work that I did,
+[9829.92s -> 9833.00s]  was that, and I can remember saying to our alliance actually
+[9833.00s -> 9835.54s]  that I wanted to demonstrate leadership in this case,
+[9835.54s -> 9837.86s]  this was around the local suspense bug,
+[9837.86s -> 9841.20s]  that it was, that I wanted reassurance
+[9841.20s -> 9844.16s]  that Fujitsu had done as it said,
+[9844.16s -> 9847.40s]  which is that all affected post offices had been identified,
+[9847.40s -> 9855.36s]  that we had looked at whatever the shortfalls were, that post offices had not been held
+[9855.36s -> 9859.72s]  accountable for any of those, or that they were held accountable for any losses, that
+[9859.72s -> 9865.44s]  they were all written to, which they were. And so my priority was to make sure that it
+[9865.44s -> 9871.56s]  was dealt with. In terms of the second bug, the receipts and payments mismatch bug, that
+[9871.56s -> 9876.84s]  I was told had been dealt with, and again, it's in documentation, that the post offices
+[9876.84s -> 9881.16s]  affected by that had been written to as well.
+[9881.16s -> 9886.24s]  Ms. Meddles, you tell us time and time again in your witness statement that up until May
+[9886.24s -> 9893.96s]  2013, you had been told time and time again that there were no bugs in Horizon.
+[9893.96s -> 9897.60s]  You'd been reassured it was the basis on which you'd operated.
+[9897.60s -> 9900.04s]  Isn't this world changing information for you?
+[9900.04s -> 9901.04s]  Yes.
+[9901.04s -> 9902.40s]  In fact, there were bugs.
+[9902.40s -> 9906.44s]  the previous assurances that I've been given were false?
+[9906.44s -> 9913.44s]  Yes, it was information that changed. The way that I was told about those two bugs was
+[9913.44s -> 9922.88s]  that they were, and I'm not referring to previous exchanges elsewhere, but they were incidents
+[9922.88s -> 9928.68s]  that had been dealt with. They were bugs that had been resolved, and that they were red
+[9928.68s -> 9934.24s]  herrings to the work, and they didn't affect any of the branches that Second Sight were
+[9934.24s -> 9941.04s]  looking at, and the branches that had been affected had been properly supported by the
+[9941.04s -> 9945.80s]  post office and the cases had been dealt with.
+[9945.80s -> 9951.32s]  What's the answer to my direct question, that you had been told repeatedly for six years
+[9951.32s -> 9960.16s]  since you joined post office, that there were no bugs in Horizon. That mantra is key to
+[9960.16s -> 9964.52s]  what you say in your witness statement as to what you did as managing director and previously
+[9964.52s -> 9970.84s]  as network director. It was the consistent message from the business. And then you're
+[9970.84s -> 9974.56s]  told, no, in fact, there are bugs in the system, and you're telling us, but they don't matter,
+[9974.56s -> 9983.32s]  as red herringbugs. Did you explore why you had been given false information in the past?
+[9983.32s -> 9991.86s]  I think to be really clear on this, because it's important, I was told that what I was
+[9991.86s -> 9999.40s]  told was about Horizon, and I'm not splitting hairs on this, I was told that Horizon, that
+[9999.40s -> 10005.18s]  where cases had gone to court, the courts had found in favor of Horizon, that where
+[10005.18s -> 10013.26s]  issues had been raised, I knew when I say my statement that there were always glitches
+[10013.26s -> 10019.40s]  and issues with the system. I knew that from having visited branches, whether it was the
+[10019.40s -> 10022.68s]  egg timer issue or the blue screens or network failures or whatever.
+[10022.68s -> 10029.68s]  Let's go back to page 111 of your witness statement.
+[10052.68s -> 10069.60s]  F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+[10069.60s -> 10076.48s]  should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online.
+[10076.48s -> 10080.08s]  The first I knew that any bugs had been discovered was mid 2013.
+[10080.08s -> 10081.08s]  Yes.
+[10081.08s -> 10082.08s]  Yes.
+[10082.08s -> 10084.68s]  Wasn't it world-changing information that, in fact...
+[10084.68s -> 10086.76s]  I'm sorry, yes, I'm not...
+[10088.76s -> 10094.16s]  What I'm not getting across clearly enough is that this was important,
+[10094.16s -> 10099.20s]  but I was reassured at the same time that these bugs had been dealt with.
+[10099.20s -> 10101.64s]  And is that reassurance anywhere in writing?
+[10104.32s -> 10106.76s]  Or is it one of these corridor conversations?
+[10107.96s -> 10108.96s]  I...
+[10108.96s -> 10119.88s]  I think it is in writing. In the second site interim report, both of them are detailed,
+[10119.88s -> 10128.08s]  and it explains, I think, pretty much what I said in more detail, but that post offices
+[10128.08s -> 10132.92s]  that the, this I now know was wrong, that the system had identified the issues, that
+[10132.92s -> 10138.40s]  they had been fixed, the post offices had been informed, and nobody had been held accountable
+[10138.40s -> 10144.62s]  for any losses and where surpluses were left in the hands of the postmasters.
+[10144.62s -> 10150.52s]  Given that you'd been told before, you'd not been told before mid 2013 about any bugs
+[10150.52s -> 10156.20s]  in the system and you were operating on the basis that there were none, on being told
+[10156.20s -> 10161.20s]  that in fact the system did have bugs, would you not have wanted a watertight assurance
+[10161.20s -> 10168.44s]  from Fujitsu, that there were no more bugs?
+[10168.44s -> 10172.32s]  I should have asked for that.
+[10172.32s -> 10176.98s]  Do I take the answer that you've just given to mean, yes, I would have wanted assurance,
+[10176.98s -> 10178.42s]  but I didn't ask?
+[10178.42s -> 10184.80s]  I had at this roughly about the same time, or maybe a month before, I'd had a conversation
+[10184.80s -> 10186.48s]  with the chief executive of Fujitsu.
+[10186.48s -> 10188.36s]  This is the Fort Knox conversation?
+[10188.36s -> 10194.84s]  which have been evased around the allegations around what Mr. Rudkin had raised.
+[10194.84s -> 10195.84s]  That's a separate issue.
+[10195.84s -> 10199.64s]  It is a separate issue, but I'm not a technical expert, and I'm dealing with challenges to
+[10199.64s -> 10211.28s]  the Horizon system, and I'm working within a context where I'm taking numbers of inputs.
+[10211.28s -> 10218.44s]  I took these seriously and I accepted the explanations that I had been given and I
+[10218.44s -> 10223.64s]  knew that those explanations had been based on, but again now this sounds very hollow
+[10223.64s -> 10234.12s]  in hindsight, on work that had been done by Fujitsu.
+[10234.12s -> 10249.04s]  Can we look please at poll 309, 0219?
+[10249.04s -> 10256.36s]  This is the press statement that the post office put out on the publication of the interim
+[10256.36s -> 10261.12s]  report.
+[10261.12s -> 10270.12s]  If we scroll out a little bit, please, you'll see in the third paragraph and following,
+[10270.12s -> 10274.36s]  it says, Chief Executive, you said as follows, yes?
+[10274.36s -> 10276.32s]  Yes, yes.
+[10276.32s -> 10279.00s]  Did you approve this statement?
+[10279.00s -> 10280.44s]  I would generally.
+[10280.44s -> 10285.16s]  There are occasions when I may not have been able to, but generally I wouldn't usually
+[10285.16s -> 10288.36s]  put my name to something that I hadn't read.
+[10288.36s -> 10298.52s]  In particular, where direct quotes are attributed to you in quotation marks.
+[10298.52s -> 10308.78s]  We know that the post office had been informed of the receipts and payments mismatch bug
+[10308.78s -> 10314.20s]  in September or October 2010.
+[10314.20s -> 10322.16s]  We know that the suspense account of bug had been drawn to the post office's attention
+[10322.16s -> 10327.72s]  as an operative problem by at least February 2013.
+[10327.72s -> 10333.44s]  And we know that the calendar square or Falkirk bug had been drawn to the post office's attention
+[10333.44s -> 10338.28s]  in 2006.
+[10338.28s -> 10344.40s]  Do you know why this press statement did not acknowledge that the post office had known
+[10344.40s -> 10357.20s]  about each of the three bugs referred to in the second site report for many years?
+[10357.20s -> 10362.28s]  I don't remember having any conversation about that, no.
+[10362.28s -> 10373.82s]  You will see that it instead concentrates upon the number of people using the system,
+[10373.82s -> 10379.16s]  the number of branches, the number of transactions.
+[10379.16s -> 10382.44s]  Yes.
+[10382.44s -> 10388.76s]  Was that the mantra that the post office had used for many years to defend allegations
+[10388.76s -> 10391.76s]  against Horizon?
+[10391.76s -> 10400.16s]  It was a truth and it was an explanation that was overused, and I fully accept that now.
+[10400.16s -> 10401.16s]  Thank you.
+[10401.16s -> 10403.84s]  That's a convenient moment before we move to our next topic, sir.
+[10403.84s -> 10409.36s]  Could I say, I think it's five past 12 now, could I say ten to two, please?
+[10409.36s -> 10411.06s]  Ten to two.
+[10411.06s -> 10412.06s]  Thank you.
+[10412.06s -> 10414.06s]  Thank you very much.

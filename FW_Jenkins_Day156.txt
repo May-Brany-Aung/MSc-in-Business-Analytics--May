@@ -1,0 +1,2176 @@
+[0.00s -> 10.00s]  Good morning, sir. Can you see and hear us?
+[10.00s -> 14.00s]  Yes, thank you very much.
+[14.00s -> 16.00s]  Thank you. May I call Gareth Jenkins, please?
+[16.00s -> 20.00s]  Yes.
+[20.00s -> 22.00s]  I swear by Almighty God
+[22.00s -> 24.00s]  I swear by Almighty God
+[24.00s -> 26.00s]  that the evidence I shall give
+[26.00s -> 28.00s]  shall be the truth
+[28.00s -> 29.00s]  The whole truth.
+[29.00s -> 30.00s]  The whole truth.
+[30.00s -> 31.00s]  And nothing but the truth.
+[31.00s -> 32.00s]  And nothing but the truth.
+[32.00s -> 33.00s]  Thank you.
+[33.00s -> 36.40s]  Good morning, Mr. Jenkins.
+[36.40s -> 39.60s]  My name is Jason Beer and I ask questions on behalf of the Inquiry.
+[39.60s -> 41.16s]  Can you give us your full name, please?
+[41.16s -> 43.76s]  My name is Gareth Idriss Jenkins.
+[43.76s -> 44.76s]  Thank you.
+[44.76s -> 50.90s]  Mr. Beer, before you go any further, is it appropriate for me to direct Mr. Jenkins about
+[50.90s -> 51.90s]  self-incrimination?
+[51.90s -> 55.28s]  Yes, sir.
+[55.28s -> 62.72s]  Mr. Jenkins, I'm sure you've been advised, but under our law, a witness at a public inquiry
+[62.72s -> 69.20s]  has the right to decline to answer a question put to him by any of the lawyers involved
+[69.20s -> 77.12s]  in the inquiry or by me if there is a risk that the answer to that question would incriminate
+[77.12s -> 78.60s]  you.
+[78.60s -> 86.88s]  This legal principle is known in shorthand form as the privilege against self-incrimination.
+[86.88s -> 94.04s]  I've decided that fairness demands that I remind you of that principle before you give
+[94.04s -> 96.16s]  your evidence.
+[96.16s -> 103.06s]  I must stress to you, however, that it is for you to make it clear to me that in respect
+[103.06s -> 110.56s]  of any question put to you, it is your wish to rely upon the privilege. If, therefore,
+[110.56s -> 117.22s]  any questions are put to you by anyone who is asking you questions, which you do not
+[117.22s -> 124.02s]  wish to answer on the ground that to answer such a question might incriminate you, you
+[124.02s -> 130.84s]  must tell me immediately after such question is put. At that point, I will consider your
+[130.84s -> 137.12s]  objection to answering the question, and thereafter rule upon whether your objection should be
+[137.12s -> 139.12s]  upheld.
+[139.12s -> 146.04s]  I know that you are legally representative, legally represented, legally represented,
+[146.04s -> 147.04s]  I'm sorry.
+[147.04s -> 154.96s]  No doubt, if the issue relating to self-incrimination arises, your lawyers will assist you.
+[154.96s -> 160.44s]  But if at any stage during the questioning you wish to consult your lawyers about the
+[160.44s -> 166.64s]  privilege, you must tell me so that I can consider whether that is appropriate.
+[166.64s -> 168.64s]  Do you understand all that, Mr Jenkins?
+[168.64s -> 170.76s]  Yes, I understand, sir.
+[170.76s -> 171.76s]  Thank you.
+[171.76s -> 172.76s]  Yes, Mr Beer.
+[172.76s -> 173.76s]  Thank you, sir.
+[173.76s -> 178.64s]  Mr Jenkins, you've made five witness statements to the inquiry.
+[178.64s -> 182.24s]  Thank you very much for making those witness statements and for attending today and over
+[182.24s -> 186.28s]  the next three days to give evidence. Can we start, please, with your witness
+[186.28s -> 191.72s]  statements? Yes. If we can start with the fifth witness statement, please, which was
+[191.72s -> 204.56s]  in fact a witness statement you made only yesterday. It's WITN 0046 0500. Yes. Have
+[204.56s -> 208.24s]  you got that witness statement in front of you? I have, indeed. It's three pages long and it
+[208.24s -> 212.48s]  It consists of three pages of corrections to your previous witness statements, is that
+[212.48s -> 213.48s]  right?
+[213.48s -> 214.84s]  That's correct, sir.
+[214.84s -> 217.96s]  Is that your signature on the third page?
+[217.96s -> 218.96s]  It is.
+[218.96s -> 222.08s]  And are the contents of that your fifth witness statement true to the best of your knowledge
+[222.08s -> 223.08s]  and belief?
+[223.08s -> 224.08s]  They are.
+[224.08s -> 225.08s]  Thank you.
+[225.08s -> 232.96s]  Can we go to your first witness statement then, please, which is WITN 0046-0100.
+[232.96s -> 237.56s]  dated the 6th of February 2023, and is 15 pages long.
+[238.76s -> 239.84s]  Yes. Have you got that?
+[239.84s -> 240.84s]  I have got that.
+[240.84s -> 243.64s]  And is your signature on page 15?
+[243.64s -> 244.52s]  It is.
+[244.52s -> 246.48s]  And are the contents of that witness statement
+[246.48s -> 248.48s]  true to the best of your knowledge and belief?
+[248.48s -> 250.76s]  They are. Thank you.
+[250.76s -> 252.92s]  Can we go to your second witness statement, please?
+[252.92s -> 268.28s]  WITN 0046 0200, dated the 1st of June 2023, which is 67 pages long. Is that your signature on page 67?
+[269.08s -> 271.80s]  Yes, it's actually slightly longer because it's got an appendix at the end, but
+[274.04s -> 276.84s]  I'm only dealing with the body of the statement rather than the
+[277.88s -> 280.20s]  additions at the end, which are exhibit sheets essentially.
+[280.20s -> 281.20s]  Yes.
+[281.20s -> 286.92s]  With the corrections that you made in Statement 5 brought into account, are the contents of
+[286.92s -> 290.80s]  that your second witness statement true to the best of your knowledge and belief?
+[290.80s -> 291.80s]  Yes, they are.
+[291.80s -> 292.80s]  Thank you.
+[292.80s -> 297.04s]  Can we deal with your third witness statement, please?
+[297.04s -> 306.92s]  21st of March, 2024, 0046, 0300, 234 pages long.
+[306.92s -> 308.24s]  Yes.
+[308.24s -> 314.32s]  that your signature on page 234? It is. And with the corrections in statement 5
+[314.32s -> 318.32s]  brought into account, are the contents of that witness statement true to the best
+[318.32s -> 323.56s]  of your knowledge and belief? Yes they are. Thank you. And then lastly statement 4,
+[323.56s -> 334.08s]  29th of April 2024, 00460400, 83 pages long, is that your witness, is that your
+[334.08s -> 338.16s]  signature on page 83 of the witness statement. It is. And with the
+[338.16s -> 342.16s]  corrections in statement five brought into account, are the contents of that
+[342.16s -> 345.24s]  your fourth witness statement true to the best of your knowledge and belief?
+[345.24s -> 350.92s]  They are. Thank you very much. They can be put to one side now. Any further
+[350.92s -> 356.22s]  references I give you will come up on the screen. Okay. Those witness statements,
+[356.22s -> 360.80s]  all five of them, will be uploaded to the inquiry's website. They're a substantial
+[360.80s -> 366.14s]  body of evidence, and therefore I'm not going to refer to all parts of them when asking
+[366.14s -> 367.14s]  you questions.
+[367.14s -> 373.68s]  Additionally, you've exhibited to your witness statement a very large number of documents,
+[373.68s -> 379.80s]  and you have been provided by the inquiry with still further documents over the last
+[379.80s -> 385.80s]  year and a half, and you and your legal representatives have had access to the inquiry's relativity
+[385.80s -> 386.80s]  database.
+[386.80s -> 391.60s]  I think all of that has resulted in you seeing a very large volume of material, is that right?
+[391.60s -> 392.10s]  Indeed.
+[392.80s -> 397.52s]  And if at any time you want me to stop or to slow down when considering a document,
+[397.52s -> 398.96s]  then please do say so.
+[398.96s -> 399.46s]  Thank you.
+[400.40s -> 402.40s]  Can I start with your background, please?
+[402.40s -> 407.04s]  I think you graduated in 1973 from University, Cambridge University,
+[407.04s -> 408.64s]  with a degree in mathematics.
+[408.64s -> 409.28s]  That's correct.
+[410.48s -> 416.16s]  And upon graduation, you immediately worked for International Computers Limited,
+[416.16s -> 423.04s]  ICL, is that right? That's correct. And ICL became Fujitsu Services Limited in 2002?
+[424.40s -> 428.08s]  Around then, I'm not sure exactly when that happened, but yes it changed its name in the
+[428.08s -> 431.92s]  early part of the century. Yeah, I was taking that from your witness statement. Right, yes,
+[431.92s -> 436.96s]  I wasn't 100% sure of the date, but that was the best of my recollection. You remain there for the
+[436.96s -> 442.88s]  whole of your professional career, is that right? That's correct. Until you retired in 2015? Correct.
+[442.88s -> 450.24s]  Dealing briefly at the moment with the stages of your career at ICL Fujitsu,
+[450.24s -> 459.04s]  so far as concerns us, from about 1996 to about 2000, did you work in the agent team?
+[459.04s -> 460.52s]  That's correct, yes.
+[460.52s -> 467.76s]  You were one of a team of 10 to 20 architects working on the Horizon system, is that right?
+[467.76s -> 469.08s]  Something like that, yes.
+[469.08s -> 478.72s]  From about 2000 until retirement in 2015 you worked in the architecture and design team,
+[478.72s -> 482.96s]  is that right? That's right, yes. That was part of the development team, is that right?
+[482.96s -> 488.00s]  It varied. At some points it was, at other points it was a separate team,
+[488.00s -> 495.76s]  but the work was similar in those respects. It was part of the development team, I think,
+[495.76s -> 499.76s]  until it merged with what was called the requirements department, is that right?
+[499.76s -> 500.76s]  Yes.
+[500.76s -> 504.76s]  How many people were in the architecture and design team?
+[504.76s -> 512.76s]  I can't remember the exact numbers, but again, it's varied a lot. It started off with about
+[512.76s -> 517.76s]  20 or 30, I think I've got the figure in my witness statement, and by the time I retired,
+[517.76s -> 521.76s]  it was down to something like about half a dozen, that sort of number.
+[521.76s -> 527.44s]  And were they all the same level or pay grade as you or was there seniority within the department?
+[527.44s -> 531.76s]  Different people were at different grades but that wasn't necessarily reflected in terms of
+[531.76s -> 540.16s]  the management structure as such. Throughout your time I think your role was a technical
+[540.16s -> 542.48s]  or operational one, is that right? Correct, yes.
+[543.28s -> 546.08s]  Not a managerial or supervisory role, is that right?
+[546.08s -> 549.44s]  No, I never had any man management responsibilities during that time.
+[549.44s -> 557.60s]  You tell us in your witness statement that from 2002 to 2008 you, quote, took on the
+[557.60s -> 565.48s]  role of defining the technical changes required by project impact and worked on the implementation
+[565.48s -> 570.36s]  of the Bureau de change and the acceptance of credit cards. Is that right?
+[570.36s -> 574.58s]  Among other things, so those were the main developments. So I worked on impact until
+[574.58s -> 580.42s]  that went live in 2005, I think it was, then I worked on Bureau de Charge and credit card
+[580.42s -> 584.86s]  changes and then a few other minor things before I moved on to Horizon Online requirements
+[584.86s -> 585.86s]  capture.
+[585.86s -> 589.66s]  Did you move on to Horizon Online from about 2008?
+[589.66s -> 592.86s]  It was around then, yes, I can't remember the exact time.
+[592.86s -> 598.86s]  And did you work on Horizon Online from 2008 to about 2015?
+[598.86s -> 600.56s]  Yes.
+[600.56s -> 605.48s]  You tell us in your witness statement that you, quote, worked with post office analysts
+[605.48s -> 609.12s]  in defining the technical requirements for Horizon Online.
+[609.12s -> 610.12s]  Is that right?
+[610.12s -> 611.40s]  Yes, that's true.
+[611.40s -> 618.06s]  And that you, quote, supported post office's requirements team in specifying use cases
+[618.06s -> 620.06s]  for the counter functionality.
+[620.06s -> 621.06s]  That's correct, yes.
+[621.06s -> 624.48s]  What does that mean?
+[624.48s -> 630.04s]  The contractual definition of how Horizon Online was to work was that the counter should
+[630.04s -> 635.52s]  operate in the same way as it did on legacy horizon and therefore it was decided that
+[635.52s -> 642.56s]  we needed to put in place something that actually defined exactly what that was and the technique
+[642.56s -> 649.44s]  that was decided was that the post office would put together the use cases to define
+[649.44s -> 654.32s]  the various activities that went on in the post office, to define the steps that people
+[654.32s -> 659.56s]  went through from how do you sell a stamp to how do you balance at the end of the week
+[659.56s -> 660.56s]  or whatever.
+[660.56s -> 662.76s]  That's sorry to interrupt you, that's a use case?
+[662.76s -> 665.80s]  Each one of those will be a separate use case, yes, sorry.
+[665.80s -> 672.12s]  Did you then develop the implementation of those use cases and then test them?
+[672.12s -> 673.12s]  Not personally.
+[673.12s -> 679.84s]  There was a team who were developing the counter and I was acting as a guide to that team
+[679.84s -> 684.84s]  in terms of interpreting what the use cases meant and looking at how the code that they
+[684.84s -> 691.76s]  developed came out and I was responding to when queries came out of the testing
+[691.76s -> 694.92s]  process as to should it work this way or should it work that way, is this a
+[694.92s -> 698.84s]  problem or is that how it's supposed to work and reacting to things like that.
+[698.84s -> 705.88s]  You tell us that during your time at Fujitsu you were a group of anywhere
+[705.88s -> 710.58s]  between 20 and 100 software designers and developers who would provide
+[710.58s -> 715.26s]  fourth-line support for both Legacy Horizon and Horizon Online?
+[715.26s -> 720.30s]  Yes, the way fourth-line support worked was that the people who were doing the development
+[720.30s -> 725.56s]  were expected to spend a small part of their time in actually supporting the live service
+[725.56s -> 731.98s]  and the system under test, and so that's what fourth-line support was all about, and I did
+[731.98s -> 734.54s]  that just like everyone else in the development team.
+[734.54s -> 736.62s]  That was an adjunct to your main role?
+[736.62s -> 737.62s]  Correct.
+[737.62s -> 744.14s]  Although I'm sure the fraction varied, what proportion of your time was given over to
+[744.14s -> 745.14s]  fourth line support?
+[745.14s -> 750.22s]  It was first average out at about 10 percent and I think that's roughly what it ended up
+[750.22s -> 751.22s]  as.
+[751.22s -> 752.22s]  Thank you.
+[752.22s -> 761.10s]  In your first witness statement, you refer to ICL introducing what's called a distinguished
+[761.10s -> 767.82s]  engineer scheme, correct? And you tell us that you became a distinguished engineer in
+[767.82s -> 768.82s]  the mid 1990s.
+[768.82s -> 772.06s]  Yes, I can't remember exactly when.
+[772.06s -> 778.94s]  You were one of about 100 other ICL employees who were described as distinguished engineer,
+[778.94s -> 779.94s]  is that right?
+[779.94s -> 782.42s]  That's correct, yes.
+[782.42s -> 788.50s]  Is it right that that was an honorific title conferred upon you by ICL or Fujitsu?
+[788.50s -> 793.54s]  Yes, it was. It didn't make any difference to what I got paid or anything like that. It was purely
+[794.18s -> 802.58s]  seen as an honour and just recognition of that I had a fairly senior design role and was respected
+[802.58s -> 807.70s]  within the company. What was the process that led to you becoming a distinguished engineer?
+[807.70s -> 812.58s]  I think I was nominated by my manager who filled in various complicated
+[812.58s -> 816.66s]  forms to justify why I should become one.
+[816.66s -> 822.68s]  Was there any further training or qualification or a particular professional experience that
+[822.68s -> 825.82s]  was required before you could become a distinguished engineer?
+[825.82s -> 828.16s]  Not as much, no.
+[828.16s -> 831.38s]  So it was simply a title given to you by your own company?
+[831.38s -> 834.22s]  Yes, correct.
+[834.22s -> 839.46s]  Did you acquire any level of management responsibility as a result of the appointment?
+[839.46s -> 844.20s]  No, people did try and persuade me that I ought to manage some people and I resisted
+[844.20s -> 846.44s]  it and successfully.
+[846.44s -> 848.92s]  I think you've told us that it didn't affect your pay.
+[848.92s -> 849.92s]  Correct.
+[849.92s -> 858.56s]  You tell us in your first witness statement that from about 2015 until August 2012, so
+[858.56s -> 865.36s]  after, sorry, 2022, you were on a retainer with Fujitsu as a consultant, is that right?
+[865.36s -> 866.36s]  That's correct.
+[866.36s -> 874.72s]  And what was the nature of your consultancy with them? What were you consulting about?
+[874.72s -> 882.68s]  It was various things. The expectation was that it would amount to something like about half a dozen
+[882.68s -> 887.80s]  or a dozen days a year. And for most of the period, it was at that level. I don't think,
+[887.80s -> 894.08s]  although I was on the retainer until August 2022, I think the last time I actually did any pay
+[894.08s -> 901.36s]  consultancy was just before COVID lockdown in 2020, which is why they decided they, since they
+[901.36s -> 904.88s]  hadn't been using me for a couple of years, that they didn't need to retain me any further.
+[905.44s -> 913.52s]  The one exception to that was the time when the group litigation was happening in 2018, 2019,
+[913.52s -> 920.00s]  when I was working a lot more than that, probably an average of about one to two days a week
+[920.00s -> 926.72s]  for a period of about five or six months. So did your retainer essentially come to an end
+[927.68s -> 933.28s]  at the time of the publication of the Horizon Issues Judgment, which was December 19? No,
+[933.28s -> 939.92s]  the retainer came to an end in 2022, but I didn't actually do much retained work.
+[942.64s -> 946.64s]  The last few things were actually talking to the lawyers about the consequences of the
+[946.64s -> 955.36s]  Horizon Issues judgment. Other than the provision of information, assistance and evidence in
+[955.36s -> 962.00s]  connection with the litigation concerning the Horizon system, what work did you perform in
+[962.00s -> 973.04s]  this consultancy? I was called to go to a few meetings. A lot of it was to do with the hangouts
+[973.04s -> 978.48s]  from prosecution. I wasn't involved in any particular prosecutions as such, but there
+[978.48s -> 988.08s]  was quite a lot of work going on in the background, which, talking to various lawyers, I got pulled
+[988.08s -> 994.00s]  in in 2016 for a bug that had been found that was quite serious, the Dalmellington bug that
+[994.00s -> 999.96s]  I think you may well be coming back to later on, and it was felt that I could maybe help
+[999.96s -> 1004.76s]  explain what the consequences of that was to post office.
+[1004.76s -> 1010.16s]  I spent, there was a problem that the post office had, again, I can't remember the exact
+[1010.16s -> 1017.38s]  date now, it's in my witness statement, when there was a mismatch in post office's back
+[1017.38s -> 1018.96s]  end accounts.
+[1018.96s -> 1025.60s]  They tried to do a reconciliation against data they had from Fujitsu, and I realized
+[1025.60s -> 1029.36s]  what the problem was, it was to do with the fact that they were taking the accounts at
+[1029.36s -> 1033.76s]  different times. One was taking what the cash positions were at seven o'clock in the evening,
+[1033.76s -> 1039.60s]  and the other was taking the cash position at midnight, and therefore this accounted for the
+[1039.60s -> 1046.32s]  mismatch that they had in the account. So it was various ad hoc, fairly self-contained tasks,
+[1046.32s -> 1051.28s]  each of which lasted maybe two or three days. There seems to be a fly. Yes, there is. It's a
+[1051.28s -> 1058.88s]  bit of a pain. Buzzing around you. I don't want you to be distracted. No, I'm trying to ignore it.
+[1059.36s -> 1063.36s]  If it becomes too much, we'll break and get rid of it.
+[1063.36s -> 1064.36s]  Okay.
+[1064.36s -> 1074.44s]  Would it be fair to say that the majority of this time, certainly between 2015 and the
+[1074.44s -> 1080.20s]  Horizon Issues judgement in December 2019, was given over to the provision of litigation
+[1080.20s -> 1083.60s]  support?
+[1083.60s -> 1085.68s]  Certainly in 2018 and 2019.
+[1085.68s -> 1087.96s]  I'm not sure it was direct litigation.
+[1087.96s -> 1094.28s]  is probably about half and half. I can't remember the gory details of exactly what I was doing when,
+[1094.28s -> 1102.60s]  but there were a number of notes that I produced, which I wasn't quite sure what the background was,
+[1102.60s -> 1106.76s]  but looking back at it now, I realise was actually maybe in preparation for
+[1107.48s -> 1113.72s]  what eventually became the GLO. Have you read the horizon issues judgment?
+[1113.72s -> 1119.08s]  I skimmed through it at the time, and I've looked at various sections of it. I don't
+[1119.08s -> 1121.36s]  claim to have read it every word, I'm afraid.
+[1121.36s -> 1128.24s]  In high-level summary, would you agree that Mr Justice Fraser concluded, firstly, that
+[1128.24s -> 1132.76s]  legacy Horizon was not remotely robust?
+[1132.76s -> 1135.08s]  I accept that that's what he said.
+[1135.08s -> 1141.16s]  Yes. Do you accept that Horizon Online was susceptible to accounting flaws?
+[1141.16s -> 1148.70s]  Again, that is what he said. I think he's maybe putting it too strongly. I felt that
+[1148.70s -> 1156.32s]  Horizon Online was and is, because after all it is still the system that's operating today,
+[1156.32s -> 1159.28s]  doing a good job in terms of the accounting, particularly with the monitoring that was
+[1159.28s -> 1165.72s]  going on in terms of being able to detect things when they had occurred.
+[1165.72s -> 1171.00s]  He concluded that some postmasters were not informed of and were therefore oblivious to
+[1171.00s -> 1175.56s]  a range of bugs, errors, and defects.
+[1175.56s -> 1178.52s]  Do you agree that that's a summary of what he found?
+[1178.52s -> 1180.80s]  That's certainly what he said, yes.
+[1180.80s -> 1183.84s]  And lastly, that those bugs, errors, and defects
+[1183.84s -> 1188.36s]  could result in, i.e., cause discrepancies or shortfalls
+[1188.36s -> 1190.44s]  in the branch accounts of sub-postmasters,
+[1190.44s -> 1194.72s]  thereby corrupting transactions, disrupting data processing,
+[1194.72s -> 1197.08s]  and recording transactions.
+[1197.08s -> 1200.88s]  That was a possibility, but I'm not sure that I, even today,
+[1200.88s -> 1207.88s]  I understand what bugs actually did cause the problems that people have suffered from.
+[1207.88s -> 1213.64s]  Do I take it that you accept his first finding that Legacy Horizon was not remotely robust?
+[1213.64s -> 1215.28s]  I don't accept that finding.
+[1215.28s -> 1221.08s]  You don't accept his finding that Horizon Online was susceptible to accounting flaws?
+[1221.08s -> 1228.00s]  There were some discrete bugs that caused problems to the accounts, but they were very
+[1228.00s -> 1235.12s]  discreet and I believe that they were all well controlled and managed at the time.
+[1235.12s -> 1240.52s]  And you don't accept his findings that bugs, errors and defects could result in, i.e. cause
+[1240.52s -> 1244.68s]  discrepancies or shortfalls in branch accounts?
+[1244.68s -> 1250.62s]  They could cause discrepancies in branch accounts but not at the sort of levels that are being
+[1250.62s -> 1255.54s]  talked about and in general the systems I believe were operating as they should.
+[1255.54s -> 1256.54s]  Robustly?
+[1256.54s -> 1262.58s]  It depends exactly what you mean by robust, but as long as you're not saying infallibly,
+[1262.58s -> 1271.10s]  then yes, because I think robust meant that there were mechanisms in place that would
+[1271.10s -> 1276.54s]  monitor what was going on, detect problems, and that they were then investigated and resolved
+[1276.54s -> 1277.54s]  correctly.
+[1277.54s -> 1283.14s]  Horizon, both legacy and online, was working well in your view?
+[1283.14s -> 1284.14s]  Most of the time.
+[1284.14s -> 1289.32s]  There were clearly problems during the pilots in both cases, and there were clearly individual
+[1289.32s -> 1294.08s]  problems that affected individual branches, and I'm sure we'll come on to those at some
+[1294.08s -> 1297.84s]  time, but in general, then I felt that the systems were working well.
+[1297.84s -> 1300.52s]  Did George get it wrong?
+[1300.52s -> 1310.56s]  I wouldn't like to say that, but I think there's a difference in emphasis between...
+[1310.56s -> 1314.84s]  There were clearly problems and he identified a number of problems and I won't dispute those
+[1314.84s -> 1318.60s]  problems happened, but on the whole I felt the systems were working well.
+[1318.60s -> 1325.68s]  Can I turn in more detail to your role in the development and rollout of the Horizon
+[1325.68s -> 1331.40s]  system and in – no need to turn it up – paragraphs 18 to 23 of your first witness statement,
+[1331.40s -> 1338.64s]  you describe your roles and responsibilities at ICL and then Fujitsu.
+[1338.64s -> 1345.16s]  So between 1996 and 2002, you tell us that your initial role with Legacy Horizon was
+[1345.16s -> 1350.28s]  quote to integrate Repost and the Oracle based software, yes?
+[1350.28s -> 1352.00s]  That's correct, yes.
+[1352.00s -> 1358.68s]  And that you helped develop an agent layer that would allow those two types of software
+[1358.68s -> 1360.68s]  to communicate with each other.
+[1360.68s -> 1361.68s]  Correct.
+[1361.68s -> 1365.92s]  Firstly, can you describe briefly what Repost was?
+[1365.92s -> 1371.70s]  Repost was a messaging – well, step back one. There were two aspects to Repost, and
+[1371.70s -> 1377.30s]  this was software that we had bought in at Post Office's request from a company called
+[1377.30s -> 1382.46s]  Escher in the United States. The bit of it that I was primarily involved in was what
+[1382.46s -> 1388.60s]  was called the message store, which was a way that all the data about what had happened
+[1388.60s -> 1396.32s]  in a branch was being recorded. So it was a sophisticated database in crude terms, and
+[1396.32s -> 1401.80s]  that was where the data, not only of transactions, but of working data during the day, what had
+[1401.80s -> 1407.20s]  gone on when people logged on, all sorts of things, was all recorded in this message store.
+[1407.20s -> 1412.04s]  Then the other part of Repost was a development environment that allowed applications to be
+[1412.04s -> 1420.44s]  built on that, and the application environment that caused the human interface that the postmaster
+[1420.44s -> 1429.08s]  saw in the branches. And that bit of Repost I had not very little involvement with in
+[1429.08s -> 1434.64s]  the early days. I got more involved in that when I moved on to Project Impact in 2003
+[1434.64s -> 1441.64s]  or so. But in the early days, my main interaction with Repost was to do with the message store.
+[1441.64s -> 1446.94s]  Thank you. And then the Oracle-based software. Can you describe again briefly, as you've
+[1446.94s -> 1449.42s]  just done, what the Oracle-based software was?
+[1449.42s -> 1455.50s]  This was really an Oracle database, and this was used to communicate with Post Office's
+[1455.50s -> 1460.54s]  backend systems where they did their backend accounting. So that was really the boundary
+[1460.54s -> 1467.34s]  between what Fujitsu was doing or ICL was doing and what Post Office was doing. So that
+[1467.34s -> 1472.56s]  That was basically an overnight batch processing system, so it would process through all the
+[1472.56s -> 1476.92s]  transactions, it would generate files of transactions that had happened during that day, which were
+[1476.92s -> 1480.64s]  then transmitted to Post Office's backend systems.
+[1480.64s -> 1483.16s]  And you say that you developed an agent layer.
+[1483.16s -> 1484.44s]  What is an agent layer?
+[1484.44s -> 1489.88s]  So what the agent layer was doing is it was reading data from the message store, and we
+[1489.88s -> 1494.84s]  had copies of the message store in the data centre, and extracting the relevant transactions
+[1494.84s -> 1499.96s]  and other information that was of interest to Post Office's backend systems, and writing
+[1499.96s -> 1504.36s]  records to the Oracle databases to reflect those transactions. Then there was also a
+[1504.36s -> 1509.08s]  flow in the other direction. For example, reference data was being generated by Post
+[1509.08s -> 1514.12s]  Office, and by reference data, the simplest example is, what's the price of a stamp today?
+[1514.12s -> 1519.20s]  Because obviously, the price of stamps changes every now and again. So therefore, things
+[1519.20s -> 1524.24s]  like prices weren't actually built into the code. We just knew that you need to sell a
+[1524.24s -> 1528.00s]  a stamp and then behind that there would be a bit of reference data that says well if
+[1528.00s -> 1533.48s]  you sell a stamp it's going to cost you whatever a stamp costs today, £1.15. Back in the day
+[1533.48s -> 1537.36s]  it was about 30p or something.
+[1537.36s -> 1545.60s]  Given that the work started in 1996, what challenges existed in ensuring that the communication
+[1545.60s -> 1548.32s]  by the agent layer was enabled?
+[1548.32s -> 1553.04s]  I'm not quite sure I understand the question.
+[1553.04s -> 1560.00s]  You tell us in your witness statement that your role lasted between 1996 and 2002, which
+[1560.00s -> 1561.00s]  is post-rollout.
+[1561.00s -> 1562.00s]  Yes.
+[1562.00s -> 1563.00s]  So.
+[1563.00s -> 1567.00s]  What took six years?
+[1567.00s -> 1568.00s]  Right.
+[1568.00s -> 1574.68s]  The work changed a lot over time because at the beginning, back in 1996, the first application
+[1574.68s -> 1582.04s]  that was rolled out was actually a benefits agency application, which by 1998, 1999, actually
+[1582.04s -> 1586.24s]  got dropped because the Benefits Agency pulled out the contract.
+[1586.24s -> 1587.24s]  So a lot of...
+[1587.24s -> 1590.48s]  Just stopping there, I wonder whether you mind slowing down a little bit.
+[1590.48s -> 1591.48s]  Sorry.
+[1591.48s -> 1596.52s]  Although the shorthand writer hasn't said anything so far, I can imagine...
+[1596.52s -> 1597.52s]  Sorry.
+[1597.52s -> 1599.08s]  ...that she wants to.
+[1599.08s -> 1600.08s]  Yes.
+[1600.08s -> 1603.90s]  So if you can just slow down a little bit, please.
+[1603.90s -> 1611.00s]  What did you know as to the reasons why the Benefits Agency pulled out of the contract?
+[1611.00s -> 1614.78s]  I'm not sure that I was really aware of the details. That was something that was taking
+[1614.78s -> 1618.52s]  place at levels way above where I was working.
+[1618.52s -> 1619.52s]  What were you told?
+[1619.52s -> 1624.56s]  I can't remember now why I was told. I think they decided they were going to do things
+[1624.56s -> 1629.60s]  differently. What they eventually did was they paid people's benefits directly into
+[1629.60s -> 1634.32s]  their bank accounts rather than doing it through a special application in the post office.
+[1634.32s -> 1639.76s]  Were you told anything to the effect that one of the reasons why the benefits agency
+[1639.76s -> 1645.08s]  withdrew was a lack of confidence in ICL.
+[1645.08s -> 1648.04s]  I'm not sure that I was aware of that at the time.
+[1648.04s -> 1654.68s]  And doubts over the integrity of the data that the nascent system was producing.
+[1654.68s -> 1657.88s]  I don't remember hearing that at the time.
+[1657.88s -> 1662.56s]  Anyway, you continued in the role until 2002.
+[1662.56s -> 1670.48s]  Does that mean that the agent layer required a continual level of support and maintenance
+[1670.48s -> 1671.64s]  even after rollout?
+[1671.64s -> 1674.30s]  No, because there were new – there's new functionality.
+[1674.30s -> 1680.08s]  So the main thing I was doing in the early 2000s was network banking was introduced into
+[1680.08s -> 1687.80s]  the system in 2003, and a few months later the support of debit cards was introduced.
+[1687.80s -> 1692.64s]  So the main work I was doing with the agents then was supporting the changes that were
+[1692.64s -> 1699.08s]  required because one of the things the agents did was they interfaced between the data centers
+[1699.08s -> 1701.56s]  and the banking systems.
+[1701.56s -> 1705.08s]  And that was clearly a fairly significant development.
+[1705.08s -> 1709.98s]  You tell us that you moved away from the agent team and took on the role of defining changes
+[1709.98s -> 1712.42s]  required by project impact.
+[1712.42s -> 1715.24s]  Did the work of the agent team continue after you left?
+[1715.24s -> 1716.24s]  Oh, yes.
+[1716.24s -> 1721.92s]  team there, someone else took over the role of the chief designer within the
+[1721.92s -> 1726.08s]  agent team. I think he actually took over that role about 2000, something like that,
+[1726.08s -> 1730.76s]  and I was gradually moving on to other things on the side. So it wasn't a
+[1730.76s -> 1737.08s]  sudden drop this and do that, it was a more of an evolution than a revolution.
+[1737.08s -> 1747.98s]  In your role between 1996 and 2002, were you in any way responsible for communicating with
+[1747.98s -> 1752.34s]  the post office team as to their requirements?
+[1752.34s -> 1753.74s]  Not so much with their requirements though.
+[1753.74s -> 1757.70s]  That really started with Project Impact, but I certainly was working with the post office
+[1757.70s -> 1767.10s]  team in terms of defining the interfaces between how Fujitsu's agents were operating and how
+[1767.10s -> 1768.10s]  they interacted.
+[1768.10s -> 1774.54s]  Well, initially, there was a box in between us and the banks called the Network Banking
+[1774.54s -> 1776.62s]  Engine, which was provided by IBM.
+[1776.62s -> 1780.58s]  So initially, we provided the interface into that.
+[1780.58s -> 1785.30s]  Then later on, that was replaced after I was no longer involved by a direct interface to
+[1785.30s -> 1786.30s]  the banks.
+[1786.30s -> 1793.30s]  Did you come into contact with Jeremy Fowkes, the infrastructure assurance team leader from the post office?
+[1793.30s -> 1801.30s]  Not at that time, but I did come across him a few years later when he'd moved roles and he actually joined Escher as one of their consultants.
+[1801.30s -> 1808.30s]  So I did come across Jeremy in his role with Escher, but I don't remember coming across him when he was working with post office.
+[1808.30s -> 1815.94s]  He told the inquiry, it was back on the 2nd of November 2022, that we, and by that he
+[1815.94s -> 1822.90s]  meant the benefits agency and the post office counters limited team, had, quote, been denied
+[1822.90s -> 1825.98s]  viability of the application design.
+[1825.98s -> 1830.06s]  I'm not quite sure what he meant by that.
+[1830.06s -> 1837.44s]  He continued, when I say we had some visibility of risk areas, what I mean is that the areas
+[1837.44s -> 1845.24s]  where we had raised formal risks to the service provider at the start, such as Repost. In
+[1845.24s -> 1850.28s]  those cases, we did get more information, but as far as the application design, in particular
+[1850.28s -> 1854.84s]  EPOS, we had been denied visibility.
+[1854.84s -> 1859.60s]  I think that was something to do with the way the contract had been negotiated between
+[1859.60s -> 1865.24s]  – or ICL management, as it was then, and Post Office and DSS. I wasn't involved in
+[1865.24s -> 1870.44s]  of that, but as I understand it, it was a PFI contract, and part of that meant that the customer
+[1870.44s -> 1875.16s]  had to treat the whole thing as a black box, but say this is hearsay, if you like, rather than
+[1875.16s -> 1882.84s]  something I was directly involved in. Where did the hearsay come from? Just chat around the office
+[1882.84s -> 1888.52s]  to say I wasn't directly involved in all of that, but clearly people were talking about,
+[1888.52s -> 1895.56s]  I think I was aware that post office did not have the right to see various design documents that
+[1895.56s -> 1902.40s]  were being produced. What do you mean that they were buying a black box? That it was up to Fujitsu
+[1902.40s -> 1907.84s]  exactly how they designed the application and the details of how the internal design was done was
+[1907.84s -> 1916.04s]  something for Fujitsu YCL to worry about and it wasn't something that post office would get involved
+[1916.04s -> 1924.36s]  in. Would a consequence of that be in relation, for example, to EPOS mean that it would be
+[1924.36s -> 1933.20s]  difficult if not impossible for the post office to ensure that there was data integrity?
+[1933.20s -> 1936.74s]  I don't think it went that far. There were certainly joint test teams. There was a lot
+[1936.74s -> 1940.92s]  of testing going on. There were post office testers involved in testing the system to
+[1940.92s -> 1949.48s]  make sure that it came up with the right outputs. So, yeah.
+[1949.48s -> 1955.52s]  He suggested that the fact that the post office had purchased a black box and had no rights
+[1955.52s -> 1962.20s]  to see how the black box worked meant that it was difficult, if not impossible, to ensure
+[1962.20s -> 1965.60s]  data integrity within the Horizon system.
+[1965.60s -> 1966.60s]  You disagree with that?
+[1966.60s -> 1967.60s]  I would disagree with that, yes.
+[1967.60s -> 1971.52s]  And you say that the answer to that is that they were entitled to participate in testing?
+[1971.52s -> 1976.16s]  Yes, as I say, I wasn't really involved at that sort of level at that time.
+[1976.16s -> 1980.56s]  I was just looking after making sure that the agents worked rather than worrying about
+[1980.56s -> 1984.96s]  how the counter worked and things like that.
+[1984.96s -> 1991.00s]  Were you conscious, and those with whom you worked conscious, that the nature of the contract
+[1991.00s -> 1998.80s]  was a PFI contract, and therefore the client had no rights, no visibility over the way
+[1998.80s -> 2001.76s]  the system was built.
+[2001.76s -> 2003.68s]  I think I was aware of that, yes.
+[2003.68s -> 2007.52s]  What effect did it have on your work?
+[2007.52s -> 2013.76s]  Nothing really. At that time I wasn't having any real contact with the customer anyway.
+[2013.76s -> 2019.24s]  I only started getting involved with the customer later. And it was really a case of, and the
+[2019.24s -> 2024.52s]  The main work I was doing with the customer in the early 2000s was with agreeing these
+[2024.52s -> 2028.40s]  banking specs, and there I was working very openly with the customer because there were
+[2028.40s -> 2034.72s]  their specs that were defining the interfaces as to how Horizon was going to interface with
+[2034.72s -> 2040.96s]  initially the banking engine and then also with Streamline for the debit card payments.
+[2040.96s -> 2044.76s]  So that was something that wasn't part of the black box.
+[2044.76s -> 2046.24s]  Why was the black box being mentioned?
+[2046.24s -> 2047.24s]  Why was it being talked about?
+[2047.24s -> 2053.72s]  thing was being talked about as such it was really I probably picked that up from the Jeremy Fox's
+[2053.72s -> 2061.08s]  stuff as I say I was aware that there's a PFI contract and that it meant that we didn't
+[2061.08s -> 2066.12s]  necessarily need to share detailed design documents with the customer because it was
+[2066.68s -> 2072.68s]  Fujitsu's intellectual property. Was that the usual way of working or an unusual way of working?
+[2072.68s -> 2078.20s]  I've not worked on contracts like that before. Before I'd been in an internal development role,
+[2078.20s -> 2084.28s]  actually producing products that were sold rather than working as a client for a specific customer.
+[2085.00s -> 2090.68s]  You wouldn't know one way or the other. Correct. In relation to your fourth line support role,
+[2090.68s -> 2094.68s]  you tell us in your witness statements, the first witness statement of paragraph 25,
+[2094.68s -> 2100.76s]  quote, I would only have been aware of bugs, errors and defects specifically allocated to me
+[2100.76s -> 2106.84s]  by third-line support or where I was asked to root the issue to the correct person in
+[2106.84s -> 2111.80s]  fourth-line support or where I was asked for specific input on the problem because of my
+[2111.80s -> 2113.56s]  particular expertise, correct? Yes, yes.
+[2116.04s -> 2126.20s]  Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+[2126.20s -> 2128.60s]  within the system at any given time? No.
+[2130.76s -> 2136.92s]  So you couldn't at any particular time speak to the existence or non-existence of bugs,
+[2136.92s -> 2139.72s]  errors and defects in the system?
+[2139.72s -> 2142.92s]  Not from my personal knowledge, no.
+[2142.92s -> 2148.28s]  If you did not have knowledge of or oversight of all bugs, errors and defects within the
+[2148.28s -> 2152.40s]  system at any given time, who did?
+[2152.40s -> 2157.60s]  I would have thought the SSC would, and there was an area called customer services, SSC
+[2157.60s -> 2158.88s]  was part of that.
+[2158.88s -> 2164.12s]  There were also problem managers who would look at specific incidents.
+[2164.12s -> 2168.32s]  Now, incidents could be to do with bugs or defects, or more commonly, there would be
+[2168.32s -> 2175.16s]  operational issues where a bit of the network went down or connections to banks went down
+[2175.16s -> 2182.00s]  for a few hours, which clearly caused fairly catastrophic effects at the time.
+[2182.00s -> 2184.68s]  And so their job was to manage these sort of things.
+[2184.68s -> 2189.08s]  So I would have thought that if there was an overall knowledge of how well the system
+[2189.08s -> 2192.36s]  was behaving, it would be part of their role.
+[2192.36s -> 2197.32s]  We've heard from a lot of people from the SSC, and they've told us that there were between
+[2197.32s -> 2204.44s]  20 and 30 people at any one time working in the SSC, sometimes working shifts, some working
+[2204.44s -> 2211.30s]  at home, some working in the office, that they only knew about the bugs that they were
+[2211.30s -> 2218.82s]  allocated on the stack, and that it was correct that there might be informal sharing of information
+[2218.82s -> 2224.42s]  by people who were sitting next to each other or talking about it at the water cooler, but
+[2224.42s -> 2231.64s]  there was no formalised system for sharing knowledge within the SSC. Did you know that?
+[2231.64s -> 2235.78s]  I didn't know that. They would obviously be able to speak better about that sort of thing
+[2235.78s -> 2238.38s]  than I was. I wasn't part of the SSC.
+[2238.38s -> 2243.94s]  But when I asked you who may have oversight of all bugs, errors and defects within the
+[2243.94s -> 2247.10s]  Horizon system, you pointed to the SSC.
+[2247.10s -> 2252.66s]  As part of that, but there was also, there was the whole point of the customer services
+[2252.66s -> 2259.70s]  directorate was to actually manage the interface with post office, including knowledge of what
+[2259.70s -> 2263.62s]  had been going on in the system, what sort of problems there were and things like that.
+[2263.62s -> 2265.10s]  That's a day-to-day function.
+[2265.10s -> 2272.08s]  I'm looking for, it might be described as an all-seeing eye, but somebody who took a
+[2272.08s -> 2278.38s]  step back and would be able to say, we've had these problems in the past with Horizon,
+[2278.38s -> 2285.14s]  these bugs, errors and defects, and at the moment we're servicing the existence of these
+[2285.14s -> 2290.00s]  possible bugs, errors and defects. Was there any such person?
+[2290.00s -> 2294.94s]  I can't immediately think of anyone who would have that specific role.
+[2294.94s -> 2301.48s]  When you were in fourth line support, how would you generally become aware of such bugs,
+[2301.48s -> 2304.90s]  errors and defects as you did become aware?
+[2304.90s -> 2311.50s]  There was a system called Peak and it had a predecessor called Pinnacle and the way
+[2311.50s -> 2318.52s]  that that operated, that was effectively a database of the various defects and that included
+[2318.52s -> 2328.44s]  those found during testing as well as those during live, and what happened was that peaks
+[2328.44s -> 2333.16s]  or pinnacles would be allocated to a particular person, and I think you'd normally get an
+[2333.16s -> 2337.20s]  email saying, you've had this peak that's allocated to you, you could then log into
+[2337.20s -> 2341.64s]  the peak system, have a look at the peak, see what it said, and then decide what you
+[2341.64s -> 2344.04s]  need to do with it next.
+[2344.04s -> 2349.40s]  And again, same questions within your various roles within Horizon Online.
+[2349.40s -> 2352.80s]  Did you have oversight of all bugs, errors and defects?
+[2352.80s -> 2357.80s]  Not as such, but I did have a probably a better view of them, particularly during the pilot
+[2357.80s -> 2364.54s]  phase of Horizon Online, because during the pilot phase there was a project team in place
+[2364.54s -> 2372.38s]  that was managing the pilot and taking very close monitoring of any issues that were going
+[2372.38s -> 2378.86s]  on during the pilot and I would often get called in to that by that team to investigate
+[2378.86s -> 2382.62s]  particular problems particularly ones that are the factor of the counter.
+[2382.62s -> 2390.26s]  After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+[2390.26s -> 2393.74s]  and defects within the Horizon Online system?
+[2393.74s -> 2394.74s]  No.
+[2394.74s -> 2398.26s]  Same questions, if not you did anyone?
+[2398.26s -> 2403.22s]  Again, I think it was something that customer services were supposed to be monitoring and
+[2403.22s -> 2404.22s]  managing.
+[2404.22s -> 2409.82s]  Now, whether they did have that sort of stand back oversight role that you described earlier,
+[2409.82s -> 2414.10s]  I can't think of any one person that did actually have that sort of role, but I hadn't
+[2414.10s -> 2417.54s]  really thought of it that way at the time.
+[2417.54s -> 2419.22s]  And again, same questions.
+[2419.22s -> 2424.10s]  How would you generally become aware of such bugs, errors, and defects as you became aware
+[2424.10s -> 2426.22s]  of in Horizon Online?
+[2426.22s -> 2427.62s]  The peak system was working.
+[2427.62s -> 2432.62s]  There was the same peak system that operated for both Legacy Horizon and Horizon Online.
+[2432.62s -> 2438.10s]  And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+[2438.10s -> 2442.30s]  be bugs, errors and defects through the Pinnacle and then the peak system?
+[2442.30s -> 2445.94s]  There was that, but there was also the problem management system.
+[2445.94s -> 2451.66s]  So when something was identified as being a serious problem, and I think we're probably
+[2451.66s -> 2455.86s]  going to go on talking about the receipts and payments mismatch problem at some stage,
+[2455.86s -> 2464.16s]  I was often called in to help, well, firstly, analyse the problem and explain that problem
+[2464.16s -> 2468.92s]  so that Fujitsu management could understand what it was all about, and I often got involved
+[2468.92s -> 2474.96s]  in explaining it to the equivalent people in post office about what the impact of that
+[2474.96s -> 2480.66s]  was and what could be done to remedy it, both in terms of fixing the code, but also fixing
+[2480.66s -> 2484.64s]  whatever the business impact of the problem was, which wouldn't necessarily be fixed
+[2484.64s -> 2487.64s]  directly just because you'd fix the code.
+[2487.64s -> 2491.20s]  So for you personally, there were two ways in which you
+[2491.20s -> 2494.48s]  became aware of bugs, errors, and defects in Horizon.
+[2494.48s -> 2499.68s]  Firstly, through your role, the 10% of your time role,
+[2499.68s -> 2501.40s]  the fourth line support.
+[2501.40s -> 2504.52s]  And that would largely be happenstance, would it, i.e.
+[2504.52s -> 2507.76s]  which peaks were allocated to you?
+[2507.76s -> 2509.32s]  The 10% wasn't just for the peak.
+[2509.32s -> 2514.24s]  So any time that I spent talking about serious incidents
+[2514.24s -> 2518.96s]  and things like that, that was all part of what I saw as the 10% at the time.
+[2518.96s -> 2525.16s]  In any event, in your role in fourth line support, it would be largely happenstance,
+[2525.16s -> 2530.76s]  whether it was you or somebody else, one of the other people performing fourth line support
+[2530.76s -> 2533.80s]  who had a particular bug, error or defect allocated to them.
+[2533.80s -> 2540.42s]  Yes, it was based really on the skills and work area the problem had happened in.
+[2540.42s -> 2548.34s]  If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+[2548.34s -> 2554.86s]  Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+[2554.86s -> 2563.20s]  evidence about the existence or non-existence of bugs, errors and defects in Horizon?
+[2563.20s -> 2568.14s]  What I was aware of was the fact that bugs that actually impacted the accounts were very
+[2568.14s -> 2573.34s]  there was good monitoring in place to detect them, and they got fixed shortly afterwards.
+[2573.34s -> 2578.66s]  So in terms of what was actually there in the live system at any one time, it was very
+[2578.66s -> 2586.30s]  rare for there to be a bug there that would cause problems, and therefore I was confident
+[2586.30s -> 2591.58s]  in the way that the system was operating, that it was operating correctly.
+[2591.58s -> 2597.94s]  To give that kind of very confident answer to a court, wouldn't you want to know the
+[2597.94s -> 2602.26s]  existence of each of the bugs and how they've been resolved and whether in fact there was
+[2602.26s -> 2604.26s]  any ongoing impact?
+[2604.26s -> 2609.90s]  I didn't realise at the time that I needed to do that. So at the time, no, I didn't
+[2609.90s -> 2614.54s]  think I needed to do that. Obviously, with hindsight, I realised that maybe I should
+[2614.54s -> 2620.02s]  have been doing more research. But at the time, I felt that that was sufficient.
+[2620.02s -> 2624.38s]  And the that in that sentence, meaning a general confidence in the system and the way that
+[2624.38s -> 2625.38s]  it operated?
+[2625.38s -> 2628.98s]  Yes, and the processes are in place to actually control things.
+[2629.62s -> 2634.90s]  So general confidence in the system plus processes that you thought were working
+[2635.46s -> 2641.46s]  allowed you confidently to give a generalized view, is that right?
+[2641.46s -> 2642.18s]  I think so, yes.
+[2645.46s -> 2649.14s]  During your employment within Fujitsu, did any of your roles
+[2649.14s -> 2656.00s]  entails any overall responsibility for monitoring identifying or fixing bugs
+[2656.00s -> 2662.34s]  errors or defects? Well we've talked about some of those already so I'm not
+[2662.34s -> 2667.26s]  quite sure what's... I mean did they always come to you? Oh no no I mean they go to
+[2667.26s -> 2672.42s]  whoever was the relevant person so there were certain areas that I would...
+[2672.42s -> 2675.62s]  normally they just went straight to the development teams and I didn't get
+[2675.62s -> 2679.78s]  involved in things, I tend to get involved if it was seen as being a broad
+[2679.78s -> 2683.06s]  issue or something like that. Not necessarily me, there are other people
+[2683.06s -> 2687.30s]  also in particular areas who would get called in.
+[2687.30s -> 2690.10s]  And how many other people?
+[2690.10s -> 2695.30s]  I'm not sure, sort of another half dozen or a dozen, something like that.
+[2695.30s -> 2701.30s]  And what were the circumstances in which you would get called in?
+[2701.30s -> 2713.60s]  It's a bit difficult to define, really. Certainly when we got on to things like Horizon Online,
+[2713.60s -> 2717.66s]  if it was seen as having an impact on the accounts, then we realised that that was a
+[2717.66s -> 2723.06s]  very serious problem and that I would get involved in those, which is why I got involved
+[2723.06s -> 2728.26s]  with what I see as the main serious issues in Horizon Online.
+[2728.26s -> 2729.26s]  Receipts and payments.
+[2729.26s -> 2734.10s]  receipts and payments match, the local suspense issue and Del Mannington's, those are the
+[2734.10s -> 2738.70s]  ones I see as being the serious issues with Horizon Online and I got involved in all of
+[2738.70s -> 2745.34s]  them because they saw me being helpful in terms of my expertise and background for those
+[2745.34s -> 2746.34s]  particular cases.
+[2746.34s -> 2750.90s]  That was my next question, why did they come to you?
+[2750.90s -> 2757.10s]  Because I'd had experience of dealing with things, I think it was felt that I was in
+[2757.10s -> 2762.98s]  a good position of turning some of the technical jargon into something that laypeople could
+[2762.98s -> 2769.50s]  understand better. Now, having read my witness statements, you may disagree with that, but
+[2769.50s -> 2773.70s]  it was felt that I was in a good position to be able to actually explain the technical
+[2773.70s -> 2780.42s]  problems in a way that could be understood and to do that both in terms of written notes
+[2780.42s -> 2785.34s]  and in meetings with the customer when these problems occurred.
+[2785.34s -> 2793.54s]  was the threshold for you becoming involved? I'm not sure. I would get involved by probably
+[2793.54s -> 2800.50s]  a phone call or an email from someone either in the SSC or from problem management and
+[2800.50s -> 2804.44s]  they say, guys, can you come and give us a hand, look at this problem and see what's
+[2804.44s -> 2810.70s]  going on. For all the problems that didn't get referred to you, where that trigger was
+[2810.70s -> 2819.10s]  not pressed. How did you become aware of those? Or didn't you? Probably the answer is I didn't.
+[2819.10s -> 2825.14s]  When you started to become the man that the Post Office relied on to give evidence in
+[2825.14s -> 2833.18s]  court, did anyone say, we need to make sure that Mr Jenkins knows about the things that
+[2833.18s -> 2840.66s]  are not referred to him? No. Did it occur to you? I might need, before going to court,
+[2840.66s -> 2846.74s]  to find out about the things that have not been referred to me, that aren't these level
+[2846.74s -> 2852.66s]  of particular seriousness or which have financial or economic consequences?
+[2852.66s -> 2857.10s]  That didn't occur to me, but again, as I've said before, I was confident, and possibly
+[2857.10s -> 2862.74s]  wrongly so, that when problems did occur, they were quickly fixed and they weren't
+[2862.74s -> 2869.66s]  left to sort of fester in the system to have a larger impact.
+[2869.66s -> 2876.98s]  I think you've acknowledged it a couple of times already, knowing what you know now,
+[2876.98s -> 2882.54s]  would you adopt the same approach of relying on your confidence?
+[2882.54s -> 2887.94s]  I think I'd have to say that with hindsight I would have done things differently, yes.
+[2887.94s -> 2895.10s]  What interactions did you have with the third line of support, the SSC, in relation to identifying
+[2895.10s -> 2898.14s]  and rectifying bugs, errors and defects?
+[2898.14s -> 2902.38s]  I'm not quite sure exactly what you mean by that question, sorry.
+[2902.38s -> 2907.26s]  Yes. What was the nature of your communication with Third Line Support?
+[2907.26s -> 2912.46s]  Usually either by exchange of emails or telephone conversations and things like that. The Third
+[2912.46s -> 2918.06s]  Line Support team were in a locked area, so it was actually quite difficult to actually
+[2918.06s -> 2922.30s]  go and – I did occasionally go and visit them and talk to them at their desks and things
+[2922.30s -> 2927.70s]  like that, but generally that was a difficult thing to do because of getting through the
+[2927.70s -> 2932.98s]  security systems to actually get to where their desks were. So it was normally done
+[2932.98s -> 2940.62s]  by sort of phone or email or in meetings if they came out of their area to our slightly
+[2940.62s -> 2941.62s]  less secure areas.
+[2941.62s -> 2947.66s]  Thank you. Can I turn to EPOS and RIPOS please?
+[2947.66s -> 2953.30s]  In relation to the EPOS aspects of Verizon, you tell us it's paragraph 21 of your second
+[2953.30s -> 2959.62s]  witness statement, no need to turn it up. In summary, until around 2003, I do not recall
+[2959.62s -> 2965.90s]  having anything to do with EPOS other than indirectly when it had an impact on my work
+[2965.90s -> 2972.86s]  with the agents. From around 2003 onwards, I began to gain technical expertise and a
+[2972.86s -> 2976.14s]  practical understanding of how EPOS operated. Is that correct?
+[2976.14s -> 2982.10s]  Yes, I agree with that. You've told us already that Esha was responsible
+[2982.10s -> 2984.90s]  for provision of the riposte software, is that right?
+[2984.90s -> 2986.90s]  Correct, yes.
+[2986.90s -> 2992.42s]  And that that comprised of two main parts, the message store and the desktop counter,
+[2992.42s -> 2993.42s]  is that right?
+[2993.42s -> 2994.62s]  Correct.
+[2994.62s -> 3000.90s]  And the latter of those, the desktop counter, was the basis for the EPOS system?
+[3000.90s -> 3002.54s]  Correct.
+[3002.54s -> 3006.70s]  I think you went to Isha in Boston for a week in 1996, is that right?
+[3006.70s -> 3011.82s]  Yes, and I think I went back there for two or three ad-hoc trips after that, but that
+[3011.82s -> 3017.02s]  was my initial, that was effectively my first week on the Post Office account when I got
+[3017.02s -> 3024.66s]  sent to Boston for a week to learn about how Repost worked.
+[3024.66s -> 3034.98s]  If you did not have anything to do with EPOS other than indirectly, why did you go to Boston
+[3034.98s -> 3037.26s]  for a week in 1996?
+[3037.26s -> 3043.02s]  That was talking more about how the Repost message door was working and also there were
+[3043.02s -> 3047.90s]  specific interfaces that Repost had that could be used by the agents.
+[3047.90s -> 3051.98s]  So that was covered in the first week of what I think was a three-week training course.
+[3051.98s -> 3057.98s]  It then went on to how did the counter applications operate and I wasn't particularly interested
+[3057.98s -> 3059.18s]  in that at the time.
+[3059.18s -> 3063.74s]  So I felt that rather than stay in Boston for another couple of weeks, I might as well
+[3063.74s -> 3064.74s]  come home.
+[3064.74s -> 3065.74s]  So I did.
+[3065.74s -> 3072.62s]  And is the answer that you went to Boston to learn how the EPOS system works, in particular,
+[3072.62s -> 3075.74s]  how it might interact with the work that you were undertaking?
+[3075.74s -> 3076.74s]  No.
+[3076.74s -> 3083.06s]  I went to Boston to learn how Repost worked, and therefore how the agents could actually
+[3083.06s -> 3084.06s]  use it.
+[3084.06s -> 3089.62s]  There may have been slight mention of how applications could work in that first week,
+[3089.62s -> 3094.70s]  but I think the detail of that was really covered afterwards, and I just didn't get
+[3094.70s -> 3101.82s]  him involved in any of that. In relation to the development of EPOS before the rollout
+[3101.82s -> 3108.38s]  of Legacy Horizon, we've heard evidence from David MacDonald. Did you know him? Vaguely.
+[3108.38s -> 3114.98s]  I have a vague recollection of him. He told the inquiry, quote, my understanding was that
+[3114.98s -> 3120.94s]  Gareth, that's you, Gareth Jenkins, worked alongside another chief architect under Alan
+[3120.94s -> 3127.18s]  Ward. Was that correct? I certainly did have a dotted line relationship to Alan Ward who
+[3127.18s -> 3132.38s]  was the chief architect at that time. I thought that David McDonald actually suggested I was
+[3132.38s -> 3139.10s]  the chief architect and he's certainly mistaken in that belief. He continued. Gareth Jenkins'
+[3139.10s -> 3145.10s]  responsibility was specifically to the EPOS counter system. Is that correct? That is not correct.
+[3145.10s -> 3152.54s]  He said, as the chief architect, I would have expected him to be much more involved in overseeing
+[3152.54s -> 3158.02s]  a lot of the previous coding standards and methodologies and things like that, and certainly
+[3158.02s -> 3163.72s]  the design documents. You've, I think, answered this question already. Were you the chief
+[3163.72s -> 3164.72s]  architect of Verizon?
+[3164.72s -> 3165.72s]  No, I wasn't.
+[3165.72s -> 3167.22s]  Who was the chief architect of Verizon?
+[3167.22s -> 3173.08s]  Alan Ward was at that time. And I know he was quite involved in the development of EPOS
+[3173.08s -> 3178.60s]  at that time because there were quite a lot of changes being made and he used to regularly
+[3178.60s -> 3183.48s]  fly off to Boston for a couple of days almost every week to actually work with Escher on
+[3183.48s -> 3188.28s]  changes to EPOS. Now exactly what those changes were, I have no idea, I was just aware that
+[3188.28s -> 3191.32s]  it wasn't a good idea to try and find him on a Monday and Tuesday because he was probably
+[3191.32s -> 3192.32s]  in Boston.
+[3192.32s -> 3197.74s]  Again, if you can just slow down your evidence slightly please. He told us that there was
+[3197.74s -> 3204.48s]  there had been a lack of formalised sign-off designs, a lack of discipline, a lack of professional
+[3204.48s -> 3210.80s]  qualifications in key positions, and a total disengagement of the chief architect, Gareth
+[3210.80s -> 3217.88s]  Jenkins, that there were poor coding standards, no methodology in place, and no unit testing.
+[3217.88s -> 3222.96s]  The issues were critical, making the EPOS product unstable. They were known to everyone
+[3222.96s -> 3230.24s]  in the building. Taking those in turn, you've already told us that you were not the chief
+[3230.24s -> 3238.54s]  architect of Verizon. But putting that aside, in relation to EPOS, did you know whether
+[3238.54s -> 3245.96s]  or not there was an existence or a lack of formalised sign-off designs?
+[3245.96s -> 3250.40s]  I've no idea what they had. I know what we had in the agency. When things were formally
+[3250.40s -> 3254.56s]  signed off there, I have no idea what sort of processes they were following in the EPOS
+[3254.56s -> 3255.56s]  team.
+[3255.56s -> 3260.86s]  Did you know whether or not there was a lack of discipline and a lack of professional qualifications
+[3260.86s -> 3262.98s]  in the EPOS team?
+[3262.98s -> 3266.14s]  I wasn't close enough to it to know either way.
+[3266.14s -> 3272.78s]  Did you know one way or the other whether they were using poor coding and there was
+[3272.78s -> 3275.44s]  an absence of methodology in place?
+[3275.44s -> 3277.84s]  I have no idea.
+[3277.84s -> 3281.48s]  Did you know whether or not there was unit testing within the EPOS team?
+[3281.48s -> 3284.76s]  I don't know.
+[3284.76s -> 3289.60s]  He says that those issues were critical and were known to everyone in the building.
+[3289.60s -> 3290.60s]  You're telling us that...
+[3290.60s -> 3294.80s]  I would agree they were critical as to being known to everyone in the building.
+[3294.80s -> 3299.48s]  The other thing to remember is that the EPOS team was based in Feltham and I was based
+[3299.48s -> 3300.48s]  in Bracknell.
+[3300.48s -> 3305.40s]  Yes, I used to visit Feltham a couple of times a week, but I wasn't actually based in the
+[3305.40s -> 3306.48s]  building all the time.
+[3306.48s -> 3311.80s]  so therefore I would have had less knowledge of what was going on in the background.
+[3311.80s -> 3319.40s]  And so these rather important facts that he told us about you were entirely unaware of?
+[3319.40s -> 3324.74s]  Correct. And I would agree with him that they are important facts.
+[3324.74s -> 3329.74s]  Were you aware of an EPOS task force being set up by ICL?
+[3329.74s -> 3333.24s]  I don't think I was aware of it at the time. Obviously I'm aware of it now from the documents
+[3333.24s -> 3336.46s]  I've been shown, but I don't think I was aware of it at the time.
+[3336.46s -> 3354.06s]  Can we look please at FUJ 308 0690?
+[3354.06s -> 3362.50s]  If we just look at page 2 please, we can see this is originally dated the 18th of September
+[3362.50s -> 3370.50s]  1998, and this finalized version is dated the 14th of May 2001.
+[3370.50s -> 3372.50s]  Go back to page one.
+[3372.50s -> 3373.50s]  Yep.
+[3373.50s -> 3374.50s]  Please.
+[3374.50s -> 3378.50s]  Back to page one.
+[3378.50s -> 3386.50s]  It's a report of the EPOS Pinnacle Task Force, and it reports on the activities of the EPOS
+[3386.50s -> 3390.50s]  Pinnacle Task Force, which was in place between the 19th of August and the 18th of September
+[3390.50s -> 3397.76s]  December 1998 to reduce to manageable levels the EPOS pinnacles outstanding at that time.
+[3397.76s -> 3404.56s]  You can see, although it's on the second page described, I think, as a finalized version,
+[3404.56s -> 3412.48s]  the status is still a draft. The distribution does not include you. It's to Messrs. Austin
+[3412.48s -> 3417.60s]  Bennett and McDonnell. But then library. Can you see that?
+[3417.60s -> 3419.08s]  Yes, I can see that.
+[3419.08s -> 3424.44s]  What was the nature of ICL's document library at this time?
+[3424.44s -> 3426.96s]  There was a document management system, I think.
+[3426.96s -> 3430.00s]  I can't remember exactly when that became formalized.
+[3430.00s -> 3433.60s]  I think Matthew Lenton may have described something about this when he appeared a couple
+[3433.60s -> 3434.60s]  of weeks ago.
+[3434.60s -> 3441.28s]  And there was a document management system to which all documents were put, and people
+[3441.28s -> 3444.00s]  could look at documents if they wished to do so.
+[3444.00s -> 3447.60s]  But normally, you would only be looking at documents that either you'd written yourself
+[3447.60s -> 3452.76s]  was needing being asked to review in that library. So you wouldn't... I wouldn't
+[3452.76s -> 3456.60s]  have seen this document unless I want to point it out say what do you
+[3456.60s -> 3460.56s]  think of this document and I'm not aware that they ever did. So it wasn't used as a
+[3460.56s -> 3468.12s]  knowledge base for those at your level to to peruse or look at your leisure? I
+[3468.12s -> 3471.84s]  suppose I could have done if I've got nothing better to do but I don't think I
+[3471.84s -> 3474.72s]  would have been particularly interested in what was happening with EPOS at that
+[3474.72s -> 3481.56s]  time. I think you've seen this document subsequently and you know I'm not going to take you through
+[3481.56s -> 3486.00s]  it. We've seen it many times. It gives a very damning account of the problems with
+[3486.00s -> 3496.84s]  EPOS. I agree. Mr. MacDonald told us in his evidence that he presented this report to
+[3496.84s -> 3502.12s]  you. Is that true? I don't think he presented it to me. I think he presented it to whoever
+[3502.12s -> 3507.04s]  commissioned at, which I think I understand now is Terry Austin.
+[3507.04s -> 3513.40s]  And that you, quote, denied the issues point blank and ran off to hide in Bracknell and
+[3513.40s -> 3516.28s]  avoided contact with the team?
+[3516.28s -> 3518.48s]  I don't think that's correct.
+[3518.48s -> 3522.48s]  I was, as I said before, I was based in Bracknell, not in Feltham.
+[3522.48s -> 3524.64s]  I don't think I was hiding there particularly.
+[3524.64s -> 3531.28s]  I don't think I had any involvement with the EPOS Pinnacle Task Force.
+[3531.28s -> 3537.44s]  said that we managed to get Gareth down to the counter team twice. Do you remember that?
+[3538.80s -> 3542.48s]  I don't. I do remember having some involvement with him with some issues with
+[3543.52s -> 3548.00s]  logistics visa system, which is something I think he moved on to work with after he left,
+[3548.64s -> 3554.56s]  was no longer with the counter team. But I don't recall having anything to do with him in terms of
+[3554.56s -> 3555.76s]  of EPOS.
+[3555.76s -> 3560.04s]  He said that his team tried to engage you in a conversation
+[3560.04s -> 3561.24s]  about the missing API.
+[3561.24s -> 3562.40s]  Do you remember what that is?
+[3562.40s -> 3565.08s]  I think that was to do with this LFS thing
+[3565.08s -> 3567.12s]  that I mentioned previously.
+[3567.12s -> 3572.40s]  So I think that was a role that he took on after the EPOS team.
+[3572.40s -> 3575.08s]  I can't remember the gory details of it, I'm afraid.
+[3575.08s -> 3578.08s]  He said that you were very defensive of it
+[3578.08s -> 3581.52s]  and said, no, there's nothing wrong with it, as it is.
+[3584.56s -> 3592.00s]  I think it was more a case of pragmatism in that I think he wanted to totally change the
+[3592.00s -> 3598.04s]  way that the Escher software interfaced with the applications.
+[3598.04s -> 3602.74s]  And I could understand why he felt that there may have been a better way of doing it.
+[3602.74s -> 3607.60s]  But I could also see that there was no way that Escher was going to go and totally rewrite
+[3607.60s -> 3614.16s]  their software when it was basically operating and doing what it needed to do.
+[3614.16s -> 3618.08s]  The fact that there was a better way did not necessarily mean that it would be justifiable
+[3618.08s -> 3619.52s]  to actually change it.
+[3619.52s -> 3622.24s]  So I think there may have been some sort of conversation along those lines.
+[3622.24s -> 3626.84s]  But as I say, it's a very long time ago and I can't really remember the details, but that's
+[3626.84s -> 3629.18s]  a vague memory I have of that area.
+[3629.18s -> 3635.44s]  He said that he tried to engage you to lend your, quote, political design weight behind
+[3635.44s -> 3639.14s]  at least the cash account being rewritten.
+[3639.14s -> 3640.14s]  Is that correct?
+[3640.14s -> 3643.88s]  I don't have any recollection of being involved with anything to do with the cash account
+[3643.88s -> 3646.16s]  to that time.
+[3646.16s -> 3653.64s]  He said that he was unable to engage you, to get you on his side, and to lend your persuasive
+[3653.64s -> 3658.72s]  weight to persuade Terry Austin to rewrite the cash account.
+[3658.72s -> 3660.34s]  Is that correct?
+[3660.34s -> 3665.60s]  I have no recollection of that and I can't see how I would possibly have been able to
+[3665.60s -> 3668.64s]  persuade Terry that there's something to do with the cash account when there's nothing
+[3668.64s -> 3670.36s]  to do with my area.
+[3670.36s -> 3679.98s]  Did you have what he describes as political design weight, a certain amount of power?
+[3679.98s -> 3681.28s]  Probably not so much at that time.
+[3681.28s -> 3687.74s]  I think maybe later on then that could be said, but at that time my main role was to
+[3687.74s -> 3692.18s]  do with the way the agents worked, which was a fairly small cog in the system.
+[3692.18s -> 3699.56s]  It was a fairly central cog, and yes, I think people did tend to listen to me when I had
+[3699.56s -> 3705.32s]  technical ideas, but I think that's over stretching things. What you've just read out.
+[3707.00s -> 3713.24s]  He said that you became evasive with him and he was never able to persuade you to come back down
+[3713.96s -> 3721.16s]  to Felton. I just can't remember those sorts of interactions. I've described to the best of my
+[3721.16s -> 3725.40s]  recollection the only sort of interaction that I might have had with him and that's a very,
+[3725.40s -> 3727.40s]  very vague memories, I'm sorry.
+[3732.68s -> 3741.56s]  Leaving aside your involvement and role in the way that Mr. McDonnell has described,
+[3743.08s -> 3753.08s]  but would you agree with looking back now about what he said about the EPOS team in the late 1990s?
+[3753.08s -> 3757.08s]  He said the team was like the Wild West.
+[3757.08s -> 3759.08s]  There were no standards in place.
+[3759.08s -> 3761.08s]  There were no design documents.
+[3761.08s -> 3764.08s]  The culture of the development team was...
+[3764.08s -> 3766.08s]  I wouldn't say it was a holiday camp.
+[3766.08s -> 3768.08s]  It was a free format.
+[3768.08s -> 3770.08s]  There was no structure, no discipline.
+[3770.08s -> 3772.08s]  It was crazy. I've never seen anything like it.
+[3772.08s -> 3776.08s]  I wasn't close enough to actually perform any opinion on that, I'm afraid.
+[3776.08s -> 3781.08s]  Do you remember going down to his team on at least a couple of occasions?
+[3781.08s -> 3789.40s]  Not really. I'd say the only recollection I have is discussing issues to do with LFS,
+[3789.40s -> 3794.80s]  which was a later role that he moved on to. I don't remember having any real involvement
+[3794.80s -> 3798.36s]  with the EPOS team at that sort of time.
+[3798.36s -> 3807.60s]  That can come down, thank you. If you'd been asked the question at rollout time, to what
+[3807.60s -> 3813.60s]  extent does the EPOS system function well and effectively? What would your answer have
+[3813.60s -> 3814.60s]  been?
+[3814.60s -> 3817.32s]  I don't know. My answer would have been, I don't know.
+[3817.32s -> 3821.68s]  You wouldn't know one way or the other.
+[3821.68s -> 3825.52s]  And so if you were to give evidence about that, you wouldn't be able to say one way
+[3825.52s -> 3826.52s]  or the other?
+[3826.52s -> 3828.40s]  Correct.
+[3828.40s -> 3833.32s]  If you were to give evidence later on about events that were happening in 2000, you wouldn't
+[3833.32s -> 3837.70s]  be able to say whether EPOS was functioning well or not?
+[3837.70s -> 3838.70s]  Not in 2000, no.
+[3838.70s -> 3844.86s]  I believe that it had stabilised by the time I did get involved with it later on, but back
+[3844.86s -> 3851.70s]  in what state it was in in 2000, I don't know how stable it was, and clearly, as part of
+[3851.70s -> 3859.30s]  the work I did in 2018, I did find some fairly serious issues that had occurred at that time.
+[3859.30s -> 3862.82s]  What were the issues you found out in the course of the group litigation in 2018?
+[3862.82s -> 3863.82s]  Yes.
+[3863.82s -> 3864.82s]  In 2018?
+[3864.82s -> 3868.66s]  And those were ones that I'd not been aware of until I came across them as part of the
+[3868.66s -> 3869.66s]  group litigation.
+[3869.66s -> 3874.58s]  Can you, rather than me doing it, it'll be late on Thursday, can you summarise what those
+[3874.58s -> 3875.58s]  are now?
+[3875.58s -> 3880.66s]  Well, the main one I can think of is the data tree build issue that came around.
+[3880.66s -> 3883.26s]  That's the one that sort of sticks in my mind at the moment.
+[3883.26s -> 3886.50s]  You may find others that you wished to prompt me about, but that's the one that sticks in
+[3886.50s -> 3887.50s]  my mind.
+[3887.50s -> 3892.78s]  Was that a surprise when you found this out in the course of the group litigation?
+[3892.78s -> 3900.16s]  such serious problems had occurred and seemed to, though again with that the
+[3900.16s -> 3902.96s]  problems did get fixed but I was surprised that in some of the cases how
+[3902.96s -> 3907.82s]  long it took to fix them and there were certainly some fairly inappropriate
+[3907.82s -> 3911.62s]  comments in some of the peaks in terms of whether things should be fixed quickly
+[3911.62s -> 3914.94s]  or not, which I certainly wouldn't have agreed with if I'd seen them at the time
+[3914.94s -> 3919.10s]  but then it wasn't my job to see them at the time.
+[3919.10s -> 3927.38s]  And was your surprise compounded by the fact that you heard in the interim period between
+[3927.38s -> 3932.94s]  the relevant events happening with the data tree build failure and you discovering them
+[3932.94s -> 3937.94s]  in 2018, you'd given evidence in written witness statements and on one occasion orally
+[3937.94s -> 3938.94s]  in court?
+[3938.94s -> 3943.22s]  No, I didn't think it was a problem as far as that was concerned because at the times
+[3943.22s -> 3949.38s]  that I was giving evidence for, I believed that the EPOS system was stable and was operating
+[3949.38s -> 3955.42s]  correctly. So the fact that there are problems during the pilot and the rollout don't necessarily
+[3955.42s -> 3961.30s]  mean that the problems carry on into the system. I was confident in the way that problems were
+[3961.30s -> 3968.74s]  being picked up and fixed and new things were being put into the system to actually manage
+[3968.74s -> 3970.82s]  the issues that are being found early on.
+[3970.82s -> 3977.22s]  We're going to come back to the kind of answer that you've just given quite a lot over the
+[3977.22s -> 3979.62s]  course of the next two or three days.
+[3979.62s -> 3984.58s]  But in the answer that you've given just now, do you agree that you're focusing on whether
+[3984.58s -> 3992.06s]  it can be shown that an issue had an impact in the case that you are looking at?
+[3992.06s -> 3993.06s]  Yes.
+[3993.06s -> 4003.18s]  rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+[4003.18s -> 4008.98s]  how quickly they manifested themselves to Fujitsu, how promptly the post office was
+[4008.98s -> 4013.78s]  told about them, and the extent to which sub-postmasters had themselves been informed.
+[4013.78s -> 4020.98s]  Yes, I was primarily looking at what was happening in a particular branch at a particular time.
+[4020.98s -> 4025.98s]  And was that your mindset when you were giving evidence?
+[4025.98s -> 4031.22s]  Yes, that's how I approached support, and I didn't see the giving of evidence as being
+[4031.22s -> 4034.34s]  any different from what I was doing in my day-to-day support job.
+[4034.34s -> 4039.70s]  What I'd be asked to do in the support is saying, this has happened, should it have
+[4039.70s -> 4041.98s]  happened, and if not, what's gone wrong?
+[4041.98s -> 4044.94s]  And I just approach things on the same sort of basis.
+[4044.94s -> 4045.94s]  Thank you.
+[4045.94s -> 4049.42s]  Can we turn to the impact programme?
+[4049.42s -> 4056.10s]  You tell us in paragraph 20 of your witness statement that you became involved in Project
+[4056.10s -> 4058.02s]  Impact as it was called.
+[4058.02s -> 4064.10s]  That was the name given to it by the post office and it was essentially the replacement
+[4064.10s -> 4071.90s]  of the back-end accounting system, is that an overall description of it?
+[4071.90s -> 4079.14s]  Given your role in the project, can you describe shortly what Project Impact was designed to
+[4079.14s -> 4084.14s]  to do so far as the back-end accounting system was concerned?
+[4084.14s -> 4090.78s]  Post Office had a proprietary in-house system called, if I remember rightly, CBDB, I can't
+[4090.78s -> 4096.38s]  remember what that stands for, where they used to process their accounts. And they decided
+[4096.38s -> 4103.38s]  that they wanted to go for a more industry standard system, and SAP was the industry
+[4103.38s -> 4109.14s]  standard and probably still is for handling accounts and so they wanted to move on to
+[4109.14s -> 4116.10s]  that. Now CBDB worked on the basis that it would take the information from the cash accounts
+[4116.10s -> 4121.84s]  that were signed off each week and derive everything from that which meant that it was
+[4121.84s -> 4128.44s]  always about a week behind what was really going on whilst with an SAP system they thought
+[4128.44s -> 4132.90s]  they could get a much more real-time knowledge of what was going on in the system so with
+[4132.90s -> 4138.40s]  they would know what had happened yesterday, and therefore be in a much better position,
+[4138.40s -> 4144.48s]  particularly to control their cash flow, because they saw the amount of cash flowing through
+[4144.48s -> 4150.90s]  the post offices as being a fairly critical measure, because obviously cash had to be
+[4150.90s -> 4156.08s]  paid for, and it was all to do with Treasury interest rates and things like that that I
+[4156.08s -> 4159.92s]  didn't really understand, but I understood that having a good handle on exactly how much
+[4159.92s -> 4164.52s]  cash you had where made a big difference in terms of post office finances.
+[4164.52s -> 4174.48s]  Can we look at your first witness statement please, WITN 0046 0100 at page 13 please.
+[4174.48s -> 4194.68s]  Paragraphs 45 and 46, you say, I believe that ICL Fujitsu was only involved in one aspect
+[4194.68s -> 4200.24s]  of project impact, which was implementing changes to legacy horizon that would enable
+[4200.24s -> 4203.28s]  it to interface with the new backend system.
+[4203.28s -> 4209.28s]  This was implemented in two phases as part of the S60 release in 2004 and the S80 release
+[4209.28s -> 4211.04s]  in 2005.
+[4211.04s -> 4216.00s]  My involvement was to design the changes which the post office wanted.
+[4216.00s -> 4221.56s]  I remember that these phases of the work required a major re-engineering of the accounting processes
+[4221.56s -> 4227.84s]  in each post office branch, for example removing the cash account and introducing the branch
+[4227.84s -> 4228.84s]  trading statement.
+[4228.84s -> 4232.16s]  That's correct, yes.
+[4232.16s -> 4240.60s]  And so, as the counters specialist, which is what you were, you redesigned part of the
+[4240.60s -> 4246.40s]  legacy Horizon system that produced the accounts for the sub-postmaster to sign off.
+[4246.40s -> 4248.40s]  Would that be fair?
+[4248.40s -> 4249.60s]  I oversaw that.
+[4249.60s -> 4254.56s]  I think the main detail was done by other designers, but my main role was actually identifying
+[4254.56s -> 4260.08s]  exactly what the output needed to be of the system.
+[4260.08s -> 4261.08s]  So yeah.
+[4261.08s -> 4266.00s]  So, you were the lead designer for this part of the impact programme?
+[4266.00s -> 4267.00s]  Correct.
+[4267.00s -> 4277.00s]  I.e. that part of the programme which redesigned the accounts for sub-postmasters to sign
+[4277.00s -> 4278.00s]  off?
+[4278.00s -> 4279.00s]  Yes.
+[4279.00s -> 4290.60s]  Can we look, please, at poll 303-8878?
+[4290.60s -> 4296.68s]  If you look at the foot of the page, you'll see it's dated the 3rd of March, 2004.
+[4296.68s -> 4298.36s]  Right, yeah.
+[4298.36s -> 4305.96s]  If we go to the top of the first page, it's described as branch trading reporting management
+[4305.96s -> 4311.28s]  and control and transaction management conceptual design.
+[4311.28s -> 4317.04s]  Is essentially this a design document for the IMPACT program?
+[4317.04s -> 4318.04s]  Not really.
+[4318.04s -> 4319.80s]  I'd call it a requirements document.
+[4319.80s -> 4325.84s]  So post office decided that the term conceptual design was what should be the document be
+[4325.84s -> 4328.40s]  called but to me it was a requirements document.
+[4328.40s -> 4332.80s]  This was setting out what post office wanted to happen and this was actually written by
+[4332.80s -> 4339.16s]  post office though aided by a Fujitsu requirements analyst called Phil Bordman who I believe
+[4339.16s -> 4343.96s]  has been in front of the inquiry a year or so ago.
+[4343.96s -> 4344.96s]  And you?
+[4344.96s -> 4346.52s]  You contributed to this?
+[4346.52s -> 4348.20s]  I was involved in the workshops doing it.
+[4348.20s -> 4356.60s]  I don't think I wrote any of the text in there, but I was involved in commenting on it and
+[4356.60s -> 4361.36s]  helping put together the diagrams. But it was basically understanding what Fujitsu wanted
+[4361.36s -> 4365.88s]  to do, and my involvement was really a case of saying, well, if you want to do that, is
+[4365.88s -> 4369.08s]  that practical? Would it be better to do it in a slightly different way to make it more
+[4369.08s -> 4371.08s]  practical from an implementation point of view?
+[4371.08s -> 4377.52s]  So if we scroll down a little bit, we see your name as a contributor.
+[4377.52s -> 4378.52s]  Yes.
+[4378.52s -> 4380.52s]  Do you think you didn't contribute to this?
+[4380.52s -> 4385.08s]  Well, I contributed ideas to it, but I don't think I actually wrote any of the words in
+[4385.08s -> 4387.80s]  it.
+[4387.80s -> 4395.04s]  Can we go to page 22, please?
+[4395.04s -> 4400.72s]  And paragraph 6.7, an overview.
+[4400.72s -> 4405.02s]  So if we just read this together, this area of functions has the purpose of providing
+[4405.02s -> 4411.06s]  mechanisms to make adjustments to branch accounts to correct errors and ensure branch accounts
+[4411.06s -> 4415.58s]  align with the post office accounts within Poll FS.
+[4415.58s -> 4420.76s]  Various mechanisms are available to identify errors that require adjustments and the discrepancy
+[4420.76s -> 4425.38s]  management functions may be initiated from various places across the business.
+[4425.38s -> 4430.26s]  The main areas will be from within the branch, from post office clients, or centrally by
+[4430.26s -> 4433.66s]  distributing electronic transaction corrections.
+[4433.66s -> 4438.48s]  These corrections will replace the current error notice processes and should not involve
+[4438.48s -> 4440.82s]  any manual paperwork or processing.
+[4440.82s -> 4447.36s]  They'll be received and actioned by Horizon and will be distributed more quickly, potentially
+[4447.36s -> 4449.82s]  only days after an error is recorded.
+[4449.82s -> 4454.54s]  The analysis has also identified requirements to more tightly control and police the use
+[4454.54s -> 4459.88s]  of the suspense account within the branch accounts. Only a limited subset of the existing
+[4459.88s -> 4464.02s]  suspense account products will be retained. The contractual requirements for agents to
+[4464.02s -> 4473.62s]  make good unknown errors in branch accounts will be used instead.
+[4473.62s -> 4483.90s]  What did you understand that second part of 6.7 to mean?
+[4483.90s -> 4488.74s]  I understood that they wanted to limit the use of the suspense accounts.
+[4488.74s -> 4498.54s]  My understanding was that there were a number of suspense accounts, and postmasters could
+[4498.54s -> 4505.60s]  actually post money to the suspense account for some sort of business reason, which I
+[4505.60s -> 4512.34s]  never really did understand, and they wanted to reduce the amount of money that was being
+[4512.34s -> 4517.06s]  posted into the suspense accounts. Now exactly why they wanted to do that, that was part of
+[4517.06s -> 4524.74s]  Post Office's business for trying to save money. Now in what way did that? I didn't really understand.
+[4524.74s -> 4531.14s]  Were you told why they wanted to quote more tightly control and police the use of the
+[4531.14s -> 4538.26s]  suspense account? Not in so many words. What I believe was behind a lot of this was they were
+[4538.26s -> 4544.12s]  trying to reduce the number of staff that they had in Chesterfield back office which
+[4544.12s -> 4550.66s]  were monitoring things like this. So they were trying to actually automate things and
+[4550.66s -> 4554.46s]  reduce the flexibility on the postmasters, which I thought was a business decision for
+[4554.46s -> 4557.02s]  post office and nothing for me to get involved in.
+[4557.02s -> 4565.34s]  Were you told that the suspense account was considered by the post office to be a vehicle
+[4565.34s -> 4567.98s]  for some postmasters to hide fraud?
+[4571.58s -> 4573.98s]  I can't remember. There were various discussions about
+[4575.18s -> 4580.78s]  behaviours of postmasters and things like that, but I know the post officers were quite
+[4580.78s -> 4585.58s]  keen to get rid of the suspense gap. In fact, they didn't get rid of it all together, but
+[4586.38s -> 4593.10s]  I know they were keen to reduce its usage and there was indeed some reduction on its usage.
+[4593.10s -> 4599.26s]  usage. Given that reduction on usage, if there was a discrepancy in a sub-postmaster's account
+[4600.54s -> 4606.14s]  after project impact, the sub-postmaster would have to accept it and pay it before they could
+[4606.14s -> 4611.10s]  roll over into the new trading period, correct? That is what I understood the post office wanted
+[4611.10s -> 4616.94s]  the system to do, so yes. And if they didn't pay, the post office would, in the language of this
+[4616.94s -> 4622.50s]  document enforce contractual requirements? Did you understand that?
+[4622.50s -> 4629.26s]  I didn't really consider that sentence particularly, and I'm not sure that I really understood
+[4629.26s -> 4637.14s]  what that actually meant. My focus was on what exactly was it I had to actually implement
+[4637.14s -> 4643.38s]  in the way that Horizon worked, and what I took from that was I had to simplify the menus
+[4643.38s -> 4650.90s]  for the suspense accounts, which was actually just a reference data change.
+[4650.90s -> 4659.34s]  Given some of the suspense accounts products were to be removed, and the consequence of
+[4659.34s -> 4665.76s]  that would be for some postmasters to have to accept discrepancies and pay them before
+[4665.76s -> 4670.90s]  they could roll over into new trading periods.
+[4670.90s -> 4678.52s]  Was there any consideration to your knowledge of the importance of the accuracy of the figures
+[4678.52s -> 4679.52s]  produced by Horizon?
+[4679.52s -> 4684.32s]  Well, I always felt it was important that the figures produced by Horizon were accurate
+[4684.32s -> 4690.52s]  and I wasn't aware that there was any doubt or challenge to that at that stage, so therefore
+[4690.52s -> 4693.96s]  I didn't see that as being an issue as part of what we were doing here.
+[4693.96s -> 4700.44s]  So is the answer no, that that issue didn't even arise, that the change that we're making,
+[4700.44s -> 4708.68s]  removal of this facility means that it is very important that the accounts that are
+[4708.68s -> 4711.56s]  to be signed off by sub-postmasters are 100% accurate.
+[4711.56s -> 4715.80s]  Yes, and I always felt that they should be 100% accurate.
+[4715.80s -> 4721.88s]  Of course they should be, but we're satisfied that they were 100% accurate the whole time.
+[4721.88s -> 4730.36s]  I don't know that I'd actually thought it through in those sort of terms at the time.
+[4730.36s -> 4740.80s]  We've heard evidence from Susan Harding, who told us that the business drivers for the
+[4740.80s -> 4747.10s]  impact programme were to reduce the cost to the business, increasing accounting efficiency
+[4747.10s -> 4754.56s]  and reducing the losses to the post office. Do you agree that they were the business drivers
+[4754.56s -> 4756.50s]  that you were told about?
+[4756.50s -> 4761.22s]  I can't remember the detail of the drivers, but certainly I know that post offices were
+[4761.22s -> 4768.58s]  trying to reduce their costs. I've not tweaked so much about the reducing losses, but they
+[4768.58s -> 4771.22s]  were certainly trying to reduce their costs in the back end.
+[4771.22s -> 4776.06s]  Were you told that a business driver was to improve the post office's debt recovery from
+[4776.06s -> 4777.98s]  some postmasters?
+[4777.98s -> 4783.22s]  I don't specifically remember that one, but I can't say that I haven't seen it in a document.
+[4783.22s -> 4788.38s]  You tell us in your first witness statement, only to turn it up, it's paragraph 41, that
+[4788.38s -> 4793.78s]  the effect of the project was to reduce staff costs.
+[4793.78s -> 4799.22s]  Is that what you were told as the driver, as being the driver?
+[4799.22s -> 4800.50s]  That's my memory.
+[4800.50s -> 4805.68s]  Namely, this is all about reducing the number of people at Chesterfield or elsewhere that
+[4805.68s -> 4810.86s]  need to be looking at suspense accounts rather than the reduction of losses and the improvement
+[4810.86s -> 4813.18s]  of debt recovery.
+[4813.18s -> 4821.14s]  That's my memory, but I can't be definitive because it's an awfully long time ago now.
+[4821.14s -> 4826.70s]  You tell us in your witness statement, paragraph 43 of your first witness statement, that the
+[4826.70s -> 4833.42s]  decision to remove the ability of sub-postmasters to post discrepancies to a suspense account
+[4833.42s -> 4839.18s]  was because the post office, quote, took what I assume to be a business decision to remove
+[4839.18s -> 4840.82s]  this functionality.
+[4840.82s -> 4844.74s]  was the only thing you were told about the business decision was that it was to reduce
+[4844.74s -> 4847.38s]  staff costs?
+[4847.38s -> 4851.38s]  I don't know that I would have taken too much notice as to why they were doing things.
+[4851.38s -> 4856.66s]  My main focus on was what was it they wanted changed in the system, not why they were doing
+[4856.66s -> 4862.38s]  it.
+[4862.38s -> 4870.46s]  Ms Harding told us that it was agreed during the design of the impact programme that the
+[4870.46s -> 4876.22s]  suspense account would be removed because historically it was used by sub-postmasters
+[4876.22s -> 4882.22s]  to hide discrepancies in their accounts. Were you told that?
+[4882.22s -> 4890.12s]  I can't remember explicitly exactly what I was told or what I wasn't told.
+[4890.12s -> 4897.62s]  What understanding did you have as to how the local suspense account had worked historically?
+[4897.62s -> 4901.10s]  We need to be careful here about terminology because one of the things we introduced here
+[4901.10s -> 4903.06s]  was something called a local suspense account.
+[4903.06s -> 4906.54s]  I'm talking about at or before 2005.
+[4906.54s -> 4910.66s]  What was your understanding as to how the local suspense account worked?
+[4910.66s -> 4913.90s]  That's where I'm getting confused.
+[4913.90s -> 4918.78s]  We introduced a new concept as part of the impact called a local suspense account.
+[4918.78s -> 4922.98s]  So as far as I'm concerned, there wasn't a local suspense account prior to impact,
+[4922.98s -> 4925.26s]  but I think I know what you're referring to.
+[4925.26s -> 4926.26s]  Yes.
+[4926.26s -> 4927.26s]  What's the answer?
+[4927.26s -> 4933.02s]  I didn't know how it was used or what it was used for, I just assumed this was part of
+[4933.02s -> 4934.62s]  the business process as it happened.
+[4934.62s -> 4939.14s]  I think I understood that in order to post something to a local suspense account you
+[4939.14s -> 4945.22s]  did need to have permission how that actually operated, presumably through MBSC, but exactly
+[4945.22s -> 4950.46s]  how that operated I didn't know and didn't really concern me particularly.
+[4950.46s -> 4955.64s]  Do you remember being told by the post office that some postmasters hid their discrepancies
+[4955.64s -> 4957.88s]  in the suspense account?
+[4957.88s -> 4959.74s]  I can't remember, sorry.
+[4959.74s -> 4967.78s]  Do you remember any evidence of sub-postmasters hiding their discrepancies in suspense accounts?
+[4967.78s -> 4971.94s]  I don't think I would have seen any evidence of anything like that, one way or the other.
+[4971.94s -> 4978.36s]  Were you given any information as to why sub-postmasters might hide their discrepancies in suspense
+[4978.36s -> 4981.10s]  accounts?
+[4981.10s -> 4988.94s]  that I can remember to say I wasn't that interested in the whys. I was interested in what it was
+[4988.94s -> 4996.18s]  that I was being asked to do in the system, not why it was being done.
+[4996.18s -> 5000.10s]  You weren't, you had no professional curiosity in that?
+[5000.10s -> 5006.70s]  I mean I went to a number of workshops about these things and I sat through a number of
+[5006.70s -> 5011.18s]  workshops but exactly what was discussed in them, because this is over 20 years ago now,
+[5011.18s -> 5015.98s]  I just can't remember the details. So I may have been aware of some of those things at the time,
+[5015.98s -> 5021.10s]  I just have no memory of it now, I'm afraid. Thank you. So that's an appropriate moment for
+[5021.10s -> 5026.22s]  the morning break. Can we break until 20 past 10 when we'll turn to Mr Castleton's case?
+[5027.34s -> 5033.50s]  20 past 11, I think. 11, yes, quite right, sir. All right, yep, 20 past 11.
+[5036.70s -> 5052.96s]  Good morning, sir. Can you see and hear us? Yes, I can. Thank you very much. Mr. Jenkins.
+[5052.96s -> 5059.06s]  Thank you. Mr. Jenkins, can we turn to Lee Castleton's case, please? Can we start,
+[5059.06s -> 5081.34s]  please, by looking at FUJ00152573. And by going to page 13, please. Thank you. You can
+[5081.34s -> 5087.66s]  see here a letter dated the 18th of November from Bond Pierce, who are the post office's
+[5087.66s -> 5095.82s]  solicitors in the case against Mr. Castleton, addressed to Fujitsu. Can you see that?
+[5095.82s -> 5096.30s]  I can.
+[5097.98s -> 5106.78s]  And if we just read the first page in summary, it says to Fujitsu in relation to Mr. Castleton's
+[5106.78s -> 5112.62s]  branch at Marine Drive. We act on behalf of the post office. Between those dates, Mr.
+[5112.62s -> 5118.26s]  Coulson was a sub-postmaster at the Marine Drive post office. He was strictly responsible
+[5118.26s -> 5123.50s]  for the safe custody of cash and stock, was obliged to make that all losses caused through
+[5123.50s -> 5129.38s]  his own negligence, carelessness or error, are losses of any kind caused by his assistance.
+[5129.38s -> 5135.58s]  Between some dates, net losses of £27,000 occurred at the branch. He was suspended and
+[5135.58s -> 5140.82s]  then dismissed. Post Office has now issued a claim against him to try to
+[5140.82s -> 5145.10s]  recover these net losses. He's issued a counterclaim for wrongful termination of
+[5145.10s -> 5153.30s]  his contract. And then two, Mr. Castle's defense. His case is that any shortfall
+[5153.30s -> 5158.10s]  is entirely the fault of the problems with the Horizon computer and accounting
+[5158.10s -> 5162.38s]  system at Marine Drive and that the Post Office wrongfully terminated his
+[5162.38s -> 5168.98s]  contract in respect of which he suffered losses not exceeding 250,000 pounds.
+[5168.98s -> 5175.46s]  Three documents are attached. In fact, the second one has some attachments itself. Bentley
+[5175.46s -> 5185.62s]  Johnson, they were the authors of the, sorry, Jeninson, the authors of the report in the
+[5185.62s -> 5190.18s]  second attachment state that deficiencies have probably been brought forward despite
+[5190.18s -> 5195.38s]  the fact that they've been entered onto the suspense account entry. They suspect this
+[5195.38s -> 5200.18s]  is because the Horizon system, despite the suspense account entry, has failed to recognise
+[5200.18s -> 5204.74s]  the entry on the daily snapshots. They've drawn this conclusion through looking at the
+[5204.74s -> 5214.20s]  discrepancy of £3,500 on the 26th of February 2004. They suggest this double accounting
+[5214.20s -> 5216.76s]  could have continued over a number of weeks.
+[5216.76s -> 5221.84s]  And as such, his defense appears to hold potential merit
+[5221.84s -> 5223.28s]  based on the limited documentation
+[5223.28s -> 5226.88s]  they've so far reviewed.
+[5226.88s -> 5229.36s]  Mr. Castleton believes if he can obtain further documents,
+[5229.36s -> 5231.04s]  such as the daily snapshots,
+[5231.04s -> 5233.08s]  he'll be able to undertake a manual reconciliation
+[5233.08s -> 5236.04s]  of the cash account in order to substantiate his belief
+[5236.04s -> 5237.88s]  that the losses are not real,
+[5237.88s -> 5240.24s]  but attributable to computer error.
+[5240.24s -> 5243.28s]  We attach an email from Fujitsu to Richard Benton
+[5243.28s -> 5247.08s]  at the Post Office dated the 5th of May, in which Fujitsu state, quote,
+[5247.08s -> 5249.58s]  it is possible that they are not accurately recording
+[5249.58s -> 5252.60s]  all transactions on the system, and that there was no evidence
+[5252.60s -> 5254.28s]  whatsoever of any system problem.
+[5254.28s -> 5256.48s]  Over the page.
+[5256.48s -> 5260.68s]  Please could you review Mr. Castleton's expert's reports
+[5260.68s -> 5265.00s]  and prepare a formal report dealing with the following points.
+[5265.00s -> 5267.72s]  We need to explain to a judge who will know nothing about Horizon,
+[5267.72s -> 5270.04s]  exactly how it works, et cetera.
+[5270.04s -> 5274.92s]  Two, precisely what steps Fujitsu took to examine the Horizon system at the Marine Drive
+[5274.92s -> 5275.92s]  branch.
+[5275.92s -> 5280.48s]  Three, whether there have been any similar or serious problems with the Horizon system
+[5280.48s -> 5286.44s]  at Marine Drive since his suspension and dismissal.
+[5286.44s -> 5290.36s]  Whether you believe the suggestion put forward by Mr. Castleton's experts is likely to be
+[5290.36s -> 5291.36s]  correct.
+[5291.36s -> 5296.98s]  Five, if there have been any human errors in the recording, in recording the transactions,
+[5296.98s -> 5301.10s]  Could an explanation be that A, there was nothing wrong with Horizon because it simply
+[5301.10s -> 5306.10s]  reflected the information entered onto it, but B, if staff entered the wrong numbers
+[5306.10s -> 5310.84s]  into Horizon, there may have been no real loss, even though Horizon would show a loss
+[5310.84s -> 5315.82s]  because there could be human error in accounting, accurately recording transactions.
+[5315.82s -> 5319.38s]  If so, excuse me, would that be a likely explanation?
+[5319.38s -> 5322.26s]  Six, any other information you believe may be relevant?
+[5322.26s -> 5326.70s]  And then scroll down, please.
+[5326.70s -> 5333.58s]  For duty to the court, as a result of the instruction, you may be asked to give evidence before the
+[5333.58s -> 5334.58s]  court.
+[5334.58s -> 5339.18s]  Whilst the post office will be liable to pay your fees, in preparing your report and giving
+[5339.18s -> 5342.66s]  evidence, your overriding duty will be to help the court on the matters within your
+[5342.66s -> 5344.38s]  expertise.
+[5344.38s -> 5348.56s]  You agree to meet the requirements of the Civil Procedure Rules, Part 35, and the copy
+[5348.56s -> 5353.18s]  is enclosed, and that your report will be, one, addressed to the court and not to the
+[5353.18s -> 5358.42s]  post office, two, confirm that you understand your duty to the court and you've complied
+[5358.42s -> 5362.48s]  and will continue to comply with that duty, three, contain a statement setting out the
+[5362.48s -> 5367.70s]  substance of all material facts and instructions, whether written or oral, on the basis of which
+[5367.70s -> 5372.04s]  your report is written. The statement should summarise the facts and instructions given
+[5372.04s -> 5375.76s]  to you which are material to the opinions expressed in the report or upon which those
+[5375.76s -> 5379.68s]  opinions are based, and if any of the facts are within your own knowledge, which they
+[5379.68s -> 5384.48s]  they are, contain a chronology of relevant events, a statement of truth in the following
+[5384.48s -> 5393.20s]  form, and it's set out. Six, you should note that proceedings for contempt of court may
+[5393.20s -> 5396.92s]  be brought against you if you make a false statement and report verified by a statement
+[5396.92s -> 5401.96s]  of truth without an honest belief it was true. Seven, it must contain a declaration that
+[5401.96s -> 5406.00s]  the report has been prepared in accordance with the code of guidance on expert evidence,
+[5406.00s -> 5413.32s]  which was also enclosed, eight, give qualifications over the page, nine, details of any literature
+[5413.32s -> 5419.76s]  or other material relied upon to make the report, ten, who carried out any test or experiment,
+[5419.76s -> 5426.36s]  etc., 11, give qualifications of the person who carried out any such test, etc., 12, whether
+[5426.36s -> 5434.12s]  there's a range of opinion on the matters dealt with, that that range should be summarised,
+[5434.12s -> 5437.40s]  13, give reasons for your own opinion.
+[5437.40s -> 5440.44s]  14, contain a summary of the conclusions reached,
+[5440.44s -> 5442.68s]  including any qualifications.
+[5442.68s -> 5444.60s]  Given the fundamental importance of meeting
+[5444.60s -> 5447.08s]  these requirements, you should endeavor in your report
+[5447.08s -> 5449.12s]  to not only be accurate but complete.
+[5449.12s -> 5451.44s]  You should mention all matters which you regard as being
+[5451.44s -> 5453.48s]  material to the opinions you express
+[5453.48s -> 5456.72s]  and draw the court's attention to any matter to which you
+[5456.72s -> 5459.16s]  are aware, which might adversely affect
+[5459.16s -> 5460.56s]  the validity of those opinions.
+[5460.56s -> 5462.52s]  This applies in relation to factual matters
+[5462.52s -> 5466.96s]  to which you refer, and also to the opinions which you express.
+[5466.96s -> 5472.16s]  You should not include in your report anything that's suggested to you by anyone without
+[5472.16s -> 5474.44s]  forming your own independent view.
+[5474.44s -> 5479.16s]  If I'm reading the report of any other expert, or for any other reason, you consider that
+[5479.16s -> 5483.96s]  any existing report requires correctional qualification, you'll immediately notify
+[5483.96s -> 5485.72s]  us in writing.
+[5485.72s -> 5493.92s]  And then five, in performing all your duties for which the client will pay, you will owe
+[5493.92s -> 5498.40s]  a duty to the client to act with the professional standards of skill, care and diligence adhered
+[5498.40s -> 5501.84s]  to by experienced and competent consultants acting as expert witnesses.
+[5501.84s -> 5507.28s]  You'll take reasonable care of any documents, et cetera.
+[5507.28s -> 5513.20s]  You'll confirm that you are one, an independent party and not the client's employer or agent
+[5513.20s -> 5518.32s]  other than at the material time Fujitsu responsible for looking after the Horizon system. Two,
+[5518.32s -> 5522.10s]  no, of no reason why you shouldn't act as a witness for the post office in relation
+[5522.10s -> 5526.76s]  to the dispute. Three, will advise us in writing immediately if there's any conflict between
+[5526.76s -> 5537.48s]  your interest and the post office interest. We're going to see in a moment that you commented
+[5537.48s -> 5542.10s]  on some passages from this letter.
+[5542.10s -> 5544.26s]  Was this letter sent to you?
+[5544.26s -> 5545.70s]  I have no recollection of that.
+[5545.70s -> 5550.62s]  I recognise the last bits now as being what an expert's duties are, but the first time
+[5550.62s -> 5556.26s]  I was made aware of what those were when I was first put in touch with solicitors in
+[5556.26s -> 5564.16s]  2020, 2021 as part of the police investigation into my conduct.
+[5564.16s -> 5567.28s]  the letter had you say you've got no recollection whether or not it was sent
+[5567.28s -> 5570.56s]  to you? I mean I think I would have remembered if it had been sent to me
+[5570.56s -> 5574.52s]  because I can see there that it's clearly set out what the duties are and I
+[5574.52s -> 5579.52s]  wasn't aware of any of those duties until my sister pointed them out to me
+[5579.52s -> 5585.96s]  when when we first got engaged at the end of 2020. When you're giving your
+[5585.96s -> 5592.20s]  answers Mr Jenkins you should refrain unless you're doing it deliberately from
+[5592.20s -> 5598.48s]  disclosing communications between your current solicitor and you, which involve either the
+[5598.48s -> 5604.68s]  seeking of legal advice by you or the provision of legal advice to you.
+[5604.68s -> 5605.96s]  Okay, sorry.
+[5605.96s -> 5609.80s]  Because if you do do that, you might be said to have waived your privilege, your legal
+[5609.80s -> 5613.84s]  professional privilege in those, and I or somebody else can ask you about those.
+[5613.84s -> 5614.84s]  Okay, I'm sorry.
+[5614.84s -> 5617.36s]  So, I'm trying to help here.
+[5617.36s -> 5618.86s]  Yes, yes, I understand.
+[5618.86s -> 5624.60s]  If you wanted to give an answer of the kind that you've just given, it would be without
+[5624.60s -> 5630.92s]  waiving privilege by saying, I only learned that in 2020 or 2021.
+[5630.92s -> 5635.08s]  It is, of course, open to you to waive privilege, but I don't want you to do so accidentally.
+[5635.08s -> 5640.64s]  No, I don't want to do so either.
+[5640.64s -> 5648.56s]  Your reasoning that you didn't see this letter, because if you had have seen the letter, you
+[5648.56s -> 5655.24s]  You would have learned earlier than you say is the case about the existence of an expert
+[5655.24s -> 5657.24s]  witness's duties.
+[5657.24s -> 5659.04s]  Correct.
+[5659.04s -> 5666.76s]  If you had received this letter, presumably you would have read all of it.
+[5666.76s -> 5670.36s]  I would certainly have skimmed through all of it, yes.
+[5670.36s -> 5676.64s]  You wouldn't have read half the letter, the first page or the second page?
+[5676.64s -> 5677.64s]  I don't think so.
+[5677.64s -> 5680.96s]  I don't recognise any of it.
+[5680.96s -> 5688.64s]  You agree that Bond Pierce have set out here, just reading it, the duties of an expert witness,
+[5688.64s -> 5690.44s]  what they entail very clearly, haven't they?
+[5690.44s -> 5692.08s]  I agree, yes.
+[5692.08s -> 5697.00s]  In a very easy to understand way, haven't they?
+[5697.00s -> 5699.04s]  Yes.
+[5699.04s -> 5712.64s]  Can we turn, please, to FUJ00154713?
+[5712.64s -> 5718.90s]  And if we look at the email at the foot of that page first.
+[5718.90s -> 5719.90s]  Thank you.
+[5719.90s -> 5728.40s]  It's an email dated the 8th of December 2005 about Marine Drive from you to Brian Pinder.
+[5728.40s -> 5736.96s]  What was Brian Pinder's function at this time? He was the manager of the security team, I believe.
+[5741.12s -> 5743.76s]  And just tell us what the Fujitsu security team did?
+[5745.92s -> 5752.32s]  They were responsible for overall security, so making sure that the systems were secure,
+[5752.32s -> 5761.12s]  but they were also involved with communicating with post office in terms of providing what
+[5761.12s -> 5766.02s]  was called prosecution support or litigation support. So they were providing things like
+[5766.02s -> 5771.44s]  ARQ data and support of things like this.
+[5771.44s -> 5778.96s]  Can we just see how this email works because it's slightly difficult to understand which
+[5778.96s -> 5788.24s]  bit is you speaking, which bit is Mr Pinder speaking, and which bit is the questions from
+[5788.24s -> 5791.96s]  the Bond-Pearse letter of the 18th of November 2005, okay?
+[5791.96s -> 5797.16s]  Yes, and I suspect the original would have been slightly easier to decode because it
+[5797.16s -> 5800.12s]  would have been multicoloured, yes.
+[5800.12s -> 5801.12s]  We don't have the native of the letter.
+[5801.12s -> 5804.12s]  Yes, and I understand that.
+[5804.12s -> 5808.16s]  Brian, I think that's you writing, isn't it?
+[5808.16s -> 5809.16s]  I think it is.
+[5809.16s -> 5810.16s]  Yes.
+[5810.16s -> 5814.44s]  And then the words in dark black or darker black.
+[5814.44s -> 5818.56s]  I've been asked by the fraud investigation team to answer several questions to assist
+[5818.56s -> 5823.60s]  an inquiry regarding a post office employee, sub postmaster, alleging that the horizon
+[5823.60s -> 5826.72s]  system may have lost his money.
+[5826.72s -> 5831.00s]  I can manage five of the six questions, but wonder if you could explain or provide an
+[5831.00s -> 5833.60s]  answer or opinion to the following question.
+[5833.60s -> 5836.64s]  The answers are being directed back to Graham.
+[5836.64s -> 5838.52s]  Would you understand that to be Graham Ward?
+[5838.52s -> 5839.52s]  I do now.
+[5839.52s -> 5841.24s]  I'm not sure I would have done at the time.
+[5841.24s -> 5843.36s]  To formalize our response.
+[5843.36s -> 5847.16s]  Is that part in black there something that Mr Pinder wrote?
+[5847.16s -> 5848.16s]  I think so.
+[5848.16s -> 5851.96s]  Looking at that page, I think the bits that I would have written is the Brian at the top,
+[5851.96s -> 5854.60s]  and this is certainly true, which is a bit further down.
+[5854.60s -> 5857.72s]  But I can't be absolutely certain, but that's my guess.
+[5857.72s -> 5859.52s]  Trying to decode it then.
+[5859.52s -> 5867.14s]  That second paragraph then, after the word Brian, looks like it's Mr Pinder having sent
+[5867.14s -> 5870.78s]  that to you and then you've cut it into your email back.
+[5870.78s -> 5871.78s]  Correct.
+[5871.78s -> 5877.66s]  And then there's a part in lighter text, almost grey.
+[5877.66s -> 5882.74s]  If there have been human errors in recording the transactions, could an explanation be
+[5882.74s -> 5889.22s]  that A, there was nothing wrong with Horizon because it simply reflected the information
+[5889.22s -> 5896.22s]  entered onto it, semicolon, but, just stopping there. Is that likely to be what Mr Pinder
+[5896.22s -> 5899.70s]  has included in his original email to you?
+[5899.70s -> 5904.24s]  Yes, I believe so, and I recognise that as being in the previous document.
+[5904.24s -> 5912.18s]  One of the six questions in the Bon Pierce letter of the 18th of November. And then you
+[5912.18s -> 5918.38s]  reply, is this right, this is certainly true, i.e. Horizon simply reflects the information
+[5918.38s -> 5919.38s]  entered into it?
+[5919.38s -> 5920.38s]  Correct.
+[5920.38s -> 5930.76s]  That would have been my comment.
+[5930.76s -> 5936.10s]  So in relation to if there have been human errors in recording the transactions, could
+[5936.10s -> 5942.12s]  an explanation be there's nothing wrong with Horizon because it simply reflected information
+[5942.12s -> 5944.00s]  entered into it?
+[5944.00s -> 5950.70s]  you say this is certainly true, i.e. simply, Horizon simply reflects the information entered
+[5950.70s -> 5951.70s]  into it?
+[5951.70s -> 5957.72s]  Yes, that is what I would have said at the time and I stand by that today as well.
+[5957.72s -> 5959.52s]  That is a possible explanation?
+[5959.52s -> 5960.52s]  Yes.
+[5960.52s -> 5967.44s]  And were you able to say that without investigation of the facts in this case?
+[5967.44s -> 5972.66s]  Yes, because Horizon is going to record what is actually entered into it, whether that
+[5972.66s -> 5978.06s]  reflects what happened in the real world, and if you do a typo when you put the information
+[5978.06s -> 5984.46s]  into Horizon, then it's going to accurately record that typo.
+[5984.46s -> 5990.62s]  And then part B of the original question, if staff enter the wrong numbers into Horizon,
+[5990.62s -> 5994.94s]  there may have been no real loss, even though Horizon would show a loss, because there could
+[5994.94s -> 5997.94s]  be a human error in accurately recording transactions.
+[5997.94s -> 6001.74s]  And then scroll down.
+[6001.74s -> 6007.74s]  You say, I think, is this right, again, this could be true, however, if there is some sort
+[6007.74s -> 6012.56s]  of misentering of data into Horizon, then there would be another corresponding error
+[6012.56s -> 6019.50s]  which should be picked up, e.g., as a stock error or some AP client being credited with
+[6019.50s -> 6020.50s]  an incorrect amount.
+[6020.50s -> 6024.50s]  Also, such error should show up as part of the balancing process.
+[6024.50s -> 6029.74s]  And again, you're there saying these, this could be an explanation, is that right?
+[6029.74s -> 6039.46s]  And then question three was, if so, would that be a likely explanation?
+[6039.46s -> 6045.82s]  And you give quite a long reply, and you say it's a possible explanation, but without doing
+[6045.82s -> 6051.30s]  a detailed analysis of everything that's gone on in the branch, it's difficult to speculate
+[6051.30s -> 6053.06s]  as to what happened.
+[6053.06s -> 6057.86s]  Certainly the most likely explanation, it's a misoperation or fraud.
+[6057.86s -> 6063.70s]  However, I appreciate that that is not sufficient for a prosecution.
+[6063.70s -> 6069.66s]  Without understanding exactly what is alleged by Post Office and the Sub-Postmaster, I don't
+[6069.66s -> 6072.66s]  feel I can add anything further.
+[6072.66s -> 6082.70s]  So, are you saying there, firstly, that you need to see some underlying data in order
+[6082.70s -> 6086.70s]  to say what is likely to have happened?
+[6086.70s -> 6090.20s]  Because otherwise it's mere speculation.
+[6090.20s -> 6091.20s]  Correct.
+[6091.20s -> 6095.20s]  i.e. the answers you've given to Part A and B are speculation.
+[6095.20s -> 6097.70s]  Yes.
+[6097.70s -> 6106.20s]  You say that it's certain that the most likely explanation is misoperation or fraud.
+[6106.20s -> 6115.70s]  Why was it certainly the case that the most likely explanation was misoperation, i.e. by the sub-postmaster, I think, or fraud?
+[6115.70s -> 6118.90s]  I'm not sure why I would have said that at the time.
+[6118.90s -> 6122.90s]  I mean, looking back now, then I think that's just one of many different options,
+[6122.90s -> 6125.90s]  but I accept that those are the words that I used at the time.
+[6125.90s -> 6131.90s]  But I think I would stand by the fact that I would need to look into exactly what had happened.
+[6131.90s -> 6136.90s]  Lots of people have said to me, I accept they're the words that I used at the time,
+[6136.90s -> 6138.90s]  and obviously they are, that doesn't make any sense.
+[6138.90s -> 6139.90s]  Yeah, yeah, yeah, sure.
+[6139.90s -> 6140.90s]  Because they are, they're on the screen.
+[6140.90s -> 6142.90s]  Yeah, yeah, yeah, yeah, yeah.
+[6142.90s -> 6144.90s]  Why did you use them?
+[6144.90s -> 6148.90s]  I don't know, it's a simple answer.
+[6148.90s -> 6153.90s]  Did they disclose the way you were thinking in December 2005?
+[6153.90s -> 6161.90s]  I.e. the most likely cause of what's being described here
+[6161.90s -> 6166.90s]  is mistake by the sub-postmaster or fraud by the sub-postmaster?
+[6166.90s -> 6172.90s]  My feeling was that that was more likely than an error in Horizon, yes.
+[6172.90s -> 6180.78s]  But I'm including the option of it being a mistake.
+[6180.78s -> 6186.72s]  You can't say that without looking at the data, can you?
+[6186.72s -> 6192.04s]  Which is why I go on to say that I needed to look at the data.
+[6192.04s -> 6195.80s]  You say you appreciate that that is not sufficient for a prosecution.
+[6195.80s -> 6200.94s]  Had you understood this to be a criminal case?
+[6200.94s -> 6204.86s]  Well, the fact that the request was coming from the security team suggested that there
+[6204.86s -> 6208.58s]  probably was.
+[6208.58s -> 6213.18s]  Did you at this stage understand the difference between criminal and civil proceedings?
+[6213.18s -> 6215.52s]  No.
+[6215.52s -> 6219.54s]  Did you know that there were different types of courts, some which tend to deal with money
+[6219.54s -> 6224.90s]  and some which tend to deal with crime, sending people to prison and the like?
+[6224.90s -> 6230.06s]  Not really, no.
+[6230.06s -> 6236.06s]  Do you understand that a prosecution tends to refer to criminal cases?
+[6236.06s -> 6242.38s]  I'm not sure I really thought about it.
+[6242.38s -> 6247.54s]  I've not really appreciated any real difference, and so I was probably using fairly loose language.
+[6247.54s -> 6255.82s]  After all, this is an internal email.
+[6255.82s -> 6262.98s]  It's then a part of the text which says, I've spoken with Dave Baldwin, etc.
+[6262.98s -> 6266.44s]  Is that paragraph again Mr Pinder?
+[6266.44s -> 6269.10s]  That I would expect it to be, yes.
+[6269.10s -> 6273.76s]  I've spoken to Dave Baldwin on this, he recommended I speak with you, I'll also be lazing with
+[6273.76s -> 6279.74s]  him on my final response, as we're fundamentally of the opinion that Horizon does not eat money,
+[6279.74s -> 6282.46s]  merely accounts for its placement.
+[6282.46s -> 6287.86s]  And then you finish, I think this is you at the end saying happy to discuss further if
+[6287.86s -> 6290.90s]  you want to look at some more specific areas of Verizon.
+[6290.90s -> 6293.38s]  That sounds like me, yes.
+[6293.38s -> 6300.98s]  The answer to the third question is an important one, isn't it, because it says the answer
+[6300.98s -> 6306.46s]  to the first two are mere speculation without looking at the data.
+[6306.46s -> 6307.46s]  Yes.
+[6307.46s -> 6317.02s]  Can we go to the top of the page, please?
+[6317.02s -> 6326.02s]  Later that day, Mr. Pinder writes back to you and says, for your information, Gareth,
+[6326.02s -> 6330.70s]  this is the response I intend to send to Graham.
+[6330.70s -> 6333.18s]  Read your question, if that's okay.
+[6333.18s -> 6337.42s]  And then comments from Gareth Jenkins.
+[6337.42s -> 6343.78s]  Question one, if there have been human errors, then A. And you can see your text is faithfully
+[6343.78s -> 6344.78s]  reproduced, yes?
+[6344.78s -> 6348.34s]  Except that the last point has not been faithfully reproduced.
+[6348.34s -> 6350.90s]  No, no, just look at A to start with.
+[6350.90s -> 6351.90s]  Yes.
+[6351.90s -> 6353.90s]  That's been faithfully reproduced, hasn't it?
+[6353.90s -> 6354.90s]  Yes.
+[6354.90s -> 6360.42s]  And then look at B. That's been faithfully reproduced, hasn't it?
+[6360.42s -> 6361.42s]  Yes.
+[6361.42s -> 6362.42s]  Yes, your answer.
+[6362.42s -> 6364.70s]  Yes.
+[6364.70s -> 6366.86s]  And then C, or I'm going to call it C,
+[6366.86s -> 6370.58s]  the third part of the question, if so,
+[6370.58s -> 6373.78s]  would that be a likely explanation?
+[6373.78s -> 6378.50s]  He has written, not able to comment on this.
+[6378.50s -> 6379.66s]  Yes.
+[6379.66s -> 6383.78s]  The detailed and important answer
+[6383.78s -> 6386.50s]  that you gave to the third part of the question
+[6386.50s -> 6388.70s]  has been changed to no comment, hasn't it?
+[6388.70s -> 6390.54s]  Yes.
+[6390.54s -> 6392.06s]  Do you know why that was?
+[6392.06s -> 6402.70s]  It's an important qualifier to the answers to the first two questions, isn't it?
+[6402.70s -> 6406.70s]  I realise that now. I probably didn't appreciate that at the time.
+[6406.70s -> 6407.70s]  Why not?
+[6407.70s -> 6419.22s]  I don't know. It's a simple answer.
+[6419.22s -> 6427.02s]  Can you think of a good reason why the careful explanation you've given to question three
+[6427.02s -> 6429.70s]  has been changed into no comment?
+[6429.70s -> 6435.98s]  No, it may have been considered that it was just too complicated an answer.
+[6435.98s -> 6438.22s]  What's complicated about an answer?
+[6438.22s -> 6441.22s]  You need to look at the data to give an accurate picture.
+[6441.22s -> 6442.22s]  Yeah.
+[6442.22s -> 6443.22s]  I don't know.
+[6443.22s -> 6444.22s]  I think you'd have to ask Brian Pinder.
+[6444.22s -> 6449.14s]  I'm asking you at the moment because what this is, is an email to you.
+[6449.14s -> 6452.90s]  essentially saying, is it okay if I send this as your response?
+[6457.22s -> 6462.18s]  I probably hadn't picked up the fact that it had taken away the
+[6462.18s -> 6465.30s]  qualification that I'd put in in the original email.
+[6467.30s -> 6468.74s]  Do you read documents carefully?
+[6474.10s -> 6474.98s]  I try to, yes.
+[6479.14s -> 6485.38s]  You're saying you wouldn't have, you obviously didn't pick this up at the time.
+[6485.38s -> 6489.46s]  I clearly didn't pick that up on the time.
+[6489.46s -> 6493.34s]  Why he was changing that to a no comment, I wasn't particularly clear.
+[6493.34s -> 6498.06s]  Perhaps I should have taken it up to him as to why he was doing that, but I assumed that
+[6498.06s -> 6504.94s]  he knew what he wanted to respond and that maybe he felt that I wasn't in a position
+[6504.94s -> 6508.26s]  to make the comment on that last part.
+[6508.26s -> 6509.86s]  I just don't remember.
+[6509.86s -> 6510.86s]  But you had, hadn't you?
+[6510.86s -> 6512.18s]  I had commented on it, yes.
+[6512.18s -> 6517.58s]  But why he decided he didn't want to pass that on, I don't know.
+[6517.58s -> 6520.98s]  I'm not so much asking for his take.
+[6520.98s -> 6526.98s]  I'm asking why you assented to this approach by not saying,
+[6526.98s -> 6530.38s]  well, hold on, you've missed out an important qualifier.
+[6530.38s -> 6531.82s]  Perhaps I didn't realize at the time
+[6531.82s -> 6533.22s]  how important that qualifier was.
+[6533.22s -> 6540.46s]  Can we go back to FUJ00152573?
+[6540.46s -> 6549.86s]  Before we do, Mr. Beer, I'm slightly puzzled, and it may just be me, about how this email,
+[6549.86s -> 6556.42s]  the one that's on the screen, begins for your information and then this.
+[6556.42s -> 6567.02s]  is the response I intend to send to Graham, read your question if that's okay. Now, to
+[6567.02s -> 6575.22s]  me that reads as if Mr Pinder is going to send this response to Graham if it's okay
+[6575.22s -> 6582.38s]  with Mr Jenkins because it's the question that Mr Jenkins has asked him. Am I misreading
+[6582.38s -> 6583.38s]  this?
+[6583.38s -> 6584.38s]  No, that's exactly right.
+[6584.38s -> 6594.14s]  And is that consistent with the interpretation that was given to the preceding emails, which
+[6594.14s -> 6606.62s]  suggested that it was Mr Pinder who was seeking to ask questions of Mr Jenkins rather than
+[6606.62s -> 6609.54s]  Mr Jenkins asking questions of Mr Pinder?
+[6609.54s -> 6611.50s]  Do you see my point?
+[6611.50s -> 6614.46s]  It may be that I'm just misunderstanding.
+[6614.46s -> 6617.58s]  So I think you may have misunderstood the first email that we looked at.
+[6617.58s -> 6620.58s]  If we just go down to that.
+[6620.58s -> 6628.54s]  As I read this, there must have been an earlier email that we haven't got in which Mr. Pinder
+[6628.54s -> 6635.14s]  sent that first paragraph I've been asked by the Fraud Investigation Team and then the
+[6635.14s -> 6639.46s]  a second paragraph which says if there have been human errors,
+[6639.46s -> 6644.06s]  if that's marked, and then the paragraph at A,
+[6644.14s -> 6647.34s]  if that can be marked, paragraph at B,
+[6647.34s -> 6652.14s]  and then Mr. Jenkins has replied in the darker text.
+[6652.14s -> 6656.94s]  Yeah. Well, that's as I understood what you were explaining,
+[6656.94s -> 6661.10s]  and that did or could make sense,
+[6661.10s -> 6664.58s]  but it's the juxtaposition of that with
+[6664.58s -> 6671.34s]  the beginning of the next email that I'm struggling with.
+[6671.34s -> 6674.54s]  Anyway, I'm sorry to interrupt your questioning of Mr.
+[6674.54s -> 6675.46s]  Jenkins.
+[6675.46s -> 6678.66s]  Maybe it'll all become clear to me.
+[6678.66s -> 6680.14s]  I'll try.
+[6680.14s -> 6684.54s]  If we go back up to the top page, do you
+[6684.54s -> 6689.90s]  understand that this is Mr. Pinder saying to you,
+[6689.90s -> 6694.34s]  everything below the words, comments from Gareth Jenkins
+[6694.34s -> 6698.18s]  and including the words, comments for Gareth Jenkins,
+[6698.18s -> 6701.94s]  is what I, Brian Pinder, are going to send to Greg.
+[6701.94s -> 6705.30s]  Yes, I do, but it relates to,
+[6705.30s -> 6710.30s]  and it's just those three words, re-your question.
+[6710.34s -> 6713.22s]  And it's the other way around, isn't it?
+[6713.22s -> 6716.10s]  On the first two emails.
+[6716.10s -> 6719.18s]  So I think that your, I don't want to give evidence here,
+[6719.18s -> 6720.02s]  but your-
+[6720.02s -> 6723.14s]  Well, maybe I should just ask Mr. Jenkins,
+[6723.14s -> 6724.42s]  What do you think?
+[6724.42s -> 6728.42s]  I think the real question, my understanding
+[6728.42s -> 6734.62s]  is that Graham Ward had asked Brian Pinder six questions.
+[6734.62s -> 6738.10s]  He had identified one of those questions for me to respond to,
+[6738.10s -> 6740.82s]  namely question six, I think it was.
+[6740.82s -> 6744.82s]  And therefore, what he's saying is, in response to the question
+[6744.82s -> 6747.46s]  that I've allocated to you, this is the answer
+[6747.46s -> 6750.58s]  I intend to send to Graham Ward in response
+[6750.58s -> 6752.34s]  to that specific question.
+[6752.34s -> 6756.88s]  So, your interpretation of the phrase, your question,
+[6756.88s -> 6758.86s]  is not that you asked the question,
+[6758.86s -> 6761.26s]  it's the question that he allocated to you.
+[6761.26s -> 6763.34s]  Correct, that's how I understand it.
+[6763.34s -> 6766.22s]  And that's how I would have understood it at the time.
+[6766.22s -> 6769.30s]  Fine, well, then I follow, sorry for all that.
+[6769.30s -> 6772.22s]  So that should read, I intend to send to Graham
+[6772.22s -> 6774.22s]  the question that has been allocated to you,
+[6774.22s -> 6775.18s]  if that's okay.
+[6775.18s -> 6777.58s]  That is how I read it at the time, yes.
+[6777.58s -> 6778.42s]  Thank you.
+[6778.42s -> 6780.62s]  Fine, then I do understand now, thank you.
+[6780.62s -> 6782.10s]  Thank you, can we go back please?
+[6782.10s -> 6789.22s]  FUJ0015. Before we leave that, can we go down please to the, to my response to the third question?
+[6789.22s -> 6797.62s]  Yes, absolutely. And it's... Keep going, keep going. That's it. Again, it said it is a possible
+[6798.18s -> 6804.98s]  explanation but without detailed analysis it's difficult to speculate. So I think what Brian
+[6804.98s -> 6809.38s]  had interpreted from that, therefore I wasn't going to comment on it and that's why I would
+[6809.38s -> 6815.46s]  would have been happy with, I'm not happy to comment. I suspect that is probably why
+[6815.46s -> 6820.66s]  I was happy with that being replaced by unable to comment because I'm speculating there and
+[6820.66s -> 6822.62s]  therefore it is not a definitive answer.
+[6822.62s -> 6824.66s]  Doesn't that overlook completely?
+[6824.66s -> 6829.06s]  But I accept the fact that the qualification would have been useful information to have
+[6829.06s -> 6830.06s]  provided.
+[6830.06s -> 6834.18s]  Doesn't it completely overlook the fact that the main point to answer to question three
+[6834.18s -> 6835.54s]  is you need to look at the data?
+[6835.54s -> 6843.20s]  Yes, yes, I accept that now, but that may well have been why I was happy to allow the
+[6843.20s -> 6845.14s]  change to be made at the time.
+[6845.14s -> 6854.20s]  Okay, can we go back please to FUJ00152573?
+[6854.20s -> 6861.30s]  This is, if we just look at the foot of the page, Brian Pinder's document.
+[6861.30s -> 6865.22s]  If we go up, please.
+[6865.22s -> 6868.30s]  Address to Graham, which is going to be Graham Ward.
+[6868.30s -> 6872.42s]  This is the response of Mr. Pinder.
+[6872.42s -> 6877.42s]  He says, in response to your email request dated the 28th of November concerning the
+[6877.42s -> 6881.52s]  questions raised at paragraph three of the above document, the above document being the
+[6881.52s -> 6890.30s]  Bon Pierce letter that we've looked at, you'll see the answers to question one.
+[6890.30s -> 6898.54s]  Question two, it refers to, in the answer, a response from Anne Chambers, which is attached.
+[6898.54s -> 6906.80s]  And if we scroll down, please, to question five, you will see that the full question
+[6906.80s -> 6915.08s]  in three parts is set out. And the reply from Mr Pinder is Gareth Jenkin's response attached.
+[6915.08s -> 6922.76s]  If we go to page three, please.
+[6922.76s -> 6926.96s]  So this was the attachment to Mr Pinder's document.
+[6926.96s -> 6933.92s]  Can you see that it's essentially his email back to you, the FYI email, including your
+[6933.92s -> 6939.36s]  signature block at the bottom, which he did, in fact, include in his reply to you?
+[6939.36s -> 6940.36s]  Yes.
+[6940.36s -> 6948.56s]  So, the shortened reply has been sent back to the post office.
+[6948.56s -> 6953.76s]  You were able to comment, weren't you, whereas your reply has gone back to the post office
+[6953.76s -> 6959.16s]  saying that you're not able to comment.
+[6959.16s -> 6965.84s]  Yes.
+[6965.84s -> 6971.96s]  Was the reason for that because it was thought that an investigation of what the sub-postmaster
+[6971.96s -> 6979.16s]  was saying might not be in Fujitsu's best interests?
+[6979.16s -> 6983.52s]  I don't know what was the reason for that change. I would have been quite happy to investigate
+[6983.52s -> 6988.06s]  and look at exactly what had happened in the branch. In fact, I believe at some later stage
+[6988.06s -> 6992.68s]  I did assist Dan in doing some investigations there.
+[6992.68s -> 7000.32s]  the reason for the different reply that an investigation might reveal issues
+[7000.32s -> 7007.44s]  that Fujitsu didn't really want to speak about? Not that I'm aware of. Thank you
+[7007.44s -> 7011.04s]  that can come down. Now I think you subsequently attended a conference on
+[7011.04s -> 7015.76s]  the 6th of June 2006 with representatives of Bon Pierce and others.
+[7015.76s -> 7020.24s]  Do you remember? I remember seeing the documents avoided and I have vague
+[7020.24s -> 7027.36s]  recollections of the meeting. Let's look at the documents please. Poll 307 1427.
+[7036.40s -> 7042.88s]  We can see this is an attendance note in the case of Lee Castleton dated the 6th of June 2006. We
+[7042.88s -> 7049.92s]  were previously looking to give you some context at November and December 2005. This is at
+[7050.24s -> 7059.60s]  Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+[7059.60s -> 7068.00s]  three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+[7068.00s -> 7076.40s]  Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu.
+[7076.40s -> 7076.90s]  Yes.
+[7076.90s -> 7087.58s]  I'm not going to go into the detail of this attendance note. Do you recall any discussion
+[7087.58s -> 7094.16s]  in this meeting about you or Anne Chambers giving evidence?
+[7094.16s -> 7100.72s]  I think there was discussion about evidence being given, but I can't remember the details
+[7100.72s -> 7107.20s]  bit. I do know that Anne eventually ended up giving evidence in the case and I didn't.
+[7107.20s -> 7114.50s]  You remember the second page of the Bond-Pearse letter and onto the third page of the Bond-Pearse
+[7114.50s -> 7123.56s]  letter? Yes. An extensive explanation of the duties of an expert? Yes. Do you know what
+[7123.56s -> 7134.36s]  had happened to that? No idea. Were those issues discussed at this conference? I have
+[7134.36s -> 7142.08s]  no recollection of any discussion of those there. All I can vaguely remember is the fact
+[7142.08s -> 7150.40s]  that there was a meeting and I met a couple of sisters. Heard the guidance that Bond-Pearse
+[7150.40s -> 7160.76s]  had given about the provision of expert evidence by a Fujitsu employee being forgotten by this
+[7160.76s -> 7161.76s]  stage?
+[7161.76s -> 7165.84s]  I don't know whether it had been forgotten or what, but I don't remember any mention
+[7165.84s -> 7169.84s]  of it.
+[7169.84s -> 7173.92s]  In any event, your recollection is that that wasn't gone over again in the context of
+[7173.92s -> 7177.96s]  either you or Anne Chambers giving evidence?
+[7177.96s -> 7180.20s]  No.
+[7180.20s -> 7181.20s]  Thank you.
+[7181.20s -> 7182.20s]  Can we turn to three days later?
+[7182.20s -> 7202.84s]  This is the 6th of June, 2006, three days later to the 9th of June, 2006, FUJ00154722.
+[7202.84s -> 7206.96s]  And look at the email at the bottom part of the page.
+[7206.96s -> 7212.28s]  If we scroll up just so we can see from and to, thank you.
+[7212.28s -> 7219.78s]  From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+[7219.78s -> 7225.56s]  and Mandy Talbert, so not you at this stage.
+[7225.56s -> 7229.28s]  I'd like to thank you and your team for finding time to meet us on Tuesday.
+[7229.28s -> 7232.24s]  That would be the date of the conference we just looked at.
+[7232.24s -> 7234.96s]  We found the meeting to be really worthwhile, helpful, and productive.
+[7234.96s -> 7240.10s]  circulator note. In the meantime, I attach a letter received on 7th of June from Mr.
+[7240.10s -> 7244.06s]  Castleton's solicitor. As I've highlighted the two paragraphs I would like you to have
+[7244.06s -> 7249.20s]  a look at, basically they state the Horizon system is equipped with a facility via which
+[7249.20s -> 7254.92s]  its operating software can be updated remotely via the connection to the post office's head
+[7254.92s -> 7259.84s]  office and that the system sometimes went offline when there are software updates. They
+[7259.84s -> 7264.26s]  have therefore asked for documents relating to the updating of the software of the system.
+[7264.26s -> 7268.58s]  views they're making a stab in the dart, please could you ask your team whether they would have
+[7268.58s -> 7277.62s]  or could obtain any records of software update. So this is a question about remote accessing of the
+[7278.34s -> 7286.02s]  system. A source of remote access, I think I could explain different types of remote access in one of
+[7286.02s -> 7291.54s]  my witness statements. We're going to come to that probably tomorrow, but a species of remote access.
+[7291.54s -> 7318.66s]  Now, if we look, please, at FUJ0015-2605.
+[7318.66s -> 7331.30s]  And if we scroll down, please, and again, and again, we'll see that email if we just
+[7331.30s -> 7333.26s]  scroll down a bit further.
+[7333.26s -> 7336.10s]  We'll see the email we've just looked at.
+[7336.10s -> 7337.10s]  Yes.
+[7337.10s -> 7341.50s]  And if we scroll up, please.
+[7341.50s -> 7345.10s]  Brian Pinder sends that on to you and Penny Thomas.
+[7345.10s -> 7352.50s]  I'd like to run this by you first, as I hope you might be able to answer either the query,
+[7352.50s -> 7360.10s]  hopefully, or point me in the right direction. And then up, please. Your reply of the 9th
+[7360.10s -> 7366.90s]  of June 2006, you say, it's correct, we do update software remotely, and that a software
+[7366.90s -> 7373.62s]  update could result in the desktop being closed and restarted. However, even then, I don't
+[7373.62s -> 7379.94s]  see how it will result in losses as is being claimed. Software updates are relatively rare
+[7379.94s -> 7385.74s]  and normally only take place between 8 p.m. and 1 a.m. and again before 4 a.m. and 7 a.m.
+[7385.74s -> 7389.50s]  with occasional extensions at the weekend. This puts them well outside the normal operational
+[7389.50s -> 7395.18s]  hours of Horizon. I think he's clutching at straws. However, I guess we do need to cover
+[7395.18s -> 7400.58s]  this angle. I'd expect the system to record details of all software updates and when they
+[7400.58s -> 7404.86s]  took place at which branches. I don't know how long these are retained, whether they're
+[7404.86s -> 7413.30s]  included in the audit trail, so you can check the history for a marine drive in 2004, and
+[7413.30s -> 7420.90s]  then you suggest a place to start. In the provision of this information, which is a
+[7420.90s -> 7429.18s]  reply about a species of remote access, had the guidance in the Bond-Pearse letter been
+[7429.18s -> 7432.78s]  drawn to your attention about the provision of expert evidence?
+[7432.78s -> 7440.18s]  No. I just had the question as shown in the email trail that you're showing me.
+[7440.18s -> 7444.42s]  And so that letter of the 18th of November never made its way through to you?
+[7444.42s -> 7451.90s]  No, I'm sure it couldn't have done because I would have done things differently, not
+[7451.90s -> 7458.80s]  necessarily in this case, but certainly in later cases, if I'd been aware of those responsibilities.
+[7458.80s -> 7479.84s]  Can we move on please to FUJ00154727?
+[7479.84s -> 7485.40s]  And start with page two please.
+[7485.40s -> 7493.96s]  An email from Mr Ward to Mr Pinder and Mr Soule.
+[7493.96s -> 7494.96s]  Can you see that?
+[7494.96s -> 7495.96s]  Yes.
+[7495.96s -> 7499.72s]  Steven Dilley representing the Post Office is asking if it's possible that someone
+[7499.72s -> 7504.36s]  undertakes an analysis of figures recorded on transaction logs.
+[7504.36s -> 7509.36s]  It appears that the solicitors for Castleton are saying that they've compared the transaction
+[7509.36s -> 7516.60s]  logs with the cash accounts for week 42 themselves and they don't match. They conclude that
+[7516.60s -> 7523.52s]  Horizon is therefore only recording half the transactions. And then reading second and
+[7523.52s -> 7528.24s]  third paragraph, given this is a test case and that the integrity of the Horizon system
+[7528.24s -> 7534.12s]  is being challenged, my own opinion is that this exercise should be completed by an expert
+[7534.12s -> 7540.14s]  in inverted commas, from Fujitsu. However, it will obviously be extremely time consuming
+[7540.14s -> 7543.94s]  because all the figures recorded will need to be methodically and carefully analyzed.
+[7543.94s -> 7548.18s]  It's also important we complete the analysis and respond formally to the points raised
+[7548.18s -> 7554.14s]  as soon as possible. My first question is, one, is this an exercise that Fujitsu could
+[7554.14s -> 7559.48s]  undertake possibly by Gareth perhaps, who would presumably have a thorough understanding
+[7559.48s -> 7564.10s]  of the figures recorded on both the transaction logs and the figures on an office cash account
+[7564.10s -> 7568.10s]  Two, if the answer is yes, how soon could this exercise be performed?
+[7568.10s -> 7572.10s]  And a formal response prepared, will there be a cost?
+[7572.10s -> 7576.10s]  And then if we scroll up, please.
+[7576.10s -> 7581.10s]  We'll see there that Mr. Pinder forwards the email to you on the 31st of July,
+[7581.10s -> 7585.10s]  asking, is this something you can provide?
+[7585.10s -> 7586.10s]  Yes.
+[7586.10s -> 7591.10s]  And then if we scroll up to the top of the page,
+[7591.10s -> 7597.18s]  your reply of the 31st of July, I guess it is the sort of analysis that I could do if
+[7597.18s -> 7602.10s]  required. However, it's fairly time consuming, and the problem is in adjusting my priorities
+[7602.10s -> 7606.00s]  to find the time to do it. I don't know how many transactions are involved, and I'd need
+[7606.00s -> 7610.90s]  copies of the cash account before and after the period to carry out the analysis. I might
+[7610.90s -> 7615.98s]  need to get hold of the reference data that was current at the time, which is probably
+[7615.98s -> 7621.18s]  quite difficult. Given the volume of the data, I'd expect this to take anything between two
+[7621.18s -> 7625.26s]  days and a week. It's difficult to tell in advance, given that I'll probably need to
+[7625.26s -> 7631.10s]  fill my way. I'll probably need help from Penny in carrying out extracts from the relevant
+[7631.10s -> 7636.62s]  message stores. For timescales, I can't spend more than a couple of hours on it this week,
+[7636.62s -> 7640.94s]  and probably can't start in earnest until the week of the 14th, and then I'm on leave.
+[7640.94s -> 7647.22s]  chambers might be able to do a similar analysis and she might have some tools to help. She's
+[7647.22s -> 7653.66s]  on leave this week. So you're essentially expressing concerns about your capacity.
+[7653.66s -> 7654.66s]  Yes.
+[7654.66s -> 7661.78s]  By this time, had any of the guidance that we saw in the letter of the 18th of November
+[7661.78s -> 7667.26s]  2005 been given to you about providing expert evidence?
+[7667.26s -> 7674.38s]  I'm pretty sure it hadn't. I can't say definitively because it's so long ago, but as I say, I think I would have known if I had seen it.
+[7685.58s -> 7689.98s]  Can we look please at FUJ00152290?
+[7697.26s -> 7711.46s]  And if we scroll down, please. And you say there on the 7th of August to Mr. Sewell,
+[7711.46s -> 7716.50s]  in relation to the Castleton case and transaction logs, second paragraph, I've spoke with Anne
+[7716.50s -> 7724.16s]  this morning. We've agreed that once the CP, is that a change proposal, is approved,
+[7724.16s -> 7728.86s]  will carry out the initial analysis based on transactions we get from Penny, then we
+[7728.86s -> 7736.86s]  will review them together and I'll front up any report we present to the Post Office.
+[7736.86s -> 7745.38s]  Again, by this stage, we're now in August 2006, had the guidance given in the 18th of
+[7745.38s -> 7750.30s]  November 2005 letter been provided to you?
+[7750.30s -> 7754.62s]  Not that I'm aware of, and I don't think that's the letter that's referred to in an earlier
+[7754.62s -> 7756.26s]  email that's mentioned in this email.
+[7756.26s -> 7757.26s]  I think that's a different email.
+[7757.26s -> 7758.26s]  No, that's right.
+[7758.26s -> 7774.02s]  Can we look, please, at FUJ00152292?
+[7774.02s -> 7782.18s]  17th of August now, 2006, about Marine Drive, from Anne Chambers to you. She says, I've
+[7782.18s -> 7789.34s]  spent some time recalculating the CAC 42, the cash account period 42, cash account for
+[7789.34s -> 7792.86s]  Marine Drive and addressing the points in the letter from the Solicitor. I hope it makes
+[7792.86s -> 7799.30s]  sense to provide you with a starting point, not quite at the very beginning. Subsequent
+[7799.30s -> 7803.50s]  cash accounts, if needing, should be much easier now. I have the mappings set up and
+[7803.50s -> 7808.66s]  some idea of what numbers need to go where. I'm now going to look at the loss made in
+[7808.66s -> 7813.22s]  week 42 and demonstrate it was due to the difference between system holdings and declared
+[7813.22s -> 7819.34s]  holdings. If this isn't at all what you wanted, please let me know. I don't really know what
+[7819.34s -> 7828.54s]  I'm doing. It hasn't had my full attention. Lots of people are on leave. Also, yesterday
+[7828.54s -> 7832.66s]  I got my witness statement, which is, as I suspect you found, full of things I didn't
+[7832.66s -> 7840.32s]  say or do, including all those power help calls. And so, Miss Chambers have been asked
+[7840.32s -> 7844.46s]  by you to do the work, or it had been agreed by you that she should do the work, is that
+[7844.46s -> 7845.46s]  right?
+[7845.46s -> 7850.92s]  Yes, as I understand it, she did the initial calculations. I think what she sent me there
+[7850.92s -> 7857.72s]  is a spreadsheet that she put together and a note of what she'd actually done. And I
+[7857.72s -> 7862.80s]  then went through and checked both her methodology and the conclusions she came to. And then
+[7862.80s -> 7868.52s]  I think at some later stage I wrote it up in a slightly different form than the form
+[7868.52s -> 7870.12s]  that she'd passed it to me in.
+[7870.12s -> 7874.08s]  And why were you going to, in your words, front it up, front the report?
+[7874.08s -> 7880.32s]  I can't remember now. That's clearly something we'd agreed between us at the time, but I
+[7880.32s -> 7884.64s]  can't remember what was behind that at the time.
+[7884.64s -> 7894.98s]  Can we turn to FUJ00122279, please?
+[7894.98s -> 7897.96s]  And scroll down, please.
+[7897.96s -> 7898.96s]  Thank you.
+[7898.96s -> 7906.98s]  An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+[7906.98s -> 7912.48s]  not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+[7912.48s -> 7917.88s]  As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+[7917.88s -> 7920.04s]  and exhibit for Gareth Jenkins.
+[7920.04s -> 7924.44s]  It's designed to explain what Horizon is, comment on Mr Castleton's allegations about
+[7924.44s -> 7926.00s]  the Horizon system.
+[7926.00s -> 7930.72s]  I'm preparing a separate statement for Anne to follow shortly, which will deal with the
+[7930.72s -> 7931.72s]  call logs.
+[7931.72s -> 7936.52s]  Can you look at the first draft, make any changes you feel are appropriate, and answer
+[7936.52s -> 7939.28s]  my questions in bold italics?
+[7939.28s -> 7949.76s]  then revise the statement with council. Now if that's scrolled up please. It's forwarded
+[7949.76s -> 7968.60s]  to you for your information and action. Can we look please at FUJ00122283? You reply the
+[7968.60s -> 7974.08s]  the next day, I was three-ish, and say, I've had a go through this, it isn't a complete
+[7974.08s -> 7979.48s]  statement and I won't have time to sort out the outstanding bits for a while. I think
+[7979.48s -> 7983.92s]  we probably need to get the detailed analysis done before this can be completed. I'm happy
+[7983.92s -> 7990.52s]  for you to send it as it is to Stephen, if you like, but you may decide it isn't complete
+[7990.52s -> 7996.88s]  enough for that. I may be able to do some, to research some of the areas such as audit
+[7996.88s -> 8001.20s]  that I'm claiming ignorance of if that is required.
+[8001.20s -> 8003.76s]  So you're essentially saying that here's an incomplete statement.
+[8003.76s -> 8008.88s]  I haven't got a chance to complete it yet.
+[8008.88s -> 8011.72s]  There's still some analysis work to be undertaken.
+[8011.72s -> 8012.20s]  Correct.
+[8015.08s -> 8020.48s]  Again, by this stage, had the letter of the 18th of November
+[8020.48s -> 8025.96s]  and the expert duties points in it been drawn to your attention?
+[8025.96s -> 8026.46s]  No.
+[8030.12s -> 8030.62s]  Thank you.
+[8030.62s -> 8031.12s]  That can come down.
+[8031.12s -> 8036.60s]  I think you were subsequently informed by Mr. Pinder
+[8036.60s -> 8039.56s]  that you wouldn't be required to give evidence
+[8039.56s -> 8040.68s]  in Mr. Carselton's case.
+[8040.68s -> 8042.44s]  Is that right?
+[8042.44s -> 8044.88s]  That is what I understand from the documents I read now.
+[8044.88s -> 8048.28s]  And I certainly remember I didn't give evidence.
+[8048.28s -> 8052.16s]  Do you remember Mr. Pinder informing you directly
+[8052.16s -> 8054.00s]  that you would not be required to give evidence
+[8054.00s -> 8055.36s]  in Mr. Carselton's case?
+[8055.36s -> 8059.36s]  I've seen an email which effectively says that, yes.
+[8060.42s -> 8062.38s]  Before the break, can we just look at that, please?
+[8062.38s -> 8066.72s]  FUJ00154733.
+[8066.72s -> 8092.84s]  I think this is, if we scroll down please, and again, and again. Yeah, if we just go
+[8092.84s -> 8103.76s]  back to the top please. I think again, as is or as was your practice, you have cut into
+[8103.76s -> 8110.24s]  an email the contents of Mr Pinder's email and replied to it.
+[8110.24s -> 8111.24s]  Yes.
+[8111.24s -> 8118.08s]  And so the first part of the text in the two lightly shaded paragraphs is what Mr Pinder
+[8118.08s -> 8119.08s]  is saying, is that right?
+[8119.08s -> 8124.28s]  That's my understanding of it and it makes sense reading it that way.
+[8124.28s -> 8129.08s]  He says, just been chasing Stephen up, read your attendance and any matters still outstanding
+[8129.08s -> 8132.96s]  for us, post office account, as follows my words.
+[8132.96s -> 8139.64s]  He states, that although you, that's you Mr Jenkins, would probably make a good witness,
+[8139.64s -> 8145.40s]  it is for evidential reasons that you cannot be called to do with evidence of opinion,
+[8145.40s -> 8153.36s]  inverted commas, expert evidence and real evidence, etc., etc., complicated legal issues,
+[8153.36s -> 8158.24s]  nothing to do with personalities, and you say, fine, I won't try to understand what
+[8158.24s -> 8159.24s]  this means.
+[8159.24s -> 8160.24s]  Yes.
+[8160.24s -> 8168.76s]  Was that the limit of the explanation that you received as to why you were not being
+[8168.76s -> 8172.00s]  called as a witness in the Lee-Caskerton case?
+[8172.00s -> 8177.08s]  As far as I can remember, yes, I'm not aware of any other briefing I got given.
+[8177.08s -> 8184.16s]  Did you have an understanding of what the distinctions drawn in this email between opinion
+[8184.16s -> 8187.92s]  and expert evidence and real evidence were?
+[8187.92s -> 8188.92s]  No.
+[8188.92s -> 8192.12s]  Hence my comment about I won't try and understand what this means.
+[8192.12s -> 8196.28s]  And was that the end of it so far as you were concerned?
+[8196.28s -> 8197.28s]  Yeah.
+[8197.28s -> 8201.80s]  As far as I was concerned, it just meant that I didn't need to be involved in the case anymore
+[8201.80s -> 8206.08s]  and therefore I could get on with my day job.
+[8206.08s -> 8211.92s]  You in fact did have continuing involvement in the case because you answered some queries.
+[8211.92s -> 8212.92s]  Yes.
+[8212.92s -> 8215.52s]  But you didn't give evidence.
+[8215.52s -> 8216.80s]  Correct.
+[8216.80s -> 8230.10s]  The references to those, I'm not going to turn them up, are FUJ00154747 and Poll 3069822.
+[8230.10s -> 8236.46s]  And what capacity were you continuing to be involved in the case?
+[8236.46s -> 8240.22s]  I believe that I was asked to do some further analysis.
+[8240.22s -> 8246.90s]  I say I can't remember now what the details were, but I've seen emails suggesting that
+[8246.90s -> 8251.42s]  I was asked some specific questions which I responded to, and I think I may have produced
+[8251.42s -> 8256.66s]  another paper as a result of some of that investigation.
+[8256.66s -> 8262.10s]  I can't remember now what I did at the time. All I can go by is the emails that the inquirer
+[8262.10s -> 8267.18s]  showed me. That document can come down, thank you. You tell us in your witness statements
+[8267.18s -> 8273.34s]  that you didn't see Anne Chamber's afterthoughts document, either at the time or until this
+[8273.34s -> 8279.20s]  inquiry essentially. I have no memory of seeing that. Given that the plan was that you should
+[8279.20s -> 8286.38s]  present the evidence which constituted the work that she had undertaken, you were going
+[8286.38s -> 8296.48s]  to front up the report, and then she had ended up giving evidence rather than you at trial.
+[8296.48s -> 8301.00s]  Did you not discuss with her how that came about?
+[8301.00s -> 8305.16s]  I think it was really as part of this thing that it was a case of it had been decided
+[8305.16s -> 8311.20s]  that because Anne had done the original analysis, and I think she'd done the analysis, I think
+[8311.20s -> 8315.92s]  there may have been a call was there back in 2004, because I think her analysis was
+[8315.92s -> 8323.20s]  partly based on work that she'd actually done at the time. And therefore, that was why she
+[8323.20s -> 8327.84s]  needed to give the evidence, because she'd actually done the original analysis. And therefore,
+[8327.84s -> 8334.30s]  me giving evidence, just reporting what she told me, didn't really work. So, it was something
+[8334.30s -> 8339.52s]  like that, but I just don't remember the details. And that was probably what I took as being
+[8339.52s -> 8343.48s]  behind what was shown in the last email you showed me.
+[8343.48s -> 8349.28s]  Was that explained to you at the time, i.e. that Anne Chambers is the one that's been
+[8349.28s -> 8355.12s]  selected to give evidence, because she could give some evidence of primary facts, i.e.
+[8355.12s -> 8361.04s]  work that she had undertaken in answering a help desk query in 2004?
+[8361.04s -> 8363.20s]  That's why she's the witness of choice.
+[8363.20s -> 8368.00s]  I think I may have heard that at some point, but I just can't remember the details, sorry.
+[8368.00s -> 8375.52s]  Did you have any discussion with her about the wider issues raised by her document?
+[8375.52s -> 8376.88s]  What do you mean by wider?
+[8376.88s -> 8380.88s]  She was critical of the process by which she had become involved in the case.
+[8380.88s -> 8383.36s]  Are you talking about the afterthoughts document?
+[8383.36s -> 8384.36s]  Yes.
+[8384.36s -> 8385.36s]  No.
+[8385.36s -> 8389.28s]  Were you aware that she was an extremely reluctant witness?
+[8389.28s -> 8393.56s]  Yes, I think I was aware she was reluctant to be a witness.
+[8393.56s -> 8396.04s]  Why was she reluctant to be a witness?
+[8396.04s -> 8398.44s]  I think it just took her outside her comfort zone.
+[8398.44s -> 8401.68s]  I think that would apply to any person, really,
+[8401.68s -> 8403.36s]  going before the legal process.
+[8403.36s -> 8407.56s]  And she certainly didn't feel very comfortable with it.
+[8407.56s -> 8411.96s]  Did she raise with you her complaints
+[8411.96s -> 8417.24s]  about the manner in which she had been pulled into the case?
+[8417.24s -> 8418.72s]  No, I don't believe so.
+[8418.72s -> 8420.44s]  Did she raise with you her complaints
+[8420.44s -> 8425.56s]  about the process by which disclosure had been given?
+[8425.56s -> 8429.64s]  No, I think she may have mentioned something about having something sprung on her about
+[8429.64s -> 8436.28s]  NT event logs being different from logs, but that's the only vague recollection I have.
+[8437.24s -> 8441.80s]  Because I think she didn't she have to go back about a month after the original trial to
+[8441.80s -> 8445.56s]  present some further evidence or something. That's right. Is that something that you spoke
+[8445.56s -> 8448.28s]  about at the time with her? I was aware that she had to go back,
+[8449.08s -> 8454.84s]  and that she wasn't happy with it, but not the gory details of it. Thank you. So that's just
+[8454.84s -> 8459.44s]  Just coming up to 20 past 12 now, could we break please until 25.2?
+[8459.44s -> 8461.16s]  Yes, of course.
+[8461.16s -> 8462.16s]  Thank you, sir.
+[8462.16s -> 8463.16s]  Good afternoon, sir.
+[8463.16s -> 8464.16s]  Can you see and hear us?
+[8464.16s -> 8465.16s]  Yes, thank you.
+[8465.16s -> 8466.16s]  Thank you.
+[8466.16s -> 8479.16s]  Mr. Jenkins, in your, I'm going to turn to the capacity in which you gave evidence in
+[8479.16s -> 8484.04s]  witness statements and then orally in the Seema Misra case.
+[8484.04s -> 8490.92s]  as a general topic, as a theme. In your witness statements provided to the inquiry, on a number
+[8490.92s -> 8497.04s]  of occasions you explain that you were not the chief architect for Horizon, correct?
+[8497.04s -> 8498.04s]  Correct.
+[8498.04s -> 8501.64s]  Nor indeed a lead engineer for the post office account?
+[8501.64s -> 8503.28s]  No.
+[8503.28s -> 8509.48s]  And you explain that you were not the only person involved in the development of Horizon,
+[8509.48s -> 8513.08s]  nor the maintenance of it when it was up and running?
+[8513.08s -> 8518.52s]  Why did the post office rely on you specifically as its expert witness?
+[8518.52s -> 8522.96s]  I don't know, it's a simple answer.
+[8522.96s -> 8526.28s]  I did have a fairly good overview knowledge
+[8526.28s -> 8529.68s]  of the whole of Horizon because of really
+[8529.68s -> 8533.68s]  going back to my role in the agent team because the whole point of the agents
+[8533.68s -> 8534.92s]  was to sit in the middle
+[8534.92s -> 8538.68s]  and see the difference between what was happening at the counter and what was happening at the
+[8538.68s -> 8539.40s]  back end
+[8539.40s -> 8542.96s]  and obviously with the work I did on impact I got a much
+[8542.96s -> 8548.12s]  more detailed knowledge of how the counter operated. So from that point of view, I probably
+[8548.12s -> 8554.04s]  was one of the people who had a good overview knowledge of how the Horizon system worked.
+[8554.04s -> 8557.20s]  But I don't think I was necessarily the only person.
+[8557.20s -> 8562.72s]  Was there anyone who was a better place to witness than you?
+[8562.72s -> 8568.52s]  Not necessarily. I think there was some email exchange in early 2010 when it was suggested,
+[8568.52s -> 8575.20s]  The other names did get suggested as to being able to get involved, but in the end, it was
+[8575.20s -> 8579.56s]  me that got picked to actually get involved.
+[8579.56s -> 8585.24s]  Did you ever discuss the role that you were performing as a witness with anyone senior
+[8585.24s -> 8590.76s]  at Fujitsu?
+[8590.76s -> 8594.84s]  They were clearly aware that I was being asked to do these things, and they accepted that
+[8594.84s -> 8596.96s]  it was something that needed to be done
+[8596.96s -> 8601.16s]  and that I could probably do it as well as others.
+[8601.16s -> 8603.12s]  But I don't know that we had a formal,
+[8603.12s -> 8605.96s]  yes, this is something that needs to be part of your job,
+[8605.96s -> 8608.74s]  but it sort of evolved and it then,
+[8608.74s -> 8613.48s]  it did become effectively part of my job moving forward.
+[8613.48s -> 8615.90s]  Did you ever discuss with anyone senior at Fujitsu
+[8615.90s -> 8619.16s]  the demands being placed upon you by the post office?
+[8621.68s -> 8624.34s]  Yes, because I had to see how this scheduled in
+[8624.34s -> 8626.26s]  with the work that I was doing.
+[8626.26s -> 8628.90s]  And it was felt that at the sort of level
+[8628.90s -> 8631.86s]  that we thought was required of the work,
+[8631.86s -> 8633.94s]  then it could be fitted in.
+[8633.94s -> 8637.26s]  But clearly now understanding what maybe
+[8637.26s -> 8641.90s]  I should have been doing in terms of the role of an expert,
+[8641.90s -> 8644.10s]  then that would have been maybe a different situation.
+[8644.10s -> 8647.66s]  It's difficult to speculate.
+[8647.66s -> 8651.30s]  But was the focus on your capacity
+[8651.30s -> 8655.86s]  and the money that the post office would be charged for the work that you did?
+[8655.86s -> 8660.98s]  I don't think the money came into it because the post office were paying for me regardless
+[8660.98s -> 8665.62s]  of what I did so it was really a case of they could pay for me to do designs of new bits of
+[8665.62s -> 8670.74s]  the system or they could pay for me to do support prosecutions and it's really up to them. They were
+[8670.74s -> 8675.22s]  paying the same either way so it didn't really make any difference and certainly made a difference
+[8675.22s -> 8684.14s]  to my salary. So was the focus then on the issues of your capacity? Yes. Rather than
+[8684.14s -> 8690.74s]  the nature of the function that you were being asked to perform? Yes, I think that's probably
+[8690.74s -> 8698.54s]  fair. During your involvement in the various criminal cases, did you feel under any pressure
+[8698.54s -> 8705.00s]  placed upon you by the post office or its lawyers publicly to refute any suggestion
+[8705.00s -> 8710.98s]  by the defence that there were issues with the reliability of Horizon?
+[8710.98s -> 8716.34s]  There were certainly cases where they were trying to put words into my mouth which I
+[8716.34s -> 8721.50s]  didn't want to say and I think there are examples of emails where I've said, well,
+[8721.50s -> 8727.34s]  I agree with what this defence statement is saying and nothing really to add to it.
+[8727.34s -> 8733.72s]  But what did you think at the time at that pressure being placed upon you by the post
+[8733.72s -> 8734.72s]  office?
+[8734.72s -> 8740.76s]  I just took it as being the way these things happened.
+[8740.76s -> 8748.04s]  There was clearly, in some cases, things seemed to be all happening last minute, and I just
+[8748.04s -> 8752.32s]  assumed that's how things happened in that sort of environment.
+[8752.32s -> 8756.16s]  Never mind the timing so much, I'm thinking more of people were trying to put words in
+[8756.16s -> 8761.72s]  your mouth? I wouldn't allow them to put words in my mouth unless I agreed with
+[8761.72s -> 8769.44s]  them. Did you raise that with anyone senior at Fujitsu? I think I did, well I
+[8769.44s -> 8775.56s]  certainly had conversations with David Jones back in February 2010. He was a
+[8775.56s -> 8779.84s]  post office lawyer? No he was a Fujitsu lawyer. So I meant a Fujitsu lawyer. Yes he was a Fujitsu
+[8779.84s -> 8784.48s]  lawyer. I think I was really instigated by Penny rather than myself. She felt
+[8784.48s -> 8793.44s]  that the post office were getting to be very demanding of Fujitsu in general, and me and
+[8793.44s -> 8799.12s]  her to some extent in particular, because not only was there the case for Mrs. Misra,
+[8799.12s -> 8804.20s]  there was also the case to do with Mr. Hosey going on at the same sort of time. And she
+[8804.20s -> 8810.28s]  felt that it was important that we had some sort of legal cover, for want of a better
+[8810.28s -> 8817.28s]  of the way that it was being approached, and so she set up this meeting with David Jones,
+[8817.28s -> 8823.08s]  which lasted about an hour or so, something like that, where basically what my memory
+[8823.08s -> 8828.60s]  came out of that is, well, just tell the truth on what happened and get on with it, and we'll
+[8828.60s -> 8831.56s]  support you as you need it.
+[8831.56s -> 8837.04s]  Was there any discussion there as to the capacity in which you were giving evidence?
+[8837.04s -> 8838.64s]  Not that I can recall.
+[8838.64s -> 8844.08s]  Was there any discussion then as to the duties that you may owe the court, given the nature
+[8844.08s -> 8846.00s]  of the evidence that you were providing?
+[8846.00s -> 8850.80s]  No, I don't believe so.
+[8850.80s -> 8855.36s]  I think it's right, isn't it, that the Post Office and its lawyers made a series of direct
+[8855.36s -> 8857.44s]  approaches to you on a number of occasions?
+[8857.44s -> 8865.60s]  Yes, they did, and I tried to force them back into the way that they should have been communicating
+[8865.60s -> 8871.18s]  with me through Penny and the prosecution sport team and there were a
+[8871.18s -> 8874.96s]  number of cases where the wires approached directly and in most of those
+[8874.96s -> 8880.00s]  cases I then forwarded the emails on to Penny and tried to get some sort of
+[8880.00s -> 8883.98s]  control back on the process can we just look at some examples of those please
+[8883.98s -> 8906.62s]  please Mr Jenkins. Poll 3097138. And if we scroll down please. There's an email underneath
+[8906.62s -> 8913.88s]  this one, no need to look at it for now. You reply on the 16th of November to Rachel Panto
+[8913.88s -> 8915.16s]  Do you remember who she was?
+[8915.16s -> 8919.92s]  She was a lawyer working for Cartwright King, I believe.
+[8919.92s -> 8924.16s]  And you say, Rachel, can't you use the report I've already
+[8924.16s -> 8925.00s]  sent you?
+[8925.00s -> 8927.32s]  There's no mention of the case on the report.
+[8927.32s -> 8929.44s]  You should really be addressing such requests
+[8929.44s -> 8933.56s]  through the post office, rather than directly to myself.
+[8933.56s -> 8935.68s]  As far as I know, there's no commercial cover
+[8935.68s -> 8939.32s]  in place for me to spend my time on such activities.
+[8939.32s -> 8943.24s]  and that includes the case of Nemesh Patel.
+[8945.28s -> 8946.92s]  And then if we scroll up, please.
+[8948.80s -> 8951.26s]  James Davidson, a delivery executive,
+[8951.26s -> 8956.26s]  says to Ms. Panton, and you're copied in, sorry, Panta,
+[8957.28s -> 8960.74s]  I'm concerned at the engagement approach being taken here.
+[8960.74s -> 8962.04s]  We're fully on board to support,
+[8962.04s -> 8964.60s]  but all approaches must come through post office
+[8964.60s -> 8968.72s]  by the correct change process.
+[8968.72s -> 8974.12s]  Is this an example of you pulling the Post Office up on direct approaches to you?
+[8974.12s -> 8979.72s]  Indeed it was, and if you noticed on the previous email, although I'd been sent the email directly
+[8979.72s -> 8986.80s]  by Rachel Panther, when I responded I copied in both Penny Thomas and James Davidson.
+[8986.80s -> 8989.08s]  So they were aware of the fact that I'd been approached.
+[8989.08s -> 8995.08s]  And what was the issue in your mind with the direct approach from the Post Office?
+[8995.08s -> 9004.16s]  I think, well there's two or three issues really. The main one was that I felt that
+[9004.16s -> 9009.32s]  the prosecution support team, namely Penny, needed to be aware of what was going on and
+[9009.32s -> 9015.72s]  that we actually had a single point of contact so that Fujitsu was aware of what the Post
+[9015.72s -> 9021.12s]  Office was requiring them to do in terms of legal processes and so on.
+[9021.12s -> 9022.12s]  Why?
+[9022.12s -> 9026.88s]  just so that the right people knew what was going on and then there was
+[9026.88s -> 9030.88s]  separately the question of making sure that post office was being charged
+[9030.88s -> 9035.48s]  correctly for the use of time and so on. Again the charging didn't really come
+[9035.48s -> 9039.24s]  down to anything to do with what I was being paid or anything like that but I
+[9039.24s -> 9043.60s]  needed to be able to allocate my time so that it was being accounted for
+[9043.60s -> 9048.08s]  correctly. So just going back to the first reason you gave there or the first
+[9048.08s -> 9054.38s]  the issue. Why was it important that the Fujitsu prosecution support team were
+[9054.38s -> 9061.38s]  cited on these exchanges? So that they knew what what basically so they knew
+[9061.38s -> 9064.38s]  what was happening. It was their responsibility that there was supposed
+[9064.38s -> 9070.26s]  to be a line of communication between the post office legal department, well not
+[9070.26s -> 9074.46s]  the legal departments, their investigators, Jane Owen is the name that I think of
+[9074.46s -> 9082.14s]  in that role and the fiduciary team to actually know what was going on to coordinate the work
+[9082.14s -> 9086.78s]  so as to be aware of what was happening and what was going on.
+[9086.78s -> 9091.02s]  What was the importance of that though? Was it written down somewhere that that's what
+[9091.02s -> 9092.02s]  had to occur?
+[9092.02s -> 9096.84s]  I think it might have been, but I wasn't aware of that, but I just felt that that was the
+[9096.84s -> 9103.50s]  right process for doing things. I mean, my work had to be accounted for. I had management
+[9103.50s -> 9107.42s]  telling me what I need to do. Having these odd requests out of the blue that were going
+[9107.42s -> 9113.10s]  to take up time, I needed to make sure that people were aware that these were happening
+[9113.10s -> 9118.26s]  and that my priorities could be allocated correctly between the various demands of my
+[9118.26s -> 9119.26s]  time.
+[9119.26s -> 9129.58s]  Was it in your mind that a prosecutor has duties to retain, to record, and to disclose
+[9129.58s -> 9130.58s]  material?
+[9130.58s -> 9133.98s]  I wasn't aware of that, no.
+[9133.98s -> 9141.38s]  Was it in your mind that Fujitsu, as a third party to a prosecution, might be required
+[9141.38s -> 9143.46s]  to disclose material to a court?
+[9143.46s -> 9149.14s]  No, I'd not thought of it that way at all, no.
+[9149.14s -> 9156.10s]  Did you ever come to understand that you might owe personal duties of disclosure to a court?
+[9156.10s -> 9162.74s]  when it was explained to me in 2020 what an expert needed to do.
+[9162.74s -> 9168.62s]  Did you ever come to understand that Fujitsu may owe duties of disclosure?
+[9168.62s -> 9175.22s]  No. As far as I understood it, disclosure was something that post offices needed to
+[9175.22s -> 9181.34s]  worry about, not that it wasn't something that affected me or Fujitsu.
+[9181.34s -> 9185.54s]  What was your understanding of the post office's duties of disclosure?
+[9185.54s -> 9190.42s]  I didn't really understand what they were, but I was aware that there were, that I was
+[9190.42s -> 9196.50s]  told that there had been various hearings requesting various bits of disclosure, which
+[9196.50s -> 9201.52s]  they seemed quite happy had gone to say that they did not need to actually disclose the
+[9201.52s -> 9203.06s]  things that they had been asked to disclose.
+[9203.06s -> 9205.22s]  Was that in the SEMA MISRA case?
+[9205.22s -> 9206.22s]  Yes.
+[9206.22s -> 9208.42s]  I wasn't concerned about the details.
+[9208.42s -> 9215.10s]  I was just aware that such discussions were going on in the abstract.
+[9215.10s -> 9222.42s]  In any of those discussions, were the extent of Fujitsu or your own duties of disclosure
+[9222.42s -> 9223.42s]  discussed?
+[9223.42s -> 9224.42s]  No.
+[9224.42s -> 9239.70s]  Can we move forwards, please, to FUJ00153986?
+[9239.70s -> 9258.22s]  at page eight, please. And if we scroll down, please. Yeah, that's excellent. An email from
+[9258.22s -> 9263.82s]  Jane Owen on the 16th of November 2012, which is the same day we were looking at the moment
+[9263.82s -> 9269.54s]  to Penny Thomas, a copy to Jane Bradbury. That's not a name that's familiar to me.
+[9269.54s -> 9273.54s]  I don't recognise the name at all, I'm afraid, sorry.
+[9273.54s -> 9281.94s]  Anyway, Jane Owen, security manager in the post office, says, at High Penning, I'm a
+[9281.94s -> 9285.86s]  little out of the loop with this now, I've changed roles, I asked Mark about raising
+[9285.86s -> 9290.78s]  an invoice, he has the budget to cover the expert witness requirements for one of Sharon's
+[9290.78s -> 9296.38s]  cases, which I think the email below will relate to. Back in April, an order was raised,
+[9296.38s -> 9302.02s]  but we were never invoiced. Do you know anything about that at all? Gareth has been approached
+[9302.02s -> 9307.58s]  directly by an external solicitor, and Jane will need to start discussions with our team
+[9307.58s -> 9313.22s]  leaders on how we prevent this from happening going forward, because it's clearly unacceptable
+[9313.22s -> 9318.70s]  that he be, quote, ambushed in this way. Did you feel that you were being ambushed by the
+[9318.70s -> 9319.70s]  post office?
+[9319.70s -> 9320.70s]  No, that's not the word.
+[9320.70s -> 9322.62s]  No, that's not the word.
+[9322.62s -> 9324.10s]  I wouldn't necessarily use that word.
+[9324.10s -> 9326.46s]  But I mean, clearly, having this email out
+[9326.46s -> 9329.30s]  of the blue from Rachel Panther in November,
+[9329.30s -> 9332.86s]  when the last contact I'd had about any of these cases
+[9332.86s -> 9336.82s]  was about a month before that, was a bit of a surprise.
+[9336.82s -> 9339.54s]  And clearly, I felt that we needed
+[9339.54s -> 9343.58s]  to have some sort of control as to how my work was
+[9343.58s -> 9345.98s]  to be scheduled and how Post Office was managing this.
+[9345.98s -> 9349.22s]  And I see this as being Post Office trying to actually
+[9349.22s -> 9353.18s]  get that some control put back in there.
+[9353.18s -> 9361.14s]  But this is all about capacity and formalisation between two business partners. It's not to
+[9361.14s -> 9366.78s]  do with the substance of the evidence that you're to give or any procedural duties that
+[9366.78s -> 9367.78s]  attach to it.
+[9367.78s -> 9375.12s]  No. Oh sorry, yes, that's correct what you said, yes.
+[9375.12s -> 9385.36s]  Can we move forwards please to poll 00229801?
+[9385.36s -> 9400.96s]  Sorry, FUJ 00229801.
+[9400.96s -> 9415.74s]  I think I said poll.
+[9415.74s -> 9416.74s]  Thank you.
+[9416.74s -> 9422.22s]  And if we can turn to page three, please.
+[9422.22s -> 9423.38s]  And scroll down, please.
+[9423.38s -> 9426.30s]  Thank you.
+[9426.30s -> 9430.22s]  This is an email exchange between you and Angela Vande and Bogart.
+[9430.22s -> 9431.22s]  Can you see that?
+[9431.22s -> 9433.26s]  January, the end of January 2013.
+[9433.26s -> 9436.98s]  Yes, I see that.
+[9436.98s -> 9440.30s]  I don't understand the context yet, but I assume we will get that.
+[9440.30s -> 9444.74s]  To give you a bit of context, I'm not sure it's completely necessary, but if we just
+[9444.74s -> 9454.54s]  scroll down, please.
+[9454.54s -> 9459.54s]  And scroll down a little further.
+[9459.54s -> 9475.74s]  again. Thank you. This is about the Helen Rose report. If you scroll up please now.
+[9475.74s -> 9479.22s]  When you say Helen Rose report, I'm aware of two Helen Rose reports. We're talking
+[9479.22s -> 9480.22s]  about Leptin here?
+[9480.22s -> 9481.22s]  Yes, I think so.
+[9481.22s -> 9482.22s]  Okay.
+[9482.22s -> 9487.22s]  If we scroll up to there, thank you.
+[9487.22s -> 9493.22s]  I think Ms. Vanden Bogard is asking you questions about it.
+[9493.22s -> 9501.74s]  Yes, this looks again like an email from Angela Vanden Bogard to myself where I have actually
+[9501.74s -> 9508.22s]  inserted with the G.I.J. prefix my responses to her various questions.
+[9508.22s -> 9516.98s]  Yes. And if we just scroll up, please. It's the second paragraph of your reply. In the
+[9516.98s -> 9524.94s]  first paragraph, you say, I've added replies with Gareth, Idris, Jenkins, G.I.J. In the
+[9524.94s -> 9530.30s]  second paragraph, you say, this is all outside of our official remit. I probably shouldn't
+[9530.30s -> 9536.22s]  be doing this investigation for you in this way. Though if you ask for formal help, it's
+[9536.22s -> 9543.02s]  likely to be me who gets involved. We saw the exchange of the previous November, where
+[9543.02s -> 9550.10s]  there was an attempt at formality made. Have that failed?
+[9550.10s -> 9556.38s]  I'm not sure. I think what I� It's a case of trying to understand the amount of work
+[9556.38s -> 9561.46s]  involved. I've been asked some specific questions. I probably spent about half an hour or an
+[9561.46s -> 9565.94s]  hour replying to this email, so I thought it was simpler to just reply to the email
+[9565.94s -> 9569.90s]  then point out that this should really go through official channels, and that is why
+[9569.90s -> 9574.30s]  I'd copied Penny in on the response because I saw her as being the official channel. So
+[9574.30s -> 9578.74s]  I wasn't trying to be awkward. I thought, let's just answer the question because that's
+[9578.74s -> 9583.62s]  fairly straightforward. If it was going to take me a long amount of time, then I would
+[9583.62s -> 9586.82s]  have just said, let's get this sorted out officially.
+[9586.82s -> 9588.98s]  Why was it outside your official remit?
+[9588.98s -> 9593.54s]  Because my job was designing new changes to the system, not answering questions from random
+[9593.54s -> 9595.38s]  people in post office.
+[9595.38s -> 9598.14s]  Why did you answer random questions from people in post office?
+[9598.14s -> 9601.74s]  Because I felt I could actually answer them and I felt that if it did go through the official
+[9601.74s -> 9605.98s]  channels it would probably be that would end up being asked about them.
+[9605.98s -> 9609.82s]  I think at this stage I may have already had some sort of contact with Helen Rose about
+[9609.82s -> 9616.44s]  this but I can't remember exactly the chronology.
+[9616.44s -> 9626.16s]  By this time, you'd already raised a red flag, so to speak, in November about direct contact,
+[9626.16s -> 9628.20s]  but you were perpetuating it here.
+[9628.20s -> 9629.20s]  Yes.
+[9629.20s -> 9635.32s]  Do you adopt an informal trying to help approach?
+[9635.32s -> 9642.20s]  I try and be helpful when I can, yes, but I'm aware that I also need to try and put
+[9642.20s -> 9646.60s]  some sort of control in, which is why I copied Penny in on this to make her aware that I
+[9646.60s -> 9652.20s]  was being asked these sort of questions.
+[9652.20s -> 9656.60s]  Because of course you don't know what's going to be done with what you said in your earlier
+[9656.60s -> 9661.32s]  email, do you? Are you the use to which it's going to be put?
+[9661.32s -> 9663.92s]  No.
+[9663.92s -> 9669.24s]  Can we move on? That can come down, please. You tell us in your third witness statement
+[9669.24s -> 9676.44s]  a series of things, I'm going to try and summarise them about your approach when giving evidence.
+[9676.44s -> 9683.72s]  Firstly, would this be right, that you gave evidence without an understanding that you
+[9683.72s -> 9687.28s]  might be an expert witness in the legal sense?
+[9687.28s -> 9688.60s]  Correct.
+[9688.60s -> 9695.64s]  And that you were therefore lacking an understanding that you were subject to the duties imposed
+[9695.64s -> 9699.16s]  upon an expert witness, including duties of disclosure?
+[9699.16s -> 9708.40s]  And you tell us in your witness statements that you lacked that understanding in Ms Misra's
+[9708.40s -> 9717.76s]  case, that's paragraphs 233 and 329 of your third witness statement, Mr Allen's case,
+[9717.76s -> 9725.88s]  paragraph 619, and in Ms Sefton and Ms Neal's case, paragraph 689.
+[9725.88s -> 9731.28s]  The second thing, and again I'm trying to summarise a large body of text here, is this
+[9731.28s -> 9737.28s]  right, you say you were never provided with written instructions to be an expert witness
+[9737.28s -> 9741.32s]  in any case in which the post office asked you to give evidence.
+[9741.32s -> 9744.24s]  Correct.
+[9744.24s -> 9752.48s]  And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+[9752.48s -> 9760.56s]  case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+[9760.56s -> 9762.52s]  643 and 646.
+[9762.52s -> 9763.52s]  Correct.
+[9763.52s -> 9771.32s]  But thirdly, is this right, you say that you were not informed on how to interact with
+[9771.32s -> 9777.32s]  a defence expert or to prepare a joint statement with another expert.
+[9777.32s -> 9778.68s]  Correct.
+[9778.68s -> 9785.80s]  And that applied in both Ms Misera's case, Para 478, and Mr Ishak's case, Para 666.
+[9785.80s -> 9788.72s]  Correct.
+[9788.72s -> 9794.08s]  And fourthly, you say that you were never asked by the Post Office to provide a witness
+[9794.08s -> 9798.88s]  statement that contained an expert witness's declaration.
+[9798.88s -> 9800.08s]  Correct.
+[9800.08s -> 9808.76s]  That applied in Ms Misra's case, paragraphs 233, 466, and 483, Mr Allen's case, paragraph
+[9808.76s -> 9816.40s]  619, Ms Sefton and Ms Neal's case, paragraph 689, and Mr Ishak's case, paragraph 669.
+[9816.40s -> 9819.52s]  Correct.
+[9819.52s -> 9825.70s]  You tell us in your witness statement, it's your third witness statement, about circumstances
+[9825.70s -> 9831.72s]  in which you asked for guidance in the run-up to Seema Misra's trial as to what was expected
+[9831.72s -> 9835.22s]  of you as a witness?
+[9835.22s -> 9840.82s]  Yes.
+[9840.82s -> 9850.14s]  By that time, had you suffered from a lack of confidence in the management of the requests
+[9850.14s -> 9852.10s]  coming from the post office?
+[9852.10s -> 9857.86s]  Well, there was certainly a fairly chaotic number of emails I was getting, and I was
+[9857.86s -> 9863.98s]  certainly aware that I was getting asked the same question multiple times, having already
+[9863.98s -> 9870.14s]  answered questions. And there was even some occasions when I responded saying, well, here's
+[9870.14s -> 9876.82s]  the email I sent you yesterday answering the same question. So, yes, I could see that there
+[9876.82s -> 9883.18s]  was a lack of organisation. There's maybe a polite way of putting it in terms of the
+[9883.18s -> 9885.74s]  way that things were being managed.
+[9885.74s -> 9889.38s]  The email exchange that you had, I'm not going to go to it now, we'll go to it later,
+[9889.38s -> 9892.82s]  when you asked for guidance, what's expected of me as an expert witness, and you got a
+[9892.82s -> 9895.50s]  rather asinine reply, didn't you?
+[9895.50s -> 9899.54s]  I can't remember that particular email, but that doesn't surprise me at all.
+[9899.54s -> 9905.06s]  You just got to tell the truth, that one.
+[9905.06s -> 9914.10s]  going back to that was Mr. Thomas's case I believe yes yes yeah. Were you concerned about that the
+[9917.62s -> 9921.78s]  basic nature of the reply that you got the lack of guidance that you received?
+[9923.70s -> 9927.46s]  I just took it at face value I think rather than questioning it.
+[9928.90s -> 9933.70s]  If I just have to tell the truth then I'd do that anyway so that wasn't really telling me anything
+[9933.70s -> 9941.10s]  new. Why do we not see you asking any of your own managers at Fujitsu for assistance in
+[9941.10s -> 9945.82s]  this regard? I'm being dragged into court proceedings here. Please help me as to what
+[9945.82s -> 9950.98s]  is required of me. I thought I was being told what was required of me by post office, so
+[9950.98s -> 9955.18s]  I didn't really understand that I wasn't being told the right thing. So I just trusted
+[9955.18s -> 9959.78s]  what I was being asked by post office and didn't see the need to involve my management.
+[9959.78s -> 9963.26s]  They were clearly aware that I was spending time doing these sort of things, but I didn't
+[9963.26s -> 9968.66s]  feel that I needed any further guidance from them, in that I thought what I'm looking for
+[9968.66s -> 9972.06s]  is guidance about legal things, therefore I'd probably get it better from the lawyers
+[9972.06s -> 9977.06s]  that I'm talking to in post office, than managers in Fujitsu who know more about the law than
+[9977.06s -> 9978.06s]  I do.
+[9978.06s -> 9980.78s]  But you've got no guidance from the post office?
+[9980.78s -> 9984.38s]  Well I realise that now. I thought I was getting some sort of guidance, but it probably wasn't
+[9984.38s -> 9985.98s]  very good guidance.
+[9985.98s -> 9988.46s]  What guidance did you think you were getting from the post office at the time?
+[9988.46s -> 9996.06s]  the truth, to complete a witness statement. Why do we not see you asking the lawyers at Fujitsu,
+[9996.78s -> 10003.98s]  with whom you did correspond relatively frequently, for greater support and guidance on the role that
+[10003.98s -> 10011.90s]  you were to perform? I think that came after about 2010, sort of in Mrs. Mishra's case,
+[10011.90s -> 10019.58s]  and I did seek guidance from David Jones and I had that meeting with him in February and for a
+[10019.58s -> 10027.30s]  while then he actually acted as a buffer between me and post office lawyers and so on. Then later
+[10027.30s -> 10035.66s]  on I was involved with Jean-Pierre who did give me a bit of further guidance but not the true
+[10035.66s -> 10039.30s]  guidance that maybe I should have had in terms of what an expert duties were.
+[10039.30s -> 10054.22s]  Can we look, please, at FUJ00152866?
+[10054.22s -> 10058.62s]  And if we scroll down, please.
+[10058.62s -> 10062.74s]  Thank you.
+[10062.74s -> 10066.42s]  An email exchange between you and David Jennings, who was David Jennings?
+[10066.42s -> 10070.38s]  I'm not quite sure, reading the context of that email, I think he was someone within
+[10070.38s -> 10075.18s]  customer service, but I can't remember exactly what his role was.
+[10075.18s -> 10079.58s]  I don't recall the name at all now, I'm afraid.
+[10079.58s -> 10086.98s]  This looks to be to do with booking time and concerned about what time I was charging to
+[10086.98s -> 10090.38s]  post office for activities in support of Penny.
+[10090.38s -> 10095.62s]  So, again, this is one of those emails where you set out his questions and then answer
+[10095.62s -> 10096.62s]  Yes.
+[10096.62s -> 10102.12s]  And you say, Dave, in response to your questions, and then his question is, I understand you
+[10102.12s -> 10108.88s]  act from time to time to support prosecution activity, sort of an expert witness, I suppose.
+[10108.88s -> 10111.84s]  I have a few initial questions on this.
+[10111.84s -> 10117.92s]  And then stopping there, he describes you as sort of an expert witness.
+[10117.92s -> 10120.92s]  Did you regard yourself as a sort of expert witness?
+[10120.92s -> 10125.60s]  Well, I was clearly an expert in how Horizon operated, and that's what I assume that meant.
+[10125.60s -> 10133.68s]  I didn't understand what its meaning was in the legal sense and didn't until about 2020.
+[10133.68s -> 10138.92s]  He says how frequent is this typically and how much notice is there.
+[10138.92s -> 10143.88s]  You say it's ad hoc, tend to have various questions from Penny a couple of times a month,
+[10143.88s -> 10149.80s]  how much effort, it varies, where do you book the time, and then you say I have a code for
+[10149.80s -> 10160.20s]  prosecution support and you give the codes. Does anyone else in requirements do this activity?
+[10160.20s -> 10165.94s]  You explain and say you're not sure how they book their time. Is there anyone else who
+[10165.94s -> 10172.72s]  should cover this activity as well or instead of you? And you answer should then yes, could
+[10172.72s -> 10176.80s]  then probably no. What did you mean by that?
+[10176.80s -> 10182.68s]  Well, I think what I was suggesting is that maybe someone should be formally doing, performing
+[10182.68s -> 10186.98s]  this sort of role, but I was also accepting the fact that I was probably in the best position
+[10186.98s -> 10187.98s]  to actually do that.
+[10187.98s -> 10193.16s]  But I certainly didn't want it at a full-time job because I was enjoying myself doing the
+[10193.16s -> 10197.56s]  design work that was my day job, if you like.
+[10197.56s -> 10202.64s]  So I was seeing this as something that I was fitting in on the side between that.
+[10202.64s -> 10206.26s]  So that's really what I was trying to summarise there.
+[10206.26s -> 10211.26s]  seems to be focused on the commercial aspects of the arrangement, whether there's appropriate
+[10211.26s -> 10212.26s]  commercial coverage.
+[10212.26s -> 10216.96s]  Yeah, and I think that must have been Dave Jennings' role was looking at the commercials
+[10216.96s -> 10220.84s]  of it, because I think it comes back to say that I'd spent about a week on it over the
+[10220.84s -> 10222.88s]  past year or something like that.
+[10222.88s -> 10229.24s]  Was there any equivalent set of exchanges over the basis on which you were giving evidence,
+[10229.24s -> 10232.08s]  or your status when you were giving evidence?
+[10232.08s -> 10237.04s]  I'm not quite sure what you mean by that.
+[10237.04s -> 10246.20s]  Were there any exchanges internally with Fujitsu, to your knowledge, over the status of your
+[10246.20s -> 10247.20s]  evidence?
+[10247.20s -> 10249.08s]  You mean in terms of whether I was an expert or not?
+[10249.08s -> 10250.08s]  Not that I'm aware of.
+[10250.08s -> 10255.88s]  As I say, what usually happened is if there was going to be some sort of engagement of
+[10255.88s -> 10261.24s]  my time for a particular case, then they would arrange with post office to have some sort
+[10261.24s -> 10267.16s]  commercial cover for a number of days of my time and if necessary that would get extended
+[10268.36s -> 10273.48s]  so that I had something to book the time against but exactly how those I left that really to Penny
+[10273.48s -> 10278.20s]  to sort out as long as I had the time code to book to on a Friday afternoon and that was all I was
+[10278.20s -> 10284.92s]  really worried about. Can we look lastly before the lunch break at poll three zeros nine seven one two three
+[10284.92s -> 10305.36s]  And look at page nine please. And scroll down. And scroll down. And scroll down. Thank you.
+[10305.36s -> 10314.60s]  Email from Ms Jennings. This case, that's Patel, is due for trial. Can you please put
+[10314.60s -> 10322.04s]  this in the diary and scroll up, please. You reply, I'm not aware of this case or what
+[10322.04s -> 10329.58s]  might be required of me. I'm not aware of any other outstanding cases which I might
+[10329.58s -> 10338.28s]  be involved in and scroll up. Reply from Sharon Jennings, Gareth, this is the one you supplied,
+[10338.28s -> 10344.56s]  the expert report and witness statement for the week before last. Apologies for not explaining
+[10344.56s -> 10351.16s]  that properly in the previous email. It was a blanket email for all witnesses. It's unclear
+[10351.16s -> 10355.28s]  at this stage who will be required as witnesses and which evidence will be accepted without
+[10355.28s -> 10359.00s]  the need for attendance. I just thought if I let everyone know, I can pencil it in and
+[10359.00s -> 10364.68s]  then I can let you know nearer the time. Again, there's a reference there to you supplying
+[10364.68s -> 10368.84s]  an expert report. Did that trigger anything in you?
+[10368.84s -> 10374.12s]  No, because as far as I was concerned, what an expert report meant was a report by someone
+[10374.12s -> 10377.12s]  understood what Risma is about.
+[10377.12s -> 10384.36s]  And then if we scroll up, please.
+[10384.36s -> 10387.14s]  You say thanks for the clarification.
+[10387.14s -> 10393.16s]  If I'm required to go to court, I need some more background on the specific case and exactly
+[10393.16s -> 10395.64s]  what's being alleged.
+[10395.64s -> 10401.16s]  I appreciate that it's not covered by my, I appreciate that is not covered by my statement.
+[10401.16s -> 10407.48s]  But if I need to be an expert witness, I need to understand what is happening.
+[10407.48s -> 10410.80s]  In what sense were you referring to yourself as an expert witness there?
+[10410.80s -> 10415.00s]  Again, as an expert on how Horizon operated.
+[10415.00s -> 10423.68s]  It's not quite how it reads, is it?
+[10423.68s -> 10428.68s]  I just didn't understand the concept of an expert in the legal sense because I've got
+[10428.68s -> 10430.20s]  no legal background or training.
+[10433.72s -> 10434.64s]  Thank you.
+[10434.64s -> 10436.32s]  So that's an appropriate moment.
+[10437.28s -> 10440.84s]  Can we take the break until two o'clock, please?
+[10440.84s -> 10442.00s]  Yes.
+[10442.00s -> 10443.60s]  So we'll resume at two o'clock.
+[10443.60s -> 10444.56s]  Thank you very much.
+[10444.56s -> 10445.40s]  Thank you, sir.

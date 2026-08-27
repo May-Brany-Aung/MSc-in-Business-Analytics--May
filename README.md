@@ -1,7 +1,7 @@
 # MSc-in-Business-Analytics--May
 
 Mapping Information Bottlenecks- Post Office Horizon IT Inquiry
-MSc Business Analytics Dissertation- May Brany Aung ()01479743)
+MSc Business Analytics Dissertation- May Brany Aung (001479743)
 University of Greenwich| Supervisor- Guru Ramakrishnan | Programme Leader- Dr. Srinidhi Vasudevan
 
 ##Overview

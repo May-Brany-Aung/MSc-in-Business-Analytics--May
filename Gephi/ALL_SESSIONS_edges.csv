@@ -1,0 +1,788 @@
+Source,Target,Weight
+Jackson,Post Office,5
+Jackson,SMS,1
+Post Office,Microsoft Exchange,6
+Post Office,SMS,1
+Post Office,COVID,1
+Post Office,Royal Mail Group,3
+Post Office,non-Post Office,1
+Post Office,Patrick Baulk's,1
+Post Office,Phase 5/6,1
+Post Office,Horizon,51
+Post Office,Craigadon Post Office,2
+Post Office,Justice Fraser,1
+Post Office,Post Office Limited,5
+Post Office,the system,11
+Post Office,Crystal Reports,1
+Post Office,error,8
+Post Office,bug,18
+Post Office,shortfall,10
+Post Office,suspense account,7
+Post Office,Post Office Network,1
+Post Office,the Federation of Subpostmasters,1
+Post Office,Post Office Counters,1
+Post Office,ICL Pathway,1
+Post Office,Horizon Cash,1
+Post Office,discrepancy,1
+Post Office,Susan Harding,2
+Post Office,Alan Layton,2
+Post Office,Betty Williams,1
+Post Office,the Post Office Limited's,1
+Post Office,Federation,2
+Post Office,mediation scheme,5
+Post Office,the National Federation of Subpostmasters,1
+Post Office,Davey,1
+Post Office,the Royal Mail,1
+Post Office,Alliance,1
+Post Office,the Proceeds of Crime Act,1
+Post Office,audit,1
+Post Office,Crown,1
+Post Office,Crown Office,1
+Post Office,Ed Davey,1
+Post Office,GLO,1
+Post Office,Jo Swinson,1
+Post Office,Norman Lamb,1
+Post Office,Pat McFadden,1
+Post Office,Deloitte,1
+Post Office,Second Sight,48
+Post Office,Richard Morgan QC,1
+Post Office,Susan Crichton,6
+Post Office,Criminal,1
+Post Office,Seema Misra,1
+Post Office,PA Consulting,1
+Post Office,Alan Bates,1
+Post Office,defect,5
+Post Office,Ms Venals,1
+Post Office,the Post Office Board,1
+Post Office,Vennells,2
+Post Office,Royal Mail,4
+Post Office,Working Group,1
+Post Office,Board,2
+Post Office,Davis,2
+Post Office,CCRC,4
+Post Office,Fujitsu,22
+Post Office,Wynne,1
+Post Office,the Court of Appeal,1
+Post Office,Lesley Sewell,2
+Post Office,Mrs Misra,1
+Post Office,Ms Sewell,1
+Post Office,Gareth Jenkins,3
+Post Office,Simon,3
+Post Office,Simon Richardson,1
+Post Office,Horizon Online,3
+Post Office,Legacy Horizon,2
+Post Office,NBSC,1
+Post Office,mismatch,4
+Post Office,Falkirk,1
+Post Office,Ian Henderson,5
+Post Office,Anthony Hooper,1
+Post Office,James Arbuthnot,1
+Post Office,Beer,2
+Post Office,Michael Rudkin,1
+Post Office,CRR,1
+Post Office,Ian,2
+Post Office,Al Cameron,1
+Post Office,Cameron,1
+Post Office,Kay Lynell,1
+Post Office,MPs,1
+Post Office,Treasury,4
+Post Office,Oliver Letwin,1
+Post Office,Jason Coyne's,1
+Post Office,Julie Walstenholme,1
+Post Office,BDO Stoy Heywood,1
+Post Office,Lee Castleton,1
+Post Office,PinICL,1
+Post Office,John Scott's,1
+Post Office,the Post Office Investigation Department,1
+Post Office,Investigations Department,1
+Post Office,Belinda Crowe,2
+Post Office,Chris O'Yard,1
+Post Office,General Counsel,1
+Post Office,Mr Jenkins,1
+Post Office,Paula Venles,1
+Post Office,Angela Vanden Bogart,1
+Post Office,Chris Oyarb,1
+Post Office,Patrick Baulk,1
+Post Office,Jones,1
+Post Office,Mrs Jeremiah,1
+Post Office,National Savings Investments,1
+Post Office,Steen,1
+Post Office,Post,1
+Post Office,Bank of Ireland,1
+Post Office,Fed,1
+Post Office,the Forward Money Changer,1
+Post Office,Escher,2
+Post Office,Riposte,2
+Post Office,ICO,1
+Post Office,Oracle,1
+Post Office,Project Impact,1
+Post Office,Jeremy Folkes,1
+Post Office,the Infrastructure Assurance Team,1
+Post Office,Jeremy,1
+Post Office,the Benefits Agency,1
+Post Office,the Post Office Counters Limited,1
+Post Office,DSS,1
+Post Office,ITL Management,1
+Post Office,ICL,1
+Post Office,EPOSS,1
+Post Office,the Customer Services Directorate,1
+Post Office,CBDB,1
+Post Office,SAP,1
+Post Office,Phil Boardman,1
+Post Office,Castleton,3
+Post Office,the Marine Drive Post Office,1
+Post Office,Richard Benton,1
+Post Office,the Civil Procedure Rules,1
+Post Office,Stephen Dilley,1
+Post Office,Stephen up re,1
+Post Office,Hosey,1
+Post Office,Misra,1
+Post Office,Penny,3
+Post Office,Jane Owen,1
+Post Office,David Jones,1
+Post Office,Mrs Misra's,1
+Microsoft Exchange,Phase 4,1
+Gareth Jenkins,Mr Longman,1
+Gareth Jenkins,Simon,1
+Gareth Jenkins,the Simon Clarke Review,1
+Gareth Jenkins,CCRC,1
+Gareth Jenkins,Bon Dickinson,1
+Gareth Jenkins,Cartwright King,1
+Gareth Jenkins,Simon King,1
+Gareth Jenkins,Ian Henderson,1
+Gareth Jenkins,Beer,1
+Gareth Jenkins,Alan Ward,1
+Gareth Jenkins,Gareth,1
+Gareth Jenkins,Graham,1
+Gareth Jenkins,Pinder,2
+Gareth Jenkins,Brian Pinder,2
+Gareth Jenkins,Greg,1
+Gareth Jenkins,Dilley,1
+Gareth Jenkins,First Draft Statement,1
+Deloitte,Ernst Young,1
+Deloitte,Horizon,3
+Deloitte,KPMG,2
+Deloitte,Second Sight,7
+Deloitte,Alice,1
+Deloitte,Ron,1
+Deloitte,Vennells,1
+Deloitte,audit,2
+Deloitte,Project Spire,2
+Deloitte,Alice Perkins,1
+Deloitte,Alwen Lyons,1
+Deloitte,Simon Baker,1
+Deloitte,Susan Crichton,1
+Deloitte,the system,1
+Ernst Young,Horizon,1
+Ernst Young,KPMG,1
+Horizon,KPMG,1
+Horizon,Crystal Reports,1
+Horizon,bug,32
+Horizon,error,25
+Horizon,shortfall,8
+Horizon,Post Office Network,1
+Horizon,the Federation of Subpostmasters,1
+Horizon,suspense account,5
+Horizon,Post Office Counters,1
+Horizon,Horizon Cash,1
+Horizon,FAD,1
+Horizon,Dave Smith,1
+Horizon,Horizon Integrity,1
+Horizon,NBSC,1
+Horizon,the system,5
+Horizon,Alan Bates,2
+Horizon,Federation,1
+Horizon,Crown,1
+Horizon,Alice,1
+Horizon,Ron,1
+Horizon,Vennells,3
+Horizon,audit,4
+Horizon,Project Spy,1
+Horizon,the Court of Appeal,1
+Horizon,Second Sight,9
+Horizon,defect,23
+Horizon,Board,1
+Horizon,Isaac Perkins,1
+Horizon,Lesley Sewell,2
+Horizon,Horizon Online,25
+Horizon,Mrs Misra's,1
+Horizon,Legacy Horizon,16
+Horizon,CCRC,1
+Horizon,Horizon Computer Systems,1
+Horizon,Commission,1
+Horizon,Magistrates' Court,1
+Horizon,Falkirk,1
+Horizon,mismatch,3
+Horizon,Alwen Lyons,2
+Horizon,Fujitsu,8
+Horizon,Ian Henderson,1
+Horizon,MPs,1
+Horizon,Ian,1
+Horizon,Bank of Ireland,1
+Horizon,Fed,1
+Horizon,Bureau de Change,1
+Horizon,Fraser,1
+Horizon,Riposte,1
+Horizon,SSC,1
+Horizon,PEAK,2
+Horizon,PinICL,1
+Horizon,Del Mellington's,1
+Horizon,EPOSS,3
+Horizon,David MacDonald,1
+Horizon,Paragraphs 45,1
+Horizon,Project Impact,1
+Horizon,Marine Drive,1
+Horizon,Correct,1
+Horizon,AP,1
+Horizon,Dave Baldwin,1
+Horizon,Saying,1
+Horizon,Castleton,1
+Alice Perkins,Alwen Lyons,3
+Alice Perkins,Angela Vandenbergard,1
+Alice Perkins,Mark Davis,1
+Alice Perkins,Paula Venells,1
+Alice Perkins,Susan Crichton,6
+Alice Perkins,Tim Parker,1
+Alice Perkins,Second Sight,1
+Alice Perkins,Simon Baker,1
+Alice Perkins,Board,1
+Alice Perkins,James Arbuthnot,1
+Alice Perkins,Chair,2
+Alice Perkins,Paula Venles,2
+Alice Perkins,Susan Kreischer,1
+Alice Perkins,Joe Hamilton,1
+Alwen Lyons,Angela Vandenbergard,1
+Alwen Lyons,Mark Davis,1
+Alwen Lyons,Paula Venells,1
+Alwen Lyons,Susan Crichton,5
+Alwen Lyons,Tim Parker,1
+Alwen Lyons,Second Sight,3
+Alwen Lyons,Simon Baker,3
+Alwen Lyons,David Oliver,1
+Alwen Lyons,bug,3
+Alwen Lyons,Fujitsu,1
+Alwen Lyons,shortfall,1
+Angela Vandenbergard,Mark Davis,1
+Angela Vandenbergard,Paula Venells,1
+Angela Vandenbergard,Susan Crichton,1
+Angela Vandenbergard,Tim Parker,1
+Mark Davis,Paula Venells,1
+Mark Davis,Susan Crichton,2
+Mark Davis,Tim Parker,1
+Mark Davis,Lesley Sewell,2
+Mark Davis,CCRC,1
+Paula Venells,Susan Crichton,1
+Paula Venells,Tim Parker,1
+Susan Crichton,Tim Parker,1
+Susan Crichton,Lesley Sewell,9
+Susan Crichton,Simon Baker,4
+Susan Crichton,Ron,1
+Susan Crichton,Second Sight,3
+Susan Crichton,Richard Morgan QC,1
+Susan Crichton,Alice,5
+Susan Crichton,Olwen,1
+Susan Crichton,Vennells,1
+Susan Crichton,Mrs Misra's,1
+Susan Crichton,Richard Morgan,1
+Susan Crichton,Hugh Flemington,3
+Susan Crichton,David Oliver,2
+Susan Crichton,Alwyn Lyon,1
+Susan Crichton,Mark Davies,1
+Susan Crichton,Martin Edwards,1
+Susan Crichton,Sue,1
+Susan Crichton,CCRC,2
+Susan Crichton,Fujitsu,3
+Susan Crichton,Wynne,1
+Susan Crichton,mediation scheme,1
+Susan Crichton,the Court of Appeal,1
+Susan Crichton,Mrs Misra,1
+Susan Crichton,Carl Lightking,1
+Susan Crichton,Simon Richardson,1
+Susan Crichton,Chair,1
+Susan Crichton,Paula Venles,1
+Susan Crichton,Comms,1
+Susan Crichton,Board,1
+Susan Crichton,the General Counsel,2
+Susan Crichton,Paul Venells,1
+Susan Crichton,PowerPoint,1
+Susan Crichton,Ian,4
+Susan Crichton,John Elsing,1
+Susan Crichton,John Scott's,1
+Susan Crichton,the Post Office Investigation Department,1
+Susan Crichton,General Counsel,1
+Susan Crichton,Cartwright King,3
+Susan Crichton,Ian Henderson,2
+Susan Crichton,Hang,1
+Royal Mail Group,non-Post Office,1
+Royal Mail Group,Simon,1
+Royal Mail Group,Simon Richardson,1
+Katie Stewart,Sandra Dawson,1
+Emerita,Sandra,1
+Emerita,Sidney Sussex College,1
+Emerita,University College Cambridge,1
+Sandra,Sidney Sussex College,1
+Sandra,University College Cambridge,1
+Sidney Sussex College,University College Cambridge,1
+Stewart,Sydney Sussex College,1
+Post Office Limited,the system,1
+Post Office Limited,ICL Pathway,1
+Post Office Limited,the Royal Mail,1
+the system,Second Sight,4
+the system,Fujitsu,3
+the system,bug,11
+the system,mismatch,1
+the system,suspense account,1
+the system,Jo,1
+the system,Horizon Online,1
+the system,PFI,1
+the system,Legacy Horizon,1
+the system,defect,3
+the system,error,3
+the system,SAP,1
+the system,Richard Benton,1
+error,bug,28
+error,shortfall,5
+error,suspense account,2
+error,defect,26
+error,Second Sight,1
+error,Horizon Online,7
+error,Legacy Horizon,5
+error,mismatch,1
+error,SSC,2
+error,PEAK,1
+error,PinICL,1
+error,Fujitsu,2
+error,discrepancy,1
+error,Castleton,1
+error,AP,1
+error,Pinder,1
+bug,shortfall,4
+bug,defect,27
+bug,Mark,1
+bug,Rod/Leslie,1
+bug,Lesley Sewell,2
+bug,Horizon Online,11
+bug,Mrs Misra's,1
+bug,Legacy Horizon,7
+bug,Ms Meadows,1
+bug,Ms Sewell,2
+bug,Seema Misra,1
+bug,Davis,1
+bug,Fujitsu,6
+bug,Second Sight,6
+bug,Falkirk,2
+bug,mismatch,6
+bug,suspense account,4
+bug,NBSC,1
+bug,Vennells,2
+bug,Cameron Freeman,1
+bug,Dale Mellington,1
+bug,SSC,3
+bug,PEAK,1
+bug,PinICL,1
+shortfall,suspense account,2
+shortfall,Fujitsu,1
+shortfall,Ian Henderson,1
+shortfall,ATM,2
+shortfall,Ian,1
+shortfall,Lloyds Bank,1
+shortfall,Joe,2
+shortfall,defect,2
+suspense account,Susan Harding,1
+suspense account,Falkirk,2
+suspense account,mismatch,3
+suspense account,Horizon Online,1
+suspense account,Legacy Horizon,1
+suspense account,defect,1
+suspense account,TC,1
+suspense account,Ms Harding,1
+suspense account,Bentley Johnson,1
+suspense account,Jeninson,1
+Post Office Network,the Federation of Subpostmasters,1
+discrepancy,Project Impact,1
+Alan Layton,Betty Williams,2
+Alan Layton,Royal Mail Group PLC,1
+Alan Layton,the Royal Mail Group,1
+Dave Smith,Horizon Integrity,1
+Alan Bates,Smith,1
+Alan Bates,Second Sight,1
+Alan Bates,Alan Bates',1
+Alan Bates,James Arbuthnot,2
+Richard Barker,the Commercial Network,1
+Alan,Mike Wakely,1
+Alan,Sandy Stephen,1
+Alan,Kay Linnell,1
+Mike Wakely,Sandy Stephen,1
+the Royal Mail Group,Paula Venles,1
+mediation scheme,Second Sight,3
+mediation scheme,MPs,1
+mediation scheme,CCRC,1
+mediation scheme,Fujitsu,1
+mediation scheme,Wynne,1
+mediation scheme,the Court of Appeal,1
+mediation scheme,Chair,1
+mediation scheme,Ms Perkins,1
+mediation scheme,Howe Co,1
+mediation scheme,Ian Henderson,1
+Computer Weekly,Rebecca Thompson,1
+Computer Weekly,"The Grocer,",1
+BIS,Business Innovation,1
+BIS,Skills,1
+BIS,James Arbuthnot,1
+Business Innovation,Skills,1
+BUR,DTI,1
+BUR,the Select Committee,1
+DTI,the Select Committee,1
+Davey,Channel 4,1
+audit,Alice,1
+audit,Ron,1
+audit,Vennells,1
+audit,Second Sight,1
+audit,CFO,1
+audit,Global Head of Investigations,1
+audit,Marine Drive,1
+Channel 4,JFSA,1
+Crown Office,Ed Davey,1
+Crown Office,GLO,1
+Crown Office,Jo Swinson,1
+Crown Office,Norman Lamb,1
+Crown Office,Pat McFadden,1
+Ed Davey,GLO,1
+Ed Davey,Jo Swinson,1
+Ed Davey,Norman Lamb,1
+Ed Davey,Pat McFadden,1
+GLO,Jo Swinson,1
+GLO,Norman Lamb,1
+GLO,Pat McFadden,1
+GLO,Freeths,1
+GLO,Ian Henderson,1
+Jo Swinson,Norman Lamb,1
+Jo Swinson,Pat McFadden,1
+Norman Lamb,Pat McFadden,1
+defect,Second Sight,3
+defect,Ms Venals,1
+defect,James Arbuthnot,1
+defect,Horizon Online,7
+defect,Legacy Horizon,5
+defect,mismatch,1
+defect,SSC,2
+defect,PEAK,1
+defect,PinICL,1
+defect,Fujitsu,2
+Second Sight,Simon Baker,2
+Second Sight,Board,3
+Second Sight,Casey,1
+Second Sight,Richard Morgan,1
+Second Sight,Grant Thornton,1
+Second Sight,Kay Lynell,2
+Second Sight,the Second Sight Interim Report,2
+Second Sight,Ron,1
+Second Sight,Vennells,5
+Second Sight,Ms Venals,1
+Second Sight,Project Spire,1
+Second Sight,James Arbuthnot,5
+Second Sight,Royal Mail,1
+Second Sight,CCRC,1
+Second Sight,Fujitsu,2
+Second Sight,Wynne,1
+Second Sight,the Court of Appeal,1
+Second Sight,the Second Sight Review,1
+Second Sight,Network,1
+Second Sight,Second Sight Support Services Limited,1
+Second Sight,Anthony Hooper,1
+Second Sight,Ian Henderson,1
+Second Sight,MPs,2
+Second Sight,Paul Venells,1
+Second Sight,Paula Vannells,1
+Second Sight,NDA,1
+Lesley Sewell,Simon Baker,1
+Lesley Sewell,Ron,1
+Lesley Sewell,Alwyn Lyon,1
+Lesley Sewell,Mark Davies,2
+Lesley Sewell,Martin Edwards,1
+Lesley Sewell,Sue,1
+Lesley Sewell,Horizon Online,1
+Lesley Sewell,Mrs Misra's,1
+Lesley Sewell,Mrs Misra,1
+Lesley Sewell,Fujitsu,1
+Lesley Sewell,CCRC,1
+Simon Baker,David Oliver,1
+Simon Baker,Wynne,1
+Ron,Alice,1
+Ron,Vennells,2
+Ron,Roderick Williams,1
+Alice,Vennells,2
+Alice,Olwen,2
+Alice,Martin Edwards,1
+Alice,Chair,1
+Vennells,Olwen,1
+Vennells,James R. Buttnott's,1
+Vennells,Baker,2
+Vennells,Ron Warmington,1
+Vennells,the Second Sight Review,1
+Vennells,Paula Vannells,1
+Vennells,Allin Lyons,1
+Vennells,Ojard,1
+the Court of Appeal,CCRC,1
+the Court of Appeal,Fujitsu,1
+the Court of Appeal,Wynne,1
+the Court of Appeal,Clarke,1
+the Court of Appeal,Hamilton,1
+Mishra,Seema Misra,1
+Seema Misra,Ms Meadows,1
+Seema Misra,Ms Sewell,1
+Mrs Misra's,Richard Morgan,1
+Mrs Misra's,Horizon Online,1
+Mrs Misra's,David Jones,1
+Richard Morgan,Board,1
+Richard Morgan,Casey,1
+Hugh Flemington,Simon Richardson,1
+Ms Crichton's,Ms Misra,1
+Board,Casey,1
+Board,Post,1
+Board,Isaac Perkins,1
+Board,Royal Mail,1
+Board,the General Counsel,1
+Kay Lynell,MPs,1
+Access Legal,Shoesmiths,1
+Janet,Ms Lyons,1
+Mark,Rod/Leslie,1
+James Arbuthnot,Alan Bates',1
+James Arbuthnot,Anthony Hooper,1
+James Arbuthnot,Jo,1
+Baker,Ron Warmington,1
+Wynne,CCRC,1
+Wynne,Fujitsu,1
+Wynne,Ian Henderson,1
+Alwyn Lyon,Mark Davies,1
+Alwyn Lyon,Martin Edwards,1
+Alwyn Lyon,Sue,1
+Mark Davies,Martin Edwards,1
+Mark Davies,Sue,1
+Martin Edwards,Sue,1
+Royal Mail,Ian Henderson,1
+Royal Mail,National Savings Investments,2
+MPs,Bearer,1
+MPs,Beer,1
+Davis,Ms Sewell,1
+CCRC,Fujitsu,1
+CCRC,Horizon Computer Systems,1
+CCRC,Ian,1
+CCRC,Amanda Peacock,1
+Fujitsu,Michael Rudkin,1
+Fujitsu,Rudkin,1
+Fujitsu,Ms Crichton,1
+Fujitsu,Fujitsu Services Limited,1
+Fujitsu,ICL,4
+Fujitsu,ICL Fujitsu,1
+Fujitsu,Horizon Online,1
+Fujitsu,Legacy Horizon,2
+Fujitsu,ICO,1
+Fujitsu,Project Impact,2
+Fujitsu,DSS,1
+Fujitsu,ITL Management,1
+Fujitsu,PFI,1
+Fujitsu,mismatch,1
+Fujitsu,Paragraphs 45,1
+Fujitsu,Phil Boardman,1
+Fujitsu,Castleton,2
+Fujitsu,Richard Benton,1
+Fujitsu,Marine Drive,1
+Fujitsu,Anne Chambers,1
+Fujitsu,Naomi Ellis,1
+Fujitsu,Pearce,1
+Fujitsu,Gareth,1
+Fujitsu,Hosey,1
+Fujitsu,Misra,1
+Fujitsu,Penny,1
+Fujitsu,Jane Owen,1
+Simon Clarke's,the Court of Appeal Criminal Division,1
+Horizon Online,Legacy Horizon,9
+Horizon Online,mismatch,2
+Horizon Online,Bureau de Change,1
+Horizon Online,PEAK,2
+Horizon Online,PinICL,1
+Horizon Online,Del Mellington's,1
+Legacy Horizon,mismatch,1
+Legacy Horizon,Fraser,1
+Legacy Horizon,Riposte,1
+Legacy Horizon,PEAK,2
+Legacy Horizon,PinICL,1
+Legacy Horizon,David MacDonald,1
+Legacy Horizon,EPOSS,1
+Legacy Horizon,Paragraphs 45,1
+Legacy Horizon,Project Impact,1
+Ms Meadows,Ms Sewell,1
+Anthony Hooper,Hillsborough,1
+Simon,the Simon Clarke Review,1
+Simon,Simon Richardson,1
+Commission,Magistrates' Court,1
+Simon Richardson,Paula Vennells,1
+Chair,Paula Venles,1
+Chair,Ms Perkins,1
+Paula Venles,Susan Kreischer,1
+the General Counsel,General Counsel,1
+the General Counsel,Ian,1
+Bon Dickinson,Cartwright King,1
+Bon Dickinson,Simon King,1
+Cartwright King,Simon King,1
+Cartwright King,Belinda Ojard,1
+Cartwright King,Bonn Pierce,1
+Cartwright King,Roderick Williams,1
+Falkirk,mismatch,1
+mismatch,Del Mellington's,1
+CFO,Global Head of Investigations,1
+GE Capital,Head of Fraud Management,1
+GE Capital,Citibank,2
+Ian Henderson,Belinda Crowe,1
+Ian Henderson,Chris O'Yard,1
+Ian Henderson,General Counsel,1
+Ian Henderson,Susan Creisham,1
+Ian Henderson,Freeths,1
+Ian Henderson,National Savings Investments,1
+Ian Henderson,Cameron,1
+Ian Henderson,Mr Ismay,1
+Ian Henderson,Howe Co,1
+Ian Henderson,Angela Vanna-Bogaert,1
+Beer,Graham,1
+Rudkin,Spot Review,1
+Ian,John Elsing,1
+Ian,Ojaard,2
+Ian,General Counsel,1
+Al Cameron,Cameron,1
+Cameron,Mr Ismay,1
+Paul Venells,PowerPoint,1
+Allin Lyons,Ojard,1
+Citibank,Bank of America,1
+Treasury,Oliver Letwin,1
+Treasury,SAP,1
+ATM,Lloyds Bank,1
+Maureen McKelvie,Nicola Arch,1
+Maureen McKelvie,Susan Palmer,1
+Nicola Arch,Susan Palmer,1
+Jason Coyne's,Julie Walstenholme,1
+BDO Stoy Heywood,Lee Castleton,1
+PinICL,PEAK,3
+PinICL,Peak,1
+PinICL,EPOSS,2
+PinICL,EPOSS PinICL Task Force,2
+PinICL,the EPOSS PinICL Task Force,1
+John Scott's,the Post Office Investigation Department,1
+Roderick Williams,Belinda Ojard,1
+Roderick Williams,Bonn Pierce,1
+Belinda Crowe,Chris O'Yard,1
+Belinda Crowe,General Counsel,1
+Belinda Crowe,Angela Vanden Bogart,1
+Belinda Crowe,Chris Oyarb,1
+Belinda Crowe,Patrick Baulk,1
+Chris O'Yard,General Counsel,1
+Clarke,Hamilton,1
+Angela Vanden Bogart,Chris Oyarb,1
+Angela Vanden Bogart,Patrick Baulk,1
+Chris Oyarb,Patrick Baulk,1
+Chris Ojard,Jane McLeod,1
+Jason Coyne,Patrick Green,1
+Jason Coyne,Warden,1
+Patrick Green,Warden,1
+POL,Paul,1
+Bank of Ireland,Fed,1
+Belinda Ojard,Bonn Pierce,1
+Cambridge University,"university,",1
+ICL,International Computers Limited,1
+ICL,Fujitsu Services Limited,1
+ICL,Benefits Agency,1
+Project Impact,the Bureau de Change,1
+Project Impact,Repos,1
+Project Impact,Paragraphs 45,1
+Riposte,Escher,1
+Escher,Jeremy,1
+Escher,Alan Ward,1
+Escher,EPOSS,1
+IBM,the Network Banking Engine,1
+Jeremy Folkes,the Infrastructure Assurance Team,1
+the Benefits Agency,the Post Office Counters Limited,1
+DSS,ITL Management,1
+EPOSS,REPOS,1
+EPOSS,David MacDonald,1
+EPOSS,Gareth Jenkins',1
+EPOSS,Alan Ward,1
+EPOSS,EPOSS PinICL Task Force,2
+EPOSS,the EPOSS PinICL Task Force,1
+EPOSS,LFS,1
+EPOSS,MacDonald,1
+SSC,Gareth,1
+PEAK,Peak,1
+Gareth,Alan Ward,1
+Gareth,Graham,1
+Gareth,Pinder,1
+Gareth,Jane,1
+Gareth Jenkins',Pinder,1
+EPOSS PinICL Task Force,the EPOSS PinICL Task Force,1
+Austin Bennett,McDonnell,1
+Castleton,the Marine Drive Post Office,1
+Castleton,Sewell,1
+Castleton,Pinder,2
+Bentley Johnson,Jeninson,1
+Marine Drive,Brian Pinder,1
+Marine Drive,Anne Chambers,1
+Brian Pinder,Greg,1
+Brian Pinder,Graham Ward,1
+Brian Pinder,Andy,1
+Brian Pinder,Dunks,1
+Brian Pinder,Peter Sewell,1
+Brian Pinder,Penny Thomas,1
+Brian Pinder,Dilley,1
+Brian Pinder,First Draft Statement,1
+Brian Pinder,Pinder,1
+Brian,Pinder Having,1
+Correct,Ishaq,1
+Correct,Misra,1
+Graham,Pinder,2
+Graham,Graham Ward,1
+Pinder,Bond Pearce,1
+Pinder,Stephen Dilley,1
+Pinder,Mr Sewell,1
+Pinder,Dilley,1
+Pinder,First Draft Statement,1
+Graham Ward,Mandy Talbot,1
+Andy,Dunks,1
+Andy,Peter Sewell,1
+Dunks,Peter Sewell,1
+Anne Chambers,Naomi Ellis,1
+Bond Pearce,Stephen Dilley,1
+Penny Thomas,James Davidson,1
+Penny Thomas,Rachel Panter,1
+Penny Thomas,Jane Bradbury,1
+Penny Thomas,Jane Irwin,1
+Dilley,First Draft Statement,1
+Hosey,Misra,1
+Misra,Ishaq,2
+Misra,Allen,1
+Misra,Neill,1
+Misra,Sefton,1
+James Davidson,Panter,1
+James Davidson,Panton,1
+James Davidson,Rachel Panter,1
+Panter,Panton,1
+Penny,Jane Owen,1
+Jane Bradbury,Jane Irwin,1
+Neill,Sefton,2
+Neill,Allen,1
+Neill,Ishaq,1
+Sefton,Allen,1
+Sefton,Ishaq,1
+Allen,Ishaq,2
+Allen,Ms Misra's,1
+Allen,Ms Neild's,1
+Allen,Ms Sefton,1
+Allen,Thomas,1
+Ishaq,Ms Misra's,1
+Ishaq,Ms Neild's,1
+Ishaq,Ms Sefton,1
+Ishaq,Thomas,1
+Ms Misra's,Ms Neild's,1
+Ms Misra's,Ms Sefton,1
+Ms Misra's,Thomas,1
+Ms Neild's,Ms Sefton,1
+Ms Neild's,Thomas,1
+Ms Sefton,Thomas,1

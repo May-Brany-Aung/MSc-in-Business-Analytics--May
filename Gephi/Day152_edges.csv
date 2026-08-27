@@ -1,0 +1,191 @@
+Source,Target,Weight
+CFO,Global Head of Investigations,1
+CFO,audit,1
+Global Head of Investigations,audit,1
+GE Capital,Head of Fraud Management,1
+GE Capital,Citibank,2
+Second Sight,Second Sight Support Services Limited,1
+Second Sight,Post Office,10
+Second Sight,Anthony Hooper,1
+Second Sight,James Arbuthnot,1
+Second Sight,Ian Henderson,1
+Second Sight,Horizon,2
+Second Sight,MPs,2
+Second Sight,Paul Venells,1
+Second Sight,Paula Vannells,1
+Second Sight,Vennells,2
+Second Sight,Kay Lynell,1
+Second Sight,NDA,1
+Horizon,Post Office,7
+Horizon,Ian Henderson,1
+Horizon,shortfall,4
+Horizon,Fujitsu,1
+Horizon,MPs,1
+Horizon,bug,1
+Horizon,defect,2
+Horizon,Ian,1
+Horizon,error,1
+Horizon,Bank of Ireland,1
+Horizon,Fed,1
+Post Office,Ian Henderson,5
+Post Office,shortfall,3
+Post Office,Fujitsu,5
+Post Office,Anthony Hooper,1
+Post Office,James Arbuthnot,1
+Post Office,Beer,2
+Post Office,Michael Rudkin,1
+Post Office,CRR,1
+Post Office,mediation scheme,2
+Post Office,Ian,2
+Post Office,Al Cameron,1
+Post Office,Cameron,1
+Post Office,Vennells,1
+Post Office,Kay Lynell,1
+Post Office,MPs,1
+Post Office,Treasury,3
+Post Office,Oliver Letwin,1
+Post Office,bug,2
+Post Office,mismatch,1
+Post Office,Jason Coyne's,1
+Post Office,Julie Walstenholme,1
+Post Office,BDO Stoy Heywood,1
+Post Office,Lee Castleton,1
+Post Office,PinICL,1
+Post Office,John Scott's,1
+Post Office,Susan Crichton,1
+Post Office,the Post Office Investigation Department,1
+Post Office,Investigations Department,1
+Post Office,Belinda Crowe,2
+Post Office,Chris O'Yard,1
+Post Office,General Counsel,1
+Post Office,defect,1
+Post Office,Mr Jenkins,1
+Post Office,Paula Venles,1
+Post Office,Angela Vanden Bogart,1
+Post Office,Chris Oyarb,1
+Post Office,Patrick Baulk,1
+Post Office,Jones,1
+Post Office,Mrs Jeremiah,1
+Post Office,National Savings Investments,1
+Post Office,Royal Mail,1
+Post Office,the system,1
+Post Office,Steen,1
+Post Office,Post,1
+Post Office,Bank of Ireland,1
+Post Office,Fed,1
+Post Office,the Forward Money Changer,1
+Alice Perkins,Paula Venles,1
+Alice Perkins,Susan Kreischer,1
+Alice Perkins,Alwen Lyons,1
+Alice Perkins,Susan Crichton,1
+Alice Perkins,Joe Hamilton,1
+Paula Venles,Susan Kreischer,1
+Ian Henderson,shortfall,1
+Ian Henderson,Belinda Crowe,1
+Ian Henderson,Chris O'Yard,1
+Ian Henderson,General Counsel,1
+Ian Henderson,Susan Creisham,1
+Ian Henderson,Susan Crichton,2
+Ian Henderson,Gareth Jenkins,1
+Ian Henderson,Wynne,1
+Ian Henderson,Freeths,1
+Ian Henderson,GLO,1
+Ian Henderson,National Savings Investments,1
+Ian Henderson,Royal Mail,1
+Ian Henderson,Cameron,1
+Ian Henderson,Mr Ismay,1
+Ian Henderson,Howe Co,1
+Ian Henderson,mediation scheme,1
+Ian Henderson,Angela Vanna-Bogaert,1
+shortfall,ATM,2
+shortfall,Ian,1
+shortfall,suspense account,1
+shortfall,Lloyds Bank,1
+shortfall,error,1
+shortfall,Joe,2
+Fujitsu,Michael Rudkin,1
+Fujitsu,Rudkin,1
+Fujitsu,Ms Crichton,1
+Simon Baker,Susan Crichton,1
+Susan Crichton,Paul Venells,1
+Susan Crichton,PowerPoint,1
+Susan Crichton,Alwen Lyons,1
+Susan Crichton,Ian,4
+Susan Crichton,John Elsing,1
+Susan Crichton,John Scott's,1
+Susan Crichton,the Post Office Investigation Department,1
+Susan Crichton,General Counsel,1
+Susan Crichton,the General Counsel,1
+Susan Crichton,Cartwright King,3
+Susan Crichton,Hang,1
+Anthony Hooper,James Arbuthnot,1
+James Arbuthnot,Jo,1
+Beer,MPs,1
+Rudkin,Spot Review,1
+CCRC,Ian,1
+CCRC,Amanda Peacock,1
+Ian,John Elsing,1
+Ian,Ojaard,2
+Ian,General Counsel,1
+Ian,the General Counsel,1
+MPs,Bearer,1
+MPs,Kay Lynell,1
+mediation scheme,Chair,1
+mediation scheme,Ms Perkins,1
+mediation scheme,Howe Co,1
+bug,the system,2
+bug,Cameron Freeman,1
+bug,defect,2
+bug,error,2
+bug,mismatch,1
+the system,Jo,1
+defect,error,2
+Al Cameron,Cameron,1
+Cameron,Mr Ismay,1
+Paul Venells,PowerPoint,1
+Paula Vannells,Vennells,1
+Vennells,Allin Lyons,1
+Vennells,Ojard,1
+Vennells,Baker,1
+Allin Lyons,Ojard,1
+Citibank,Bank of America,1
+Treasury,Oliver Letwin,1
+ATM,Lloyds Bank,1
+Computer Weekly,"The Grocer,",1
+Maureen McKelvie,Nicola Arch,1
+Maureen McKelvie,Susan Palmer,1
+Nicola Arch,Susan Palmer,1
+Jason Coyne's,Julie Walstenholme,1
+BDO Stoy Heywood,Lee Castleton,1
+John Scott's,the Post Office Investigation Department,1
+Roderick Williams,Ron,1
+Roderick Williams,Belinda Ojard,1
+Roderick Williams,Bonn Pierce,1
+Roderick Williams,Cartwright King,1
+Belinda Crowe,Chris O'Yard,1
+Belinda Crowe,General Counsel,1
+Belinda Crowe,Angela Vanden Bogart,1
+Belinda Crowe,Chris Oyarb,1
+Belinda Crowe,Patrick Baulk,1
+Chris O'Yard,General Counsel,1
+General Counsel,the General Counsel,1
+Cartwright King,Belinda Ojard,1
+Cartwright King,Bonn Pierce,1
+Clarke,Hamilton,1
+Clarke,the Court of Appeal,1
+Hamilton,the Court of Appeal,1
+Angela Vanden Bogart,Chris Oyarb,1
+Angela Vanden Bogart,Patrick Baulk,1
+Chris Oyarb,Patrick Baulk,1
+Chris Ojard,Jane McLeod,1
+Freeths,GLO,1
+Jason Coyne,Patrick Green,1
+Jason Coyne,Warden,1
+Patrick Green,Warden,1
+Alan,Kay Linnell,1
+suspense account,TC,1
+National Savings Investments,Royal Mail,2
+POL,Paul,1
+Bank of Ireland,Fed,1
+Chair,Ms Perkins,1
+Belinda Ojard,Bonn Pierce,1

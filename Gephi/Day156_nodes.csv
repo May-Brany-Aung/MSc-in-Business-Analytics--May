@@ -1,0 +1,123 @@
+Id,Label,Category,Degree
+Beer,Beer,Individual,2
+Gareth Jenkins,Gareth Jenkins,Individual,9
+Cambridge University,Cambridge University,Organisation,1
+"university,","university,",Organisation,1
+ICL,ICL,Organisation,5
+International Computers Limited,International Computers Limited,Organisation,1
+Fujitsu,Fujitsu,Organisation,30
+Fujitsu Services Limited,Fujitsu Services Limited,Organisation,2
+ICL Fujitsu,ICL Fujitsu,Organisation,1
+Project Impact,Project Impact,Organisation,8
+the Bureau de Change,the Bureau de Change,Organisation,1
+Bureau de Change,Bureau de Change,Organisation,2
+Horizon,Horizon,Technical System,28
+Horizon Online,Horizon Online,Technical System,13
+Post Office,Post Office,Organisation,43
+Legacy Horizon,Legacy Horizon,Technical System,16
+Dale Mellington,Dale Mellington,Individual,1
+bug,bug,Event/Issue,13
+mismatch,mismatch,Event/Issue,5
+Fraser,Fraser,Individual,2
+the system,the system,Technical System,11
+defect,defect,Event/Issue,12
+error,error,Event/Issue,16
+shortfall,shortfall,Event/Issue,5
+Riposte,Riposte,Technical System,4
+Escher,Escher,Individual,5
+Repos,Repos,Individual,1
+ICO,ICO,Organisation,2
+Oracle,Oracle,Individual,1
+Benefits Agency,Benefits Agency,Organisation,1
+IBM,IBM,Organisation,1
+the Network Banking Engine,the Network Banking Engine,Organisation,1
+Jeremy Folkes,Jeremy Folkes,Individual,2
+the Infrastructure Assurance Team,the Infrastructure Assurance Team,Organisation,2
+Jeremy,Jeremy,Individual,2
+the Benefits Agency,the Benefits Agency,Organisation,2
+the Post Office Counters Limited,the Post Office Counters Limited,Organisation,2
+DSS,DSS,Organisation,3
+ITL Management,ITL Management,Organisation,3
+EPOSS,EPOSS,Technical System,13
+PFI,PFI,Organisation,2
+SSC,SSC,Organisation,5
+the Customer Services Directorate,the Customer Services Directorate,Organisation,1
+PEAK,PEAK,Technical System,8
+Peak,Peak,Technical System,2
+PinICL,PinICL,Technical System,11
+Del Mellington's,Del Mellington's,Individual,3
+Gareth,Gareth,Individual,7
+REPOS,REPOS,Organisation,1
+David MacDonald,David MacDonald,Individual,3
+Alan Ward,Alan Ward,Individual,4
+Gareth Jenkins',Gareth Jenkins',Individual,2
+EPOSS PinICL Task Force,EPOSS PinICL Task Force,Organisation,3
+the EPOSS PinICL Task Force,the EPOSS PinICL Task Force,Organisation,3
+Austin Bennett,Austin Bennett,Individual,1
+McDonnell,McDonnell,Organisation,1
+LFS,LFS,Organisation,1
+MacDonald,MacDonald,Individual,1
+CBDB,CBDB,Organisation,1
+SAP,SAP,Organisation,3
+Treasury,Treasury,Organisation,2
+Paragraphs 45,Paragraphs 45,Individual,4
+Phil Boardman,Phil Boardman,Individual,2
+discrepancy,discrepancy,Event/Issue,2
+suspense account,suspense account,Event/Issue,5
+Susan Harding,Susan Harding,Individual,1
+Ms Harding,Ms Harding,Individual,1
+Castleton,Castleton,Individual,7
+the Marine Drive Post Office,the Marine Drive Post Office,Organisation,2
+Bentley Johnson,Bentley Johnson,Individual,2
+Jeninson,Jeninson,Individual,2
+Richard Benton,Richard Benton,Individual,3
+Marine Drive,Marine Drive,Organisation,5
+the Civil Procedure Rules,the Civil Procedure Rules,Organisation,1
+Brian Pinder,Brian Pinder,Individual,11
+Brian,Brian,Individual,1
+Pinder Having,Pinder Having,Individual,1
+Correct,Correct,Organisation,3
+AP,AP,Organisation,2
+Dave Baldwin,Dave Baldwin,Individual,1
+Saying,Saying,Individual,1
+Graham,Graham,Individual,5
+Pinder,Pinder,Individual,12
+Greg,Greg,Individual,2
+Graham Ward,Graham Ward,Individual,3
+Andy,Andy,Individual,3
+Dunks,Dunks,Organisation,3
+Peter Sewell,Peter Sewell,Individual,3
+Anne Chambers,Anne Chambers,Individual,3
+Naomi Ellis,Naomi Ellis,Organisation,2
+Pearce,Pearce,Individual,1
+Bond Pearce,Bond Pearce,Organisation,2
+Stephen Dilley,Stephen Dilley,Individual,3
+Mandy Talbot,Mandy Talbot,Individual,1
+Penny Thomas,Penny Thomas,Individual,5
+audit,audit,Event/Issue,1
+Mr Sewell,Mr Sewell,Individual,1
+Sewell,Sewell,Individual,1
+Dilley,Dilley,Individual,4
+First Draft Statement,First Draft Statement,Organisation,4
+Stephen up re,Stephen up re,Individual,1
+Hosey,Hosey,Individual,3
+Misra,Misra,Individual,8
+James Davidson,James Davidson,Individual,4
+Panter,Panter,Individual,2
+Panton,Panton,Individual,2
+Rachel Panter,Rachel Panter,Individual,2
+Penny,Penny,Organisation,3
+Jane Owen,Jane Owen,Individual,3
+Jane Bradbury,Jane Bradbury,Individual,2
+Jane Irwin,Jane Irwin,Individual,2
+Jane,Jane,Individual,1
+Neill,Neill,Individual,4
+Sefton,Sefton,Individual,4
+Allen,Allen,Individual,8
+Ishaq,Ishaq,Individual,9
+Ms Misra's,Ms Misra's,Organisation,5
+Ms Neild's,Ms Neild's,Individual,5
+Ms Sefton,Ms Sefton,Individual,5
+Thomas,Thomas,Individual,5
+David Jones,David Jones,Individual,2
+Mrs Misra's,Mrs Misra's,Organisation,2

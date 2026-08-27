@@ -1,0 +1,143 @@
+Source,Target,Weight
+Jackson,Post Office,5
+Jackson,SMS,1
+Post Office,Microsoft Exchange,6
+Post Office,SMS,1
+Post Office,COVID,1
+Post Office,Royal Mail Group,2
+Post Office,non-Post Office,1
+Post Office,Patrick Baulk's,1
+Post Office,Phase 5/6,1
+Post Office,Horizon,23
+Post Office,Craigadon Post Office,2
+Post Office,Justice Fraser,1
+Post Office,Post Office Limited,5
+Post Office,the system,2
+Post Office,Crystal Reports,1
+Post Office,error,4
+Post Office,bug,1
+Post Office,shortfall,6
+Post Office,suspense account,2
+Post Office,Post Office Network,1
+Post Office,the Federation of Subpostmasters,1
+Post Office,Post Office Counters,1
+Post Office,ICL Pathway,1
+Post Office,Horizon Cash,1
+Post Office,discrepancy,1
+Post Office,Susan Harding,1
+Post Office,Alan Layton,2
+Post Office,Betty Williams,1
+Post Office,the Post Office Limited's,1
+Post Office,Federation,2
+Post Office,mediation scheme,1
+Post Office,the National Federation of Subpostmasters,1
+Post Office,Davey,1
+Post Office,the Royal Mail,1
+Post Office,Alliance,1
+Post Office,the Proceeds of Crime Act,1
+Post Office,audit,1
+Post Office,Crown,1
+Post Office,Crown Office,1
+Post Office,Ed Davey,1
+Post Office,GLO,1
+Post Office,Jo Swinson,1
+Post Office,Norman Lamb,1
+Post Office,Pat McFadden,1
+Microsoft Exchange,Phase 4,1
+Gareth Jenkins,Mr Longman,1
+Deloitte,Ernst Young,1
+Deloitte,Horizon,1
+Deloitte,KPMG,2
+Ernst Young,Horizon,1
+Ernst Young,KPMG,1
+Horizon,KPMG,1
+Horizon,Crystal Reports,1
+Horizon,bug,1
+Horizon,error,4
+Horizon,shortfall,3
+Horizon,Post Office Network,1
+Horizon,the Federation of Subpostmasters,1
+Horizon,suspense account,2
+Horizon,Post Office Counters,1
+Horizon,Horizon Cash,1
+Horizon,FAD,1
+Horizon,Dave Smith,1
+Horizon,Horizon Integrity,1
+Horizon,NBSC,1
+Horizon,the system,1
+Horizon,Alan Bates,2
+Horizon,Federation,1
+Horizon,Crown,1
+Alice Perkins,Alwen Lyons,1
+Alice Perkins,Angela Vandenbergard,1
+Alice Perkins,Mark Davis,1
+Alice Perkins,Paula Venells,1
+Alice Perkins,Susan Crichton,1
+Alice Perkins,Tim Parker,1
+Alwen Lyons,Angela Vandenbergard,1
+Alwen Lyons,Mark Davis,1
+Alwen Lyons,Paula Venells,1
+Alwen Lyons,Susan Crichton,1
+Alwen Lyons,Tim Parker,1
+Angela Vandenbergard,Mark Davis,1
+Angela Vandenbergard,Paula Venells,1
+Angela Vandenbergard,Susan Crichton,1
+Angela Vandenbergard,Tim Parker,1
+Mark Davis,Paula Venells,1
+Mark Davis,Susan Crichton,1
+Mark Davis,Tim Parker,1
+Paula Venells,Susan Crichton,1
+Paula Venells,Tim Parker,1
+Susan Crichton,Tim Parker,1
+Royal Mail Group,non-Post Office,1
+Katie Stewart,Sandra Dawson,1
+Emerita,Sandra,1
+Emerita,Sidney Sussex College,1
+Emerita,University College Cambridge,1
+Sandra,Sidney Sussex College,1
+Sandra,University College Cambridge,1
+Sidney Sussex College,University College Cambridge,1
+Stewart,Sydney Sussex College,1
+Post Office Limited,the system,1
+Post Office Limited,ICL Pathway,1
+Post Office Limited,the Royal Mail,1
+error,bug,1
+error,shortfall,2
+error,suspense account,1
+bug,shortfall,1
+shortfall,suspense account,1
+suspense account,Susan Harding,1
+Post Office Network,the Federation of Subpostmasters,1
+Alan Layton,Betty Williams,2
+Alan Layton,Royal Mail Group PLC,1
+Alan Layton,the Royal Mail Group,1
+Dave Smith,Horizon Integrity,1
+Alan Bates,Smith,1
+Richard Barker,the Commercial Network,1
+Alan,Mike Wakely,1
+Alan,Sandy Stephen,1
+Mike Wakely,Sandy Stephen,1
+Computer Weekly,Rebecca Thompson,1
+BIS,Business Innovation,1
+BIS,Skills,1
+Business Innovation,Skills,1
+BUR,DTI,1
+BUR,the Select Committee,1
+DTI,the Select Committee,1
+Davey,Channel 4,1
+Channel 4,JFSA,1
+Crown Office,Ed Davey,1
+Crown Office,GLO,1
+Crown Office,Jo Swinson,1
+Crown Office,Norman Lamb,1
+Crown Office,Pat McFadden,1
+Ed Davey,GLO,1
+Ed Davey,Jo Swinson,1
+Ed Davey,Norman Lamb,1
+Ed Davey,Pat McFadden,1
+GLO,Jo Swinson,1
+GLO,Norman Lamb,1
+GLO,Pat McFadden,1
+Jo Swinson,Norman Lamb,1
+Jo Swinson,Pat McFadden,1
+Norman Lamb,Pat McFadden,1

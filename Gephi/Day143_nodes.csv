@@ -1,0 +1,102 @@
+Id,Label,Category,Degree
+bug,bug,Event/Issue,24
+defect,defect,Event/Issue,11
+error,error,Event/Issue,9
+Second Sight,Second Sight,Organisation,32
+mediation scheme,mediation scheme,Event/Issue,8
+Deloitte,Deloitte,Organisation,13
+Lesley Sewell,Lesley Sewell,Individual,16
+Simon Baker,Simon Baker,Individual,8
+Susan Crichton,Susan Crichton,Individual,34
+Ron,Ron,Individual,8
+Alice,Alice,Individual,9
+Horizon,Horizon,Technical System,28
+Vennells,Vennells,Individual,14
+audit,audit,Event/Issue,6
+Project Spire,Project Spire,Organisation,2
+Project Spy,Project Spy,Organisation,1
+Alice Perkins,Alice Perkins,Individual,9
+Alwen Lyons,Alwen Lyons,Individual,10
+Post Office,Post Office,Organisation,38
+the system,the system,Technical System,8
+the Court of Appeal,the Court of Appeal,Organisation,8
+Richard Morgan QC,Richard Morgan QC,Individual,2
+Criminal,Criminal,Organisation,1
+Olwen,Olwen,Organisation,3
+Mishra,Mishra,Individual,1
+Seema Misra,Seema Misra,Individual,5
+Mrs Misra's,Mrs Misra's,Organisation,6
+Richard Morgan,Richard Morgan,Individual,5
+Hugh Flemington,Hugh Flemington,Individual,2
+Ms Crichton's,Ms Crichton's,Individual,1
+Ms Misra,Ms Misra,Organisation,1
+Board,Board,Organisation,11
+Casey,Casey,Individual,3
+PA Consulting,PA Consulting,Organisation,1
+Grant Thornton,Grant Thornton,Individual,1
+Post,Post,Organisation,1
+James R. Buttnott's,James R. Buttnott's,Individual,1
+Kay Lynell,Kay Lynell,Individual,1
+Alan Bates,Alan Bates,Individual,4
+David Oliver,David Oliver,Individual,3
+Access Legal,Access Legal,Organisation,1
+Shoesmiths,Shoesmiths,Organisation,1
+the Second Sight Interim Report,the Second Sight Interim Report,Organisation,1
+Janet,Janet,Individual,1
+Ms Lyons,Ms Lyons,Organisation,1
+Mark,Mark,Individual,2
+Rod/Leslie,Rod/Leslie,Organisation,2
+Ms Venals,Ms Venals,Organisation,3
+James Arbuthnot,James Arbuthnot,Individual,6
+Baker,Baker,Individual,2
+Ron Warmington,Ron Warmington,Individual,2
+Wynne,Wynne,Individual,8
+the Post Office Board,the Post Office Board,Organisation,1
+Alwyn Lyon,Alwyn Lyon,Individual,5
+Mark Davies,Mark Davies,Individual,5
+Martin Edwards,Martin Edwards,Individual,6
+Sue,Sue,Individual,5
+Royal Mail,Royal Mail,Organisation,3
+Working Group,Working Group,Organisation,1
+Isaac Perkins,Isaac Perkins,Individual,2
+MPs,MPs,Organisation,1
+BIS,BIS,Organisation,1
+Davis,Davis,Individual,3
+Alan Bates',Alan Bates',Individual,2
+CCRC,CCRC,Organisation,12
+Fujitsu,Fujitsu,Organisation,13
+the Second Sight Review,the Second Sight Review,Organisation,2
+Simon Clarke's,Simon Clarke's,Individual,1
+the Court of Appeal Criminal Division,the Court of Appeal Criminal Division,Organisation,1
+Horizon Online,Horizon Online,Technical System,10
+Legacy Horizon,Legacy Horizon,Technical System,8
+Ms Meadows,Ms Meadows,Individual,3
+Ms Sewell,Ms Sewell,Individual,5
+Mrs Misra,Mrs Misra,Organisation,3
+Carl Lightking,Carl Lightking,Individual,1
+Gareth Jenkins,Gareth Jenkins,Individual,7
+Anthony Hooper,Anthony Hooper,Individual,1
+Hillsborough,Hillsborough,Individual,1
+Simon,Simon,Individual,5
+the Simon Clarke Review,the Simon Clarke Review,Organisation,2
+Horizon Computer Systems,Horizon Computer Systems,Organisation,2
+Commission,Commission,Organisation,2
+Magistrates' Court,Magistrates' Court,Organisation,2
+Mark Davis,Mark Davis,Individual,3
+Simon Richardson,Simon Richardson,Individual,6
+Chair,Chair,Individual,4
+Paula Venles,Paula Venles,Individual,4
+Comms,Comms,Organisation,1
+the Royal Mail Group,the Royal Mail Group,Organisation,1
+Network,Network,Organisation,1
+Royal Mail Group,Royal Mail Group,Organisation,3
+Paula Vennells,Paula Vennells,Individual,1
+the General Counsel,the General Counsel,Organisation,2
+Bon Dickinson,Bon Dickinson,Individual,3
+Cartwright King,Cartwright King,Individual,3
+Simon King,Simon King,Individual,3
+Falkirk,Falkirk,Organisation,5
+mismatch,mismatch,Event/Issue,10
+suspense account,suspense account,Event/Issue,10
+NBSC,NBSC,Organisation,2
+shortfall,shortfall,Event/Issue,3

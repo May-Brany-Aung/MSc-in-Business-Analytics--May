@@ -1,0 +1,269 @@
+Source,Target,Weight
+Beer,Gareth Jenkins,1
+Beer,Graham,1
+Gareth Jenkins,Alan Ward,1
+Gareth Jenkins,Gareth,1
+Gareth Jenkins,Graham,1
+Gareth Jenkins,Pinder,2
+Gareth Jenkins,Brian Pinder,2
+Gareth Jenkins,Greg,1
+Gareth Jenkins,Dilley,1
+Gareth Jenkins,First Draft Statement,1
+Cambridge University,"university,",1
+ICL,International Computers Limited,1
+ICL,Fujitsu,4
+ICL,Fujitsu Services Limited,1
+ICL,Benefits Agency,1
+ICL,Post Office,1
+Fujitsu,Fujitsu Services Limited,1
+Fujitsu,ICL Fujitsu,1
+Fujitsu,Horizon,6
+Fujitsu,Horizon Online,1
+Fujitsu,Legacy Horizon,2
+Fujitsu,ICO,1
+Fujitsu,Post Office,15
+Fujitsu,Project Impact,2
+Fujitsu,DSS,1
+Fujitsu,ITL Management,1
+Fujitsu,PFI,1
+Fujitsu,mismatch,1
+Fujitsu,bug,2
+Fujitsu,defect,2
+Fujitsu,error,2
+Fujitsu,Paragraphs 45,1
+Fujitsu,Phil Boardman,1
+Fujitsu,Castleton,2
+Fujitsu,Richard Benton,1
+Fujitsu,the system,1
+Fujitsu,Marine Drive,1
+Fujitsu,Anne Chambers,1
+Fujitsu,Naomi Ellis,1
+Fujitsu,Pearce,1
+Fujitsu,Gareth,1
+Fujitsu,Hosey,1
+Fujitsu,Misra,1
+Fujitsu,Penny,1
+Fujitsu,Jane Owen,1
+Project Impact,the Bureau de Change,1
+Project Impact,Repos,1
+Project Impact,Post Office,1
+Project Impact,Horizon,1
+Project Impact,Legacy Horizon,1
+Project Impact,Paragraphs 45,1
+Project Impact,discrepancy,1
+Bureau de Change,Horizon,1
+Bureau de Change,Horizon Online,1
+Horizon,Horizon Online,19
+Horizon,Post Office,8
+Horizon,Legacy Horizon,12
+Horizon,Fraser,1
+Horizon,the system,3
+Horizon,Riposte,1
+Horizon,bug,10
+Horizon,defect,10
+Horizon,error,16
+Horizon,SSC,1
+Horizon,PEAK,2
+Horizon,PinICL,1
+Horizon,Del Mellington's,1
+Horizon,mismatch,1
+Horizon,EPOSS,3
+Horizon,David MacDonald,1
+Horizon,Paragraphs 45,1
+Horizon,shortfall,1
+Horizon,suspense account,1
+Horizon,Marine Drive,1
+Horizon,Correct,1
+Horizon,AP,1
+Horizon,Dave Baldwin,1
+Horizon,Saying,1
+Horizon,Castleton,1
+Horizon Online,Post Office,2
+Horizon Online,Legacy Horizon,5
+Horizon Online,the system,1
+Horizon Online,bug,5
+Horizon Online,defect,5
+Horizon Online,error,5
+Horizon Online,PEAK,2
+Horizon Online,PinICL,1
+Horizon Online,Del Mellington's,1
+Horizon Online,mismatch,1
+Post Office,Legacy Horizon,1
+Post Office,mismatch,2
+Post Office,Escher,2
+Post Office,Riposte,2
+Post Office,ICO,1
+Post Office,Oracle,1
+Post Office,Jeremy Folkes,1
+Post Office,the Infrastructure Assurance Team,1
+Post Office,Jeremy,1
+Post Office,the Benefits Agency,1
+Post Office,the Post Office Counters Limited,1
+Post Office,DSS,1
+Post Office,ITL Management,1
+Post Office,EPOSS,1
+Post Office,the system,5
+Post Office,the Customer Services Directorate,1
+Post Office,bug,1
+Post Office,defect,1
+Post Office,error,2
+Post Office,CBDB,1
+Post Office,SAP,1
+Post Office,Treasury,1
+Post Office,Phil Boardman,1
+Post Office,suspense account,4
+Post Office,Susan Harding,1
+Post Office,Castleton,3
+Post Office,the Marine Drive Post Office,1
+Post Office,shortfall,1
+Post Office,Richard Benton,1
+Post Office,the Civil Procedure Rules,1
+Post Office,Stephen Dilley,1
+Post Office,Stephen up re,1
+Post Office,Hosey,1
+Post Office,Misra,1
+Post Office,Penny,3
+Post Office,Jane Owen,1
+Post Office,David Jones,1
+Post Office,Mrs Misra's,1
+Legacy Horizon,Fraser,1
+Legacy Horizon,Riposte,1
+Legacy Horizon,bug,3
+Legacy Horizon,defect,3
+Legacy Horizon,error,3
+Legacy Horizon,the system,1
+Legacy Horizon,PEAK,2
+Legacy Horizon,PinICL,1
+Legacy Horizon,David MacDonald,1
+Legacy Horizon,EPOSS,1
+Legacy Horizon,Paragraphs 45,1
+Dale Mellington,bug,1
+bug,defect,21
+bug,error,20
+bug,shortfall,2
+bug,the system,3
+bug,SSC,3
+bug,PEAK,1
+bug,PinICL,1
+mismatch,Del Mellington's,1
+the system,PFI,1
+the system,defect,3
+the system,error,3
+the system,SAP,1
+the system,Richard Benton,1
+defect,error,20
+defect,shortfall,2
+defect,SSC,2
+defect,PEAK,1
+defect,PinICL,1
+error,shortfall,2
+error,SSC,2
+error,PEAK,1
+error,PinICL,1
+error,discrepancy,1
+error,Castleton,1
+error,AP,1
+error,Pinder,1
+Riposte,Escher,1
+Escher,Jeremy,1
+Escher,Alan Ward,1
+Escher,EPOSS,1
+IBM,the Network Banking Engine,1
+Jeremy Folkes,the Infrastructure Assurance Team,1
+the Benefits Agency,the Post Office Counters Limited,1
+DSS,ITL Management,1
+EPOSS,REPOS,1
+EPOSS,David MacDonald,1
+EPOSS,Gareth Jenkins',1
+EPOSS,Alan Ward,1
+EPOSS,EPOSS PinICL Task Force,2
+EPOSS,PinICL,2
+EPOSS,the EPOSS PinICL Task Force,1
+EPOSS,LFS,1
+EPOSS,MacDonald,1
+SSC,Gareth,1
+PEAK,Peak,1
+PEAK,PinICL,3
+Peak,PinICL,1
+PinICL,EPOSS PinICL Task Force,2
+PinICL,the EPOSS PinICL Task Force,1
+Gareth,Alan Ward,1
+Gareth,Graham,1
+Gareth,Pinder,1
+Gareth,Jane,1
+Gareth Jenkins',Pinder,1
+EPOSS PinICL Task Force,the EPOSS PinICL Task Force,1
+Austin Bennett,McDonnell,1
+SAP,Treasury,1
+suspense account,Ms Harding,1
+suspense account,Bentley Johnson,1
+suspense account,Jeninson,1
+Castleton,the Marine Drive Post Office,1
+Castleton,Sewell,1
+Castleton,Pinder,2
+Bentley Johnson,Jeninson,1
+Marine Drive,Brian Pinder,1
+Marine Drive,audit,1
+Marine Drive,Anne Chambers,1
+Brian Pinder,Greg,1
+Brian Pinder,Graham Ward,1
+Brian Pinder,Andy,1
+Brian Pinder,Dunks,1
+Brian Pinder,Peter Sewell,1
+Brian Pinder,Penny Thomas,1
+Brian Pinder,Dilley,1
+Brian Pinder,First Draft Statement,1
+Brian Pinder,Pinder,1
+Brian,Pinder Having,1
+Correct,Ishaq,1
+Correct,Misra,1
+Graham,Pinder,2
+Graham,Graham Ward,1
+Pinder,Bond Pearce,1
+Pinder,Stephen Dilley,1
+Pinder,Mr Sewell,1
+Pinder,Dilley,1
+Pinder,First Draft Statement,1
+Graham Ward,Mandy Talbot,1
+Andy,Dunks,1
+Andy,Peter Sewell,1
+Dunks,Peter Sewell,1
+Anne Chambers,Naomi Ellis,1
+Bond Pearce,Stephen Dilley,1
+Penny Thomas,James Davidson,1
+Penny Thomas,Rachel Panter,1
+Penny Thomas,Jane Bradbury,1
+Penny Thomas,Jane Irwin,1
+Dilley,First Draft Statement,1
+Hosey,Misra,1
+Misra,Ishaq,2
+Misra,Allen,1
+Misra,Neill,1
+Misra,Sefton,1
+James Davidson,Panter,1
+James Davidson,Panton,1
+James Davidson,Rachel Panter,1
+Panter,Panton,1
+Penny,Jane Owen,1
+Jane Bradbury,Jane Irwin,1
+Neill,Sefton,2
+Neill,Allen,1
+Neill,Ishaq,1
+Sefton,Allen,1
+Sefton,Ishaq,1
+Allen,Ishaq,2
+Allen,Ms Misra's,1
+Allen,Ms Neild's,1
+Allen,Ms Sefton,1
+Allen,Thomas,1
+Ishaq,Ms Misra's,1
+Ishaq,Ms Neild's,1
+Ishaq,Ms Sefton,1
+Ishaq,Thomas,1
+Ms Misra's,Ms Neild's,1
+Ms Misra's,Ms Sefton,1
+Ms Misra's,Thomas,1
+Ms Neild's,Ms Sefton,1
+Ms Neild's,Thomas,1
+Ms Sefton,Thomas,1
+David Jones,Mrs Misra's,1

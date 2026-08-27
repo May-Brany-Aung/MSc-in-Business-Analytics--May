@@ -1,0 +1,281 @@
+Source,Target,Weight
+bug,defect,4
+bug,error,5
+bug,Horizon,20
+bug,Mark,1
+bug,Rod/Leslie,1
+bug,Lesley Sewell,2
+bug,Post Office,14
+bug,Horizon Online,6
+bug,Mrs Misra's,1
+bug,Legacy Horizon,4
+bug,Ms Meadows,1
+bug,Ms Sewell,2
+bug,Seema Misra,1
+bug,Davis,1
+bug,Fujitsu,4
+bug,Second Sight,6
+bug,Falkirk,2
+bug,mismatch,5
+bug,suspense account,4
+bug,NBSC,1
+bug,Vennells,2
+bug,Alwen Lyons,3
+bug,the system,6
+bug,shortfall,1
+defect,error,4
+defect,Horizon,11
+defect,Post Office,3
+defect,Second Sight,3
+defect,Ms Venals,1
+defect,James Arbuthnot,1
+defect,Horizon Online,2
+defect,Legacy Horizon,2
+defect,mismatch,1
+defect,suspense account,1
+error,Horizon,4
+error,Post Office,2
+error,Second Sight,1
+error,Horizon Online,2
+error,Legacy Horizon,2
+error,mismatch,1
+error,suspense account,1
+Second Sight,mediation scheme,3
+Second Sight,Deloitte,7
+Second Sight,Alice Perkins,1
+Second Sight,Alwen Lyons,3
+Second Sight,Simon Baker,2
+Second Sight,Susan Crichton,3
+Second Sight,the system,4
+Second Sight,Post Office,38
+Second Sight,Board,3
+Second Sight,Casey,1
+Second Sight,Richard Morgan,1
+Second Sight,Grant Thornton,1
+Second Sight,Kay Lynell,1
+Second Sight,Alan Bates,1
+Second Sight,Horizon,7
+Second Sight,audit,1
+Second Sight,the Second Sight Interim Report,2
+Second Sight,Ron,1
+Second Sight,Vennells,3
+Second Sight,Ms Venals,1
+Second Sight,Project Spire,1
+Second Sight,James Arbuthnot,4
+Second Sight,Royal Mail,1
+Second Sight,CCRC,1
+Second Sight,Fujitsu,2
+Second Sight,Wynne,1
+Second Sight,the Court of Appeal,1
+Second Sight,the Second Sight Review,1
+Second Sight,Network,1
+mediation scheme,Post Office,2
+mediation scheme,MPs,1
+mediation scheme,CCRC,1
+mediation scheme,Fujitsu,1
+mediation scheme,Susan Crichton,1
+mediation scheme,Wynne,1
+mediation scheme,the Court of Appeal,1
+Deloitte,Alice,1
+Deloitte,Horizon,2
+Deloitte,Ron,1
+Deloitte,Vennells,1
+Deloitte,audit,2
+Deloitte,Project Spire,2
+Deloitte,Alice Perkins,1
+Deloitte,Alwen Lyons,1
+Deloitte,Simon Baker,1
+Deloitte,Susan Crichton,1
+Deloitte,Post Office,1
+Deloitte,the system,1
+Lesley Sewell,Simon Baker,1
+Lesley Sewell,Susan Crichton,9
+Lesley Sewell,Ron,1
+Lesley Sewell,Alwyn Lyon,1
+Lesley Sewell,Mark Davies,2
+Lesley Sewell,Martin Edwards,1
+Lesley Sewell,Sue,1
+Lesley Sewell,Horizon,2
+Lesley Sewell,Post Office,2
+Lesley Sewell,Horizon Online,1
+Lesley Sewell,Mrs Misra's,1
+Lesley Sewell,Mrs Misra,1
+Lesley Sewell,Fujitsu,1
+Lesley Sewell,Mark Davis,2
+Lesley Sewell,CCRC,1
+Simon Baker,Susan Crichton,3
+Simon Baker,Alice Perkins,1
+Simon Baker,Alwen Lyons,3
+Simon Baker,David Oliver,1
+Simon Baker,Wynne,1
+Susan Crichton,Ron,1
+Susan Crichton,Alice Perkins,4
+Susan Crichton,Alwen Lyons,3
+Susan Crichton,Post Office,5
+Susan Crichton,Richard Morgan QC,1
+Susan Crichton,Alice,5
+Susan Crichton,Olwen,1
+Susan Crichton,Vennells,1
+Susan Crichton,Mrs Misra's,1
+Susan Crichton,Richard Morgan,1
+Susan Crichton,Hugh Flemington,3
+Susan Crichton,David Oliver,2
+Susan Crichton,Alwyn Lyon,1
+Susan Crichton,Mark Davies,1
+Susan Crichton,Martin Edwards,1
+Susan Crichton,Sue,1
+Susan Crichton,CCRC,2
+Susan Crichton,Fujitsu,3
+Susan Crichton,Wynne,1
+Susan Crichton,the Court of Appeal,1
+Susan Crichton,Mrs Misra,1
+Susan Crichton,Carl Lightking,1
+Susan Crichton,Mark Davis,1
+Susan Crichton,Simon Richardson,1
+Susan Crichton,Chair,1
+Susan Crichton,Paula Venles,1
+Susan Crichton,Comms,1
+Susan Crichton,Board,1
+Susan Crichton,the General Counsel,1
+Ron,Alice,1
+Ron,Horizon,1
+Ron,Vennells,2
+Ron,audit,1
+Alice,Horizon,1
+Alice,Vennells,2
+Alice,audit,1
+Alice,Olwen,2
+Alice,Martin Edwards,1
+Alice,Chair,1
+Horizon,Vennells,3
+Horizon,audit,4
+Horizon,Project Spy,1
+Horizon,the system,1
+Horizon,the Court of Appeal,1
+Horizon,Post Office,13
+Horizon,Board,1
+Horizon,Isaac Perkins,1
+Horizon,Horizon Online,6
+Horizon,Mrs Misra's,1
+Horizon,Legacy Horizon,4
+Horizon,CCRC,1
+Horizon,Horizon Computer Systems,1
+Horizon,Commission,1
+Horizon,Magistrates' Court,1
+Horizon,Falkirk,1
+Horizon,mismatch,2
+Horizon,suspense account,2
+Horizon,Alwen Lyons,2
+Horizon,Fujitsu,1
+Vennells,audit,1
+Vennells,Olwen,1
+Vennells,James R. Buttnott's,1
+Vennells,Baker,1
+Vennells,Ron Warmington,1
+Vennells,Post Office,1
+Vennells,the Second Sight Review,1
+Alice Perkins,Alwen Lyons,1
+Alice Perkins,Board,1
+Alice Perkins,James Arbuthnot,1
+Alice Perkins,Chair,2
+Alice Perkins,Paula Venles,1
+Alwen Lyons,David Oliver,1
+Alwen Lyons,Fujitsu,1
+Alwen Lyons,shortfall,1
+Post Office,Richard Morgan QC,1
+Post Office,Criminal,1
+Post Office,Seema Misra,1
+Post Office,PA Consulting,1
+Post Office,Alan Bates,1
+Post Office,Ms Venals,1
+Post Office,the system,3
+Post Office,the Post Office Board,1
+Post Office,Royal Mail,3
+Post Office,Working Group,1
+Post Office,Board,2
+Post Office,Davis,2
+Post Office,CCRC,4
+Post Office,Fujitsu,2
+Post Office,Wynne,1
+Post Office,the Court of Appeal,1
+Post Office,Mrs Misra,1
+Post Office,Ms Sewell,1
+Post Office,Gareth Jenkins,3
+Post Office,Simon,3
+Post Office,Royal Mail Group,1
+Post Office,Simon Richardson,1
+Post Office,Horizon Online,1
+Post Office,Legacy Horizon,1
+Post Office,NBSC,1
+Post Office,mismatch,1
+Post Office,Falkirk,1
+Post Office,suspense account,1
+the system,Fujitsu,2
+the system,mismatch,1
+the system,suspense account,1
+the Court of Appeal,CCRC,1
+the Court of Appeal,Fujitsu,1
+the Court of Appeal,Wynne,1
+Mishra,Seema Misra,1
+Seema Misra,Ms Meadows,1
+Seema Misra,Ms Sewell,1
+Mrs Misra's,Richard Morgan,1
+Mrs Misra's,Horizon Online,1
+Richard Morgan,Board,1
+Richard Morgan,Casey,1
+Hugh Flemington,Simon Richardson,1
+Ms Crichton's,Ms Misra,1
+Board,Casey,1
+Board,Post,1
+Board,Isaac Perkins,1
+Board,Royal Mail,1
+Board,the General Counsel,1
+Alan Bates,Alan Bates',1
+Alan Bates,James Arbuthnot,2
+Access Legal,Shoesmiths,1
+Janet,Ms Lyons,1
+Mark,Rod/Leslie,1
+James Arbuthnot,BIS,1
+James Arbuthnot,Alan Bates',1
+Baker,Ron Warmington,1
+Wynne,CCRC,1
+Wynne,Fujitsu,1
+Alwyn Lyon,Mark Davies,1
+Alwyn Lyon,Martin Edwards,1
+Alwyn Lyon,Sue,1
+Mark Davies,Martin Edwards,1
+Mark Davies,Sue,1
+Martin Edwards,Sue,1
+Davis,Ms Sewell,1
+CCRC,Fujitsu,1
+CCRC,Horizon Computer Systems,1
+CCRC,Gareth Jenkins,1
+CCRC,Mark Davis,1
+Fujitsu,shortfall,1
+Simon Clarke's,the Court of Appeal Criminal Division,1
+Horizon Online,Legacy Horizon,4
+Horizon Online,mismatch,1
+Horizon Online,suspense account,1
+Legacy Horizon,mismatch,1
+Legacy Horizon,suspense account,1
+Ms Meadows,Ms Sewell,1
+Gareth Jenkins,Simon,1
+Gareth Jenkins,the Simon Clarke Review,1
+Gareth Jenkins,Bon Dickinson,1
+Gareth Jenkins,Cartwright King,1
+Gareth Jenkins,Simon King,1
+Anthony Hooper,Hillsborough,1
+Simon,the Simon Clarke Review,1
+Simon,Royal Mail Group,1
+Simon,Simon Richardson,1
+Commission,Magistrates' Court,1
+Simon Richardson,Royal Mail Group,1
+Simon Richardson,Paula Vennells,1
+Chair,Paula Venles,1
+Paula Venles,the Royal Mail Group,1
+Bon Dickinson,Cartwright King,1
+Bon Dickinson,Simon King,1
+Cartwright King,Simon King,1
+Falkirk,mismatch,1
+Falkirk,suspense account,2
+mismatch,suspense account,3

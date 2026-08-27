@@ -19,18 +19,20 @@ Burt constraint effective size top 15
 Testimony sessions used -Days 117,143, 152, 156 (Post office Horizon Inquiry), plus one comparative session from the Infected Blood Inquiry (WER validation only)
 Source recordings and official transcripts are publicly available at -https://www.postofficehorizoninquiry.org.uk/ 
 
-Source Video Sessions (Youtube)
+## Source Video Sessions (Youtube)
 -Day 143 AM - https://www.youtube.com/watch?v=LY9CfDVj8xI
 -Day 152 PM  -https://www.youtube.com/watch?v=uzdKJpphBYM&t=1706s
 -Day 156 AM--https://www.youtube.com/watch?v=O3e50SkATjU
 -Day 117 AM- https://www.youtube.com/watch?v=sHjw95Zjz2w 
 
+
 Infected Blood Inquiry (comparative session)- https://www.youtube.com/watch?v=aexVAOf58ZI
-How to reproduce 
+
+## How to reproduce 
 Run Part 1 Transcription in Google Colab (GPU) to generate raw transcripts and WER comparison.
 Run Part 2 notebook locally in Jupyter (Anaconda) using the Part 1 outputs as input
 
-Key Outputs 
+## Key Outputs 
 -Entity mentions by category (Organisation, Technical System, Individual, Event/Issue)
 -Network Fragility metrics- bridges, articulation points, betweenness centrality, Burt’s constraint effective size.
 -Cross-pipeline consistency comparison (Assembly API vs Faster-Whisper)

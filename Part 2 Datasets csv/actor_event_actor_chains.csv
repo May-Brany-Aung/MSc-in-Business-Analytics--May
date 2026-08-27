@@ -1,0 +1,79 @@
+actor1,event,actor2,strength,sessions
+Alwen Lyons,bug,Lesley Sewell,5,Day143
+Alwen Lyons,bug,Ms Sewell,5,Day143
+Alwen Lyons,bug,Vennells,5,Day143
+Lesley Sewell,bug,Vennells,4,Day143
+Alwen Lyons,bug,Dale Mellington,4,"Day143, Day156"
+Alwen Lyons,bug,Davis,4,Day143
+Alwen Lyons,bug,Mark,4,Day143
+Alwen Lyons,bug,Ms Meadows,4,Day143
+Alwen Lyons,bug,Seema Misra,4,Day143
+Ms Sewell,bug,Vennells,4,Day143
+Alwen Lyons,bug,Cameron Freeman,4,"Day143, Day152"
+Lesley Sewell,bug,Ms Sewell,4,Day143
+Davis,bug,Vennells,3,Day143
+Ms Sewell,bug,Seema Misra,3,Day143
+Davis,bug,Ms Sewell,3,Day143
+Ms Meadows,bug,Vennells,3,Day143
+Mark,bug,Vennells,3,Day143
+Lesley Sewell,bug,Mark,3,Day143
+Lesley Sewell,bug,Ms Meadows,3,Day143
+Lesley Sewell,bug,Seema Misra,3,Day143
+Dale Mellington,bug,Vennells,3,"Day143, Day156"
+Mark,bug,Ms Sewell,3,Day143
+Davis,bug,Lesley Sewell,3,Day143
+Dale Mellington,bug,Lesley Sewell,3,"Day143, Day156"
+Seema Misra,bug,Vennells,3,Day143
+Dale Mellington,bug,Ms Sewell,3,"Day143, Day156"
+Alwen Lyons,shortfall,Joe,3,"Day143, Day152"
+Cameron Freeman,bug,Vennells,3,"Day143, Day152"
+Cameron Freeman,bug,Ms Sewell,3,"Day143, Day152"
+Ian,shortfall,Joe,3,Day152
+Ian Henderson,shortfall,Joe,3,Day152
+Cameron Freeman,bug,Lesley Sewell,3,"Day143, Day152"
+Ms Meadows,bug,Ms Sewell,3,Day143
+Susan Harding,suspense account,TC,2,"Day117, Day152"
+Ms Harding,suspense account,TC,2,"Day152, Day156"
+Ms Harding,suspense account,Susan Harding,2,"Day117, Day156"
+Jeninson,suspense account,TC,2,"Day152, Day156"
+Ian Henderson,mediation scheme,Ms Perkins,2,Day152
+Jeninson,suspense account,Susan Harding,2,"Day117, Day156"
+Ms Perkins,mediation scheme,Wynne,2,"Day143, Day152"
+Ian Henderson,mediation scheme,Susan Crichton,2,"Day143, Day152"
+Ian Henderson,mediation scheme,Wynne,2,"Day143, Day152"
+Ms Perkins,mediation scheme,Susan Crichton,2,"Day143, Day152"
+Bentley Johnson,suspense account,TC,2,"Day152, Day156"
+Susan Crichton,mediation scheme,Wynne,2,Day143
+Alice,audit,Global Head of Investigations,2,"Day143, Day152"
+Alice,audit,Marine Drive,2,"Day143, Day156"
+Alice,audit,Ron,2,Day143
+Alice,audit,Vennells,2,Day143
+Global Head of Investigations,audit,Marine Drive,2,"Day152, Day156"
+Global Head of Investigations,audit,Ron,2,"Day143, Day152"
+Global Head of Investigations,audit,Vennells,2,"Day143, Day152"
+Marine Drive,audit,Ron,2,"Day143, Day156"
+Marine Drive,audit,Vennells,2,"Day143, Day156"
+Jeninson,suspense account,Ms Harding,2,Day156
+Castleton,error,Pinder,2,Day156
+Bentley Johnson,suspense account,Susan Harding,2,"Day117, Day156"
+Bentley Johnson,suspense account,Ms Harding,2,Day156
+Cameron Freeman,bug,Dale Mellington,2,"Day152, Day156"
+Cameron Freeman,bug,Davis,2,"Day143, Day152"
+Cameron Freeman,bug,Mark,2,"Day143, Day152"
+Cameron Freeman,bug,Ms Meadows,2,"Day143, Day152"
+Cameron Freeman,bug,Seema Misra,2,"Day143, Day152"
+Dale Mellington,bug,Davis,2,"Day143, Day156"
+Dale Mellington,bug,Mark,2,"Day143, Day156"
+Dale Mellington,bug,Ms Meadows,2,"Day143, Day156"
+Dale Mellington,bug,Seema Misra,2,"Day143, Day156"
+Davis,bug,Mark,2,Day143
+Davis,bug,Ms Meadows,2,Day143
+Davis,bug,Seema Misra,2,Day143
+Mark,bug,Ms Meadows,2,Day143
+Mark,bug,Seema Misra,2,Day143
+Ms Meadows,bug,Seema Misra,2,Day143
+Alwen Lyons,shortfall,Ian,2,"Day143, Day152"
+Alwen Lyons,shortfall,Ian Henderson,2,"Day143, Day152"
+Ian,shortfall,Ian Henderson,2,Day152
+Bentley Johnson,suspense account,Jeninson,2,Day156
+Ron,audit,Vennells,2,Day143

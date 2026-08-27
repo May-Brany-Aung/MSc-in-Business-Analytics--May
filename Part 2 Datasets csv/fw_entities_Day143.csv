@@ -1,0 +1,2092 @@
+sentence_index,entity_raw,entity_normalised,category,sentence_text
+0,Beer,Beer,Individual,"Yes, Mr. Beer."
+2,Vennells,Vennells,Individual,"Good morning, Ms. Vennells."
+3,Beer,Beer,Individual,"Good morning, Mr. Beer."
+6,Deloitte,Deloitte,Organisation,"like first to look at the process by which Second Sight were chosen and Deloitte were
+not to conduct an investigation."
+9,Simon Baker,Simon Baker,Individual,"And if we look at the foot of the page, there's an email from Simon Baker."
+11,Susan Crichton,Susan Crichton,Individual,To Susan Crichton and Lesley Sewell of the 6th of June 2012.
+11,Lesley Sewell,Lesley Sewell,Individual,To Susan Crichton and Lesley Sewell of the 6th of June 2012.
+12,Susan Leslie,Susan Leslie,Individual,"And he says, Susan Leslie attached is Ron's proposal."
+12,Ron,Ron,Individual,"And he says, Susan Leslie attached is Ron's proposal."
+13,Alice,Alice,Individual,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+13,Paula,Vennells,Individual,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+13,Ron,Ron,Individual,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+13,Deloitte,Deloitte,Organisation,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+16,Deloitte,Deloitte,Organisation,"I couldn't recall it at the time and
+I think I say in my statement that the Deloitte work which was named Project Spire was not
+something that I remembered but I can see that there were those two alternatives being
+discussed."
+16,Project Spire,Project Spire,Organisation,"I couldn't recall it at the time and
+I think I say in my statement that the Deloitte work which was named Project Spire was not
+something that I remembered but I can see that there were those two alternatives being
+discussed."
+17,Deloitte,Deloitte,Organisation,"Can you remember the distinction between them, i.e. what was proposed to be done by a second
+side and what was to be done by Deloitte?"
+21,the Horizon System,the Horizon System,Organisation,The Project SPIRE document is a forensic investigation of the Horizon System.
+22,the Horizon System,the Horizon System,Organisation,"And by, sorry to interrupt, by a forensic investigation of the Horizon System, is that
+captured by these words here, a forensic audit?"
+24,the Horizon System,the Horizon System,Organisation,I would have said a detailed investigation of the Horizon System.
+33,Alice Perkins,Alice Perkins,Individual,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+33,Susan Crichton,Susan Crichton,Individual,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+33,Alwyn,Alwen Lyons,Individual,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+33,Simon Baker,Simon Baker,Individual,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+33,Deloitte,Deloitte,Organisation,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+33,Second Sight,Second Sight,Organisation,"And do you see in the box that's at the bottom of the screen there, it's recorded that on
+the 7th of June 2012, a meeting is held between you, Alice Perkins, Susan Crichton, Alwyn
+lines in Simon Baker where the Deloitte and Second Sight proposals are discussed and Second Sight was chosen as the preferred supplier."
+34,Deloitte,Deloitte,Organisation,"Why was Second Sight proposal preferred to
+that of Deloitte?"
+35,Deloitte,Deloitte,Organisation,"I think because of what I just said earlier, from my own recollection is I felt very strongly
+that we needed an organization who would be able to work well
+with sub-postmasters, I was concerned that any one
+of the big four, Deloitte being one of them,
+may have come across two corporates
+and wouldn't necessarily have had
+the understanding of running a post office
+in small retail businesses."
+46,Horizon,Horizon,Technical System,"Rather than auditing the Horizon system as a whole?
+the case in terms of my view today, I don't believe we went through that particular angle
+of discussion in the meeting."
+48,Horizon,Horizon,Technical System,"What would you say to the suggestion that a deliberate choice was made to pick
+a proposal that was much narrower in scope, that only looked at a sample of past cases
+rather than auditing the Horizon system as a whole?"
+51,Deloitte,Deloitte,Organisation,"You agree, I think, cutting to the chase, that it would have been preferable, looking
+back now, had Deloitte been chosen, because their proposal may or even would have brought
+to the surface, if carried through to its conclusion, many of the issues that were subsequently
+discovered."
+54,Deloitte,Deloitte,Organisation,"Whether Deloitte would
+in fact have surfaced some of the other important areas that Second Sight did, I don't know,
+because I think one of the other outcomes of this has been the right decision was looking
+at the contract, and that may not have surfaced through the Deloitte work, which was particularly
+focused on the system itself."
+54,Sight,Second Sight,Organisation,"Whether Deloitte would
+in fact have surfaced some of the other important areas that Second Sight did, I don't know,
+because I think one of the other outcomes of this has been the right decision was looking
+at the contract, and that may not have surfaced through the Deloitte work, which was particularly
+focused on the system itself."
+55,Second Sight,Second Sight,Organisation,"Can we look, please, at the terms of reference, or at least an early copy of the terms of
+reference that were settled for Second Sight, poll 3096576."
+59,Second Sight,Second Sight,Organisation,"Can you see that the proposal is for a case review, and the case review will include the
+following tasks, said Second Sight, selecting a representative sample of cases that have
+led to prosecutions, court-appointed restitution."
+60,Horizon,Horizon,Technical System,"The sample needs to cover cases where defendants
+claim they didn't take any cash, where assertions have been made that the system, i.e. Horizon,
+caused the shortage, including old and new versions of Horizon, if possible, and which
+have been taken up by MPs."
+61,Horizon,Horizon,Technical System,"And then if you look at the last or the second to last bullet point, study and selectively
+test the Horizon system in order to find any black hole, program bug, et cetera, that might
+have caused mysterious shortages."
+62,Horizon,Horizon,Technical System,"What's described there, selecting a representative sample of cases that led to prosecutions or
+court-appointed restitutions and then study and selectively test the Horizon system in
+order to find bugs for shorthand that may have caused mysterious shortages."
+77,the Court of Appeal,the Court of Appeal,Organisation,"Right, okay.
+in the events which happened, i.e. over time, would you agree that if what is described
+here in those two bullet points that I have identified had in fact been undertaken, again,
+there is, to use the may word, a possibility that the decade that followed until faults
+in Horizon and the miscarriages of justice identified by the Court of Appeal may have
+been discovered earlier?"
+79,Susan Crichton,Susan Crichton,Individual,"I saw in the inquiry documentation that there is a piece
+of advice that Susan Crichton sought from Richard Morgan, QC, where he said that he
+thought that the advice was that the post office really shouldn't get into this at
+at all, because it would be a no-win situation."
+79,Richard Morgan,Richard Morgan,Individual,"I saw in the inquiry documentation that there is a piece
+of advice that Susan Crichton sought from Richard Morgan, QC, where he said that he
+thought that the advice was that the post office really shouldn't get into this at
+at all, because it would be a no-win situation."
+90,Richard Morgan's,Richard Morgan's,Individual,"Yes, yes.
+Known about Richard Morgan's advice,
+you may have approached things differently in what way?"
+93,the Post Office,Post Office,Organisation,"Let's look at what the Post Office did in relation, in particular, to criminal cases."
+97,Alice Perkins,Alice Perkins,Individual,"If we look at the foot of the page, please.
+There is an email from Alice Perkins of the 9th of June, 9.36, to you."
+98,Alwyn,Alwen Lyons,Individual,"And she says, following
+a conversation with Alwyn yesterday, given I'm away for a few days, I thought I should
+let you know before I went where I stand on which cases should be in or out of this review."
+109,Paula,Vennells,Individual,"Yes.
+little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+came to light with the list of MP cases was that they included the Mishra, I think that's
+Seema Misra, you will remember the case and the publicity."
+109,Susan,Susan Crichton,Individual,"Yes.
+little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+came to light with the list of MP cases was that they included the Mishra, I think that's
+Seema Misra, you will remember the case and the publicity."
+109,Alice,Alice,Individual,"Yes.
+little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+came to light with the list of MP cases was that they included the Mishra, I think that's
+Seema Misra, you will remember the case and the publicity."
+109,Mishra,Mishra,Individual,"Yes.
+little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+came to light with the list of MP cases was that they included the Mishra, I think that's
+Seema Misra, you will remember the case and the publicity."
+109,Seema Misra,Seema Misra,Individual,"Yes.
+little bit further up or when replies to you, and I think to you alone, Paula, in case Susan
+doesn't pick this up, but she's in Berlin and before you speak to Alice, the issue that
+came to light with the list of MP cases was that they included the Mishra, I think that's
+Seema Misra, you will remember the case and the publicity."
+112,Susan,Susan Crichton,Individual,"Susan's anxiety, and she raised this at the meeting
+with Alice before you joined, was whether now contacting her
+to tell her we review the case would be a red rag to a bull."
+112,Alice,Alice,Individual,"Susan's anxiety, and she raised this at the meeting
+with Alice before you joined, was whether now contacting her
+to tell her we review the case would be a red rag to a bull."
+113,Alice,Alice,Individual,Alice feels this is the business pushing back unnecessarily.
+116,Susan,Susan Crichton,Individual,"Susan's getting external advice on the effect
+that this would have on cases which have
+been brought through the courts."
+118,Alice Perkins,Alice Perkins,Individual,"Did you agree with Alice Perkins that all cases should
+be included in the independent review, even if they involved criminal convictions?"
+120,Alice Perkins,Alice Perkins,Individual,"Did you agree with Alice Perkins that the business was pushing back unnecessarily against
+that?"
+122,Alice,Alice,Individual,"I think this is, so I, the bit of admin that we skipped over is I say that I'll call Alice,
+which I did, and I think she explained to me the conversation that she had had."
+125,Susan,Susan Crichton,Individual,"Well, the only thing that I can think is relating back to this piece of advice that Susan sought
+from Richard Morgan, which was very clear advice to her, and one assumes that she would
+have – she was in a meeting, she discussed it in a meeting, and one assumes that that
+must have alerted her to maybe needing to take a different approach with cases like
+Mrs. Miserice, for instance, but I wasn't involved in those conversations."
+125,Richard Morgan,Richard Morgan,Individual,"Well, the only thing that I can think is relating back to this piece of advice that Susan sought
+from Richard Morgan, which was very clear advice to her, and one assumes that she would
+have – she was in a meeting, she discussed it in a meeting, and one assumes that that
+must have alerted her to maybe needing to take a different approach with cases like
+Mrs. Miserice, for instance, but I wasn't involved in those conversations."
+125,Miserice,Miserice,Individual,"Well, the only thing that I can think is relating back to this piece of advice that Susan sought
+from Richard Morgan, which was very clear advice to her, and one assumes that she would
+have – she was in a meeting, she discussed it in a meeting, and one assumes that that
+must have alerted her to maybe needing to take a different approach with cases like
+Mrs. Miserice, for instance, but I wasn't involved in those conversations."
+126,Susan,Susan Crichton,Individual,"And there is a further pushback, I can't remember if it's before this or after, where the terms
+of reference which are prepared by, again, I think, Susan, refer to defence documents,
+and Alice comes back and says, no, it should be all of the documentation."
+126,Alice,Alice,Individual,"And there is a further pushback, I can't remember if it's before this or after, where the terms
+of reference which are prepared by, again, I think, Susan, refer to defence documents,
+and Alice comes back and says, no, it should be all of the documentation."
+127,Susan Crichton,Susan Crichton,Individual,"So, the business here, you take pushing back unnecessarily, you take to mean shorthand
+for Susan Crichton?"
+129,Susan Crichton,Susan Crichton,Individual,I think it was Susan Crichton and Hugh Flemington who were at the meeting.
+129,Hugh Flemington,Hugh Flemington,Individual,I think it was Susan Crichton and Hugh Flemington who were at the meeting.
+130,Alice,Alice,Individual,"It says that this has happened, it's Alice's view that this has happened throughout the
+process."
+131,Alice,Alice,Organisation,"Was that a view that you were aware of, that the business was pushing back unnecessarily
+against a review throughout the process?
+Not until I spoke to Alice, which I did, I think,
+on the Saturday morning."
+134,Misra,Misra,Individual,"Did you think that Mrs. Misra's case
+should be included in an independent review?"
+137,Crichton,Crichton,Individual,"Did you share Miss Crichton's concerns recorded here
+that even contacting Miss Misra would be a red rag to a bull?"
+137,Misra,Misra,Organisation,"Did you share Miss Crichton's concerns recorded here
+that even contacting Miss Misra would be a red rag to a bull?"
+139,Alwyn,Alwen Lyons,Individual,"Well, clearly I did in the sense that Alwyn mentions it in the final line on this email."
+141,Susan,Susan Crichton,Individual,"If Susan was seeking advice on something
+of a legal nature, A, I would expect her to do that, and then I would listen to whatever
+that advice was."
+142,SEMA,SEMA,Organisation,"Do you know what external advice the post office did take regarding the effect of including
+cases like SEMA misers in the independent review?"
+144,Richard Morgan,Richard Morgan,Individual,I certainly didn't see the Richard Morgan advice.
+149,P,P,Individual,"Have you got a date readily to hand to remind me
+of when that was, Mr. P?"
+156,"Richard
+Morgan Casey","Richard
+Morgan Casey",Individual,"Did you and therefore the board not take the advice given, as you now know, by Richard
+Morgan Casey into account in deciding the scope of Second Sight's review?"
+156,Sight,Second Sight,Organisation,"Did you and therefore the board not take the advice given, as you now know, by Richard
+Morgan Casey into account in deciding the scope of Second Sight's review?"
+157,Alice Perkins,Alice Perkins,Individual,"No, I don't believe, you would have to ask Alice Perkins, but I don't believe that Alice
+as Perkins, all the board knew of that advice, but Susan had had a conversation with Alice
+that I was not involved in, so it's possible it was shared in that meeting, but my understanding
+is not."
+157,Alice,Alice,Individual,"No, I don't believe, you would have to ask Alice Perkins, but I don't believe that Alice
+as Perkins, all the board knew of that advice, but Susan had had a conversation with Alice
+that I was not involved in, so it's possible it was shared in that meeting, but my understanding
+is not."
+157,Susan,Susan Crichton,Individual,"No, I don't believe, you would have to ask Alice Perkins, but I don't believe that Alice
+as Perkins, all the board knew of that advice, but Susan had had a conversation with Alice
+that I was not involved in, so it's possible it was shared in that meeting, but my understanding
+is not."
+161,David,David,Individual,"This is a minute,
+I think, from, as we can see, David, Oliver, to you, copied to others, of the 5th of February
+2013."
+161,Oliver,Oliver,Individual,"This is a minute,
+I think, from, as we can see, David, Oliver, to you, copied to others, of the 5th of February
+2013."
+162,David Oliver,David Oliver,Individual,"Can you explain who David Oliver was, please?
+David Oliver, I believe, was on a short-term contract, maybe a year or two."
+163,PA Consulting,PA Consulting,Organisation,"He was either
+a consultant with PA Consulting or had left them and came to the Post Office and was working
+on the Project Sparrow work."
+163,the Post Office,Post Office,Organisation,"He was either
+a consultant with PA Consulting or had left them and came to the Post Office and was working
+on the Project Sparrow work."
+171,Second Sight,Second Sight,Organisation,"Can we look at page two, please?
+And scroll down to what was the third option, plan C, a contingency plan to replace Second Sight if they refuse to work on the scheme under terms which the post office find acceptable."
+172,Grant Thornton,Grant Thornton,Individual,"Engagement of a professional accountancy firm such as Grant Thornton to replace Second Sight
+entirely."
+172,Second Sight,Second Sight,Organisation,"Engagement of a professional accountancy firm such as Grant Thornton to replace Second Sight
+entirely."
+173,Sight,Second Sight,Organisation,"It's possible that Second Sight will refuse to work under the proposed terms
+of engagement from the post office and that they may attempt to insist terms that neither
+you or the board can accept."
+179,SecondSight,SecondSight,Organisation,"By this time, was it anticipated that SecondSight
+would refuse to work under the terms of engagement
+that the post office required?"
+185,Sight,Second Sight,Organisation,"On page one, please.
+A was clarification of Second Sight's engagement."
+191,MPs,MPs,Organisation,"It would have been difficult to stand somebody else up, I think, and anyway, they had the
+commitment of Lord Arbuthnot and the MPs."
+196,Bates,Alan Bates,Individual,"If we just look at the foot of page one,
+we'll see an email from Mr. Bates to you of the 21st of May 2013."
+197,Paula,Vennells,Individual,"And he says, hello, Paula."
+198,James R. Buffnot's,James R. Buffnot's,Individual,"a while since we met at James R. Buffnot's office, but at that time, you did say that
+if I had any concerns, I should contact you directly, hence the reason for this email."
+199,Kay Linnell,Kay Linnell,Individual,Would it be possible for Kay Linnell and I to meet you?
+200,Kay,Kay Lynell,Individual,"You'll recall that Kay is an
+independent forensic accountant who, on behalf of JFSA, has been monitoring the work Second
+Sight has been undertaking."
+200,Sight,Second Sight,Organisation,"You'll recall that Kay is an
+independent forensic accountant who, on behalf of JFSA, has been monitoring the work Second
+Sight has been undertaking."
+205,Kay,Kay Lynell,Individual,I believe this is a view shared by Kay.
+206,Bates,Alan Bates,Individual,"At this point in time, did you understand why Mr. Bates was saying that it was feasible
+that many prosecutions that the post office had undertaken should never have taken place?"
+213,Alan,Alan,Individual,"I was concerned to get the email from Alan, certainly."
+215,Bates,Alan Bates,Individual,"Is that how you would have thought of it, that this is just Mr Bates saying something
+that he's always said?"
+217,Bates,Alan Bates,Individual,"I think that I went back to my team and said, because I had said to Mr Bates that if he
+needed to, he should get in touch."
+219,Bates,Alan Bates,Individual,I've offered to meet Mr Bates.
+228,Susan Crichton,Susan Crichton,Individual,"At this stage I would have talked to whoever was leading the work on this, so Susan Crichton,
+Alwen Lyons, I can't remember who else."
+228,Alwen Lyons,Alwen Lyons,Individual,"At this stage I would have talked to whoever was leading the work on this, so Susan Crichton,
+Alwen Lyons, I can't remember who else."
+229,Simon Baker,Simon Baker,Individual,"Simon Baker, presumably David Oliver,
+whose name we've seen."
+229,David Oliver,David Oliver,Individual,"Simon Baker, presumably David Oliver,
+whose name we've seen."
+230,Bates,Alan Bates,Individual,"And so were you then getting feedback
+on the state of the investigation by second side
+in order to be able to say, essentially, Mr. Bates,
+you're jumping the gun?"
+231,Alan,Alan,Individual,"I'm almost certain that when I got Alan's note
+that I went to the team and said, I've had this note."
+232,Bates,Alan Bates,Individual,"what's the current status, and as I say here, I would like to meet with Mr. Bates."
+235,Deloitte,Deloitte,Organisation,"Do you know how it came about that what started as a debate between the choice of Deloitte
+conducting a full forensic audit of Horizon, Second Sight conducting a review of past cases
+that would be a representative sample but include some testing of the integrity of the
+Horizon system ended up with focusing on three cases?"
+235,Horizon,Horizon,Technical System,"Do you know how it came about that what started as a debate between the choice of Deloitte
+conducting a full forensic audit of Horizon, Second Sight conducting a review of past cases
+that would be a representative sample but include some testing of the integrity of the
+Horizon system ended up with focusing on three cases?"
+236,Sight,Second Sight,Organisation,"My recollection is that the team, what I can recall is frustration from the team that the
+work Second Sight was doing had moved away from focusing on individual cases to development
+of themes, and what they were trying to do at this stage, and second side as well, to
+be fair, was to try and corral this back into a piece of work which could have a report
+which could be fed back to the MPs before we got to recess in just a small number of
+weeks after this."
+240,Second Sight,Second Sight,Organisation,"My view is it was both because both Second Sight and the post office had a commitment
+to Lord Arbuthnot and the MPs to get some work out for people to look at and we were"
+243,Susan Crichton,Susan Crichton,Individual,"Were you aware of a view amongst the lawyers, and in particular Susan Crichton, that if
+we review a large number of cases, that might open the floodgates to damages claims by some
+postmasters?
+No.
+And that a less risky approach would be to just pick the cases in which the MPs happen
+to be interested in."
+243,MPs,MPs,Organisation,"Were you aware of a view amongst the lawyers, and in particular Susan Crichton, that if
+we review a large number of cases, that might open the floodgates to damages claims by some
+postmasters?
+No.
+And that a less risky approach would be to just pick the cases in which the MPs happen
+to be interested in."
+245,Richard Morgan Casey,Richard Morgan Casey,Individual,"Can we go to the, this is slightly out of order, but it's in order to answer the Chairman's
+question from earlier, the Richard Morgan Casey advice."
+251,Alice Perkins,Alice Perkins,Individual,"The only possible, the only person who could possibly be aware might have been
+Alice Perkins in that conversation Susan had had."
+251,Susan,Susan Crichton,Individual,"The only possible, the only person who could possibly be aware might have been
+Alice Perkins in that conversation Susan had had."
+256,Horizon,Horizon,Technical System,"In fact, a decision had been made, it seems
+already at the meeting of the 7th of June 2012 not to instruct an expert to prepare
+a report, a forensic audit of the Horizon system, hadn't it?"
+258,Morgan,Morgan,Individual,"The note records what will it achieve, and I'm not going to attribute any of these words
+to anyone, because when he gave evidence, Mr. Morgan took the point that it's not clear
+that it's him speaking"
+268,Horizon,Horizon,Technical System,"If the findings are that there are no issues with Horizon, people will see that as a white
+wash."
+270,Shoesmiths,Shoesmiths,Organisation,"And Access Legal, that's part of Shoesmiths, will start to pursue the civil cases they're
+currently sitting on."
+277,Deloitte,Deloitte,Organisation,"We best not ask for the Deloitte report because
+if it discovers too much we may face damages claims."
+286,Alwen Lyons,Alwen Lyons,Individual,"And if we scroll down and look at the text, the message from Alwen Lyons, it's dated the
+28th of June 2013."
+289,Lyon,Lyon,Individual,"But if you look at the fourth bullet point, Miss Lyon says to you that she is going to
+spend time with Janet."
+289,Janet,Janet,Individual,"But if you look at the fourth bullet point, Miss Lyon says to you that she is going to
+spend time with Janet."
+290,Janet Walker,Janet Walker,Individual,Is that Janet Walker?
+292,Janet Walker,Janet Walker,Individual,And remind us who Janet Walker was.
+293,Janet Walker,Janet Walker,Individual,Janet Walker was the executive assistant for Lord Al Buthnott.
+293,Al Buthnott,Al Buthnott,Individual,Janet Walker was the executive assistant for Lord Al Buthnott.
+297,Rod,Rod,Organisation,"I do think this is the right place to share the bugs we found and how we have dealt with
+them, which is why the report from Rod, stroke Leslie, checked by legal and Mark is important."
+297,Leslie,Leslie,Individual,"I do think this is the right place to share the bugs we found and how we have dealt with
+them, which is why the report from Rod, stroke Leslie, checked by legal and Mark is important."
+297,Mark,Mark,Individual,"I do think this is the right place to share the bugs we found and how we have dealt with
+them, which is why the report from Rod, stroke Leslie, checked by legal and Mark is important."
+298,Janet,Janet,Individual,My objective is to get Janet to a place where she also wants the meeting to be canceled.
+299,Alice Perkins,Alice Perkins,Individual,"And then if we scroll up, please, we'll see your reply, um, sending on to Alice Perkins."
+300,Alice,Alice,Organisation,"Second paragraph, you'll see below Alice's, uh, Alwyn's proposed next steps, covers all
+the ground."
+300,Alwyn,Alwen Lyons,Individual,"Second paragraph, you'll see below Alice's, uh, Alwyn's proposed next steps, covers all
+the ground."
+301,Alwyn,Alwen Lyons,Individual,"Uh, Alwyn and I, third paragraph, are staying close, and I'm expecting an update later
+this afternoon, no need to bother you today."
+316,Sight,Second Sight,Organisation,"Whether that was true or not, I didn't check that was Second
+Sight, but what I was told is that the work was so far behind that Second Sight had yet
+to take account of the post office's input."
+319,Alwyn,Alwen Lyons,Individual,"By who?
+Alwyn certainly was one of the main people I spoke to, Susan and I think David Oliver,"
+319,Susan,Susan Crichton,Individual,"By who?
+Alwyn certainly was one of the main people I spoke to, Susan and I think David Oliver,"
+319,David Oliver,David Oliver,Individual,"By who?
+Alwyn certainly was one of the main people I spoke to, Susan and I think David Oliver,"
+324,SecondSight,SecondSight,Organisation,"But were you told that SecondSight were trying to, in the words of the email, keep everyone
+happy?"
+325,KALIN-L,KALIN-L,Organisation,"I was told that, and I knew, I think, because we had agreed to fund KALIN-L to support the
+JFSA, I was told that they, I think, if I remember the timing correctly, that they had
+been asked by Lord Arbuthnot to keep the JFSA happy."
+328,Second Sight,Second Sight,Organisation,"Did you tell Second Sight that they were being unfair
+on the post office by not taking account of the evidence
+that the post office was giving to them?"
+333,Second Sight,Second Sight,Organisation,"Did you tell Second Sight about the post office's concerns about its approach or alleged approach
+of keeping the GFSA happy?"
+333,GFSA,GFSA,Organisation,"Did you tell Second Sight about the post office's concerns about its approach or alleged approach
+of keeping the GFSA happy?"
+338,Second Sight,Second Sight,Organisation,"This whole point was to look at the sub-postmasters' cases, but I think the team would undoubtedly
+has said to Second Sight, there is more information here to be taken account of."
+342,Simon Baker,Simon Baker,Individual,An email between Simon Baker and Second Sight with all the lions copied in.
+342,Second Sight,Second Sight,Organisation,An email between Simon Baker and Second Sight with all the lions copied in.
+345,Ron,Ron,Individual,"Ron, just to ensure that we're on the same page, Paula would like to say we've agreed
+the following with SecondSide."
+345,Paula,Vennells,Individual,"Ron, just to ensure that we're on the same page, Paula would like to say we've agreed
+the following with SecondSide."
+345,SecondSide,SecondSide,Organisation,"Ron, just to ensure that we're on the same page, Paula would like to say we've agreed
+the following with SecondSide."
+350,Second Sight,Second Sight,Organisation,"How did it come about that by late May, the post office was proposing that by looking
+at two to three cases, Second Sight could answer the very big question, have systemic defects
+in the horizon resulted in the wrongful conviction or suspension of sub-postmasters?"
+352,Second Sight,Second Sight,Organisation,"So whether as a result of the broader work, so Second Sight had been working."
+354,the Second Sight Injury Report,the Second Sight Injury Report,Organisation,"When the Second Sight Injury Report was published, one of its initial conclusions was that so
+So far, no systemic issues had been found with the Horizon system."
+354,Horizon,Horizon,Technical System,"When the Second Sight Injury Report was published, one of its initial conclusions was that so
+So far, no systemic issues had been found with the Horizon system."
+365,Horizon,Horizon,Technical System,"So not cases that would have presented the post office in the best light, but cases which
+which could have been used to challenge the Horizon system and then do that work through."
+373,Paula,Vennells,Individual,Paula would like to say the following.
+381,Vennells,Vennells,Individual,"My only-
+Isn't that exactly what happened, Ms. Vennells, that the Second Sight report addressed a very
+small number of cases?"
+384,Second Sight,Second Sight,Organisation,"There is no way the post office, that first of all there is no way that I would have wanted
+to persuade Second Sight on something that they were not prepared to say and I don't
+believe Second Sight would ever have agreed to that."
+386,the Post Office,Post Office,Organisation,Isn't that what the Post Office wanted to drive them to?
+388,The Post Office,Post Office,Organisation,"The Post Office most certainly wanted the reassurance that the Horizon system could
+be relied upon."
+388,Horizon,Horizon,Technical System,"The Post Office most certainly wanted the reassurance that the Horizon system could
+be relied upon."
+392,Second Sight,Second Sight,Organisation,"Did you receive or the board receive any advice as to the appropriate scope of an investigation
+by Second Sight as to the nature and extent of any investigation that would be required
+in order to determine whether there were systemic defects in Horizon."
+393,Board,Board,Organisation,"The only information I and the Board had was contained in the terms of reference of the
+work the Second Sight were doing, which is what we looked at earlier."
+397,Sight,Second Sight,Organisation,Second Sight didn't produce the report that Project Spire under Deloitte could have produced.
+397,Project Spire,Project Spire,Organisation,Second Sight didn't produce the report that Project Spire under Deloitte could have produced.
+397,Deloitte,Deloitte,Organisation,Second Sight didn't produce the report that Project Spire under Deloitte could have produced.
+401,"Rood, Arbuthnot","Rood, Arbuthnot",Organisation,"That was the initial conversation with Rood, Arbuthnot and Alice Perkins."
+401,Alice Perkins,Alice Perkins,Individual,"That was the initial conversation with Rood, Arbuthnot and Alice Perkins."
+402,Baker,Baker,Individual,"Can we move forwards, please?
+Before we do, Mr. Baker, can I just be clear about what you are saying about this email,
+Ms. Vennells?"
+402,Vennells,Vennells,Individual,"Can we move forwards, please?
+Before we do, Mr. Baker, can I just be clear about what you are saying about this email,
+Ms. Vennells?"
+403,Baker,Baker,Individual,"As I read it, it is a request by Mr. Baker to Mr. Warmington that four matters are agreed,
+and it reads as if he is making that request on your behalf."
+403,Warmington,Ron Warmington,Individual,"As I read it, it is a request by Mr. Baker to Mr. Warmington that four matters are agreed,
+and it reads as if he is making that request on your behalf."
+407,Baker,Baker,Individual,"So what is your evidence to me about whether Mr. Baker was accurately representing what
+you had told him in this email?"
+408,Suin,Suin,Individual,"Firstly, Suin, I don't recall the conversation
+with Simon Baker at all."
+408,Simon Baker,Simon Baker,Individual,"Firstly, Suin, I don't recall the conversation
+with Simon Baker at all."
+409,Simon,Simon,Individual,I rarely met with Simon.
+410,Susan,Susan Crichton,Individual,"And if I did, it was usually with Susan or Alwyn."
+410,Alwyn,Alwen Lyons,Individual,"And if I did, it was usually with Susan or Alwyn."
+415,Horizon,Horizon,Technical System,"We think that actually we will get two to three MP cases done, and I may well have said,
+will that help us answer the question about other systemic defects in the Horizon system?
+I wouldn't have known personally from any of the, because I wasn't involved in the work
+or conversations at Second Sight, point four about whether they could have said no or not
+at this stage."
+416,Simon Baker,Simon Baker,Individual,"So I can only assume that has come from a conversation with Simon Baker and or somebody
+else."
+419,James R. Buffnot,James R. Buffnot,Individual,"This is a briefing for you, for the meeting that was proposed to be held between you and
+James R. Buffnot on the 23rd of May."
+426,Second Sight,Second Sight,Organisation,"Firstly, does that represent your recollection of the post office's expectation
+when Second Sight were being instructed?"
+427,Arbuthnot,James Arbuthnot,Individual,"I don't remember today, but we were talking to Lord Arbuthnot and I think two or three
+other MPs, so that's entirely possible."
+428,Sight,Second Sight,Organisation,"Do you know why it was the post office's expectation that a smallish number of cases, six to 12,
+would be the limit of Second Sight's review?"
+430,James R. Buffnot,James R. Buffnot,Individual,"Discussed by who?
+With James R. Buffnot and the team working on it."
+447,Second Sight,Second Sight,Organisation,"No, I don't think that was my understanding at any time throughout this, and the inquiry
+will see there is further documentation where I have, I'm exhorting the post office and
+Second Sight to move through the cases because I wanted the cases looked at."
+456,Horizon,Horizon,Technical System,"No, I think what happened is that when the interim report was published and it said it
+was an interim report and so far it had found no systemic issues with Horizon, that was
+reported sometimes in communications saying so far they had found none, and there is documentation
+where I'm asked about, or maybe I offered the view that actually the qualification was
+so far."
+460,James Arbuthnot,James Arbuthnot,Individual,"James Arbuthnot
+to request Second Sight to complete the investigations on two to three MPs cases, selecting the ones
+they feel best indicate systemic problems."
+460,Second Sight,Second Sight,Organisation,"James Arbuthnot
+to request Second Sight to complete the investigations on two to three MPs cases, selecting the ones
+they feel best indicate systemic problems."
+466,James R. Buthnodt,James R. Buthnodt,Individual,"This was a briefing to you of what you should say and seek to achieve in a meeting with
+James R. Buthnodt."
+469,James R. Buthnodt,James R. Buthnodt,Individual,"Had you signed up to this idea by this time at least then that James R. Buthnodt should
+be asked to persuade Second Sight to wind their investigation up on two to three cases,
+and those two to three cases would answer the question, have systemic defects resulted
+in the wrongful conviction of sub-postmasters?"
+469,Second Sight,Second Sight,Organisation,"Had you signed up to this idea by this time at least then that James R. Buthnodt should
+be asked to persuade Second Sight to wind their investigation up on two to three cases,
+and those two to three cases would answer the question, have systemic defects resulted
+in the wrongful conviction of sub-postmasters?"
+474,James Arbuthnot,James Arbuthnot,Individual,"In readiness for the meeting with James Arbuthnot on the 23rd of May 2013, you signed up to
+the idea that he would be asked to persuade Second Sight or request Second Sight to wind
+their investigation up on the basis of two to three MP cases answering the question,
+systemic defects in Horizon resulted in the wrongful conviction of some postmasters?"
+474,Second Sight,Second Sight,Organisation,"In readiness for the meeting with James Arbuthnot on the 23rd of May 2013, you signed up to
+the idea that he would be asked to persuade Second Sight or request Second Sight to wind
+their investigation up on the basis of two to three MP cases answering the question,
+systemic defects in Horizon resulted in the wrongful conviction of some postmasters?"
+474,Horizon,Horizon,Technical System,"In readiness for the meeting with James Arbuthnot on the 23rd of May 2013, you signed up to
+the idea that he would be asked to persuade Second Sight or request Second Sight to wind
+their investigation up on the basis of two to three MP cases answering the question,
+systemic defects in Horizon resulted in the wrongful conviction of some postmasters?"
+478,MPs,MPs,Organisation,"My understanding was that this, we had made a commitment to
+the MPs and all the way through this I wanted all of the cases looked at."
+479,James Arbuthnot,James Arbuthnot,Individual,"We've seen now an email that attributes to you a suggestion that you wanted to agree
+this with James Arbuthnot and a speaking note or a briefing note saying the same thing?"
+481,Horizon,Horizon,Technical System,"Okay, they should focus on answering the question, have systemic defects in Horizon resulted
+on in the wrongful conviction of sub-postmasters by reference to two to three cases."
+493,Martin Edwards,Martin Edwards,Individual,An email from Martin Edwards.
+494,Edwards,Edwards,Individual,"Can you explain who Mr. Edwards was at this time, July 13th?"
+495,Ed,Ed,Individual,Ed was my Chief of Staff.
+506,Horizon,Horizon,Technical System,"In line with our discussion on Monday's board call,
+we understand they've not found any evidence yet of systemic issues with the Horizon system,
+and it should be noted that this is based on a detailed review of their four best cases
+in terms of compelling evidence."
+507,Horizon,Horizon,Technical System,"So, by this time, I think you had drawn a link between
+a review of a small number of cases, it's got up to four, and whether there were systemic
+issues with Horizon."
+510,Horizon,Horizon,Technical System,"What Second Sight were prepared to say that there were no systemic issues with Horizon
+generally on the basis of looking at four cases?"
+523,Second Sight,Second Sight,Organisation,"Was there a shared understanding between you and the post office team that were leading
+on the work with Second Sight as to what systemic issues meant."
+531,Vennells,Vennells,Individual,"Ms. Vennells, can we turn please to some documents that may provide some insight into your approach
+and decision making in relation to the post office's decision not to review all past
+convictions in the light of what was emerging from second sight."
+535,Lesley,Lesley Sewell,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+535,Saul,Saul,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+535,Martin Edwards,Martin Edwards,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+535,Mark Davis,Mark Davis,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+535,Alwyn Lyon,Alwyn Lyon,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+535,Susan Crichton,Susan Crichton,Individual,"Lesley, Saul, Martin Edwards, Mark Davis, Alwyn Lyon, Susan Crichton.
+Go back to the bottom of page one, please."
+537,Susan,Susan Crichton,Individual,"Susan, I need your thoughts on the note below, especially one and two, please, and the questions
+at the end of the mail."
+548,Royal Mail,Royal Mail,Organisation,"And then this, thirdly, our external lawyers review all prosecutions in the past 12 to
+18 months since the post office has been independent of Royal Mail in the light of the Second Sight
+findings."
+552,James R. Buffnot,James R. Buffnot,Individual,"It's
+the false accounting charge that James R. Buffnot was most concerned about."
+554,James R. Buffnot,James R. Buffnot,Individual,"We're grateful to the JFSA and
+James R. Buffnot for highlighting the issues."
+556,Alan Bates,Alan Bates,Individual,"So going back, and sorry, you say can we draft this into something I could send to Alan Bates?"
+560,Susan,Susan Crichton,Individual,"A last paragraph, Susan, would we ever ask the lawyers to consider reviewing past prosecutions?"
+568,Bates,Alan Bates,Individual,"I don't remember, and if I might just add in case there's any confusion, the description
+muddle-headed was one that Mr Bates had used."
+575,Alan Bates,Alan Bates,Individual,"And you have drawn them together and said, we've got the following, which is a variant,
+and you've said, can this be drawn up into a document that can be sent to Alan Bates?"
+582,Susan,Susan Crichton,Individual,It could only have been Susan.
+585,Alice Perkins,Alice Perkins,Individual,"What I was just trying to say is that the board had asked at some stage, but I'm not
+sure if it was at this point, whether the company, and this is also an Alice Perkins
+statement, had conducted any prosecutions which had relied solely on Horizon because
+there was a concern, clearly, because of the issues that were being raised by Lord Arbuthnot,
+that the Board didn't want to be taking prosecutions until the various investigations had been
+seen through."
+585,Horizon,Horizon,Technical System,"What I was just trying to say is that the board had asked at some stage, but I'm not
+sure if it was at this point, whether the company, and this is also an Alice Perkins
+statement, had conducted any prosecutions which had relied solely on Horizon because
+there was a concern, clearly, because of the issues that were being raised by Lord Arbuthnot,
+that the Board didn't want to be taking prosecutions until the various investigations had been
+seen through."
+585,Board,Board,Organisation,"What I was just trying to say is that the board had asked at some stage, but I'm not
+sure if it was at this point, whether the company, and this is also an Alice Perkins
+statement, had conducted any prosecutions which had relied solely on Horizon because
+there was a concern, clearly, because of the issues that were being raised by Lord Arbuthnot,
+that the Board didn't want to be taking prosecutions until the various investigations had been
+seen through."
+587,Susan,Susan Crichton,Individual,"If I have collated this from information from colleagues, that could only have come from
+Susan, I think."
+594,Royal Mail,Royal Mail,Organisation,"It says review all prosecutions in the past 12 to 18 months since the post office has
+been independent of Royal Mail."
+596,Board,Board,Organisation,"No, I think that is my point about the question that was raised in the Board, because the
+Board had only been in place since the Post Office had been independent of Royal Mail."
+596,"the
+Board","the
+Board",Organisation,"No, I think that is my point about the question that was raised in the Board, because the
+Board had only been in place since the Post Office had been independent of Royal Mail."
+596,the Post Office,Post Office,Organisation,"No, I think that is my point about the question that was raised in the Board, because the
+Board had only been in place since the Post Office had been independent of Royal Mail."
+596,Royal Mail,Royal Mail,Organisation,"No, I think that is my point about the question that was raised in the Board, because the
+Board had only been in place since the Post Office had been independent of Royal Mail."
+612,Mark Davis,Mark Davis,Individual,"We're going to come to the answers, the narrow answers, and essentially we're going to find
+out that Mark Davis, the PR guy, said it's very dangerous."
+614,MPs,MPs,Organisation,"I was asking the question to do this work the right way, and my understanding and acceptance
+of what was proposed, which was accepted by the MPs and everybody else involved, was that
+the mediation scheme was the right way through."
+615,CCRC,CCRC,Organisation,I think we see other documentation that sees cases go to the CCRC.
+616,the Court of Appeal,the Court of Appeal,Organisation,"There is documentation that says cases can't be resolved through mediation in the scheme
+and they would need to go through the Court of Appeal."
+638,Paula,Vennells,Individual,"Hi, Paula, could we have a word at some point today to discuss this, and specifically
+how far we go in terms of the wording below?"
+647,James Arbuthnot,James Arbuthnot,Individual,"It will also give James Arbuthnot a very strong case for asking for a parliamentary statement
+from BIS."
+647,BIS,BIS,Organisation,"It will also give James Arbuthnot a very strong case for asking for a parliamentary statement
+from BIS."
+650,Horizon,Horizon,Technical System,"It would lead to a very public narrative about the very nature of the business, raising questions
+about Horizon."
+652,Davis,Davis,Individual,"Do you agree that Mr Davis is here giving you personal advice on the extent to which
+past convictions are reviewed on the basis of the extent of the media coverage that each
+decision might generate?"
+654,Mark Davis,Mark Davis,Individual,"And the inquiry heard from Mark Davis last week, I think, where he explained, and that
+was my understanding at the time, that what he was trying to do was to minimize misinterpretation."
+666,Vennells,Vennells,Individual,"Hold on, Ms. Vennells."
+678,Davis,Davis,Individual,Did you remain in contact with Mr Davis after you left post office?
+683,Davies,Davies,Individual,"I had kept in touch with Mr. Davies for reasons that were very personal to him and I think
+he offered that advice at the time."
+684,Davies,Davies,Individual,To what extent did what Mr. Davies advised here affect your decision making?
+689,Mark,Mark,Individual,"Your reply, Mark, thanks for this."
+702,"James R.
+Buffnot","James R.
+Buffnot",Individual,"The second is to make sure we do address the concerns of James R.
+Buffnot and Alan Bates, mainly looking forwards."
+702,Alan Bates,Alan Bates,Individual,"The second is to make sure we do address the concerns of James R.
+Buffnot and Alan Bates, mainly looking forwards."
+703,"Alan
+Bates'","Alan
+Bates'",Individual,"We should be aware of Alan
+Bates' driver is really justice for the past, otherwise they will call for
+reopening cases."
+704,Alan Bates,Alan Bates,Individual,"It may be that we get to manage Alan Bates and James
+James R. Buffnot by playing on the go ballistic view, i.e. I'll meet him privately to hear
+his views about these cases, but we cannot refer to anything in relation to past convictions."
+704,"James
+James R. Buffnot","James
+James R. Buffnot",Individual,"It may be that we get to manage Alan Bates and James
+James R. Buffnot by playing on the go ballistic view, i.e. I'll meet him privately to hear
+his views about these cases, but we cannot refer to anything in relation to past convictions."
+717,Mark,Mark,Individual,"What you're saying here is you're right, Mark."
+728,the Court of Appeal,the Court of Appeal,Organisation,"And it was very clear that any cases that included criminal convictions would need to
+go through the Court of Appeal and the normal legal routes."
+748,Second Sight,Second Sight,Organisation,"Well, as I see it in simple terms, Second Sight began by investigating in the context
+of a number of cases."
+751,Second Sight,Second Sight,Organisation,"And I'm not sure as of this date, i.e., at or about the time when Second Sight was to
+produce its interim report, whether the discussions of how to deal with past cases was in the
+context simply of Second Sight moving forward with their investigations, or by that stage
+in the post office's mind, that was at an end
+and something new was emerging."
+754,Second Sight,Second Sight,Organisation,"So, Second Sight had done the work it had done up to the publication
+of the interim report."
+759,Susan,Susan Crichton,Individual,"At some stage, and as we were going through this, because it was an iterative process,
+people were contributing ideas as to how this might play out, I had a conversation with
+Susan, and this I remember very clearly because I can remember where it was."
+761,Susan,Susan Crichton,Individual,"and she called me and Susan suggested
+that a way of bringing, the trouble is I now know what didn't happen, but some of these
+cases or these cases to a conclusion would be to introduce mediation."
+764,Wynn,Wynn,Individual,"And the thing that I'm missing, Sir Wynn, in telling you all of that is if Susan knew,
+which of course she did"
+764,Susan,Susan Crichton,Individual,"And the thing that I'm missing, Sir Wynn, in telling you all of that is if Susan knew,
+which of course she did"
+767,Second Sight,Second Sight,Organisation,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+767,Fujitsu,Fujitsu,Organisation,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+767,the Court of Appeal,the Court of Appeal,Organisation,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+767,CCRC,CCRC,Organisation,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+768,Vennells,Vennells,Individual,"Ms. Vennells, can we look at page two of this document and scroll down?"
+771,Sight,Second Sight,Organisation,"There were conversations about whether Second Sight should or shouldn't, because there were
+concerns about the fact that this had run on too long and was way over budget, and there
+were, and this again is in many documents, there were concerns that their work was not
+at this stage sufficiently evidence-based."
+776,Sight,Second Sight,Organisation,"It doesn't at this stage, because we're in this process of evolution, say that Second Sight was..."
+779,James R. Buthnott,James R. Buthnott,Individual,"And I'm being frank with you that there were conversations about whether Second...
+There was criticism of the work that Second Sight had done, but there was equal understanding
+saying that they had the support of MPs, notably James R. Buthnott, and that we had committed
+to do that work, but it's a...
+Back to page one, please."
+784,Mark Davis,Mark Davis,Individual,I wouldn't take that steer on a legal matter from Mark Davis.
+785,Mark Davis,Mark Davis,Individual,"He clearly, he was talking
+about, and again in the time scales we're talking about, we're talking about publicity
+within the next couple of days as a report coming out, but I wouldn't have taken a decision
+on anything at all to do with legal matters from Mark Davis."
+790,Mark Davies,Mark Davies,Organisation,This is a separate chain remembering that Mark Davies had just replied to you.
+791,Lesley Sewell's,Lesley Sewell,Individual,"This is Lesley Sewell's reply to your email setting out your proposals, that she does
+include everyone on the chain and doesn't cut people out."
+792,Paula,Vennells,Individual,"Paula, just a couple of thoughts."
+797,Susan,Susan Crichton,Individual,"And from memory, Susan quoted, more than 500 cases in the last 10 years."
+801,Lesley Sewell's,Lesley Sewell,Individual,I would have read Lesley Sewell's email sent to me.
+802,the General Counsel,the General Counsel,Organisation,"I wouldn't take any decision
+on legal matters personally without the advice of the General Counsel and on something this
+significant as the Board."
+803,Simon Clarke's,Simon Clarke's,Individual,"We can see that you've had what the PR expert has been telling
+you to do about past convictions and hear the head of IT telling you, I think your position
+is that you did not see Simon Clarke's advices which address looking at past convictions
+until after the Court of Appeal Criminal Division disclosures in late 2020, early 2021."
+803,the Court of Appeal Criminal Division,the Court of Appeal Criminal Division,Organisation,"We can see that you've had what the PR expert has been telling
+you to do about past convictions and hear the head of IT telling you, I think your position
+is that you did not see Simon Clarke's advices which address looking at past convictions
+until after the Court of Appeal Criminal Division disclosures in late 2020, early 2021."
+807,Simon Clarke,Simon Clarke,Individual,"I had no side of the Simon Clarke advisers, no."
+808,Susan Crichton,Susan Crichton,Individual,"You tell us in your witness statement, that can come down, thank you, it's paragraph
+of 562, no need to turn it up, that you recall that you were told by Susan Crichton that
+due to advice from external lawyers, there was a need for a review to ensure that proper
+disclosure had been given in previous criminal cases."
+810,Lesley Sewell,Lesley Sewell,Individual,"You say that you had a conversation with Lesley Sewell in which she told you that the post
+office had been advised that the expert witness that the post office had used in criminal
+cases to give evidence about Horizon had failed to mention there were bugs in Horizon, including
+in the Seema Misra case."
+810,Horizon,Horizon,Technical System,"You say that you had a conversation with Lesley Sewell in which she told you that the post
+office had been advised that the expert witness that the post office had used in criminal
+cases to give evidence about Horizon had failed to mention there were bugs in Horizon, including
+in the Seema Misra case."
+815,Lesley Sewell,Lesley Sewell,Individual,"I remember that I, so I learned of it first from Lesley Sewell, not from Susan Crichton."
+815,Susan Crichton,Susan Crichton,Individual,"I remember that I, so I learned of it first from Lesley Sewell, not from Susan Crichton."
+816,Leslie,Leslie,Individual,What had happened is I passed Leslie in the corridor.
+818,Susan,Susan Crichton,Individual,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+818,Fujitsu,Fujitsu,Organisation,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+818,Miserers,Miserers,Individual,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+818,Leslie,Leslie,Individual,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+818,Legacy Horizon,Legacy Horizon,Technical System,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+819,Ms Meadows,Ms Meadows,Individual,"Ms Meadows, the way you described it there is that Ms Sewell was telling you that the
+expert had failed to mention bugs in one case, and that was Seema Misra."
+819,Ms Sewell,Ms Sewell,Individual,"Ms Meadows, the way you described it there is that Ms Sewell was telling you that the
+expert had failed to mention bugs in one case, and that was Seema Misra."
+819,Seema Misra,Seema Misra,Individual,"Ms Meadows, the way you described it there is that Ms Sewell was telling you that the
+expert had failed to mention bugs in one case, and that was Seema Misra."
+821,Seema Misra,Seema Misra,Individual,"In your witness statement, you say that she told you that he had failed to give disclosure
+in criminal cases, including Seema Misra."
+826,Susan,Susan Crichton,Individual,"Well, I then spoke to Susan, I think, within a day or so of that conversation."
+827,Susan,Susan Crichton,Individual,"Susan explained more about it, so if you can date when Susan found out, it would have been
+just before that, because Leslie could only have found out from Susan."
+827,Leslie,Leslie,Individual,"Susan explained more about it, so if you can date when Susan found out, it would have been
+just before that, because Leslie could only have found out from Susan."
+828,"Horizon
+Integrity","Horizon
+Integrity",Organisation,"By this time, and I'll call it mid-2013, you had been engaged on the issues of Horizon
+Integrity for some time, hadn't you?
+From when, yes, yes."
+829,Horizon,Horizon,Technical System,"You knew that there had been prosecutions and that those prosecutions had been founded
+on evidence from Horizon."
+830,Lesley Sewell,Lesley Sewell,Individual,"Yes.
+been told by Lesley Sewell and then Susan Crichton that there was an issue with the
+post office's expert evidence that had been relied on to convict sub-postmasters, including
+Mrs Misra."
+830,Susan Crichton,Susan Crichton,Individual,"Yes.
+been told by Lesley Sewell and then Susan Crichton that there was an issue with the
+post office's expert evidence that had been relied on to convict sub-postmasters, including
+Mrs Misra."
+830,Mrs Misra,Mrs Misra,Organisation,"Yes.
+been told by Lesley Sewell and then Susan Crichton that there was an issue with the
+post office's expert evidence that had been relied on to convict sub-postmasters, including
+Mrs Misra."
+832,Susan,Susan Crichton,Individual,"Yes, and I think Susan had, and I think the documentation says this, Susan had told, at
+At the time I spoke to Susan about it, she said I think that she had already put in chain
+a review by the external lawyers."
+833,Simon Clarke,Simon Clarke,Individual,"And I think the documentation shows that she had done that before the written advice from
+Simon Clarke came in on the 15th."
+834,Davis,Davis,Individual,"Did you at the time join the dots between the debates that we've seen you have in emails
+here with Mr Davis and Ms Sewell about the extent to which the post office should announce
+that it was going to review past convictions and the information that you were being given
+quite separately that the post office's expert witness had failed to mention bugs of which
+he had knowledge in criminal cases?"
+834,Ms Sewell,Ms Sewell,Individual,"Did you at the time join the dots between the debates that we've seen you have in emails
+here with Mr Davis and Ms Sewell about the extent to which the post office should announce
+that it was going to review past convictions and the information that you were being given
+quite separately that the post office's expert witness had failed to mention bugs of which
+he had knowledge in criminal cases?"
+837,Mark Davies,Mark Davies,Organisation,"I think because my, the emails from Mark Davies and Lesley Sewell are part of an iterative
+process as to how we took this important ongoing piece of work forwards."
+837,Lesley Sewell,Lesley Sewell,Individual,"I think because my, the emails from Mark Davies and Lesley Sewell are part of an iterative
+process as to how we took this important ongoing piece of work forwards."
+838,Susan Crichton,Susan Crichton,Individual,"The conversation with
+Susan Crichton about the work that became known as the Cartwright King's Sift Review
+was I think I took as a piece of reassurance that the lawyers were doing what they needed
+to do in terms of what I, and I think this is at the stage where I learned about disclosure,
+of what they needed to do in respect to disclosure."
+838,the Cartwright King's,the Cartwright King's,Organisation,"The conversation with
+Susan Crichton about the work that became known as the Cartwright King's Sift Review
+was I think I took as a piece of reassurance that the lawyers were doing what they needed
+to do in terms of what I, and I think this is at the stage where I learned about disclosure,
+of what they needed to do in respect to disclosure."
+839,Gareth Jenkins,Gareth Jenkins,Individual,"What I didn't know at this stage, to be very clear,
+was that by dint of what had happened with Gareth Jenkins,
+the post office had breached its duties as a prosecutor."
+841,Horizon,Horizon,Technical System,"Did you never, at any time, connect
+the long-running criticism of Horizon's integrity
+that has been forced upon the post office by some post masters for years and years with
+being informed that there was a problem with the expert evidence on which the post office
+had relied about bugs?"
+843,Horizon Online,Horizon Online,Technical System,"information I was told was very specific, which was that these two bugs were related
+to Horizon Online."
+847,Leslie,Leslie,Individual,"So this was Leslie's frustration, which was
+that these were two isolated incidents."
+852,Susan,Susan Crichton,Individual,"And the fact that Susan was going through this SIFT review,
+to me seem to be reassuring rather than concerning."
+854,Jenkins,Gareth Jenkins,Individual,I don't believe I knew Mr. Jenkins' name because there is...
+856,Fujitsu,Fujitsu,Organisation,"I think I was told that it was a Fujitsu, someone who worked for Fujitsu who was very
+competent on the system."
+861,Cartwright King,Cartwright King,Individual,"I was told that we were going back looking or that Cartwright King were going back looking
+at cases."
+869,Alice Perkins,Alice Perkins,Individual,"an email from you to Alice Perkins, signing out."
+870,Alice,Alice,Individual,"Hi Alice, don't worry about the lateness of the note,
+I'm clearing the tray before I'm signing out."
+871,Anthony Hooper Sparrow,Anthony Hooper Sparrow,Individual,"Couple of updates, Sir Anthony Hooper Sparrow,
+very positive phone call on Friday PM,
+no issue at all, Ree Hillsborough,
+he's going to send a file note."
+872,Ree Sparrow,Ree Sparrow,Individual,"And then my concern, Ree Sparrow,
+is currently our obligations of disclosure,
+an unsafe witness."
+873,Fujitsu,Fujitsu,Organisation,"The representative from Fujitsu made statements about no bugs, which
+later could be seen to have been undermined by the Second Sight report."
+873,Sight,Second Sight,Organisation,"The representative from Fujitsu made statements about no bugs, which
+later could be seen to have been undermined by the Second Sight report."
+875,Lesley Sewell,Lesley Sewell,Individual,"Is the unsafe witness that you're referring
+to there the same person that Lesley Sewell and Susan Crichton had referred to earlier?"
+875,Susan Crichton,Susan Crichton,Individual,"Is the unsafe witness that you're referring
+to there the same person that Lesley Sewell and Susan Crichton had referred to earlier?"
+887,Jenkins,Gareth Jenkins,Individual,"so this is three months after I found out about Mr.
+Jenkins being stood down"
+889,Mr Altman,Mr Altman,Organisation,"It's six days after Mr Altman did his general review, a document which I think you say you
+weren't told about and didn't see."
+894,Fujitsu,Fujitsu,Organisation,"So you understood by this time that there was an issue about the reliability of the
+Fujitsu expert evidence about there being bugs, i.e. the absence of them, and not merely
+about the presence of bugs that have been revealed by the Second Sight report."
+894,Sight,Second Sight,Organisation,"So you understood by this time that there was an issue about the reliability of the
+Fujitsu expert evidence about there being bugs, i.e. the absence of them, and not merely
+about the presence of bugs that have been revealed by the Second Sight report."
+899,Martin Edwards,Martin Edwards,Individual,"I'm not entirely sure because I don't, whether I was given
+this information very quickly, because I'm clearly going somewhere and Martin Edwards
+is briefed to give Alice more detail."
+899,Alice,Alice,Organisation,"I'm not entirely sure because I don't, whether I was given
+this information very quickly, because I'm clearly going somewhere and Martin Edwards
+is briefed to give Alice more detail."
+903,Susan Crichton,Susan Crichton,Individual,"Well, it wouldn't, yes, possibly Susan Crichton, the legal team."
+904,Jenkins,Gareth Jenkins,Individual,"Where is it recorded that what it was alleged that Mr. Jenkins had failed to do or had done
+was not material?
+I don't know."
+911,Cartwright King,Cartwright King,Individual,"The – I think Cartwright King had said that – because they had obviously by this stage
+done a number of checks across, I suppose, master cases."
+915,the Simon Clarke,the Simon Clarke,Organisation,"As I was saying, there existed at this time the Simon Clarke review of the 15th of July
+2013 on this very issue, the materiality of what Gareth Jenkins had said in witness statements
+and to a court in oral evidence, but you hadn't been given it."
+915,Gareth Jenkins,Gareth Jenkins,Individual,"As I was saying, there existed at this time the Simon Clarke review of the 15th of July
+2013 on this very issue, the materiality of what Gareth Jenkins had said in witness statements
+and to a court in oral evidence, but you hadn't been given it."
+919,Mr Jenkins,Mr Jenkins,Individual,"No, the materiality of what Mr Jenkins had said or had failed to say."
+926,Martin,Martin,Organisation,Or possibly Martin.
+927,Martin,Martin,Individual,"I mean, it is possible that Martin was briefed by, but again, he would have had it through
+the legal team."
+932,Cartwright King,Cartwright King,Individual,"And there is certainly something in documentation somewhere that makes the statement that the
+lawyers, Cartwright King, did not think that there would be a large number of
+cases where the disclosure needed to be made."
+936,Vennells,Vennells,Individual,"Thank you, Ms. Vennells."
+938,CCRC,CCRC,Organisation,This is a letter from the CCRC directly to you of the 12th of July 2013.
+940,Horizon Computer System,Horizon Computer System,Organisation,Horizon Computer System.
+941,CCRC,CCRC,Organisation,The CCRC is an independent body.
+943,Post Office,Post Office,Organisation,"For obvious reasons, we've read the recent media coverage concerning the Post Office
+Horizon computer system with interest."
+943,Horizon,Horizon,Technical System,"For obvious reasons, we've read the recent media coverage concerning the Post Office
+Horizon computer system with interest."
+944,"the Post
+Office","the Post
+Office",Organisation,"Clearly it would be very useful for us to have more information directly from the Post
+Office, especially accurate information as to the number of criminal convictions that
+might be impacted by the issue and what action is proposed or being taken in that respect,
+we see that the AG was called upon on Tuesday to set up an inquiry."
+944,AG,AG,Organisation,"Clearly it would be very useful for us to have more information directly from the Post
+Office, especially accurate information as to the number of criminal convictions that
+might be impacted by the issue and what action is proposed or being taken in that respect,
+we see that the AG was called upon on Tuesday to set up an inquiry."
+946,Horizon,Horizon,Technical System,"In essence, the commission's role in this is likely to relate to anyone who is convicted
+of a criminal offense in England, Wales, or Northern Ireland, where evidence from the
+Horizon computer system is relevant, where one, they've already tried to appeal against
+that conviction, or two, they were convicted at a magistrate's court following a guilty
+plea."
+949,CCRC,CCRC,Organisation,I remember receiving the letter from the CCRC.
+951,Susan Crichton,Susan Crichton,Individual,"It arrived at a time at which you would have been told, is this right, by Susan Crichton
+about the need to review past convictions?
+I would think so, yes."
+952,Susan Crichton,Susan Crichton,Individual,"And it would have arrived at a time when you'd been told by Susan Crichton and Lesley Sewell
+about the concern about the Fujitsu expert witnesses' evidence to the courts, including
+in the Seema Misra case?"
+952,Lesley Sewell,Lesley Sewell,Individual,"And it would have arrived at a time when you'd been told by Susan Crichton and Lesley Sewell
+about the concern about the Fujitsu expert witnesses' evidence to the courts, including
+in the Seema Misra case?"
+952,Fujitsu,Fujitsu,Organisation,"And it would have arrived at a time when you'd been told by Susan Crichton and Lesley Sewell
+about the concern about the Fujitsu expert witnesses' evidence to the courts, including
+in the Seema Misra case?"
+955,CCRC,CCRC,Organisation,"No.
+Would you agree that the right and honest thing to do would have been to let the CCRC
+know about the post office's concerns over Gareth Jenkins?"
+956,Susan,Susan Crichton,Individual,"I, what I did with this letter was to ask Susan to reply
+as the legal expert in the organization."
+959,CCRC,CCRC,Organisation,"The right and honest thing for the post office to have done would be to have let the CCRC
+know and know promptly over its concerns about the truthfulness and reliability of the evidence
+that Gareth Jenkins had given to cause, wouldn't it?"
+959,Gareth Jenkins,Gareth Jenkins,Individual,"The right and honest thing for the post office to have done would be to have let the CCRC
+know and know promptly over its concerns about the truthfulness and reliability of the evidence
+that Gareth Jenkins had given to cause, wouldn't it?"
+963,Alice Perkins,Alice Perkins,Individual,"Given what was on your mind, what you'd said to Alice Perkins a couple of days before this
+in the email that we saw, did you think we need to say to the CCRC what we know about
+Gareth Jenkins?"
+963,CCRC,CCRC,Organisation,"Given what was on your mind, what you'd said to Alice Perkins a couple of days before this
+in the email that we saw, did you think we need to say to the CCRC what we know about
+Gareth Jenkins?"
+963,Gareth Jenkins,Gareth Jenkins,Individual,"Given what was on your mind, what you'd said to Alice Perkins a couple of days before this
+in the email that we saw, did you think we need to say to the CCRC what we know about
+Gareth Jenkins?"
+965,Alice Perkins,Alice Perkins,Individual,"The email that I sent
+to Alice Perkins was in October."
+967,Lesley Sewell,Lesley Sewell,Individual,"I'm talking about the, I'm sorry, the exchange
+with Lesley Sewell and Mark Davis."
+967,Mark Davis,Mark Davis,Individual,"I'm talking about the, I'm sorry, the exchange
+with Lesley Sewell and Mark Davis."
+971,Mark Davis,Mark Davis,Individual,"In the light of the exchanges you had with Mark Davis and Lesley Sewell about the extent
+to which we have to go back and look at past previous convictions, up to 500 of them for
+false accounting, do you think the, and the conversations that you'd had with Lesley Sewell
+and Susan Crichton about the person you now know to be Gareth Jenkins, do you think the
+right thing to have said in response to the CCRC, but was we have got concerns about a
+key witness in a number of our cases?"
+971,Lesley Sewell,Lesley Sewell,Individual,"In the light of the exchanges you had with Mark Davis and Lesley Sewell about the extent
+to which we have to go back and look at past previous convictions, up to 500 of them for
+false accounting, do you think the, and the conversations that you'd had with Lesley Sewell
+and Susan Crichton about the person you now know to be Gareth Jenkins, do you think the
+right thing to have said in response to the CCRC, but was we have got concerns about a
+key witness in a number of our cases?"
+971,Susan Crichton,Susan Crichton,Individual,"In the light of the exchanges you had with Mark Davis and Lesley Sewell about the extent
+to which we have to go back and look at past previous convictions, up to 500 of them for
+false accounting, do you think the, and the conversations that you'd had with Lesley Sewell
+and Susan Crichton about the person you now know to be Gareth Jenkins, do you think the
+right thing to have said in response to the CCRC, but was we have got concerns about a
+key witness in a number of our cases?"
+971,CCRC,CCRC,Organisation,"In the light of the exchanges you had with Mark Davis and Lesley Sewell about the extent
+to which we have to go back and look at past previous convictions, up to 500 of them for
+false accounting, do you think the, and the conversations that you'd had with Lesley Sewell
+and Susan Crichton about the person you now know to be Gareth Jenkins, do you think the
+right thing to have said in response to the CCRC, but was we have got concerns about a
+key witness in a number of our cases?"
+973,CCRC,CCRC,Organisation,"Assume, yes, I sound slightly hesitant because I wouldn't have known what we, my,
+My understanding and expectation is that when the post office receives something like this
+from the CCRC, that it should respond in the fullest way possible to be transparent about
+whatever it was that needed to be shared with the CCRC."
+977,Susan Crichton,Susan Crichton,Individual,"It seems to be between Susan Crichton, Hugh Flemington, and Simon Richardson."
+977,Hugh Flemington,Hugh Flemington,Individual,"It seems to be between Susan Crichton, Hugh Flemington, and Simon Richardson."
+977,Simon Richardson,Simon Richardson,Individual,"It seems to be between Susan Crichton, Hugh Flemington, and Simon Richardson."
+978,Simon Richardson,Simon Richardson,Individual,Can you recall who Simon Richardson was?
+979,Bond Dickinson,Bond Dickinson,Organisation,"Yes, he was one of the partners from Bond Dickinson, who had worked on Post Office work
+for quite some time."
+979,Post Office,Post Office,Organisation,"Yes, he was one of the partners from Bond Dickinson, who had worked on Post Office work
+for quite some time."
+984,Fujitsu,Fujitsu,Organisation,"And then six, the real worry was around the Fujitsu expert who appeared to have known
+of some of the problems but not referred to them in his report or statement, even though
+they could be dismissed."
+990,Simon,Simon,Individual,These are Simon's words.
+1001,Susan Crichton,Susan Crichton,Individual,"The note continues seemingly on the basis
+of what your two colleagues, Susan Crichton
+and Hugh Flemington said."
+1001,Hugh Flemington,Hugh Flemington,Individual,"The note continues seemingly on the basis
+of what your two colleagues, Susan Crichton
+and Hugh Flemington said."
+1002,Alice Perkins,Alice Perkins,Individual,"There are tensions between people,
+and that includes Alice Perkins, the chair, Paula Venals,
+and Susan Crichton."
+1002,Paula Venals,Paula Venals,Individual,"There are tensions between people,
+and that includes Alice Perkins, the chair, Paula Venals,
+and Susan Crichton."
+1002,Susan Crichton,Susan Crichton,Individual,"There are tensions between people,
+and that includes Alice Perkins, the chair, Paula Venals,
+and Susan Crichton."
+1003,Alice Perkins,Alice Perkins,Individual,"At this time, were there tensions
+between Alice Perkins, you, and Susan Crichton?"
+1003,Susan Crichton,Susan Crichton,Individual,"At this time, were there tensions
+between Alice Perkins, you, and Susan Crichton?"
+1006,Alice,Alice,Individual,"Alice, well, we were all frustrated by the report."
+1007,Alice,Alice,Individual,Alice felt frustrated by it.
+1010,Alice,Alice,Individual,"And I don't know what, at this stage,
+I don't know what conversations had taken place
+between Alice and Susan."
+1010,Susan,Susan Crichton,Individual,"And I don't know what, at this stage,
+I don't know what conversations had taken place
+between Alice and Susan."
+1011,Susan,Susan Crichton,Individual,"Certainly Susan and I
+had discussed about how we were going to,
+we'd had conversations about the first draft
+of a Second Sight report, which I think she went back to talk to them about and some changes
+were made but nothing substantive."
+1011,Sight,Second Sight,Organisation,"Certainly Susan and I
+had discussed about how we were going to,
+we'd had conversations about the first draft
+of a Second Sight report, which I think she went back to talk to them about and some changes
+were made but nothing substantive."
+1013,Alice Perkins,Alice Perkins,Individual,Were there tensions between you and Alice Perkins?
+1015,Alice,Alice,Individual,"I mean, Alice was a very straightforward chair, and I generally took feedback pretty well,
+and again, forgive me for repeating the phrase, but there is documentation on that as well."
+1017,Simon Richardson,Simon Richardson,Individual,"minute continues, I said, that's Simon Richardson, that I thought the minister had dealt with
+the questions extremely well and looked in control of the brief."
+1022,Susan Crichton,Susan Crichton,Individual,"Susan Crichton said she would pass my comments
+on to the comms director."
+1025,Alice Perkins,Alice Perkins,Individual,"The chair, that's Alice Perkins,
+seems to have been taken by surprise by the reaction
+and the noise generated."
+1026,Paula Venals,Paula Venals,Individual,"Paula Venals may be sensitive around some of these issues
+happening on her watch as the network director."
+1028,Paula Venals,Paula Venals,Individual,"She said that Paula Venals had asked about what I knew
+and she might pass on my comments to her."
+1029,Paula Venals,Paula Venals,Individual,"I said I was happy to talk to Paula Venals
+since we knew each other from another difficult project
+in the days when they were a subsidiary
+of the Royal Mail Group, et cetera."
+1029,the Royal Mail Group,the Royal Mail Group,Organisation,"I said I was happy to talk to Paula Venals
+since we knew each other from another difficult project
+in the days when they were a subsidiary
+of the Royal Mail Group, et cetera."
+1032,Fujitsu,Fujitsu,Organisation,"The note says that the real issue here, the real worry, was around the Fujitsu expert
+who appeared to have known some of the problems and not referred to them in his report or
+statement."
+1038,Simon Richardson,Simon Richardson,Individual,"How has it come about that they're having this very frank conversation with somebody
+with whom you have a history, as is referred to here, Simon Richardson, and you never get
+to know about it."
+1039,Simon Richardson,Simon Richardson,Individual,"Oh, my history with Simon Richardson was one case that we sat on at Royal Mail Group where
+we were on an appeal panel and working with him a long time ago on post office closures,
+but I hardly met with Simon."
+1039,Royal Mail Group,Royal Mail Group,Organisation,"Oh, my history with Simon Richardson was one case that we sat on at Royal Mail Group where
+we were on an appeal panel and working with him a long time ago on post office closures,
+but I hardly met with Simon."
+1039,Simon,Simon,Individual,"Oh, my history with Simon Richardson was one case that we sat on at Royal Mail Group where
+we were on an appeal panel and working with him a long time ago on post office closures,
+but I hardly met with Simon."
+1040,Paula Venals,Paula Venals,Individual,"It's recorded here that she said that Paula Venals had asked about what I, that Simon
+Richardson knew."
+1040,"Simon
+Richardson","Simon
+Richardson",Individual,"It's recorded here that she said that Paula Venals had asked about what I, that Simon
+Richardson knew."
+1045,Simon,Simon,Individual,"It may simply be that I was asking for what Simon's view was on the work that was underway
+because he was the partner for the post office or had been a partner for the post office."
+1046,Susan Crichton,Susan Crichton,Individual,"Again asking the general question, how is it that two relatively senior members of your
+team, Susan Crichton, the general counsel no less, were having this frank conversation
+with a solicitor, and the outcome of it never reached you or the board, if your evidence
+is correct."
+1047,Susan,Susan Crichton,Individual,"To be honest, I don't know whether Susan, as you've heard previously, it was not a process
+in the post office, which was wrong, for advice, if this is considered advice, which in a sense
+it is, to be fed back, and the reason I was looking down the list of numbered points is
+in case any of it was fed back and some wasn't."
+1049,Beer,Beer,Individual,"No, Mr. Beer, I agree."
+1057,Cartwright King,Cartwright King,Individual,You've got Cartwright King through Simon King advising on the one hand.
+1057,Simon King,Simon King,Individual,You've got Cartwright King through Simon King advising on the one hand.
+1058,Gareth Jenkins,Gareth Jenkins,Individual,You've got Bond Dickinson advising here that the real worry is Gareth Jenkins on the other.
+1059,Jenkins,Gareth Jenkins,Individual,"My hesitation on this is that I now know much more than I did at the time, so I'm now aware
+that Mr. Jenkins had never been briefed as an expert witness."
+1065,Horizon,Horizon,Technical System,"And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+suspense account bug, and although it didn't name it, the calendar square or Falkirk bug."
+1065,Falkirk,Falkirk,Organisation,"And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+suspense account bug, and although it didn't name it, the calendar square or Falkirk bug."
+1069,Legacy Horizon,Legacy Horizon,Technical System,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1069,Horizon Online,Horizon Online,Technical System,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1082,MBSC,MBSC,Organisation,"I don't know, because the only thing I can think is an explanation is that the local
+suspense bug was, I think, drawn to the post office's attention in 2012, but nobody knew
+about that, because it had been referred to the MBSC, and I suspect this is just a mistake."
+1089,Sight,Second Sight,Organisation,"Can we turn to what was said in the run-up to the Second Sight report about the post office's
+position on the three bugs?"
+1091,Alwin Lyons,Alwin Lyons,Organisation,And you see this is an email to you and others from Alwin Lyons.
+1092,James,James,Individual,Read the James brief.
+1093,Paula,Vennells,Individual,"And she says, Paula, the only thing that's not in the brief for James is our move away
+from, quote, there are no bugs in Horizon to there are known bugs in every computer
+system this size, but they're found and put right and no sub-postmaster is disadvantaged
+by them."
+1093,James,James,Individual,"And she says, Paula, the only thing that's not in the brief for James is our move away
+from, quote, there are no bugs in Horizon to there are known bugs in every computer
+system this size, but they're found and put right and no sub-postmaster is disadvantaged
+by them."
+1093,Horizon,Horizon,Technical System,"And she says, Paula, the only thing that's not in the brief for James is our move away
+from, quote, there are no bugs in Horizon to there are known bugs in every computer
+system this size, but they're found and put right and no sub-postmaster is disadvantaged
+by them."
+1095,Alwen Lyons,Alwen Lyons,Individual,"Did this represent a move, a shift in position, preemptively before the Second Sight report
+from there are no bugs in horizon to the then altered position that's set out by Alwen Lyons?"
+1096,Alwyn,Alwen Lyons,Individual,"It was, so firstly, I don't recall, and I think Alwyn said this on Tuesday as well,
+that there had been a line, as it were, that there were no bugs in horizon."
+1099,Sight,Second Sight,Organisation,It wouldn't have been done preemptively because of the Second Sight report.
+1105,Mark Davies,Mark Davies,Organisation,I can only assume that this came from Mark Davies and the communications team.
+1119,Fujitsu,Fujitsu,Organisation,"And what was very important to me,
+and the inquiry can see this,
+from emails that I sent and work that I did,
+was that, and I can remember saying to our alliance actually
+that I wanted to demonstrate leadership in this case,
+this was around the local suspense bug,
+that it was, that I wanted reassurance
+that Fujitsu had done as it said,
+which is that all affected post offices had been identified,
+that we had looked at whatever the shortfalls were, that post offices had not been held
+accountable for any of those, or that they were held accountable for any losses, that
+they were all written to, which they were."
+1122,Vennells,Vennells,Individual,"Ms. Vennells, you tell us time and time again in your witness statement that up until May
+2013, you had been told time and time again that there were no bugs in Horizon."
+1136,Horizon,Horizon,Technical System,"I think to be really clear on this, because it's important, I was told that what I was
+told was about Horizon, and I'm not splitting hairs on this, I was told that Horizon, that
+where cases had gone to court, the courts had found in favor of Horizon, that where
+issues had been raised, I knew when I say my statement that there were always glitches
+and issues with the system."
+1139,Legacy Horizon,Legacy Horizon,Technical System,"F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online."
+1139,Horizon Online,Horizon Online,Technical System,"F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online."
+1149,Fujitsu,Fujitsu,Organisation,"Given that you'd been told before, you'd not been told before mid 2013 about any bugs
+in the system and you were operating on the basis that there were none, on being told
+that in fact the system did have bugs, would you not have wanted a watertight assurance
+from Fujitsu, that there were no more bugs?"
+1152,Fujitsu,Fujitsu,Organisation,"I had at this roughly about the same time, or maybe a month before, I'd had a conversation
+with the chief executive of Fujitsu."
+1153,Rudkin,Rudkin,Individual,"This is the Fort Knox conversation?
+which have been evased around the allegations around what Mr. Rudkin had raised."
+1155,Horizon,Horizon,Technical System,"It is a separate issue, but I'm not a technical expert, and I'm dealing with challenges to
+the Horizon system, and I'm working within a context where I'm taking numbers of inputs."
+1156,Fujitsu,Fujitsu,Organisation,"I took these seriously and I accepted the explanations that I had been given and I
+knew that those explanations had been based on, but again now this sounds very hollow
+in hindsight, on work that had been done by Fujitsu."
+1166,Falkirk,Falkirk,Organisation,"And we know that the calendar square or Falkirk bug had been drawn to the post office's attention
+in 2006."
+1167,Sight,Second Sight,Organisation,"Do you know why this press statement did not acknowledge that the post office had known
+about each of the three bugs referred to in the Second Sight report for many years?"
+1171,Horizon,Horizon,Technical System,"Was that the mantra that the post office had used for many years to defend allegations
+against Horizon?"
+5,Second Sight,Second Sight,Organisation,"Can I turn to my third topic of substance then, which is the Second Sight investigation
+and the complaint and mediation scheme."
+6,Second Sight,Second Sight,Organisation,"like first to look at the process by which Second Sight were chosen and Deloitte were
+not to conduct an investigation."
+26,Second Sight,Second Sight,Organisation,"As it's described here, the work that Second Sight were proposing, by contrast, was a review
+of past cases."
+34,Second Sight,Second Sight,Organisation,"Why was Second Sight proposal preferred to
+that of Deloitte?"
+35,Post Office,Post Office,Organisation,"I think because of what I just said earlier, from my own recollection is I felt very strongly
+that we needed an organization who would be able to work well
+with sub-postmasters, I was concerned that any one
+of the big four, Deloitte being one of them,
+may have come across two corporates
+and wouldn't necessarily have had
+the understanding of running a post office
+in small retail businesses."
+44,Second Sight,Second Sight,Organisation,"And is the short point that the Second Sight review was much narrower in scope in that
+it was proposed that the system should be reviewed by looking at a sample of past cases?"
+56,Second Sight,Second Sight,Organisation,"And if we just blow that up, please, you'll see that this is a Second Sight document."
+66,Post Office,Post Office,Organisation,"The work that the post office and Second Sight did over this quite a long period of time
+didn't come to a final conclusion, no."
+66,Second Sight,Second Sight,Organisation,"The work that the post office and Second Sight did over this quite a long period of time
+didn't come to a final conclusion, no."
+76,Post Office,Post Office,Organisation,We'll see how things got changed by the post office.
+79,Post Office,Post Office,Organisation,"I saw in the inquiry documentation that there is a piece
+of advice that Susan Crichton sought from Richard Morgan, QC, where he said that he
+thought that the advice was that the post office really shouldn't get into this at
+at all, because it would be a no-win situation."
+138,Post Office,Post Office,Organisation,"No.
+Did you know that post office was getting external advice on the effect
+that bringing such cases within the review would have?"
+142,Post Office,Post Office,Organisation,"Do you know what external advice the post office did take regarding the effect of including
+cases like SEMA misers in the independent review?"
+166,Post Office,Post Office,Organisation,"He sends this minute to you and others regarding essentially options that the post office could
+take to deliver the scheme in a timely fashion."
+170,Post Office,Post Office,Organisation,"We identified three broad courses of action that might be taken to improve the ability
+of post office successfully to deliver the mediation scheme in a timely fashion."
+171,Post Office,Post Office,Organisation,"Can we look at page two, please?
+And scroll down to what was the third option, plan C, a contingency plan to replace Second Sight if they refuse to work on the scheme under terms which the post office find acceptable."
+173,Post Office,Post Office,Organisation,"It's possible that Second Sight will refuse to work under the proposed terms
+of engagement from the post office and that they may attempt to insist terms that neither
+you or the board can accept."
+174,Post Office,Post Office,Organisation,"In this scenario, they may either walk away from the scheme
+or post office may have to end their engagement."
+175,Second Sight,Second Sight,Organisation,"Was it the case that despite their appointment
+in mid 2012, no terms of reference or terms of engagement had been settled by February
+2013 for Second Sight?
+I don't know about terms of engagement."
+179,Post Office,Post Office,Organisation,"By this time, was it anticipated that SecondSight
+would refuse to work under the terms of engagement
+that the post office required?"
+190,Second Sight,Second Sight,Organisation,"I'm sorry, I don't remember the discussion, but my sense is that it was, we want a Second Sight to see this work through."
+201,Second Sight,Second Sight,Organisation,"The main purpose of the meeting is to ensure that you have
+been receiving the full details of what has been occurring with the Second Sight investigation."
+206,Post Office,Post Office,Organisation,"At this point in time, did you understand why Mr. Bates was saying that it was feasible
+that many prosecutions that the post office had undertaken should never have taken place?"
+210,Post Office,Post Office,Organisation,"Maybe not too long after this, but as we were approaching the production of the interim report,
+I remember being surprised about some of the conclusions that were being reached, because
+the criticisms from post office were that their work hadn't been taken into account."
+211,Post Office,Post Office,Organisation,"I think at this stage, possibly not, other than feedback that the work was going too
+slowly and post office's input either hadn't taken place or Second Sight, there were concerns
+being raised perhaps that Second Sight were not taking account of it."
+211,Second Sight,Second Sight,Organisation,"I think at this stage, possibly not, other than feedback that the work was going too
+slowly and post office's input either hadn't taken place or Second Sight, there were concerns
+being raised perhaps that Second Sight were not taking account of it."
+234,Second Sight,Second Sight,Organisation,"You say in the last paragraph, I've been advised that Second Sight have now agreed that the
+focus over the next few weeks will be on three specific cases, and the meeting might be a
+more productive one when that work has been completed."
+235,Second Sight,Second Sight,Organisation,"Do you know how it came about that what started as a debate between the choice of Deloitte
+conducting a full forensic audit of Horizon, Second Sight conducting a review of past cases
+that would be a representative sample but include some testing of the integrity of the
+Horizon system ended up with focusing on three cases?"
+237,Second Sight,Second Sight,Organisation,"That's my recollection, and that was a, to misuse a word in this context, but that was
+the theme that ran through, which was Second Sight were focusing on themes rather than on
+individual cases."
+239,Post Office,Post Office,Organisation,"And so was it the post office in your view or Second Sight that narrowed focus down to
+a very small number of cases?"
+239,Second Sight,Second Sight,Organisation,"And so was it the post office in your view or Second Sight that narrowed focus down to
+a very small number of cases?"
+240,Post Office,Post Office,Organisation,"My view is it was both because both Second Sight and the post office had a commitment
+to Lord Arbuthnot and the MPs to get some work out for people to look at and we were"
+257,Second Sight,Second Sight,Organisation,The decision had been made to go in my head to go with Second Sight for the right reasons.
+267,Post Office,Post Office,Organisation,The post office will be damned if they do and damned if they don't.
+281,Second Sight,Second Sight,Organisation,"And as I say, in the meeting where we took the decision to go with second sight,
+I don't remember looking at two separate sets of documents and comparing and contrasting."
+287,Second Sight,Second Sight,Organisation,"We're getting quite close here to the date of the production of the Second Sight interim
+report, aren't we?
+Which we know was published on the 8th of July 2013."
+296,Second Sight,Second Sight,Organisation,"I'll share the fact that Second Sight are not using all the evidence they've been given,
+and our concern is that their approach to try and keep everyone happy is not how we
+we would expect a forensic accountant to behave."
+302,Post Office,Post Office,Organisation,"On what basis did you understand the post officer determined that Second Sight were
+not using all of the evidence that the post office had given them?"
+302,Second Sight,Second Sight,Organisation,"On what basis did you understand the post officer determined that Second Sight were
+not using all of the evidence that the post office had given them?"
+304,Second Sight,Second Sight,Organisation,Second Sight were getting it wrong.
+308,Post Office,Post Office,Organisation,"What I was told is that they hadn't,
+because this had run on too long, they hadn't yet had time
+to take account of the post office's view
+in the investigations they were doing."
+312,Post Office,Post Office,Organisation,"They may have been getting it wrong
+because they hadn't yet taken account of the input from the post office."
+315,Post Office,Post Office,Organisation,"My very clear recollection is this was simply, to describe
+bit more colloquially, the team felt it was unfair because post office hadn't had the
+opportunity to contribute yet."
+316,Post Office,Post Office,Organisation,"Whether that was true or not, I didn't check that was Second
+Sight, but what I was told is that the work was so far behind that Second Sight had yet
+to take account of the post office's input."
+321,Post Office,Post Office,Organisation,"What evidence were you told that the post office had provided to Second Sides that they
+were not using or taking account of?
+I can't remember today, I'm sorry."
+323,Post Office,Post Office,Organisation,"So, it would have been whatever data the post office needed to present about the issue that
+was being investigated."
+326,Post Office,Post Office,Organisation,"And I don't think we had any problem with that until the team began to raise these questions
+that perhaps because of that Second Sight,
+we're not looking at the post office work."
+326,Second Sight,Second Sight,Organisation,"And I don't think we had any problem with that until the team began to raise these questions
+that perhaps because of that Second Sight,
+we're not looking at the post office work."
+328,Post Office,Post Office,Organisation,"Did you tell Second Sight that they were being unfair
+on the post office by not taking account of the evidence
+that the post office was giving to them?"
+329,Second Sight,Second Sight,Organisation,I didn't have regular conversations with Second Sight.
+333,Post Office,Post Office,Organisation,"Did you tell Second Sight about the post office's concerns about its approach or alleged approach
+of keeping the GFSA happy?"
+334,Second Sight,Second Sight,Organisation,I don't believe I spoke to Second Sight.
+336,Post Office,Post Office,Organisation,"I would hope that the post office team, sorry, first of all, I don't think the post office
+team would have said you're trying to keep the sub-postmasters happy."
+344,Post Office,Post Office,Organisation,"I think this is the meeting that we've just seen, post office was going to try and get
+cancelled."
+350,Post Office,Post Office,Organisation,"How did it come about that by late May, the post office was proposing that by looking
+at two to three cases, Second Sight could answer the very big question, have systemic defects
+in the horizon resulted in the wrongful conviction or suspension of sub-postmasters?"
+354,Second Sight,Second Sight,Organisation,"When the Second Sight Injury Report was published, one of its initial conclusions was that so
+So far, no systemic issues had been found with the Horizon system."
+360,Second Sight,Second Sight,Organisation,Second Sight had been working on this for 10 months now.
+365,Post Office,Post Office,Organisation,"So not cases that would have presented the post office in the best light, but cases which
+which could have been used to challenge the Horizon system and then do that work through."
+376,Second Sight,Second Sight,Organisation,"I was absolutely not, to be completely clear, trying to drive a conclusion from Second Sight
+that they would not have given."
+381,Second Sight,Second Sight,Organisation,"My only-
+Isn't that exactly what happened, Ms. Vennells, that the Second Sight report addressed a very
+small number of cases?"
+382,Post Office,Post Office,Organisation,"It contained the sentence about no systemic defects and then forever after the post office
+paraded that conclusion."
+384,Post Office,Post Office,Organisation,"There is no way the post office, that first of all there is no way that I would have wanted
+to persuade Second Sight on something that they were not prepared to say and I don't
+believe Second Sight would ever have agreed to that."
+390,Post Office,Post Office,Organisation,"At no stage did I get the sense that anybody in the post office was going to be able to
+influence Second Sight over what conclusions they came to."
+390,Second Sight,Second Sight,Organisation,"At no stage did I get the sense that anybody in the post office was going to be able to
+influence Second Sight over what conclusions they came to."
+393,Second Sight,Second Sight,Organisation,"The only information I and the Board had was contained in the terms of reference of the
+work the Second Sight were doing, which is what we looked at earlier."
+394,Post Office,Post Office,Organisation,"i.e. we, the post office, need to engage somebody to produce a report whose conclusions are
+respectable and truly provide us with the answer as to whether or not there are systemic
+defects in Horizon."
+398,Second Sight,Second Sight,Organisation,Second Sight responded to the terms of reference which were agreed with them.
+415,Second Sight,Second Sight,Organisation,"We think that actually we will get two to three MP cases done, and I may well have said,
+will that help us answer the question about other systemic defects in the Horizon system?
+I wouldn't have known personally from any of the, because I wasn't involved in the work
+or conversations at Second Sight, point four about whether they could have said no or not
+at this stage."
+423,Post Office,Post Office,Organisation,"And it says, under key messages, we're concerned that the investigation is overrunning, the
+findings will not be definitive, and there'll be no satisfactory outcome to the horizon
+question for MPs or the post office."
+425,Post Office,Post Office,Organisation,"And then under the heading background, 2.1, when the post office commissioned Second Sight,
+the expectation was that the investigation would review a small number of MP cases, six
+to 12 cases."
+425,Second Sight,Second Sight,Organisation,"And then under the heading background, 2.1, when the post office commissioned Second Sight,
+the expectation was that the investigation would review a small number of MP cases, six
+to 12 cases."
+426,Post Office,Post Office,Organisation,"Firstly, does that represent your recollection of the post office's expectation
+when Second Sight were being instructed?"
+428,Post Office,Post Office,Organisation,"Do you know why it was the post office's expectation that a smallish number of cases, six to 12,
+would be the limit of Second Sight's review?"
+432,Second Sight,Second Sight,Organisation,You remember the Second Sight proposal that we looked at.
+435,Post Office,Post Office,Organisation,"Was that the post office's understanding when it was commissioning second side, that that's
+the work that it would be undertaking?"
+447,Post Office,Post Office,Organisation,"No, I don't think that was my understanding at any time throughout this, and the inquiry
+will see there is further documentation where I have, I'm exhorting the post office and
+Second Sight to move through the cases because I wanted the cases looked at."
+449,Second Sight,Second Sight,Organisation,And that was second sight for you.
+452,Post Office,Post Office,Organisation,"Did the post office subsequently present Second Sites interim report as a definitive view
+that there were no systemic errors or failures in Horizon?"
+453,Post Office,Post Office,Organisation,The post office presented it sometimes definitively and sometimes less so.
+488,Second Sight,Second Sight,Organisation,"It is, and as I mentioned earlier, before the document came up, my understanding was
+that from the work Second Sight had done, presumably around the thematic work where
+they had been looking at a number of cases, and they're now being asked to take two or
+three cases, which may or may not show whether sub-postmasters had been wrongfully convicted."
+504,Second Sight,Second Sight,Organisation,"I wanted to send you a brief email
+to update you on where we are with the Second Sight
+investigation."
+505,Second Sight,Second Sight,Organisation,"We've been engaging closely with Second Sight
+throughout the week to understand the position they
+intend to take in the interim report
+and emphasizing our concern that their findings must be even
+handed and grounded in the facts."
+509,Second Sight,Second Sight,Organisation,I think the way I read this is that is what the team had understood from Second Sight.
+510,Second Sight,Second Sight,Organisation,"What Second Sight were prepared to say that there were no systemic issues with Horizon
+generally on the basis of looking at four cases?"
+514,Second Sight,Second Sight,Organisation,"Second Sight themselves, I think, refer to it as something that might have a broad impact
+the post offices or across the system."
+521,Post Office,Post Office,Organisation,"Was there a shared understanding between you and the post office board as to what systemic
+issues meant?"
+523,Post Office,Post Office,Organisation,"Was there a shared understanding between you and the post office team that were leading
+on the work with Second Sight as to what systemic issues meant."
+531,Post Office,Post Office,Organisation,"Ms. Vennells, can we turn please to some documents that may provide some insight into your approach
+and decision making in relation to the post office's decision not to review all past
+convictions in the light of what was emerging from second sight."
+531,Second Sight,Second Sight,Organisation,"Ms. Vennells, can we turn please to some documents that may provide some insight into your approach
+and decision making in relation to the post office's decision not to review all past
+convictions in the light of what was emerging from second sight."
+540,Post Office,Post Office,Organisation,"This comprises the post office working collaboratively
+with the JFSA and does three things."
+546,Second Sight,Second Sight,Organisation,"The working party firstly explores the Second Sight, eight themes for improvement, can we
+get less than eight, and agrees how they can be implemented."
+548,Post Office,Post Office,Organisation,"And then this, thirdly, our external lawyers review all prosecutions in the past 12 to
+18 months since the post office has been independent of Royal Mail in the light of the Second Sight
+findings."
+548,Second Sight,Second Sight,Organisation,"And then this, thirdly, our external lawyers review all prosecutions in the past 12 to
+18 months since the post office has been independent of Royal Mail in the light of the Second Sight
+findings."
+549,Post Office,Post Office,Organisation,"The JFSA post office working group reviews the findings, and then in square brackets,
+why would they not review all cases of false accounting, e.g. over the last five to ten
+years, especially where amounts have been small."
+555,Post Office,Post Office,Organisation,"Many are historic and already improved, but
+rules always open to new ways to improve how we do business to ensure the post office stays
+as trusted and effective in its communities as it ever was."
+594,Post Office,Post Office,Organisation,"It says review all prosecutions in the past 12 to 18 months since the post office has
+been independent of Royal Mail."
+606,Post Office,Post Office,Organisation,"The scheme was opened to 150 cases that came forwards, and the post office advertised across
+the network for any post masters who wanted to come into the scheme and have their cases
+reviewed."
+607,Post Office,Post Office,Organisation,"So, my understanding at the time is that we were open to, however many postmasters came
+forwards, but in terms of specifically the post office legal team and its lawyers, going
+back and looking at all the cases, that wasn't the work that was in place"
+609,Post Office,Post Office,Organisation,"Here you're suggesting that the post office itself, through external lawyers, proactively
+review all cases of false accounting going back up to a decade and you've I think accepted
+that that would be the fair and proper thing to do."
+651,Post Office,Post Office,Organisation,"The reality of what Second Sight has found would be misunderstood, and having an impact
+on public views about the post office, and really widening the issue to the whole network."
+651,Second Sight,Second Sight,Organisation,"The reality of what Second Sight has found would be misunderstood, and having an impact
+on public views about the post office, and really widening the issue to the whole network."
+653,Post Office,Post Office,Organisation,"My understanding at the time was that he, and I think the post office generally, and
+we've seen similar comments from the chairman as well, believed we were dealing with a small
+number of cases, and the numbers that were coming forward seemed to, at that stage, clearly
+more came later, seemed to indicate that was the case."
+656,Post Office,Post Office,Organisation,"at the time that wasn't what the post office thought and I think what he was trying to
+do here was, as I say, to minimize misinterpretation and exaggeration in the media."
+678,Post Office,Post Office,Organisation,Did you remain in contact with Mr Davis after you left post office?
+708,Second Sight,Second Sight,Organisation,"The media issue related to, I believe, because we were right on the day or the day before
+the release of the Second Sight interim report, and that's my recollection that that is the
+media conversation that we were having."
+712,Post Office,Post Office,Organisation,"I'm pretty sure that that was in relation to the interim report, which was due out any
+time, which, as the inquiry has seen and heard from other people, there were issues in that
+report which the post office disagreed with and the team felt Second Sight hadn't taken
+account of."
+712,Second Sight,Second Sight,Organisation,"I'm pretty sure that that was in relation to the interim report, which was due out any
+time, which, as the inquiry has seen and heard from other people, there were issues in that
+report which the post office disagreed with and the team felt Second Sight hadn't taken
+account of."
+731,Post Office,Post Office,Organisation,"Do you accept that this exchange of emails shows that in making decisions as to the substance
+as to what the post office should do, i.e. whether it itself should seek to review whether
+that had been past miscarriages of justice, you took into account the views of your media
+adviser as to the extent to which your decision would meet with front-page news."
+740,Post Office,Post Office,Organisation,"What I was trying to do at this stage was to find a way forwards through the cases that
+had come into the post office and to encourage more to come forwards, which would have enabled
+any case to go through normal legal routes if the post office couldn't help it."
+746,Second Sight,Second Sight,Organisation,"Can I just ask, and this may be entirely my fault, so I preface it by that, but I'm not
+clear that as of the 6th of July or 7th of July or this period of time, this discussion
+of how to approach the issue of past cases is taking place in the context of Second Sight
+continuing its investigative work beyond the interim report or in the context of the idea
+of a mediation scheme."
+751,Post Office,Post Office,Organisation,"And I'm not sure as of this date, i.e., at or about the time when Second Sight was to
+produce its interim report, whether the discussions of how to deal with past cases was in the
+context simply of Second Sight moving forward with their investigations, or by that stage
+in the post office's mind, that was at an end
+and something new was emerging."
+756,Post Office,Post Office,Organisation,"I had been disappointed
+about the way the post office team hadn't worked as well
+or been able to contribute to the work Second Sight had done."
+756,Second Sight,Second Sight,Organisation,"I had been disappointed
+about the way the post office team hadn't worked as well
+or been able to contribute to the work Second Sight had done."
+762,Post Office,Post Office,Organisation,"What she said was that, and again, this isn't documentation somewhere, is that mediation
+that sometimes what was needed in cases is for people to hear the post office apologize
+and say that it was sorry that it got things wrong, or for the post office to explain to
+a sub-postmaster that perhaps they had done something wrong, and that once the cases had
+been reviewed through this working party process, that might then be a way to reach some finality
+on those cases."
+763,Post Office,Post Office,Organisation,"What was also talked about at the same time was that if this was a good thing to do, which
+clearly it was, the post office then needed an ongoing process, possibly an adjudication
+process and external ombudsman on a permanent basis so that if this type of challenge arose
+again there was an external appeal process, if you like, for supposed masters to go to."
+767,Post Office,Post Office,Organisation,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+770,Second Sight,Second Sight,Organisation,"In direct answer to the Chairman's question, isn't it the case that Second Sight were to
+play no part going forwards?"
+772,Second Sight,Second Sight,Organisation,"Your proposal didn't involve any role for Second Sight, did it?"
+775,Second Sight,Second Sight,Organisation,"Your written proposal did not contain any role for Second Sight, did it?"
+777,Second Sight,Second Sight,Organisation,"At this process of evolution, it doesn't involve any role for Second Sight?
+I'm not sure, because it doesn't say that they would or they wouldn't."
+779,Second Sight,Second Sight,Organisation,"And I'm being frank with you that there were conversations about whether Second...
+There was criticism of the work that Second Sight had done, but there was equal understanding
+saying that they had the support of MPs, notably James R. Buthnott, and that we had committed
+to do that work, but it's a...
+Back to page one, please."
+783,Post Office,Post Office,Organisation,"Do you agree that this email chain reads as if the PR man has influenced you
+you conclusively as to a decision as to whether or not the post office would itself review
+whether and to what extent there had been past miscarriages of justice?"
+793,Second Sight,Second Sight,Organisation,"If we state we will review the cases in separation, that implies that there are material findings
+in the Second Sight review and leaves us open to challenge against all cases."
+800,Post Office,Post Office,Organisation,"Did you bring into account in your decision-making the views that the head of IT was giving you
+on the extent to which the post office should itself ask independent lawyers to review past
+convictions."
+810,Post Office,Post Office,Organisation,"You say that you had a conversation with Lesley Sewell in which she told you that the post
+office had been advised that the expert witness that the post office had used in criminal
+cases to give evidence about Horizon had failed to mention there were bugs in Horizon, including
+in the Seema Misra case."
+813,Post Office,Post Office,Organisation,"Can we please try to pin down the date on which you had knowledge of a problem with
+the post office's expert evidence?"
+818,Post Office,Post Office,Organisation,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+830,Post Office,Post Office,Organisation,"Yes.
+been told by Lesley Sewell and then Susan Crichton that there was an issue with the
+post office's expert evidence that had been relied on to convict sub-postmasters, including
+Mrs Misra."
+834,Post Office,Post Office,Organisation,"Did you at the time join the dots between the debates that we've seen you have in emails
+here with Mr Davis and Ms Sewell about the extent to which the post office should announce
+that it was going to review past convictions and the information that you were being given
+quite separately that the post office's expert witness had failed to mention bugs of which
+he had knowledge in criminal cases?"
+839,Post Office,Post Office,Organisation,"What I didn't know at this stage, to be very clear,
+was that by dint of what had happened with Gareth Jenkins,
+the post office had breached its duties as a prosecutor."
+841,Post Office,Post Office,Organisation,"Did you never, at any time, connect
+the long-running criticism of Horizon's integrity
+that has been forced upon the post office by some post masters for years and years with
+being informed that there was a problem with the expert evidence on which the post office
+had relied about bugs?"
+857,Post Office,Post Office,Organisation,"Did you ask how many cases he had given evidence in?
+Did you ask what was being done in relation to the evidence that the post office was concerned
+about?"
+859,Post Office,Post Office,Organisation,"Did you ask what the post office was doing
+as a result of its concern that he had failed to mention in cases?"
+955,Post Office,Post Office,Organisation,"No.
+Would you agree that the right and honest thing to do would have been to let the CCRC
+know about the post office's concerns over Gareth Jenkins?"
+959,Post Office,Post Office,Organisation,"The right and honest thing for the post office to have done would be to have let the CCRC
+know and know promptly over its concerns about the truthfulness and reliability of the evidence
+that Gareth Jenkins had given to cause, wouldn't it?"
+973,Post Office,Post Office,Organisation,"Assume, yes, I sound slightly hesitant because I wouldn't have known what we, my,
+My understanding and expectation is that when the post office receives something like this
+from the CCRC, that it should respond in the fullest way possible to be transparent about
+whatever it was that needed to be shared with the CCRC."
+991,Post Office,Post Office,Organisation,"I don't, I certainly don't recall, well, he's reflecting a conversation
+he's had with two colleagues at the post office."
+995,Post Office,Post Office,Organisation,"Frustrated about what?
+that the Second Sight interim report had not, according to colleagues, had not taken account
+of the post office's factual evidence against issues that were raised and criticisms made
+of the post office."
+995,Second Sight,Second Sight,Organisation,"Frustrated about what?
+that the Second Sight interim report had not, according to colleagues, had not taken account
+of the post office's factual evidence against issues that were raised and criticisms made
+of the post office."
+1000,Post Office,Post Office,Organisation,"The board were very frustrated by
+the criticisms in the Second Sight interim report,
+which at that stage, they were told,
+were at least in some cases,
+according to the team, unfounded,
+because Second Sight hadn't had sufficient time
+in preparing it to take on board the post office's evidence."
+1000,Second Sight,Second Sight,Organisation,"The board were very frustrated by
+the criticisms in the Second Sight interim report,
+which at that stage, they were told,
+were at least in some cases,
+according to the team, unfounded,
+because Second Sight hadn't had sufficient time
+in preparing it to take on board the post office's evidence."
+1008,Post Office,Post Office,Organisation,"She could not understand, and again, there's documentation on this as to why we had ended
+up in the, why the business, as she put it, had ended up in the position that it had with
+a report that hadn't taken account of post office's input, and conclusions seemingly
+reached or suggested, to be fair to Second Psych, they said it was an interim report."
+1016,Post Office,Post Office,Organisation,"I'm sure she gave me some fairly straightforward feedback about why this had taken so long,
+why it was over budget, why the report contained things that the post office felt were inaccurate."
+1018,Post Office,Post Office,Organisation,"Evidently, she had the
+post office in to tear them off a strip for not putting someone up earlier in the day
+for interviews on radio and TV."
+1030,Second Sight,Second Sight,Organisation,"In your approach to the reaction to the Second Sight report,
+were you sensitive that some of the issues it addressed
+happened on your watch as network director?"
+1036,Post Office,Post Office,Organisation,"Would you be surprised that members of your team were having this in-depth and frank conversation
+about Gareth Jenkins being the real worry that was facing the post office after the
+interim report, and yet this information not being fed back to you, nor indeed to the board?"
+1039,Post Office,Post Office,Organisation,"Oh, my history with Simon Richardson was one case that we sat on at Royal Mail Group where
+we were on an appeal panel and working with him a long time ago on post office closures,
+but I hardly met with Simon."
+1045,Post Office,Post Office,Organisation,"It may simply be that I was asking for what Simon's view was on the work that was underway
+because he was the partner for the post office or had been a partner for the post office."
+1047,Post Office,Post Office,Organisation,"To be honest, I don't know whether Susan, as you've heard previously, it was not a process
+in the post office, which was wrong, for advice, if this is considered advice, which in a sense
+it is, to be fed back, and the reason I was looking down the list of numbered points is
+in case any of it was fed back and some wasn't."
+1048,Post Office,Post Office,Organisation,"Is it every day of the week, though, in the post office that it is told that the safety
+of its convictions, its criminal convictions, may be called into question by unreliable evidence
+given by an expert witness?"
+1063,Second Sight,Second Sight,Organisation,The Second Sight interim report was in fact published on the 8th of July.
+1069,Post Office,Post Office,Organisation,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1082,Post Office,Post Office,Organisation,"I don't know, because the only thing I can think is an explanation is that the local
+suspense bug was, I think, drawn to the post office's attention in 2012, but nobody knew
+about that, because it had been referred to the MBSC, and I suspect this is just a mistake."
+1089,Post Office,Post Office,Organisation,"Can we turn to what was said in the run-up to the Second Sight report about the post office's
+position on the three bugs?"
+1095,Second Sight,Second Sight,Organisation,"Did this represent a move, a shift in position, preemptively before the Second Sight report
+from there are no bugs in horizon to the then altered position that's set out by Alwen Lyons?"
+1101,Post Office,Post Office,Organisation,"If that's right, that there hadn't been a position adopted by the post office of there
+are no bugs in Horizon."
+1108,Post Office,Post Office,Organisation,"That was your position and the post office's position
+up until at least May 2013, that no bugs had been found
+in the system."
+1130,Post Office,Post Office,Organisation,"They were bugs that had been resolved, and that they were red
+herrings to the work, and they didn't affect any of the branches that Second Sight were
+looking at, and the branches that had been affected had been properly supported by the
+post office and the cases had been dealt with."
+1130,Second Sight,Second Sight,Organisation,"They were bugs that had been resolved, and that they were red
+herrings to the work, and they didn't affect any of the branches that Second Sight were
+looking at, and the branches that had been affected had been properly supported by the
+post office and the cases had been dealt with."
+1131,Post Office,Post Office,Organisation,"What's the answer to my direct question, that you had been told repeatedly for six years
+since you joined post office, that there were no bugs in Horizon."
+1139,Post Office,Post Office,Organisation,"F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online."
+1148,Second Sight,Second Sight,Organisation,"In the Second Sight interim report, both of them are detailed,
+and it explains, I think, pretty much what I said in more detail, but that post offices
+that the, this I now know was wrong, that the system had identified the issues, that
+they had been fixed, the post offices had been informed, and nobody had been held accountable
+for any losses and where surpluses were left in the hands of the postmasters."
+1158,Post Office,Post Office,Organisation,"This is the press statement that the post office put out on the publication of the interim
+report."
+1164,Post Office,Post Office,Organisation,"We know that the post office had been informed of the receipts and payments mismatch bug
+in September or October 2010."
+1165,Post Office,Post Office,Organisation,"We know that the suspense account of bug had been drawn to the post office's attention
+as an operative problem by at least February 2013."
+1166,Post Office,Post Office,Organisation,"And we know that the calendar square or Falkirk bug had been drawn to the post office's attention
+in 2006."
+1167,Post Office,Post Office,Organisation,"Do you know why this press statement did not acknowledge that the post office had known
+about each of the three bugs referred to in the Second Sight report for many years?"
+1171,Post Office,Post Office,Organisation,"Was that the mantra that the post office had used for many years to defend allegations
+against Horizon?"
+13,Horizon,Horizon,Technical System,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+21,Horizon,Horizon,Technical System,The Project SPIRE document is a forensic investigation of the Horizon System.
+22,Horizon,Horizon,Technical System,"And by, sorry to interrupt, by a forensic investigation of the Horizon System, is that
+captured by these words here, a forensic audit?"
+24,Horizon,Horizon,Technical System,I would have said a detailed investigation of the Horizon System.
+44,the system,the system,Technical System,"And is the short point that the Second Sight review was much narrower in scope in that
+it was proposed that the system should be reviewed by looking at a sample of past cases?"
+54,the system,the system,Technical System,"Whether Deloitte would
+in fact have surfaced some of the other important areas that Second Sight did, I don't know,
+because I think one of the other outcomes of this has been the right decision was looking
+at the contract, and that may not have surfaced through the Deloitte work, which was particularly
+focused on the system itself."
+60,the system,the system,Technical System,"The sample needs to cover cases where defendants
+claim they didn't take any cash, where assertions have been made that the system, i.e. Horizon,
+caused the shortage, including old and new versions of Horizon, if possible, and which
+have been taken up by MPs."
+77,Horizon,Horizon,Technical System,"Right, okay.
+in the events which happened, i.e. over time, would you agree that if what is described
+here in those two bullet points that I have identified had in fact been undertaken, again,
+there is, to use the may word, a possibility that the decade that followed until faults
+in Horizon and the miscarriages of justice identified by the Court of Appeal may have
+been discovered earlier?"
+224,the system,the system,Technical System,"And if we scroll up, you say, I am second paragraph happy to meet, but can't make the
+suggested date and then the third paragraph, my understandings were too early in the investigation
+to suggest that things have been discovered which call into question the integrity of
+the system or the validity of the prosecutions and to suggest that at this stage would be
+wrong."
+225,the system,the system,Technical System,"In order to say that, you must have been told would this be right, the stage at
+which the investigation had reached and whether it was possible to say that the integrity
+of the system or the validity of prosecutions had even at that stage been called into question."
+253,the system,the system,Technical System,"Yes, if we look at the second bullet point, the proposal
+to instruct an independent expert to prepare a report on the system is the highest risk
+response to the issue."
+262,Horizon,Horizon,Technical System,"It will not be able to address any
+of the civil or criminal cases dealt with under old horizon."
+263,Horizon,Horizon,Technical System,"Was that advice communicated back to you that an independent report couldn't look at civil
+or criminal cases dealt with under old horizon?"
+347,Horizon,Horizon,Technical System,"The investigation reports on two to three EMPs cases by summer assess or more, by using
+the two to three cases, you'll answer the question, have systemic defects in the horizon
+system resulted in the wrongful conviction or suspension of sub-postmasters?"
+350,Horizon,Horizon,Technical System,"How did it come about that by late May, the post office was proposing that by looking
+at two to three cases, Second Sight could answer the very big question, have systemic defects
+in the horizon resulted in the wrongful conviction or suspension of sub-postmasters?"
+362,Horizon,Horizon,Technical System,"Why was the proposal to limit the report to determining whether systemic defects in Horizon
+that resulted in wrongful convictions on the basis of two or three cases?
+I don't know."
+367,Horizon,Horizon,Technical System,"How could two or three cases possibly answer the question, have systemic defects in Horizon
+generally resulted in the wrongful conviction?"
+392,Horizon,Horizon,Technical System,"Did you receive or the board receive any advice as to the appropriate scope of an investigation
+by Second Sight as to the nature and extent of any investigation that would be required
+in order to determine whether there were systemic defects in Horizon."
+394,Horizon,Horizon,Technical System,"i.e. we, the post office, need to engage somebody to produce a report whose conclusions are
+respectable and truly provide us with the answer as to whether or not there are systemic
+defects in Horizon."
+423,Horizon,Horizon,Technical System,"And it says, under key messages, we're concerned that the investigation is overrunning, the
+findings will not be definitive, and there'll be no satisfactory outcome to the horizon
+question for MPs or the post office."
+452,Horizon,Horizon,Technical System,"Did the post office subsequently present Second Sites interim report as a definitive view
+that there were no systemic errors or failures in Horizon?"
+485,the system,the system,Technical System,"At no stage did I make the link that you have just led me to make between these two to three
+cases and being able to reach a view on the system and being able to complete the whole
+piece of work."
+514,the system,the system,Technical System,"Second Sight themselves, I think, refer to it as something that might have a broad impact
+the post offices or across the system."
+553,the system,the system,Technical System,"And then if we scroll on, please, over the page, I'm going to skip over two and three
+for the moment and look at four, issuing a statement that although the system has been
+proved to have no systemic issues, and our training support processes and helplines have
+have worked for most of the 50,000 to 60,000 colleagues over the past decade, we're nonetheless
+genuinely sorry that some of our sub-postmasters who were struggling did not feel we offered
+them sufficient help and support when they needed it."
+818,Horizon,Horizon,Technical System,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+818,Horizon Online,Horizon Online,Technical System,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+828,Horizon,Horizon,Technical System,"By this time, and I'll call it mid-2013, you had been engaged on the issues of Horizon
+Integrity for some time, hadn't you?
+From when, yes, yes."
+843,Horizon,Horizon,Technical System,"information I was told was very specific, which was that these two bugs were related
+to Horizon Online."
+856,the system,the system,Technical System,"I think I was told that it was a Fujitsu, someone who worked for Fujitsu who was very
+competent on the system."
+892,Horizon,Horizon,Technical System,And that related to him making statements about there not being bugs in Horizon?
+921,Horizon,Horizon,Technical System,"Do you know where you got the idea that we do not think it, i.e.
+the expert witness making statements about there being no bugs in Horizon from?"
+940,Horizon,Horizon,Technical System,Horizon Computer System.
+1069,Horizon,Horizon,Technical System,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1070,Horizon,Horizon,Technical System,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1070,Horizon Online,Horizon Online,Technical System,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1081,Horizon,Horizon,Technical System,"So why did you say here that it was early 2012 that you were made aware that bugs, errors,
+and defects had been identified in Horizon?"
+1095,Horizon,Horizon,Technical System,"Did this represent a move, a shift in position, preemptively before the Second Sight report
+from there are no bugs in horizon to the then altered position that's set out by Alwen Lyons?"
+1096,Horizon,Horizon,Technical System,"It was, so firstly, I don't recall, and I think Alwyn said this on Tuesday as well,
+that there had been a line, as it were, that there were no bugs in horizon."
+1101,Horizon,Horizon,Technical System,"If that's right, that there hadn't been a position adopted by the post office of there
+are no bugs in Horizon."
+1107,the system,the system,Technical System,"You tell us in your witness statement that its paragraph 389 on page 183, no need to
+to turn it up, that after the receipts and payments
+mismatch bug and the local suspense account bug
+came to light, as you put it, in May 23,
+we no longer lived in a world where no bugs had
+been found in the system."
+1108,the system,the system,Technical System,"That was your position and the post office's position
+up until at least May 2013, that no bugs had been found
+in the system."
+1113,the system,the system,Technical System,"In any event, in May 2013, you no longer lived in a world
+where no bugs have been found in the system."
+1116,the system,the system,Technical System,We've got three bugs or had three bugs in the system.
+1122,Horizon,Horizon,Technical System,"Ms. Vennells, you tell us time and time again in your witness statement that up until May
+2013, you had been told time and time again that there were no bugs in Horizon."
+1131,Horizon,Horizon,Technical System,"What's the answer to my direct question, that you had been told repeatedly for six years
+since you joined post office, that there were no bugs in Horizon."
+1134,the system,the system,Technical System,"And then you're
+told, no, in fact, there are bugs in the system, and you're telling us, but they don't matter,
+as red herringbugs."
+1136,the system,the system,Technical System,"I think to be really clear on this, because it's important, I was told that what I was
+told was about Horizon, and I'm not splitting hairs on this, I was told that Horizon, that
+where cases had gone to court, the courts had found in favor of Horizon, that where
+issues had been raised, I knew when I say my statement that there were always glitches
+and issues with the system."
+1139,Horizon,Horizon,Technical System,"F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online."
+1148,the system,the system,Technical System,"In the Second Sight interim report, both of them are detailed,
+and it explains, I think, pretty much what I said in more detail, but that post offices
+that the, this I now know was wrong, that the system had identified the issues, that
+they had been fixed, the post offices had been informed, and nobody had been held accountable
+for any losses and where surpluses were left in the hands of the postmasters."
+1149,the system,the system,Technical System,"Given that you'd been told before, you'd not been told before mid 2013 about any bugs
+in the system and you were operating on the basis that there were none, on being told
+that in fact the system did have bugs, would you not have wanted a watertight assurance
+from Fujitsu, that there were no more bugs?"
+1169,the system,the system,Technical System,"You will see that it instead concentrates upon the number of people using the system,
+the number of branches, the number of transactions."
+4,bugs,bug,Event/Issue,"Yesterday, aside from the seven general topics that I dealt with in the morning, we addressed
+two issues of substance, one was the complaints made by some postmasters and others about
+bugs errors and defects, and then secondly we looked at remote access in the afternoon."
+4,errors,error,Event/Issue,"Yesterday, aside from the seven general topics that I dealt with in the morning, we addressed
+two issues of substance, one was the complaints made by some postmasters and others about
+bugs errors and defects, and then secondly we looked at remote access in the afternoon."
+4,defects,defect,Event/Issue,"Yesterday, aside from the seven general topics that I dealt with in the morning, we addressed
+two issues of substance, one was the complaints made by some postmasters and others about
+bugs errors and defects, and then secondly we looked at remote access in the afternoon."
+5,mediation scheme,mediation scheme,Event/Issue,"Can I turn to my third topic of substance then, which is the Second Sight investigation
+and the complaint and mediation scheme."
+13,audit,audit,Event/Issue,"My view is that we make it clear to Alice and Paula, the distinction between the work
+Ron is proposing, brackets, an independent review of past cases, and the Horizon Forensic
+audit, the Deloitte proposal, and put it on the agenda to discuss tomorrow, which would
+be the 7th of June."
+14,audit,audit,Event/Issue,"At this stage, were you aware that there were two contenders for the
+undertaking of some form of investigation, review or audit?"
+22,audit,audit,Event/Issue,"And by, sorry to interrupt, by a forensic investigation of the Horizon System, is that
+captured by these words here, a forensic audit?"
+29,mediation scheme,mediation scheme,Event/Issue,"Now this is a timeline that has been prepared after the event of the events
+which led to and happened in the course of the mediation scheme."
+61,bug,bug,Event/Issue,"And then if you look at the last or the second to last bullet point, study and selectively
+test the Horizon system in order to find any black hole, program bug, et cetera, that might
+have caused mysterious shortages."
+62,bugs,bug,Event/Issue,"What's described there, selecting a representative sample of cases that led to prosecutions or
+court-appointed restitutions and then study and selectively test the Horizon system in
+order to find bugs for shorthand that may have caused mysterious shortages."
+68,mediation scheme,mediation scheme,Event/Issue,"and we're not talking about the mediation scheme yet because that was a second
+piece of work essentially."
+170,mediation scheme,mediation scheme,Event/Issue,"We identified three broad courses of action that might be taken to improve the ability
+of post office successfully to deliver the mediation scheme in a timely fashion."
+193,mediation scheme,mediation scheme,Event/Issue,"But I may be confusing that with the mediation scheme because this issue of time and cost
+overrun was a fairly frequent topic of conversation."
+235,audit,audit,Event/Issue,"Do you know how it came about that what started as a debate between the choice of Deloitte
+conducting a full forensic audit of Horizon, Second Sight conducting a review of past cases
+that would be a representative sample but include some testing of the integrity of the
+Horizon system ended up with focusing on three cases?"
+256,audit,audit,Event/Issue,"In fact, a decision had been made, it seems
+already at the meeting of the 7th of June 2012 not to instruct an expert to prepare
+a report, a forensic audit of the Horizon system, hadn't it?"
+297,bugs,bug,Event/Issue,"I do think this is the right place to share the bugs we found and how we have dealt with
+them, which is why the report from Rod, stroke Leslie, checked by legal and Mark is important."
+347,defects,defect,Event/Issue,"The investigation reports on two to three EMPs cases by summer assess or more, by using
+the two to three cases, you'll answer the question, have systemic defects in the horizon
+system resulted in the wrongful conviction or suspension of sub-postmasters?"
+350,defects,defect,Event/Issue,"How did it come about that by late May, the post office was proposing that by looking
+at two to three cases, Second Sight could answer the very big question, have systemic defects
+in the horizon resulted in the wrongful conviction or suspension of sub-postmasters?"
+351,defects,defect,Event/Issue,"I'm not sure, but when the report was produced, as the inquiry knows, one of the conclusions
+was that so far no systemic defects had been found."
+362,defects,defect,Event/Issue,"Why was the proposal to limit the report to determining whether systemic defects in Horizon
+that resulted in wrongful convictions on the basis of two or three cases?
+I don't know."
+367,defects,defect,Event/Issue,"How could two or three cases possibly answer the question, have systemic defects in Horizon
+generally resulted in the wrongful conviction?"
+375,defects,defect,Event/Issue,"Did you want to say that by looking at two or three cases, we can answer the entire question
+of whether systemic defects had resulted in the wrongful conviction of sub-postmasters?"
+380,defects,defect,Event/Issue,"I don't recall a conversation where I consciously said it would be possible, because it wouldn't
+be possible, to come to a conclusion on systemic defects as a result of two to three cases."
+382,defects,defect,Event/Issue,"It contained the sentence about no systemic defects and then forever after the post office
+paraded that conclusion."
+392,defects,defect,Event/Issue,"Did you receive or the board receive any advice as to the appropriate scope of an investigation
+by Second Sight as to the nature and extent of any investigation that would be required
+in order to determine whether there were systemic defects in Horizon."
+394,defects,defect,Event/Issue,"i.e. we, the post office, need to engage somebody to produce a report whose conclusions are
+respectable and truly provide us with the answer as to whether or not there are systemic
+defects in Horizon."
+415,defects,defect,Event/Issue,"We think that actually we will get two to three MP cases done, and I may well have said,
+will that help us answer the question about other systemic defects in the Horizon system?
+I wouldn't have known personally from any of the, because I wasn't involved in the work
+or conversations at Second Sight, point four about whether they could have said no or not
+at this stage."
+452,errors,error,Event/Issue,"Did the post office subsequently present Second Sites interim report as a definitive view
+that there were no systemic errors or failures in Horizon?"
+469,defects,defect,Event/Issue,"Had you signed up to this idea by this time at least then that James R. Buthnodt should
+be asked to persuade Second Sight to wind their investigation up on two to three cases,
+and those two to three cases would answer the question, have systemic defects resulted
+in the wrongful conviction of sub-postmasters?"
+474,defects,defect,Event/Issue,"In readiness for the meeting with James Arbuthnot on the 23rd of May 2013, you signed up to
+the idea that he would be asked to persuade Second Sight or request Second Sight to wind
+their investigation up on the basis of two to three MP cases answering the question,
+systemic defects in Horizon resulted in the wrongful conviction of some postmasters?"
+481,defects,defect,Event/Issue,"Okay, they should focus on answering the question, have systemic defects in Horizon resulted
+on in the wrongful conviction of sub-postmasters by reference to two to three cases."
+614,mediation scheme,mediation scheme,Event/Issue,"I was asking the question to do this work the right way, and my understanding and acceptance
+of what was proposed, which was accepted by the MPs and everybody else involved, was that
+the mediation scheme was the right way through."
+746,mediation scheme,mediation scheme,Event/Issue,"Can I just ask, and this may be entirely my fault, so I preface it by that, but I'm not
+clear that as of the 6th of July or 7th of July or this period of time, this discussion
+of how to approach the issue of past cases is taking place in the context of Second Sight
+continuing its investigative work beyond the interim report or in the context of the idea
+of a mediation scheme."
+750,mediation scheme,mediation scheme,Event/Issue,"And after their interim report, somehow a transition took place so that what I'll call
+a mediation scheme emerged."
+767,mediation scheme,mediation scheme,Event/Issue,"Did she know that there would need to have been a further review, or was her understanding
+at that time, which is a fact that was later described, that any criminal cases going through
+the mediation scheme would be open to all of the investigation work that was done by
+post office and Second Sight on Fujitsu, which may then give them information to take forward
+to through the normal legal routes, through the Court of Appeal or the CCRC."
+810,bugs,bug,Event/Issue,"You say that you had a conversation with Lesley Sewell in which she told you that the post
+office had been advised that the expert witness that the post office had used in criminal
+cases to give evidence about Horizon had failed to mention there were bugs in Horizon, including
+in the Seema Misra case."
+818,bugs,bug,Event/Issue,"And she said that she had just heard that, so I don't know that she said this, but I'm
+assuming from Susan, that the post office expert from Fujitsu whom we had used in past
+cases now had to be stood down because he had not revealed, and as I said yesterday,
+I think one or two bugs that he knew about in a case, and that's right, I think it was
+Mrs. Miserers, and the reason that Leslie explained he hadn't revealed those bugs in
+that case is that they hadn't been, Mrs. Miserers was a Horizon Online case, and these, oh, sorry,
+the other way around, Mrs. Miserers' case was on Legacy Horizon, and these bugs hadn't
+come into effect until Horizon Online."
+819,bugs,bug,Event/Issue,"Ms Meadows, the way you described it there is that Ms Sewell was telling you that the
+expert had failed to mention bugs in one case, and that was Seema Misra."
+834,bugs,bug,Event/Issue,"Did you at the time join the dots between the debates that we've seen you have in emails
+here with Mr Davis and Ms Sewell about the extent to which the post office should announce
+that it was going to review past convictions and the information that you were being given
+quite separately that the post office's expert witness had failed to mention bugs of which
+he had knowledge in criminal cases?"
+841,bugs,bug,Event/Issue,"Did you never, at any time, connect
+the long-running criticism of Horizon's integrity
+that has been forced upon the post office by some post masters for years and years with
+being informed that there was a problem with the expert evidence on which the post office
+had relied about bugs?"
+843,bugs,bug,Event/Issue,"information I was told was very specific, which was that these two bugs were related
+to Horizon Online."
+845,bugs,bug,Event/Issue,And the bugs had been fixed
+860,bugs,bug,Event/Issue,Knowledge of bugs?
+864,bugs,bug,Event/Issue,"I understood because that was the obligation that one had to do, was that any case that
+he had given evidence in needed to be given this evidence around these two bugs, even
+if it didn't affect those cases."
+873,bugs,bug,Event/Issue,"The representative from Fujitsu made statements about no bugs, which
+later could be seen to have been undermined by the Second Sight report."
+892,bugs,bug,Event/Issue,And that related to him making statements about there not being bugs in Horizon?
+894,bugs,bug,Event/Issue,"So you understood by this time that there was an issue about the reliability of the
+Fujitsu expert evidence about there being bugs, i.e. the absence of them, and not merely
+about the presence of bugs that have been revealed by the Second Sight report."
+921,bugs,bug,Event/Issue,"Do you know where you got the idea that we do not think it, i.e.
+the expert witness making statements about there being no bugs in Horizon from?"
+1065,bug,bug,Event/Issue,"And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+suspense account bug, and although it didn't name it, the calendar square or Falkirk bug."
+1065,mismatch,mismatch,Event/Issue,"And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+suspense account bug, and although it didn't name it, the calendar square or Falkirk bug."
+1065,suspense account,suspense account,Event/Issue,"And it referred to three bugs in Horizon, the receipts and payments mismatch bug, the
+suspense account bug, and although it didn't name it, the calendar square or Falkirk bug."
+1069,bugs,bug,Event/Issue,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1069,errors,error,Event/Issue,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1069,defects,defect,Event/Issue,"You say, I was not made aware between
+joining the post office in 2007 and early 2012 that any bugs, errors, or defects had
+been identified in Legacy Horizon or Horizon Online."
+1070,bug,bug,Event/Issue,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1070,errors,error,Event/Issue,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1070,mismatch,mismatch,Event/Issue,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1070,suspense account,suspense account,Event/Issue,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1070,defects,defect,Event/Issue,"And then you say, the first that I
+knew that any bugs errors or defects have been discovered was in mid 2013 when I was
+made aware for the first time that the bug known as the calendar square problem in legacy
+horizon and two bugs in horizon online receipts and payments mismatch and local suspense account
+problem."
+1072,bugs,bug,Event/Issue,"You state in the first sentence that you were not aware until early 2012 that any bugs had
+been identified in either system."
+1073,bugs,bug,Event/Issue,"Then in the second sentence, you say the first that I knew that any bugs had been discovered
+was in mid 2013."
+1080,bugs,bug,Event/Issue,"When did you first know of any bugs, errors, or defects?
+2013."
+1080,errors,error,Event/Issue,"When did you first know of any bugs, errors, or defects?
+2013."
+1080,defects,defect,Event/Issue,"When did you first know of any bugs, errors, or defects?
+2013."
+1081,bugs,bug,Event/Issue,"So why did you say here that it was early 2012 that you were made aware that bugs, errors,
+and defects had been identified in Horizon?"
+1081,errors,error,Event/Issue,"So why did you say here that it was early 2012 that you were made aware that bugs, errors,
+and defects had been identified in Horizon?"
+1081,defects,defect,Event/Issue,"So why did you say here that it was early 2012 that you were made aware that bugs, errors,
+and defects had been identified in Horizon?"
+1082,bug,bug,Event/Issue,"I don't know, because the only thing I can think is an explanation is that the local
+suspense bug was, I think, drawn to the post office's attention in 2012, but nobody knew
+about that, because it had been referred to the MBSC, and I suspect this is just a mistake."
+1089,bugs,bug,Event/Issue,"Can we turn to what was said in the run-up to the Second Sight report about the post office's
+position on the three bugs?"
+1093,bugs,bug,Event/Issue,"And she says, Paula, the only thing that's not in the brief for James is our move away
+from, quote, there are no bugs in Horizon to there are known bugs in every computer
+system this size, but they're found and put right and no sub-postmaster is disadvantaged
+by them."
+1095,bugs,bug,Event/Issue,"Did this represent a move, a shift in position, preemptively before the Second Sight report
+from there are no bugs in horizon to the then altered position that's set out by Alwen Lyons?"
+1096,bugs,bug,Event/Issue,"It was, so firstly, I don't recall, and I think Alwyn said this on Tuesday as well,
+that there had been a line, as it were, that there were no bugs in horizon."
+1101,bugs,bug,Event/Issue,"If that's right, that there hadn't been a position adopted by the post office of there
+are no bugs in Horizon."
+1107,bug,bug,Event/Issue,"You tell us in your witness statement that its paragraph 389 on page 183, no need to
+to turn it up, that after the receipts and payments
+mismatch bug and the local suspense account bug
+came to light, as you put it, in May 23,
+we no longer lived in a world where no bugs had
+been found in the system."
+1107,mismatch,mismatch,Event/Issue,"You tell us in your witness statement that its paragraph 389 on page 183, no need to
+to turn it up, that after the receipts and payments
+mismatch bug and the local suspense account bug
+came to light, as you put it, in May 23,
+we no longer lived in a world where no bugs had
+been found in the system."
+1107,suspense account,suspense account,Event/Issue,"You tell us in your witness statement that its paragraph 389 on page 183, no need to
+to turn it up, that after the receipts and payments
+mismatch bug and the local suspense account bug
+came to light, as you put it, in May 23,
+we no longer lived in a world where no bugs had
+been found in the system."
+1108,bugs,bug,Event/Issue,"That was your position and the post office's position
+up until at least May 2013, that no bugs had been found
+in the system."
+1112,bugs,bug,Event/Issue,"But as soon as we had discovered these bugs, if we
+had been saying publicly that there were no bugs, clearly
+that needed to be corrected."
+1113,bugs,bug,Event/Issue,"In any event, in May 2013, you no longer lived in a world
+where no bugs have been found in the system."
+1116,bugs,bug,Event/Issue,We've got three bugs or had three bugs in the system.
+1119,bug,bug,Event/Issue,"And what was very important to me,
+and the inquiry can see this,
+from emails that I sent and work that I did,
+was that, and I can remember saying to our alliance actually
+that I wanted to demonstrate leadership in this case,
+this was around the local suspense bug,
+that it was, that I wanted reassurance
+that Fujitsu had done as it said,
+which is that all affected post offices had been identified,
+that we had looked at whatever the shortfalls were, that post offices had not been held
+accountable for any of those, or that they were held accountable for any losses, that
+they were all written to, which they were."
+1119,shortfalls,shortfall,Event/Issue,"And what was very important to me,
+and the inquiry can see this,
+from emails that I sent and work that I did,
+was that, and I can remember saying to our alliance actually
+that I wanted to demonstrate leadership in this case,
+this was around the local suspense bug,
+that it was, that I wanted reassurance
+that Fujitsu had done as it said,
+which is that all affected post offices had been identified,
+that we had looked at whatever the shortfalls were, that post offices had not been held
+accountable for any of those, or that they were held accountable for any losses, that
+they were all written to, which they were."
+1121,bug,bug,Event/Issue,"In terms of the second bug, the receipts and payments mismatch bug, that
+I was told had been dealt with, and again, it's in documentation, that the post offices
+affected by that had been written to as well."
+1121,mismatch,mismatch,Event/Issue,"In terms of the second bug, the receipts and payments mismatch bug, that
+I was told had been dealt with, and again, it's in documentation, that the post offices
+affected by that had been written to as well."
+1122,bugs,bug,Event/Issue,"Ms. Vennells, you tell us time and time again in your witness statement that up until May
+2013, you had been told time and time again that there were no bugs in Horizon."
+1126,bugs,bug,Event/Issue,"In fact, there were bugs."
+1129,bugs,bug,Event/Issue,"The way that I was told about those two bugs was
+that they were, and I'm not referring to previous exchanges elsewhere, but they were incidents
+that had been dealt with."
+1130,bugs,bug,Event/Issue,"They were bugs that had been resolved, and that they were red
+herrings to the work, and they didn't affect any of the branches that Second Sight were
+looking at, and the branches that had been affected had been properly supported by the
+post office and the cases had been dealt with."
+1131,bugs,bug,Event/Issue,"What's the answer to my direct question, that you had been told repeatedly for six years
+since you joined post office, that there were no bugs in Horizon."
+1134,bugs,bug,Event/Issue,"And then you're
+told, no, in fact, there are bugs in the system, and you're telling us, but they don't matter,
+as red herringbugs."
+1139,bugs,bug,Event/Issue,"F, you say, I was not made aware between joining the post office in 2007 and, you told us this
+should read, mid 2013, that any bugs had been identified in Legacy Horizon or Horizon Online."
+1140,bugs,bug,Event/Issue,The first I knew that any bugs had been discovered was mid 2013.
+1144,bugs,bug,Event/Issue,"What I'm not getting across clearly enough is that this was important,
+but I was reassured at the same time that these bugs had been dealt with."
+1149,bugs,bug,Event/Issue,"Given that you'd been told before, you'd not been told before mid 2013 about any bugs
+in the system and you were operating on the basis that there were none, on being told
+that in fact the system did have bugs, would you not have wanted a watertight assurance
+from Fujitsu, that there were no more bugs?"
+1164,bug,bug,Event/Issue,"We know that the post office had been informed of the receipts and payments mismatch bug
+in September or October 2010."
+1164,mismatch,mismatch,Event/Issue,"We know that the post office had been informed of the receipts and payments mismatch bug
+in September or October 2010."
+1165,bug,bug,Event/Issue,"We know that the suspense account of bug had been drawn to the post office's attention
+as an operative problem by at least February 2013."
+1165,suspense account,suspense account,Event/Issue,"We know that the suspense account of bug had been drawn to the post office's attention
+as an operative problem by at least February 2013."
+1166,bug,bug,Event/Issue,"And we know that the calendar square or Falkirk bug had been drawn to the post office's attention
+in 2006."
+1167,bugs,bug,Event/Issue,"Do you know why this press statement did not acknowledge that the post office had known
+about each of the three bugs referred to in the Second Sight report for many years?"

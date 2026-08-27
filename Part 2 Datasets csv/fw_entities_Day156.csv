@@ -1,0 +1,2018 @@
+sentence_index,entity_raw,entity_normalised,category,sentence_text
+10,Jenkins,Gareth Jenkins,Individual,"Good morning, Mr. Jenkins."
+11,Jason Beer,Beer,Individual,My name is Jason Beer and I ask questions on behalf of the Inquiry.
+15,Beer,Beer,Individual,"Mr. Beer, before you go any further, is it appropriate for me to direct Mr. Jenkins about
+self-incrimination?"
+15,Jenkins,Gareth Jenkins,Individual,"Mr. Beer, before you go any further, is it appropriate for me to direct Mr. Jenkins about
+self-incrimination?"
+17,Jenkins,Gareth Jenkins,Individual,"Mr. Jenkins, I'm sure you've been advised, but under our law, a witness at a public inquiry
+has the right to decline to answer a question put to him by any of the lawyers involved
+in the inquiry or by me if there is a risk that the answer to that question would incriminate
+you."
+26,Jenkins,Gareth Jenkins,Individual,"Do you understand all that, Mr Jenkins?"
+29,Beer,Beer,Individual,"Yes, Mr Beer."
+31,Jenkins,Gareth Jenkins,Individual,"Mr Jenkins, you've made five witness statements to the inquiry."
+83,"University, Cambridge University","University, Cambridge University",Organisation,"I think you graduated in 1973 from University, Cambridge University,
+with a degree in mathematics."
+85,International Computers Limited,International Computers Limited,Organisation,"And upon graduation, you immediately worked for International Computers Limited,
+ICL, is that right?"
+85,ICL,ICL,Organisation,"And upon graduation, you immediately worked for International Computers Limited,
+ICL, is that right?"
+87,ICL,ICL,Organisation,And ICL became Fujitsu Services Limited in 2002?
+87,Fujitsu Services Limited,Fujitsu Services Limited,Organisation,And ICL became Fujitsu Services Limited in 2002?
+95,ICL Fujitsu,ICL Fujitsu,Organisation,"Dealing briefly at the moment with the stages of your career at ICL Fujitsu,
+so far as concerns us, from about 1996 to about 2000, did you work in the agent team?"
+97,Horizon,Horizon,Technical System,"You were one of a team of 10 to 20 architects working on the Horizon system, is that right?"
+114,the Bureau de change,the Bureau de change,Organisation,"You tell us in your witness statement that from 2002 to 2008 you, quote, took on the
+role of defining the technical changes required by project impact and worked on the implementation
+of the Bureau de change and the acceptance of credit cards."
+117,Bureau de Charge,Bureau de Charge,Organisation,"So I worked on impact until
+that went live in 2005, I think it was, then I worked on Bureau de Charge and credit card
+changes and then a few other minor things before I moved on to Horizon Online requirements
+capture."
+117,Horizon Online,Horizon Online,Technical System,"So I worked on impact until
+that went live in 2005, I think it was, then I worked on Bureau de Charge and credit card
+changes and then a few other minor things before I moved on to Horizon Online requirements
+capture."
+118,Horizon Online,Horizon Online,Technical System,Did you move on to Horizon Online from about 2008?
+120,Horizon Online,Horizon Online,Technical System,And did you work on Horizon Online from 2008 to about 2015?
+122,Horizon Online,Horizon Online,Technical System,"You tell us in your witness statement that you, quote, worked with post office analysts
+in defining the technical requirements for Horizon Online."
+128,Horizon Online,Horizon Online,Technical System,"The contractual definition of how Horizon Online was to work was that the counter should
+operate in the same way as it did on legacy horizon and therefore it was decided that
+we needed to put in place something that actually defined exactly what that was and the technique
+that was decided was that the post office would put together the use cases to define
+the various activities that went on in the post office, to define the steps that people
+went through from how do you sell a stamp to how do you balance at the end of the week
+or whatever."
+133,Fujitsu,Fujitsu,Organisation,"You tell us that during your time at Fujitsu you were a group of anywhere
+between 20 and 100 software designers and developers who would provide
+fourth-line support for both Legacy Horizon and Horizon Online?"
+133,Legacy Horizon,Legacy Horizon,Technical System,"You tell us that during your time at Fujitsu you were a group of anywhere
+between 20 and 100 software designers and developers who would provide
+fourth-line support for both Legacy Horizon and Horizon Online?"
+133,Horizon Online,Horizon Online,Technical System,"You tell us that during your time at Fujitsu you were a group of anywhere
+between 20 and 100 software designers and developers who would provide
+fourth-line support for both Legacy Horizon and Horizon Online?"
+140,ICL,ICL,Organisation,"In your first witness statement, you refer to ICL introducing what's called a distinguished
+engineer scheme, correct?"
+143,ICL,ICL,Organisation,"You were one of about 100 other ICL employees who were described as distinguished engineer,
+is that right?"
+145,ICL,ICL,Organisation,Is it right that that was an honorific title conferred upon you by ICL or Fujitsu?
+145,Fujitsu,Fujitsu,Organisation,Is it right that that was an honorific title conferred upon you by ICL or Fujitsu?
+159,Fujitsu,Fujitsu,Organisation,"You tell us in your first witness statement that from about 2015 until August 2012, so
+after, sorry, 2022, you were on a retainer with Fujitsu as a consultant, is that right?"
+166,COVID,COVID,Individual,"I don't think,
+although I was on the retainer until August 2022, I think the last time I actually did any pay
+consultancy was just before COVID lockdown in 2020, which is why they decided they, since they
+hadn't been using me for a couple of years, that they didn't need to retain me any further."
+168,the Horizon Issues Judgment,the Horizon Issues Judgment,Organisation,"So did your retainer essentially come to an end
+at the time of the publication of the Horizon Issues Judgment, which was December 19?"
+171,Horizon,Horizon,Technical System,"Other than the provision of information, assistance and evidence in
+connection with the litigation concerning the Horizon system, what work did you perform in
+this consultancy?"
+176,Fujitsu,Fujitsu,Organisation,"They tried to do a reconciliation against data they had from Fujitsu, and I realized
+what the problem was, it was to do with the fact that they were taking the accounts at
+different times."
+191,GLO,GLO,Organisation,"I can't remember the gory details of exactly what I was doing when,
+but there were a number of notes that I produced, which I wasn't quite sure what the background was,
+but looking back at it now, I realise was actually maybe in preparation for
+what eventually became the GLO."
+195,Fraser,Fraser,Individual,"In high-level summary, would you agree that Mr Justice Fraser concluded, firstly, that
+legacy Horizon was not remotely robust?"
+195,Horizon,Horizon,Technical System,"In high-level summary, would you agree that Mr Justice Fraser concluded, firstly, that
+legacy Horizon was not remotely robust?"
+198,Horizon Online,Horizon Online,Technical System,Do you accept that Horizon Online was susceptible to accounting flaws?
+207,Legacy Horizon,Legacy Horizon,Technical System,Do I take it that you accept his first finding that Legacy Horizon was not remotely robust?
+209,Horizon Online,Horizon Online,Technical System,You don't accept his finding that Horizon Online was susceptible to accounting flaws?
+215,Horizon,Horizon,Technical System,"Horizon, both legacy and online, was working well in your view?"
+220,Horizon,Horizon,Technical System,"Can I turn in more detail to your role in the development and rollout of the Horizon
+system and in – no need to turn it up – paragraphs 18 to 23 of your first witness statement,
+you describe your roles and responsibilities at ICL and then Fujitsu."
+220,ICL,ICL,Organisation,"Can I turn in more detail to your role in the development and rollout of the Horizon
+system and in – no need to turn it up – paragraphs 18 to 23 of your first witness statement,
+you describe your roles and responsibilities at ICL and then Fujitsu."
+220,Fujitsu,Fujitsu,Organisation,"Can I turn in more detail to your role in the development and rollout of the Horizon
+system and in – no need to turn it up – paragraphs 18 to 23 of your first witness statement,
+you describe your roles and responsibilities at ICL and then Fujitsu."
+221,Legacy Horizon,Legacy Horizon,Technical System,"So between 1996 and 2002, you tell us that your initial role with Legacy Horizon was
+quote to integrate Riposte and the Oracle based software, yes?"
+221,Riposte,Riposte,Technical System,"So between 1996 and 2002, you tell us that your initial role with Legacy Horizon was
+quote to integrate Riposte and the Oracle based software, yes?"
+221,Oracle,Oracle,Individual,"So between 1996 and 2002, you tell us that your initial role with Legacy Horizon was
+quote to integrate Riposte and the Oracle based software, yes?"
+225,Riposte,Riposte,Technical System,"Firstly, can you describe briefly what Riposte was?"
+226,Riposte,Riposte,Technical System,"Riposte was a messaging – well, step back one."
+227,Riposte,Riposte,Technical System,"There were two aspects to Riposte, and
+this was software that we had bought in at Post Office's request from a company called
+Escher in the United States."
+227,Post Office's,Post Office,Organisation,"There were two aspects to Riposte, and
+this was software that we had bought in at Post Office's request from a company called
+Escher in the United States."
+227,Escher,Escher,Individual,"There were two aspects to Riposte, and
+this was software that we had bought in at Post Office's request from a company called
+Escher in the United States."
+230,Riposte,Riposte,Technical System,"Then the other part of Riposte was a development environment that allowed applications to be
+built on that, and the application environment that caused the human interface that the postmaster
+saw in the branches."
+232,Project Impact,Project Impact,Organisation,"I got more involved in that when I moved on to Project Impact in 2003
+or so."
+233,Riposte,Riposte,Technical System,"But in the early days, my main interaction with Riposte was to do with the message store."
+237,Post Office's,Post Office,Organisation,"This was really an Oracle database, and this was used to communicate with Post Office's
+backend systems where they did their backend accounting."
+238,Fujitsu,Fujitsu,Organisation,"So that was really the boundary
+between what Fujitsu was doing or ICL was doing and what Post Office was doing."
+238,ICL,ICL,Organisation,"So that was really the boundary
+between what Fujitsu was doing or ICL was doing and what Post Office was doing."
+238,Post Office,Post Office,Organisation,"So that was really the boundary
+between what Fujitsu was doing or ICL was doing and what Post Office was doing."
+239,Post Office's,Post Office,Organisation,"So that
+That was basically an overnight batch processing system, so it would process through all the
+transactions, it would generate files of transactions that had happened during that day, which were
+then transmitted to Post Office's backend systems."
+242,Post Office's,Post Office,Organisation,"So what the agent layer was doing is it was reading data from the message store, and we
+had copies of the message store in the data centre, and extracting the relevant transactions
+and other information that was of interest to Post Office's backend systems, and writing
+records to the Oracle databases to reflect those transactions."
+242,Oracle,Oracle,Individual,"So what the agent layer was doing is it was reading data from the message store, and we
+had copies of the message store in the data centre, and extracting the relevant transactions
+and other information that was of interest to Post Office's backend systems, and writing
+records to the Oracle databases to reflect those transactions."
+244,"Post
+Office","Post
+Office",Organisation,"For example, reference data was being generated by Post
+Office, and by reference data, the simplest example is, what's the price of a stamp today?"
+256,the Benefits Agency,the Benefits Agency,Organisation,"The work changed a lot over time because at the beginning, back in 1996, the first application
+that was rolled out was actually a benefits agency application, which by 1998, 1999, actually
+got dropped because the Benefits Agency pulled out the contract."
+263,the Benefits Agency,the Benefits Agency,Organisation,What did you know as to the reasons why the Benefits Agency pulled out of the contract?
+269,ICL,ICL,Organisation,"Were you told anything to the effect that one of the reasons why the benefits agency
+withdrew was a lack of confidence in ICL."
+285,Project Impact,Project Impact,Organisation,"That really started with Project Impact, but I certainly was working with the post office
+team in terms of defining the interfaces between how Fujitsu's agents were operating and how
+they interacted."
+285,Fujitsu,Fujitsu,Organisation,"That really started with Project Impact, but I certainly was working with the post office
+team in terms of defining the interfaces between how Fujitsu's agents were operating and how
+they interacted."
+286,IBM,IBM,Organisation,"Well, initially, there was a box in between us and the banks called the Network Banking
+Engine, which was provided by IBM."
+289,Jeremy Fowkes,Jeremy Fowkes,Individual,"Did you come into contact with Jeremy Fowkes, the infrastructure assurance team leader from the post office?"
+290,Escher,Escher,Individual,"Not at that time, but I did come across him a few years later when he'd moved roles and he actually joined Escher as one of their consultants."
+291,Jeremy,Jeremy,Individual,"So I did come across Jeremy in his role with Escher, but I don't remember coming across him when he was working with post office."
+291,Escher,Escher,Individual,"So I did come across Jeremy in his role with Escher, but I don't remember coming across him when he was working with post office."
+294,Riposte,Riposte,Technical System,"He continued, when I say we had some visibility of risk areas, what I mean is that the areas
+where we had raised formal risks to the service provider at the start, such as Riposte."
+295,EPOSS,EPOSS,Technical System,"In
+those cases, we did get more information, but as far as the application design, in particular
+EPOSS, we had been denied visibility."
+296,ICL,ICL,Organisation,"I think that was something to do with the way the contract had been negotiated between
+– or ICL management, as it was then, and Post Office and DSS."
+296,Post Office,Post Office,Organisation,"I think that was something to do with the way the contract had been negotiated between
+– or ICL management, as it was then, and Post Office and DSS."
+296,DSS,DSS,Organisation,"I think that was something to do with the way the contract had been negotiated between
+– or ICL management, as it was then, and Post Office and DSS."
+297,PFI,PFI,Organisation,"I wasn't involved in
+of that, but as I understand it, it was a PFI contract, and part of that meant that the customer
+had to treat the whole thing as a black box, but say this is hearsay, if you like, rather than
+something I was directly involved in."
+301,Fujitsu,Fujitsu,Organisation,"That it was up to Fujitsu
+exactly how they designed the application and the details of how the internal design was done was
+something for Fujitsu YCL to worry about and it wasn't something that post office would get involved
+in."
+301,Fujitsu YCL,Fujitsu YCL,Organisation,"That it was up to Fujitsu
+exactly how they designed the application and the details of how the internal design was done was
+something for Fujitsu YCL to worry about and it wasn't something that post office would get involved
+in."
+302,EPOSS,EPOSS,Technical System,"Would a consequence of that be in relation, for example, to EPOSS mean that it would be
+difficult if not impossible for the post office to ensure that there was data integrity?"
+308,Horizon,Horizon,Technical System,"He suggested that the fact that the post office had purchased a black box and had no rights
+to see how the black box worked meant that it was difficult, if not impossible, to ensure
+data integrity within the Horizon system."
+314,PFI,PFI,Organisation,"Were you conscious, and those with whom you worked conscious, that the nature of the contract
+was a PFI contract, and therefore the client had no rights, no visibility over the way
+the system was built."
+319,Horizon,Horizon,Technical System,"And it was really a case of, and the
+The main work I was doing with the customer in the early 2000s was with agreeing these
+banking specs, and there I was working very openly with the customer because there were
+their specs that were defining the interfaces as to how Horizon was going to interface with
+initially the banking engine and then also with Streamline for the debit card payments."
+322,PFI,PFI,Organisation,"Why was it being talked about?
+thing was being talked about as such it was really I probably picked that up from the Jeremy Fox's
+stuff as I say I was aware that there's a PFI contract and that it meant that we didn't
+necessarily need to share detailed design documents with the customer because it was
+Fujitsu's intellectual property."
+322,Fujitsu,Fujitsu,Organisation,"Why was it being talked about?
+thing was being talked about as such it was really I probably picked that up from the Jeremy Fox's
+stuff as I say I was aware that there's a PFI contract and that it meant that we didn't
+necessarily need to share detailed design documents with the customer because it was
+Fujitsu's intellectual property."
+330,Legacy Horizon,Legacy Horizon,Technical System,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+333,SSC,SSC,Organisation,"If you did not have knowledge of or oversight of all bugs, errors and defects within the
+system at any given time, who did?
+I would have thought the SSC would, and there was an area called customer services, SSC
+was part of that."
+338,SSC,SSC,Organisation,"We've heard from a lot of people from the SSC, and they've told us that there were between
+20 and 30 people at any one time working in the SSC, sometimes working shifts, some working
+at home, some working in the office, that they only knew about the bugs that they were
+allocated on the stack, and that it was correct that there might be informal sharing of information
+by people who were sitting next to each other or talking about it at the water cooler, but
+there was no formalised system for sharing knowledge within the SSC."
+342,SSC,SSC,Organisation,I wasn't part of the SSC.
+343,Horizon,Horizon,Technical System,"But when I asked you who may have oversight of all bugs, errors and defects within the
+Horizon system, you pointed to the SSC."
+343,SSC,SSC,Organisation,"But when I asked you who may have oversight of all bugs, errors and defects within the
+Horizon system, you pointed to the SSC."
+346,Horizon,Horizon,Technical System,"I'm looking for, it might be described as an all-seeing eye, but somebody who took a
+step back and would be able to say, we've had these problems in the past with Horizon,
+these bugs, errors and defects, and at the moment we're servicing the existence of these
+possible bugs, errors and defects."
+350,Peak,Peak,Technical System,"There was a system called Peak and it had a predecessor called PinICL and the way
+that that operated, that was effectively a database of the various defects and that included
+those found during testing as well as those during live, and what happened was that peaks
+or PinICL would be allocated to a particular person, and I think you'd normally get an
+email saying, you've had this peak that's allocated to you, you could then log into
+the peak system, have a look at the peak, see what it said, and then decide what you
+need to do with it next."
+352,Horizon Online,Horizon Online,Technical System,"Did you have oversight of all bugs, errors and defects?
+Not as such, but I did have a probably a better view of them, particularly during the pilot
+phase of Horizon Online, because during the pilot phase there was a project team in place
+that was managing the pilot and taking very close monitoring of any issues that were going
+on during the pilot and I would often get called in to that by that team to investigate
+particular problems particularly ones that are the factor of the counter."
+353,Horizon Online,Horizon Online,Technical System,"After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+and defects within the Horizon Online system?"
+353,Horizon,Horizon,Technical System,"After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+and defects within the Horizon Online system?"
+360,Legacy Horizon,Legacy Horizon,Technical System,There was the same peak system that operated for both Legacy Horizon and Horizon Online.
+360,Horizon Online,Horizon Online,Technical System,There was the same peak system that operated for both Legacy Horizon and Horizon Online.
+361,Legacy Horizon,Legacy Horizon,Technical System,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+361,Horizon Online,Horizon Online,Technical System,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+363,Fujitsu,Fujitsu,Organisation,"So when something was identified as being a serious problem, and I think we're probably
+going to go on talking about the receipts and payments mismatch problem at some stage,
+I was often called in to help, well, firstly, analyse the problem and explain that problem
+so that Fujitsu management could understand what it was all about, and I often got involved
+in explaining it to the equivalent people in post office about what the impact of that
+was and what could be done to remedy it, both in terms of fixing the code, but also fixing
+whatever the business impact of the problem was, which wouldn't necessarily be fixed
+directly just because you'd fix the code."
+371,Horizon,Horizon,Technical System,"If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+evidence about the existence or non-existence of bugs, errors and defects in Horizon?"
+371,Horizon Online,Horizon Online,Technical System,"If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+evidence about the existence or non-existence of bugs, errors and defects in Horizon?"
+383,Fujitsu,Fujitsu,Organisation,"During your employment within Fujitsu, did any of your roles
+entails any overall responsibility for monitoring identifying or fixing bugs
+errors or defects?"
+396,Del Mannington's,Del Mannington's,Organisation,"receipts and payments match, the local suspense issue and Del Mannington's, those are the
+ones I see as being the serious issues with Horizon Online and I got involved in all of
+them because they saw me being helpful in terms of my expertise and background for those
+particular cases."
+396,Horizon Online,Horizon Online,Technical System,"receipts and payments match, the local suspense issue and Del Mannington's, those are the
+ones I see as being the serious issues with Horizon Online and I got involved in all of
+them because they saw me being helpful in terms of my expertise and background for those
+particular cases."
+397,jargon,jargon,Organisation,"That was my next question, why did they come to you?
+Because I'd had experience of dealing with things, I think it was felt that I was in
+a good position of turning some of the technical jargon into something that laypeople could
+understand better."
+400,SSC,SSC,Organisation,"I would get involved by probably
+a phone call or an email from someone either in the SSC or from problem management and
+they say, guys, can you come and give us a hand, look at this problem and see what's
+going on."
+405,the Post Office,Post Office,Organisation,"When you started to become the man that the Post Office relied on to give evidence in
+court, did anyone say, we need to make sure that Mr Jenkins knows about the things that
+are not referred to him?"
+411,SSC,SSC,Organisation,"What interactions did you have with the third line of support, the SSC, in relation to identifying
+and rectifying bugs, errors and defects?"
+419,EPOSS,EPOSS,Technical System,Can I turn to EPOSS and RIPOS please?
+419,RIPOS,RIPOS,Organisation,Can I turn to EPOSS and RIPOS please?
+420,EPOSS,EPOSS,Technical System,"In relation to the EPOSS aspects of Horizon, you tell us it's paragraph 21 of your second
+witness statement, no need to turn it up."
+420,Horizon,Horizon,Technical System,"In relation to the EPOSS aspects of Horizon, you tell us it's paragraph 21 of your second
+witness statement, no need to turn it up."
+421,EPOSS,EPOSS,Technical System,"In summary, until around 2003, I do not recall
+having anything to do with EPOSS other than indirectly when it had an impact on my work
+with the agents."
+422,EPOSS,EPOSS,Technical System,"From around 2003 onwards, I began to gain technical expertise and a
+practical understanding of how EPOSS operated."
+425,Esha,Esha,Individual,"You've told us already that Esha was responsible
+for provision of the riposte software, is that right?"
+428,EPOSS,EPOSS,Technical System,"And the latter of those, the desktop counter, was the basis for the EPOSS system?
+Correct."
+430,Post Office,Post Office,Organisation,"Yes, and I think I went back there for two or three ad-hoc trips after that, but that
+was my initial, that was effectively my first week on the Post Office account when I got
+sent to Boston for a week to learn about how Riposte worked."
+430,Riposte,Riposte,Technical System,"Yes, and I think I went back there for two or three ad-hoc trips after that, but that
+was my initial, that was effectively my first week on the Post Office account when I got
+sent to Boston for a week to learn about how Riposte worked."
+431,EPOSS,EPOSS,Technical System,"If you did not have anything to do with EPOSS other than indirectly, why did you go to Boston
+for a week in 1996?"
+432,Riposte,Riposte,Technical System,"That was talking more about how the Riposte message door was working and also there were
+specific interfaces that Riposte had that could be used by the agents."
+438,EPOSS,EPOSS,Technical System,"And is the answer that you went to Boston to learn how the EPOSS system works, in particular,
+how it might interact with the work that you were undertaking?
+No.
+I went to Boston to learn how Riposte worked, and therefore how the agents could actually
+use it."
+438,Riposte,Riposte,Technical System,"And is the answer that you went to Boston to learn how the EPOSS system works, in particular,
+how it might interact with the work that you were undertaking?
+No.
+I went to Boston to learn how Riposte worked, and therefore how the agents could actually
+use it."
+440,EPOSS,EPOSS,Technical System,"In relation to the development of EPOSS before the rollout
+of Legacy Horizon, we've heard evidence from David MacDonald."
+440,Legacy Horizon,Legacy Horizon,Technical System,"In relation to the development of EPOSS before the rollout
+of Legacy Horizon, we've heard evidence from David MacDonald."
+440,David MacDonald,David MacDonald,Individual,"In relation to the development of EPOSS before the rollout
+of Legacy Horizon, we've heard evidence from David MacDonald."
+444,Gareth,Gareth,Individual,"He told the inquiry, quote, my understanding was that
+Gareth, that's you, Gareth Jenkins, worked alongside another chief architect under Alan
+Ward."
+444,Gareth Jenkins,Gareth Jenkins,Individual,"He told the inquiry, quote, my understanding was that
+Gareth, that's you, Gareth Jenkins, worked alongside another chief architect under Alan
+Ward."
+444,"Alan
+Ward","Alan
+Ward",Individual,"He told the inquiry, quote, my understanding was that
+Gareth, that's you, Gareth Jenkins, worked alongside another chief architect under Alan
+Ward."
+446,Alan Ward,Alan Ward,Individual,"I certainly did have a dotted line relationship to Alan Ward who
+was the chief architect at that time."
+447,David McDonald,David McDonald,Individual,"I thought that David McDonald actually suggested I was
+the chief architect and he's certainly mistaken in that belief."
+449,Gareth Jenkins',Gareth Jenkins',Individual,"Gareth Jenkins'
+responsibility was specifically to the EPOSS counter system."
+449,EPOSS,EPOSS,Technical System,"Gareth Jenkins'
+responsibility was specifically to the EPOSS counter system."
+457,Alan Ward,Alan Ward,Individual,Alan Ward was at that time.
+458,EPOSS,EPOSS,Technical System,"And I know he was quite involved in the development of EPOSS
+at that time because there were quite a lot of changes being made and he used to regularly
+fly off to Boston for a couple of days almost every week to actually work with Escher on
+changes to EPOSS."
+458,Escher,Escher,Individual,"And I know he was quite involved in the development of EPOSS
+at that time because there were quite a lot of changes being made and he used to regularly
+fly off to Boston for a couple of days almost every week to actually work with Escher on
+changes to EPOSS."
+461,"Gareth
+Jenkins","Gareth
+Jenkins",Individual,"He told us that there was
+there had been a lack of formalised sign-off designs, a lack of discipline, a lack of professional
+qualifications in key positions, and a total disengagement of the chief architect, Gareth
+Jenkins, that there were poor coding standards, no methodology in place, and no unit testing."
+462,EPOSS,EPOSS,Technical System,"The issues were critical, making the EPOSS product unstable."
+464,Horizon,Horizon,Technical System,"Taking those in turn, you've already told us that you were not the chief
+architect of Horizon."
+465,EPOSS,EPOSS,Technical System,"But putting that aside, in relation to EPOSS, did you know whether
+or not there was an existence or a lack of formalised sign-off designs?"
+468,EPOSS,EPOSS,Technical System,"When things were formally
+signed off there, I have no idea what sort of processes they were following in the EPOSS
+team."
+469,EPOSS,EPOSS,Technical System,"Did you know whether or not there was a lack of discipline and a lack of professional qualifications
+in the EPOSS team?"
+473,EPOSS,EPOSS,Technical System,Did you know whether or not there was unit testing within the EPOSS team?
+477,EPOSS,EPOSS,Technical System,"The other thing to remember is that the EPOSS team was based in Feltham and I was based
+in Bracknell."
+482,EPOSS,EPOSS,Technical System,"Were you aware of an EPOSS task force being set up by ICL?
+I don't think I was aware of it at the time."
+482,ICL,ICL,Organisation,"Were you aware of an EPOSS task force being set up by ICL?
+I don't think I was aware of it at the time."
+484,FUJ 308 0690,FUJ 308 0690,Organisation,Can we look please at FUJ 308 0690?
+490,the EPOSS PinICL Task Force,the EPOSS PinICL Task Force,Organisation,"It's a report of the EPOSS PinICL Task Force, and it reports on the activities of the EPOSS
+PinICL Task Force, which was in place between the 19th of August and the 18th of September
+December 1998 to reduce to manageable levels the EPOSS PinICL outstanding at that time."
+490,EPOSS,EPOSS,Technical System,"It's a report of the EPOSS PinICL Task Force, and it reports on the activities of the EPOSS
+PinICL Task Force, which was in place between the 19th of August and the 18th of September
+December 1998 to reduce to manageable levels the EPOSS PinICL outstanding at that time."
+493,"Austin
+Bennett","Austin
+Bennett",Individual,"It's to Messrs. Austin
+Bennett and McDonnell."
+493,McDonnell,McDonnell,Organisation,"It's to Messrs. Austin
+Bennett and McDonnell."
+497,ICL,ICL,Organisation,What was the nature of ICL's document library at this time?
+500,Matthew Lenton,Matthew Lenton,Individual,"I think Matthew Lenton may have described something about this when he appeared a couple
+of weeks ago."
+508,EPOSS,EPOSS,Technical System,"but I don't think I
+would have been particularly interested in what was happening with EPOSS at that
+time."
+511,EPOSS,EPOSS,Technical System,"It gives a very damning account of the problems with
+EPOSS."
+513,MacDonald,MacDonald,Individual,"Mr. MacDonald told us in his evidence that he presented this report to
+you."
+516,Terry Austin,Terry Austin,Individual,"I think he presented it to whoever
+commissioned at, which I think I understand now is Terry Austin."
+521,EPOSS PinICL Task Force,EPOSS PinICL Task Force,Organisation,"I don't think I had any involvement with the EPOSS PinICL Task Force.
+said that we managed to get Gareth down to the counter team twice."
+521,Gareth,Gareth,Individual,"I don't think I had any involvement with the EPOSS PinICL Task Force.
+said that we managed to get Gareth down to the counter team twice."
+525,EPOSS,EPOSS,Technical System,"But I don't recall having anything to do with him in terms of
+of EPOSS."
+526,API,API,Organisation,"He said that his team tried to engage you in a conversation
+about the missing API."
+528,LFS,LFS,Organisation,"I think that was to do with this LFS thing
+that I mentioned previously."
+529,EPOSS,EPOSS,Technical System,So I think that was a role that he took on after the EPOSS team.
+532,Escher,Escher,Individual,"I think it was more a case of pragmatism in that I think he wanted to totally change the
+way that the Escher software interfaced with the applications."
+534,Escher,Escher,Individual,"But I could also see that there was no way that Escher was going to go and totally rewrite
+their software when it was basically operating and doing what it needed to do."
+541,Terry Austin,Terry Austin,Individual,"He said that he was unable to engage you, to get you on his side, and to lend your persuasive
+weight to persuade Terry Austin to rewrite the cash account."
+544,Terry,Terry,Individual,"and I can't see how I would possibly have been able to
+persuade Terry that there's something to do with the cash account when there's nothing
+to do with my area."
+553,McDonnell,McDonnell,Individual,"Leaving aside your involvement and role in the way that Mr. McDonnell has described,
+but would you agree with looking back now about what he said about the EPOSS team in the late 1990s?"
+553,EPOSS,EPOSS,Technical System,"Leaving aside your involvement and role in the way that Mr. McDonnell has described,
+but would you agree with looking back now about what he said about the EPOSS team in the late 1990s?"
+566,LFS,LFS,Organisation,"I'd say the only recollection I have is discussing issues to do with LFS,
+which was a later role that he moved on to."
+567,EPOSS,EPOSS,Technical System,"I don't remember having any real involvement
+with the EPOSS team at that sort of time."
+569,EPOSS,EPOSS,Technical System,"If you'd been asked the question at rollout time, to what
+extent does the EPOSS system function well and effectively?"
+575,EPOSS,EPOSS,Technical System,"If you were to give evidence later on about events that were happening in 2000, you wouldn't
+be able to say whether EPOSS was functioning well or not?
+Not in 2000, no."
+589,EPOSS,EPOSS,Technical System,"No, I didn't think it was a problem as far as that was concerned because at the times
+that I was giving evidence for, I believed that the EPOSS system was stable and was operating
+correctly."
+594,Horizon,Horizon,Technical System,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+594,Fujitsu,Fujitsu,Organisation,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+604,Project Impact,Project Impact,Organisation,"Given your role in the project, can you describe shortly what Project Impact was designed to
+to do so far as the back-end accounting system was concerned?
+Post Office had a proprietary in-house system called, if I remember rightly, CBDB, I can't
+remember what that stands for, where they used to process their accounts."
+604,Post Office,Post Office,Organisation,"Given your role in the project, can you describe shortly what Project Impact was designed to
+to do so far as the back-end accounting system was concerned?
+Post Office had a proprietary in-house system called, if I remember rightly, CBDB, I can't
+remember what that stands for, where they used to process their accounts."
+604,CBDB,CBDB,Organisation,"Given your role in the project, can you describe shortly what Project Impact was designed to
+to do so far as the back-end accounting system was concerned?
+Post Office had a proprietary in-house system called, if I remember rightly, CBDB, I can't
+remember what that stands for, where they used to process their accounts."
+605,SAP,SAP,Organisation,"And they decided
+that they wanted to go for a more industry standard system, and SAP was the industry
+standard and probably still is for handling accounts"
+607,CBDB,CBDB,Organisation,"Now CBDB worked on the basis that it would take the information from the cash accounts
+that were signed off each week and derive everything from that which meant that it was
+always about a week behind what was really going on whilst with an SAP system they thought
+they could get a much more real-time knowledge of what was going on in the system so with
+they would know what had happened yesterday, and therefore be in a much better position,
+particularly to control their cash flow, because they saw the amount of cash flowing through
+the post offices as being a fairly critical measure, because obviously cash had to be
+paid for, and it was all to do with Treasury interest rates and things like that that I
+didn't really understand, but I understood that having a good handle on exactly how much
+cash you had where made a big difference in terms of post office finances."
+607,SAP,SAP,Organisation,"Now CBDB worked on the basis that it would take the information from the cash accounts
+that were signed off each week and derive everything from that which meant that it was
+always about a week behind what was really going on whilst with an SAP system they thought
+they could get a much more real-time knowledge of what was going on in the system so with
+they would know what had happened yesterday, and therefore be in a much better position,
+particularly to control their cash flow, because they saw the amount of cash flowing through
+the post offices as being a fairly critical measure, because obviously cash had to be
+paid for, and it was all to do with Treasury interest rates and things like that that I
+didn't really understand, but I understood that having a good handle on exactly how much
+cash you had where made a big difference in terms of post office finances."
+607,Treasury,Treasury,Organisation,"Now CBDB worked on the basis that it would take the information from the cash accounts
+that were signed off each week and derive everything from that which meant that it was
+always about a week behind what was really going on whilst with an SAP system they thought
+they could get a much more real-time knowledge of what was going on in the system so with
+they would know what had happened yesterday, and therefore be in a much better position,
+particularly to control their cash flow, because they saw the amount of cash flowing through
+the post offices as being a fairly critical measure, because obviously cash had to be
+paid for, and it was all to do with Treasury interest rates and things like that that I
+didn't really understand, but I understood that having a good handle on exactly how much
+cash you had where made a big difference in terms of post office finances."
+609,Paragraphs 45,Paragraphs 45,Individual,"Paragraphs 45 and 46, you say, I believe that ICL Fujitsu was only involved in one aspect
+of project impact, which was implementing changes to legacy horizon that would enable
+it to interface with the new backend system."
+609,Fujitsu,Fujitsu,Organisation,"Paragraphs 45 and 46, you say, I believe that ICL Fujitsu was only involved in one aspect
+of project impact, which was implementing changes to legacy horizon that would enable
+it to interface with the new backend system."
+610,S80,S80,Organisation,"This was implemented in two phases as part of the S60 release in 2004 and the S80 release
+in 2005."
+614,Horizon,Horizon,Technical System,"And so, as the counters specialist, which is what you were, you redesigned part of the
+legacy Horizon system that produced the accounts for the sub-postmaster to sign off."
+630,Fujitsu,Fujitsu,Organisation,"This was setting out what post office wanted to happen and this was actually written by
+post office though aided by a Fujitsu requirements analyst called Phil Bordman who I believe
+has been in front of the inquiry a year or so ago."
+630,Phil Bordman,Phil Bordman,Individual,"This was setting out what post office wanted to happen and this was actually written by
+post office though aided by a Fujitsu requirements analyst called Phil Bordman who I believe
+has been in front of the inquiry a year or so ago."
+635,Fujitsu,Fujitsu,Organisation,"But it was basically understanding what Fujitsu wanted
+to do, and my involvement was really a case of saying, well, if you want to do that, is
+that practical?"
+646,Horizon,Horizon,Technical System,"They'll be received and actioned by Horizon and will be distributed more quickly, potentially
+only days after an error is recorded."
+653,Post Office's,Post Office,Organisation,"Now exactly why they wanted to do that, that was part of
+Post Office's business for trying to save money."
+669,Horizon,Horizon,Technical System,"My focus was on what exactly was it I had to actually implement
+in the way that Horizon worked, and what I took from that was I had to simplify the menus
+for the suspense accounts, which was actually just a reference data change."
+671,Horizon,Horizon,Technical System,"Was there any consideration to your knowledge of the importance of the accuracy of the figures
+produced by Horizon?"
+672,Horizon,Horizon,Technical System,"Well, I always felt it was important that the figures produced by Horizon were accurate
+and I wasn't aware that there was any doubt or challenge to that at that stage, so therefore
+I didn't see that as being an issue as part of what we were doing here."
+677,Susan Harding,Susan Harding,Individual,"We've heard evidence from Susan Harding, who told us that the business drivers for the
+impact programme were to reduce the cost to the business, increasing accounting efficiency
+and reducing the losses to the post office."
+691,Ms Harding,Ms Harding,Individual,"Ms Harding told us that it was agreed during the design of the impact programme that the
+suspense account would be removed because historically it was used by sub-postmasters
+to hide discrepancies in their accounts."
+704,MBSC,MBSC,Organisation,"I think I understood that in order to post something to a local suspense account you
+did need to have permission how that actually operated, presumably through MBSC, but exactly
+how that operated I didn't know and didn't really concern me particularly."
+715,Castleton,Castleton,Individual,"Can we break until 20 past 10 when we'll turn to Mr Castleton's case?
+20 past 11, I think."
+722,Jenkins,Gareth Jenkins,Individual,"Mr. Jenkins.
+Thank you."
+723,Jenkins,Gareth Jenkins,Individual,"Mr. Jenkins, can we turn to Lee Castleton's case, please?"
+723,Lee Castleton's,Lee Castleton's,Individual,"Mr. Jenkins, can we turn to Lee Castleton's case, please?"
+727,Bond Pierce,Bond Pierce,Organisation,"You can
+see here a letter dated the 18th of November from Bond Pierce, who are the post office's
+solicitors in the case against Mr. Castleton, addressed to Fujitsu."
+727,Castleton,Castleton,Individual,"You can
+see here a letter dated the 18th of November from Bond Pierce, who are the post office's
+solicitors in the case against Mr. Castleton, addressed to Fujitsu."
+727,Fujitsu,Fujitsu,Organisation,"You can
+see here a letter dated the 18th of November from Bond Pierce, who are the post office's
+solicitors in the case against Mr. Castleton, addressed to Fujitsu."
+730,Fujitsu,Fujitsu,Organisation,"And if we just read the first page in summary, it says to Fujitsu in relation to Mr. Castleton's
+branch at Marine Drive."
+730,Castleton,Castleton,Individual,"And if we just read the first page in summary, it says to Fujitsu in relation to Mr. Castleton's
+branch at Marine Drive."
+732,Coulson,Coulson,Individual,"Between those dates, Mr.
+Coulson was a sub-postmaster at the Marine Drive post office."
+736,Post Office,Post Office,Organisation,"Post Office has now issued a claim against him to try to
+recover these net losses."
+738,Castle,Castle,Individual,"And then two, Mr. Castle's defense."
+739,Horizon,Horizon,Technical System,"His case is that any shortfall
+is entirely the fault of the problems with the Horizon computer and accounting
+system at Marine Drive and that the Post Office wrongfully terminated his
+contract in respect of which he suffered losses not exceeding 250,000 pounds."
+739,Post Office,Post Office,Organisation,"His case is that any shortfall
+is entirely the fault of the problems with the Horizon computer and accounting
+system at Marine Drive and that the Post Office wrongfully terminated his
+contract in respect of which he suffered losses not exceeding 250,000 pounds."
+742,Johnson,Johnson,Individual,"Bentley
+Johnson, they were the authors of the, sorry, Jeninson, the authors of the report in the
+second attachment state that deficiencies have probably been brought forward despite
+the fact that they've been entered onto the suspense account entry."
+742,Jeninson,Jeninson,Individual,"Bentley
+Johnson, they were the authors of the, sorry, Jeninson, the authors of the report in the
+second attachment state that deficiencies have probably been brought forward despite
+the fact that they've been entered onto the suspense account entry."
+743,Horizon,Horizon,Technical System,"They suspect this
+is because the Horizon system, despite the suspense account entry, has failed to recognise
+the entry on the daily snapshots."
+747,Castleton,Castleton,Individual,"Mr. Castleton believes if he can obtain further documents,
+such as the daily snapshots,
+he'll be able to undertake a manual reconciliation
+of the cash account in order to substantiate his belief
+that the losses are not real,
+but attributable to computer error."
+748,Fujitsu,Fujitsu,Organisation,"We attach an email from Fujitsu to Richard Benton
+at the Post Office dated the 5th of May, in which Fujitsu state, quote,
+it is possible that they are not accurately recording
+all transactions on the system, and that there was no evidence
+whatsoever of any system problem."
+748,Richard Benton,Richard Benton,Individual,"We attach an email from Fujitsu to Richard Benton
+at the Post Office dated the 5th of May, in which Fujitsu state, quote,
+it is possible that they are not accurately recording
+all transactions on the system, and that there was no evidence
+whatsoever of any system problem."
+748,the Post Office,Post Office,Organisation,"We attach an email from Fujitsu to Richard Benton
+at the Post Office dated the 5th of May, in which Fujitsu state, quote,
+it is possible that they are not accurately recording
+all transactions on the system, and that there was no evidence
+whatsoever of any system problem."
+750,Castleton,Castleton,Individual,"Please could you review Mr. Castleton's expert's reports
+and prepare a formal report dealing with the following points."
+751,Horizon,Horizon,Technical System,"We need to explain to a judge who will know nothing about Horizon,
+exactly how it works, et cetera."
+752,Fujitsu,Fujitsu,Organisation,"Two, precisely what steps Fujitsu took to examine the Horizon system at the Marine Drive
+branch."
+752,Horizon,Horizon,Technical System,"Two, precisely what steps Fujitsu took to examine the Horizon system at the Marine Drive
+branch."
+753,Horizon,Horizon,Technical System,"Three, whether there have been any similar or serious problems with the Horizon system
+at Marine Drive since his suspension and dismissal."
+754,Castleton,Castleton,Individual,"Whether you believe the suggestion put forward by Mr. Castleton's experts is likely to be
+correct."
+755,Horizon,Horizon,Technical System,"Five, if there have been any human errors in the recording, in recording the transactions,
+Could an explanation be that A, there was nothing wrong with Horizon because it simply
+reflected the information entered onto it, but B, if staff entered the wrong numbers
+into Horizon, there may have been no real loss, even though Horizon would show a loss
+because there could be human error in accounting, accurately recording transactions."
+761,the Civil Procedure Rules,the Civil Procedure Rules,Organisation,"You agree to meet the requirements of the Civil Procedure Rules, Part 35, and the copy
+is enclosed, and that your report will be, one, addressed to the court and not to the
+post office, two, confirm that you understand your duty to the court and you've complied
+and will continue to comply with that duty, three, contain a statement setting out the
+substance of all material facts and instructions, whether written or oral, on the basis of which
+your report is written."
+772,Fujitsu,Fujitsu,Organisation,"You'll confirm that you are one, an independent party and not the client's employer or agent
+other than at the material time Fujitsu responsible for looking after the Horizon system."
+772,Horizon,Horizon,Technical System,"You'll confirm that you are one, an independent party and not the client's employer or agent
+other than at the material time Fujitsu responsible for looking after the Horizon system."
+781,Jenkins,Gareth Jenkins,Individual,"When you're giving your
+answers Mr Jenkins you should refrain unless you're doing it deliberately from
+disclosing communications between your current solicitor and you, which involve either the
+seeking of legal advice by you or the provision of legal advice to you."
+797,Bond Pierce,Bond Pierce,Organisation,"You agree that Bond Pierce have set out here, just reading it, the duties of an expert witness,
+what they entail very clearly, haven't they?"
+801,FUJ00154713,FUJ00154713,Organisation,"Can we turn, please, to FUJ00154713?"
+804,Marine Drive,Marine Drive,Individual,It's an email dated the 8th of December 2005 about Marine Drive from you to Brian Pinder.
+804,Brian Pinder,Brian Pinder,Individual,It's an email dated the 8th of December 2005 about Marine Drive from you to Brian Pinder.
+805,Brian Pinder's,Brian Pinder's,Individual,What was Brian Pinder's function at this time?
+807,Fujitsu,Fujitsu,Organisation,And just tell us what the Fujitsu security team did?
+814,Brian,Brian,Individual,"Brian, I think that's you writing, isn't it?"
+820,Graham,Graham,Individual,The answers are being directed back to Graham.
+821,Graham Ward,Graham Ward,Individual,"Would you understand that to be Graham Ward?
+I do now."
+824,Pinder,Pinder,Individual,Is that part in black there something that Mr Pinder wrote?
+829,Brian,Brian,Individual,"That second paragraph then, after the word Brian, looks like it's Mr Pinder having sent
+that to you and then you've cut it into your email back."
+832,Horizon,Horizon,Technical System,"If there have been human errors in recording the transactions, could an explanation be
+that A, there was nothing wrong with Horizon because it simply reflected the information
+entered onto it, semicolon, but, just stopping there."
+836,Horizon,Horizon,Technical System,"And then you
+reply, is this right, this is certainly true, i.e. Horizon simply reflects the information
+entered into it?"
+839,Horizon,Horizon,Technical System,"So in relation to if there have been human errors in recording the transactions, could
+an explanation be there's nothing wrong with Horizon because it simply reflected information
+entered into it?"
+840,Horizon,Horizon,Technical System,"you say this is certainly true, i.e. simply, Horizon simply reflects the information entered
+into it?"
+846,Horizon,Horizon,Technical System,"Yes, because Horizon is going to record what is actually entered into it, whether that
+reflects what happened in the real world, and if you do a typo when you put the information
+into Horizon, then it's going to accurately record that typo."
+847,Horizon,Horizon,Technical System,"And then part B of the original question, if staff enter the wrong numbers into Horizon,
+there may have been no real loss, even though Horizon would show a loss, because there could
+be a human error in accurately recording transactions."
+849,Horizon,Horizon,Technical System,"You say, I think, is this right, again, this could be true, however, if there is some sort
+of misentering of data into Horizon, then there would be another corresponding error
+which should be picked up, e.g., as a stock error or some AP client being credited with
+an incorrect amount."
+849,AP,AP,Organisation,"You say, I think, is this right, again, this could be true, however, if there is some sort
+of misentering of data into Horizon, then there would be another corresponding error
+which should be picked up, e.g., as a stock error or some AP client being credited with
+an incorrect amount."
+856,Post Office,Post Office,Organisation,"Without understanding exactly what is alleged by Post Office and the Sub-Postmaster, I don't
+feel I can add anything further."
+856,the Sub-Postmaster,the Sub-Postmaster,Organisation,"Without understanding exactly what is alleged by Post Office and the Sub-Postmaster, I don't
+feel I can add anything further."
+890,Dave Baldwin,Dave Baldwin,Individual,"It's then a part of the text which says, I've spoken with Dave Baldwin, etc."
+891,Pinder,Pinder,Individual,"Is that paragraph again Mr Pinder?
+That I would expect it to be, yes."
+892,Dave Baldwin,Dave Baldwin,Individual,"I've spoken to Dave Baldwin on this, he recommended I speak with you, I'll also be lazing with
+him on my final response, as we're fundamentally of the opinion that Horizon does not eat money,
+merely accounts for its placement."
+892,Horizon,Horizon,Technical System,"I've spoken to Dave Baldwin on this, he recommended I speak with you, I'll also be lazing with
+him on my final response, as we're fundamentally of the opinion that Horizon does not eat money,
+merely accounts for its placement."
+897,Pinder,Pinder,Individual,"Can we go to the top of the page, please?
+Later that day, Mr. Pinder writes back to you and says, for your information, Gareth,
+this is the response I intend to send to Graham."
+897,Gareth,Gareth,Individual,"Can we go to the top of the page, please?
+Later that day, Mr. Pinder writes back to you and says, for your information, Gareth,
+this is the response I intend to send to Graham."
+897,Graham,Graham,Individual,"Can we go to the top of the page, please?
+Later that day, Mr. Pinder writes back to you and says, for your information, Gareth,
+this is the response I intend to send to Graham."
+928,Brian Pinder,Brian Pinder,Individual,I think you'd have to ask Brian Pinder.
+943,Beer,Beer,Individual,"Can we go back to FUJ00152573?
+Before we do, Mr. Beer, I'm slightly puzzled, and it may just be me, about how this email,
+the one that's on the screen, begins for your information and then this.
+is the response I intend to send to Graham, read your question if that's okay."
+943,Graham,Graham,Individual,"Can we go back to FUJ00152573?
+Before we do, Mr. Beer, I'm slightly puzzled, and it may just be me, about how this email,
+the one that's on the screen, begins for your information and then this.
+is the response I intend to send to Graham, read your question if that's okay."
+944,Pinder,Pinder,Individual,"Now, to
+me that reads as if Mr Pinder is going to send this response to Graham if it's okay
+with Mr Jenkins because it's the question that Mr Jenkins has asked him."
+944,Graham,Graham,Individual,"Now, to
+me that reads as if Mr Pinder is going to send this response to Graham if it's okay
+with Mr Jenkins because it's the question that Mr Jenkins has asked him."
+944,Jenkins,Gareth Jenkins,Individual,"Now, to
+me that reads as if Mr Pinder is going to send this response to Graham if it's okay
+with Mr Jenkins because it's the question that Mr Jenkins has asked him."
+947,Pinder,Pinder,Individual,"And is that consistent with the interpretation that was given to the preceding emails, which
+suggested that it was Mr Pinder who was seeking to ask questions of Mr Jenkins rather than
+Mr Jenkins asking questions of Mr Pinder?"
+947,Jenkins,Gareth Jenkins,Individual,"And is that consistent with the interpretation that was given to the preceding emails, which
+suggested that it was Mr Pinder who was seeking to ask questions of Mr Jenkins rather than
+Mr Jenkins asking questions of Mr Pinder?"
+952,Pinder,Pinder,Individual,"As I read this, there must have been an earlier email that we haven't got in which Mr. Pinder
+sent that first paragraph I've been asked by the Fraud Investigation Team and then the
+a second paragraph which says if there have been human errors,
+if that's marked, and then the paragraph at A,
+if that can be marked, paragraph at B,
+and then Mr. Jenkins has replied in the darker text."
+952,the Fraud Investigation Team,the Fraud Investigation Team,Organisation,"As I read this, there must have been an earlier email that we haven't got in which Mr. Pinder
+sent that first paragraph I've been asked by the Fraud Investigation Team and then the
+a second paragraph which says if there have been human errors,
+if that's marked, and then the paragraph at A,
+if that can be marked, paragraph at B,
+and then Mr. Jenkins has replied in the darker text."
+952,Jenkins,Gareth Jenkins,Individual,"As I read this, there must have been an earlier email that we haven't got in which Mr. Pinder
+sent that first paragraph I've been asked by the Fraud Investigation Team and then the
+a second paragraph which says if there have been human errors,
+if that's marked, and then the paragraph at A,
+if that can be marked, paragraph at B,
+and then Mr. Jenkins has replied in the darker text."
+955,Jenkins,Gareth Jenkins,Individual,"Anyway, I'm sorry to interrupt your questioning of Mr.
+Jenkins."
+958,Pinder,Pinder,Individual,"If we go back up to the top page, do you
+understand that this is Mr. Pinder saying to you,
+everything below the words, comments from Gareth Jenkins
+and including the words, comments for Gareth Jenkins,
+is what I, Brian Pinder, are going to send to Greg."
+958,Brian Pinder,Brian Pinder,Individual,"If we go back up to the top page, do you
+understand that this is Mr. Pinder saying to you,
+everything below the words, comments from Gareth Jenkins
+and including the words, comments for Gareth Jenkins,
+is what I, Brian Pinder, are going to send to Greg."
+958,Greg,Greg,Individual,"If we go back up to the top page, do you
+understand that this is Mr. Pinder saying to you,
+everything below the words, comments from Gareth Jenkins
+and including the words, comments for Gareth Jenkins,
+is what I, Brian Pinder, are going to send to Greg."
+963,Jenkins,Gareth Jenkins,Individual,"Well, maybe I should just ask Mr. Jenkins,
+What do you think?"
+964,Graham Ward,Graham Ward,Individual,"I think the real question, my understanding
+is that Graham Ward had asked Brian Pinder six questions."
+964,Brian Pinder,Brian Pinder,Individual,"I think the real question, my understanding
+is that Graham Ward had asked Brian Pinder six questions."
+966,Graham Ward,Graham Ward,Individual,"And therefore, what he's saying is, in response to the question
+that I've allocated to you, this is the answer
+I intend to send to Graham Ward in response
+to that specific question."
+971,Graham,Graham,Individual,"So that should read, I intend to send to Graham
+the question that has been allocated to you,
+if that's okay."
+982,Brian,Brian,Individual,"So I think what Brian
+had interpreted from that, therefore I wasn't going to comment on it and that's why I would
+would have been happy with, I'm not happy to comment."
+989,Brian Pinder's,Brian Pinder's,Individual,"This is, if we just look at the foot of the page, Brian Pinder's document."
+991,Graham,Graham,Individual,"Address to Graham, which is going to be Graham Ward."
+991,Graham Ward,Graham Ward,Individual,"Address to Graham, which is going to be Graham Ward."
+992,Pinder,Pinder,Individual,This is the response of Mr. Pinder.
+993,Bon Pierce,Bon Pierce,Organisation,"He says, in response to your email request dated the 28th of November concerning the
+questions raised at paragraph three of the above document, the above document being the
+Bon Pierce letter that we've looked at, you'll see the answers to question one."
+994,Anne Chambers,Anne Chambers,Individual,"Question two, it refers to, in the answer, a response from Anne Chambers, which is attached."
+996,Pinder,Pinder,Individual,And the reply from Mr Pinder is Gareth Jenkin's response attached.
+996,Gareth Jenkin's,Gareth Jenkin's,Individual,And the reply from Mr Pinder is Gareth Jenkin's response attached.
+998,Pinder,Pinder,Individual,So this was the attachment to Mr Pinder's document.
+999,FYI,FYI,Organisation,"Can you see that it's essentially his email back to you, the FYI email, including your
+signature block at the bottom, which he did, in fact, include in his reply to you?"
+1004,Fujitsu,Fujitsu,Organisation,"Was the reason for that because it was thought that an investigation of what the sub-postmaster
+was saying might not be in Fujitsu's best interests?
+I don't know what was the reason for that change."
+1006,Dan,Dan,Individual,"In fact, I believe at some later stage
+I did assist Dan in doing some investigations there."
+1007,Fujitsu,Fujitsu,Organisation,"the reason for the different reply that an investigation might reveal issues
+that Fujitsu didn't really want to speak about?"
+1010,Bon Pierce,Bon Pierce,Organisation,"Now I think you subsequently attended a conference on
+the 6th of June 2006 with representatives of Bon Pierce and others."
+1015,Lee Castleton,Lee Castleton,Individual,We can see this is an attendance note in the case of Lee Castleton dated the 6th of June 2006.
+1017,Fujitsu,Fujitsu,Organisation,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Brian Pinder,Brian Pinder,Individual,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Peter Sewell,Peter Sewell,Individual,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Andy,Andy,Individual,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Dunks,Dunks,Organisation,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Anne Chambers,Anne Chambers,Individual,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1017,Naomi Ellis,Naomi Ellis,Organisation,"This is at
+Fujitsu's HQ in Bracknell, in attendance were, if we scroll down, solicitors, the first
+three people, then Brian Pinder, Peter Sewell, Andy, I think that's Dunks, he's called Mr.
+Dunts, Anne Chambers, Naomi Ellis, and you, a distinguished engineer at Fujitsu."
+1020,Anne Chambers,Anne Chambers,Individual,"Do you recall any discussion
+in this meeting about you or Anne Chambers giving evidence?"
+1022,Anne,Anne,Individual,I do know that Anne eventually ended up giving evidence in the case
+1033,Fujitsu,Fujitsu,Organisation,"Heard the guidance that Bond-Pearse
+had given about the provision of expert evidence by a Fujitsu employee being forgotten by this
+stage?"
+1035,Anne Chambers,Anne Chambers,Individual,"In any event, your recollection is that that wasn't gone over again in the context of
+either you or Anne Chambers giving evidence?"
+1041,Bond Pierce,Bond Pierce,Organisation,"From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+and Mandy Talbert, so not you at this stage."
+1041,Stephen Dilley,Stephen Dilley,Individual,"From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+and Mandy Talbert, so not you at this stage."
+1041,Pinder,Pinder,Individual,"From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+and Mandy Talbert, so not you at this stage."
+1041,Graham Ward,Graham Ward,Individual,"From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+and Mandy Talbert, so not you at this stage."
+1041,Mandy Talbert,Mandy Talbert,Individual,"From the solicitor at Bond Pierce, Stephen Dilley, to Mr. Pinder, copied to Graham Ward
+and Mandy Talbert, so not you at this stage."
+1045,Castleton,Castleton,Organisation,"In the meantime, I attach a letter received on 7th of June from Mr.
+Castleton's solicitor."
+1046,Horizon,Horizon,Technical System,"As I've highlighted the two paragraphs I would like you to have
+a look at, basically they state the Horizon system is equipped with a facility via which
+its operating software can be updated remotely via the connection to the post office's head
+office and that the system sometimes went offline when there are software updates."
+1056,Brian Pinder,Brian Pinder,Individual,"And if we scroll up, please.
+Brian Pinder sends that on to you and Penny Thomas."
+1056,Penny Thomas,Penny Thomas,Individual,"And if we scroll up, please.
+Brian Pinder sends that on to you and Penny Thomas."
+1061,Software,Software,Organisation,"Software updates are relatively rare
+and normally only take place between 8 p.m. and 1 a.m. and again before 4 a.m. and 7 a.m.
+with occasional extensions at the weekend."
+1062,Horizon,Horizon,Technical System,"This puts them well outside the normal operational
+hours of Horizon."
+1077,Steven Dilley,Steven Dilley,Individual,"Steven Dilley representing the Post Office is asking if it's possible that someone
+undertakes an analysis of figures recorded on transaction logs."
+1077,the Post Office,Post Office,Organisation,"Steven Dilley representing the Post Office is asking if it's possible that someone
+undertakes an analysis of figures recorded on transaction logs."
+1078,Castleton,Castleton,Organisation,"It appears that the solicitors for Castleton are saying that they've compared the transaction
+logs with the cash accounts for week 42 themselves and they don't match."
+1079,Horizon,Horizon,Technical System,"They conclude that
+Horizon is therefore only recording half the transactions."
+1080,Horizon,Horizon,Technical System,"And then reading second and
+third paragraph, given this is a test case and that the integrity of the Horizon system
+is being challenged, my own opinion is that this exercise should be completed by an expert
+in inverted commas, from Fujitsu."
+1080,Fujitsu,Fujitsu,Organisation,"And then reading second and
+third paragraph, given this is a test case and that the integrity of the Horizon system
+is being challenged, my own opinion is that this exercise should be completed by an expert
+in inverted commas, from Fujitsu."
+1083,Fujitsu,Fujitsu,Organisation,"My first question is, one, is this an exercise that Fujitsu could
+undertake possibly by Gareth perhaps, who would presumably have a thorough understanding
+of the figures recorded on both the transaction logs and the figures on an office cash account
+Two, if the answer is yes, how soon could this exercise be performed?"
+1083,Gareth,Gareth,Individual,"My first question is, one, is this an exercise that Fujitsu could
+undertake possibly by Gareth perhaps, who would presumably have a thorough understanding
+of the figures recorded on both the transaction logs and the figures on an office cash account
+Two, if the answer is yes, how soon could this exercise be performed?"
+1086,Pinder,Pinder,Individual,"We'll see there that Mr. Pinder forwards the email to you on the 31st of July,
+asking, is this something you can provide?"
+1094,Penny,Penny,Organisation,"I'll probably need help from Penny in carrying out extracts from the relevant
+message stores."
+1105,Sewell,Sewell,Individual,"And you say there on the 7th of August to Mr. Sewell,
+in relation to the Castleton case and transaction logs, second paragraph, I've spoke with Anne
+this morning."
+1105,Castleton,Castleton,Organisation,"And you say there on the 7th of August to Mr. Sewell,
+in relation to the Castleton case and transaction logs, second paragraph, I've spoke with Anne
+this morning."
+1105,Anne,Anne,Individual,"And you say there on the 7th of August to Mr. Sewell,
+in relation to the Castleton case and transaction logs, second paragraph, I've spoke with Anne
+this morning."
+1106,Penny,Penny,Organisation,"We've agreed that once the CP, is that a change proposal, is approved,
+will carry out the initial analysis based on transactions we get from Penny, then we
+will review them together"
+1107,the Post Office,Post Office,Organisation,and I'll front up any report we present to the Post Office.
+1111,Marine Drive,Marine Drive,Individual,"Can we look, please, at FUJ00152292?
+17th of August now, 2006, about Marine Drive, from Anne Chambers to you."
+1111,Anne Chambers,Anne Chambers,Individual,"Can we look, please, at FUJ00152292?
+17th of August now, 2006, about Marine Drive, from Anne Chambers to you."
+1112,Marine Drive,Marine Drive,Individual,"She says, I've
+spent some time recalculating the CAC 42, the cash account period 42, cash account for
+Marine Drive and addressing the points in the letter from the Solicitor."
+1122,Miss Chambers,Miss Chambers,Individual,"And so, Miss Chambers have been asked
+by you to do the work, or it had been agreed by you that she should do the work, is that
+right?"
+1133,Dilley,Dilley,Individual,"An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+and exhibit for Gareth Jenkins."
+1133,Brian Pinder,Brian Pinder,Individual,"An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+and exhibit for Gareth Jenkins."
+1133,First Draft Statement,First Draft Statement,Organisation,"An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+and exhibit for Gareth Jenkins."
+1133,Gareth Jenkins,Gareth Jenkins,Individual,"An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+and exhibit for Gareth Jenkins."
+1133,Pinder,Pinder,Individual,"An email of the 2nd of August from Mr. Dilley, the solicitor, to Brian Pinder and others,
+not including you, with the subject First Draft Statement of Gareth Jenkins, and says
+As to Mr Pinder, I refer to our previous correspondence and attach the first draft of witness statement
+and exhibit for Gareth Jenkins."
+1134,Horizon,Horizon,Technical System,"It's designed to explain what Horizon is, comment on Mr Castleton's allegations about
+the Horizon system."
+1134,Castleton,Castleton,Organisation,"It's designed to explain what Horizon is, comment on Mr Castleton's allegations about
+the Horizon system."
+1135,Anne,Anne,Organisation,"I'm preparing a separate statement for Anne to follow shortly, which will deal with the
+call logs."
+1151,Pinder,Pinder,Individual,"I think you were subsequently informed by Mr. Pinder
+that you wouldn't be required to give evidence
+in Mr. Carselton's case."
+1151,Carselton,Carselton,Individual,"I think you were subsequently informed by Mr. Pinder
+that you wouldn't be required to give evidence
+in Mr. Carselton's case."
+1155,Pinder,Pinder,Individual,"Do you remember Mr. Pinder informing you directly
+that you would not be required to give evidence
+in Mr. Carselton's case?
+I've seen an email which effectively says that, yes."
+1155,Carselton,Carselton,Individual,"Do you remember Mr. Pinder informing you directly
+that you would not be required to give evidence
+in Mr. Carselton's case?
+I've seen an email which effectively says that, yes."
+1159,Pinder,Pinder,Individual,"I think again, as is or as was your practice, you have cut into
+an email the contents of Mr Pinder's email and replied to it."
+1163,Stephen up,Stephen up,Individual,"He says, just been chasing Stephen up, read your attendance and any matters still outstanding
+for us, post office account, as follows my words."
+1164,Jenkins,Gareth Jenkins,Individual,"He states, that although you, that's you Mr Jenkins, would probably make a good witness,
+it is for evidential reasons that you cannot be called to do with evidence of opinion,
+inverted commas, expert evidence and real evidence, etc., etc., complicated legal issues,
+nothing to do with personalities, and you say, fine, I won't try to understand what
+this means."
+1166,Lee-Caskerton,Lee-Caskerton,Individual,"Was that the limit of the explanation that you received as to why you were not being
+called as a witness in the Lee-Caskerton case?"
+1184,Anne Chamber's,Anne Chamber's,Individual,"You tell us in your witness statements
+that you didn't see Anne Chamber's afterthoughts document, either at the time or until this
+inquiry essentially."
+1188,Anne,Anne,Individual,"I think it was really as part of this thing that it was a case of it had been decided
+that because Anne had done the original analysis, and I think she'd done the analysis, I think
+there may have been a call was there back in 2004, because I think her analysis was
+partly based on work that she'd actually done at the time."
+1193,Anne Chambers,Anne Chambers,Individual,"Was that explained to you at the time, i.e. that Anne Chambers is the one that's been
+selected to give evidence, because she could give some evidence of primary facts, i.e.
+work that she had undertaken in answering a help desk query in 2004?"
+1223,Jenkins,Gareth Jenkins,Individual,"Mr. Jenkins, in your, I'm going to turn to the capacity in which you gave evidence in
+witness statements and then orally in the Seema Misra case."
+1225,Horizon,Horizon,Technical System,"In your witness statements provided to the inquiry, on a number
+of occasions you explain that you were not the chief architect for Horizon, correct?
+Correct."
+1228,Horizon,Horizon,Technical System,"And you explain that you were not the only person involved in the development of Horizon,
+nor the maintenance of it when it was up and running?"
+1231,Horizon,Horizon,Technical System,"I did have a fairly good overview knowledge
+of the whole of Horizon because of really
+going back to my role in the agent team because the whole point of the agents
+was to sit in the middle
+and see the difference between what was happening at the counter and what was happening at the
+back end
+and obviously with the work I did on impact I got a much
+more detailed knowledge of how the counter operated."
+1232,Horizon,Horizon,Technical System,"So from that point of view, I probably
+was one of the people who had a good overview knowledge of how the Horizon system worked."
+1236,Fujitsu,Fujitsu,Organisation,"Did you ever discuss the role that you were performing as a witness with anyone senior
+at Fujitsu?"
+1239,Fujitsu,Fujitsu,Organisation,"Did you ever discuss with anyone senior at Fujitsu
+the demands being placed upon you by the post office?"
+1250,Horizon,Horizon,Technical System,"During your involvement in the various criminal cases, did you feel under any pressure
+placed upon you by the post office or its lawyers publicly to refute any suggestion
+by the defence that there were issues with the reliability of Horizon?"
+1257,Fujitsu,Fujitsu,Organisation,Did you raise that with anyone senior at Fujitsu?
+1258,David Jones,David Jones,Individual,"I think I did, well I
+certainly had conversations with David Jones back in February 2010."
+1260,Fujitsu,Fujitsu,Organisation,No he was a Fujitsu lawyer.
+1261,Fujitsu,Fujitsu,Organisation,So I meant a Fujitsu lawyer.
+1262,Fujitsu,Fujitsu,Organisation,"Yes he was a Fujitsu
+lawyer."
+1263,Penny,Penny,Organisation,I think I was really instigated by Penny rather than myself.
+1264,Fujitsu,Fujitsu,Organisation,"She felt
+that the post office were getting to be very demanding of Fujitsu in general, and me and
+her to some extent in particular, because not only was there the case for Mrs. Misra,
+there was also the case to do with Mr. Hosey going on at the same sort of time."
+1264,Misra,Misra,Individual,"She felt
+that the post office were getting to be very demanding of Fujitsu in general, and me and
+her to some extent in particular, because not only was there the case for Mrs. Misra,
+there was also the case to do with Mr. Hosey going on at the same sort of time."
+1264,Hosey,Hosey,Individual,"She felt
+that the post office were getting to be very demanding of Fujitsu in general, and me and
+her to some extent in particular, because not only was there the case for Mrs. Misra,
+there was also the case to do with Mr. Hosey going on at the same sort of time."
+1265,David Jones,David Jones,Individual,"And she
+felt that it was important that we had some sort of legal cover, for want of a better
+of the way that it was being approached, and so she set up this meeting with David Jones,
+which lasted about an hour or so, something like that, where basically what my memory
+came out of that is, well, just tell the truth on what happened and get on with it, and we'll
+support you as you need it."
+1270,the Post Office,Post Office,Organisation,"I think it's right, isn't it, that the Post Office and its lawyers made a series of direct
+approaches to you on a number of occasions?"
+1271,Penny,Penny,Individual,"Yes, they did, and I tried to force them back into the way that they should have been communicating
+with me through Penny and the prosecution sport team and there were a
+number of cases where the wires approached directly and in most of those
+cases I then forwarded the emails on to Penny and tried to get some sort of
+control back on the process can we just look at some examples of those please
+please Mr Jenkins."
+1271,Mr Jenkins,Mr Jenkins,Individual,"Yes, they did, and I tried to force them back into the way that they should have been communicating
+with me through Penny and the prosecution sport team and there were a
+number of cases where the wires approached directly and in most of those
+cases I then forwarded the emails on to Penny and tried to get some sort of
+control back on the process can we just look at some examples of those please
+please Mr Jenkins."
+1275,Rachel Panto,Rachel Panto,Individual,You reply on the 16th of November to Rachel Panto
+1277,Cartwright King,Cartwright King,Individual,"She was a lawyer working for Cartwright King, I believe."
+1278,Rachel,Rachel,Individual,"And you say, Rachel, can't you use the report I've already
+sent you?"
+1282,Nemesh Patel,Nemesh Patel,Individual,and that includes the case of Nemesh Patel.
+1284,James Davidson,James Davidson,Individual,"James Davidson, a delivery executive,
+says to Ms. Panton, and you're copied in, sorry, Panta,
+I'm concerned at the engagement approach being taken here."
+1284,Panton,Panton,Individual,"James Davidson, a delivery executive,
+says to Ms. Panton, and you're copied in, sorry, Panta,
+I'm concerned at the engagement approach being taken here."
+1286,the Post Office,Post Office,Organisation,Is this an example of you pulling the Post Office up on direct approaches to you?
+1287,Rachel Panther,Rachel Panther,Individual,"Indeed it was, and if you noticed on the previous email, although I'd been sent the email directly
+by Rachel Panther, when I responded I copied in both Penny Thomas and James Davidson."
+1287,Penny Thomas,Penny Thomas,Individual,"Indeed it was, and if you noticed on the previous email, although I'd been sent the email directly
+by Rachel Panther, when I responded I copied in both Penny Thomas and James Davidson."
+1287,James Davidson,James Davidson,Individual,"Indeed it was, and if you noticed on the previous email, although I'd been sent the email directly
+by Rachel Panther, when I responded I copied in both Penny Thomas and James Davidson."
+1289,the Post Office,Post Office,Organisation,"And what was the issue in your mind with the direct approach from the Post Office?
+I think, well there's two or three issues really."
+1290,Penny,Penny,Organisation,"The main one was that I felt that
+the prosecution support team, namely Penny, needed to be aware of what was going on and
+that we actually had a single point of contact so that Fujitsu was aware of what the Post
+Office was requiring them to do in terms of legal processes and so on."
+1290,Fujitsu,Fujitsu,Organisation,"The main one was that I felt that
+the prosecution support team, namely Penny, needed to be aware of what was going on and
+that we actually had a single point of contact so that Fujitsu was aware of what the Post
+Office was requiring them to do in terms of legal processes and so on."
+1290,"the Post
+Office","the Post
+Office",Organisation,"The main one was that I felt that
+the prosecution support team, namely Penny, needed to be aware of what was going on and
+that we actually had a single point of contact so that Fujitsu was aware of what the Post
+Office was requiring them to do in terms of legal processes and so on."
+1295,Fujitsu,Fujitsu,Organisation,"Why was it important that the Fujitsu prosecution support team were
+cited on these exchanges?"
+1297,Jane Owen,Jane Owen,Individual,"It was their responsibility that there was supposed
+to be a line of communication between the post office legal department, well not
+the legal departments, their investigators, Jane Owen is the name that I think of
+in that role and the fiduciary team to actually know what was going on to coordinate the work
+so as to be aware of what was happening and what was going on."
+1305,Fujitsu,Fujitsu,Organisation,"Was it in your mind that Fujitsu, as a third party to a prosecution, might be required
+to disclose material to a court?"
+1308,Fujitsu,Fujitsu,Organisation,Did you ever come to understand that Fujitsu may owe duties of disclosure?
+1309,Fujitsu,Fujitsu,Organisation,"No. As far as I understood it, disclosure was something that post offices needed to
+worry about, not that it wasn't something that affected me or Fujitsu."
+1316,Fujitsu,Fujitsu,Organisation,"In any of those discussions, were the extent of Fujitsu or your own duties of disclosure
+discussed?"
+1320,Jane Owen,Jane Owen,Individual,"An email from
+Jane Owen on the 16th of November 2012, which is the same day we were looking at the moment
+to Penny Thomas, a copy to Jane Bradbury."
+1320,Penny Thomas,Penny Thomas,Individual,"An email from
+Jane Owen on the 16th of November 2012, which is the same day we were looking at the moment
+to Penny Thomas, a copy to Jane Bradbury."
+1320,Jane Bradbury,Jane Bradbury,Individual,"An email from
+Jane Owen on the 16th of November 2012, which is the same day we were looking at the moment
+to Penny Thomas, a copy to Jane Bradbury."
+1323,Jane Owen,Jane Owen,Individual,"Anyway, Jane Owen, security manager in the post office, says, at High Penning, I'm a
+little out of the loop with this now, I've changed roles, I asked Mark about raising
+an invoice, he has the budget to cover the expert witness requirements for one of Sharon's
+cases, which I think the email below will relate to."
+1323,Mark,Mark,Individual,"Anyway, Jane Owen, security manager in the post office, says, at High Penning, I'm a
+little out of the loop with this now, I've changed roles, I asked Mark about raising
+an invoice, he has the budget to cover the expert witness requirements for one of Sharon's
+cases, which I think the email below will relate to."
+1323,Sharon,Sharon,Individual,"Anyway, Jane Owen, security manager in the post office, says, at High Penning, I'm a
+little out of the loop with this now, I've changed roles, I asked Mark about raising
+an invoice, he has the budget to cover the expert witness requirements for one of Sharon's
+cases, which I think the email below will relate to."
+1326,Gareth,Gareth,Individual,"Gareth has been approached
+directly by an external solicitor, and Jane will need to start discussions with our team
+leaders on how we prevent this from happening going forward, because it's clearly unacceptable
+that he be, quote, ambushed in this way."
+1326,Jane,Jane,Individual,"Gareth has been approached
+directly by an external solicitor, and Jane will need to start discussions with our team
+leaders on how we prevent this from happening going forward, because it's clearly unacceptable
+that he be, quote, ambushed in this way."
+1331,Rachel Panther,Rachel Panther,Individual,"But I mean, clearly, having this email out
+of the blue from Rachel Panther in November,
+when the last contact I'd had about any of these cases
+was about a month before that, was a bit of a surprise."
+1332,Post Office,Post Office,Organisation,"And clearly, I felt that we needed
+to have some sort of control as to how my work was
+to be scheduled and how Post Office was managing this."
+1333,Post Office,Post Office,Organisation,"And I see this as being Post Office trying to actually
+get that some control put back in there."
+1343,Angela Vande,Angela Vande,Individual,This is an email exchange between you and Angela Vande and Bogart.
+1352,Helen Rose,Helen Rose,Individual,"When you say Helen Rose report, I'm aware of two Helen Rose reports."
+1353,Leptin,Leptin,Individual,"We're talking
+about Leptin here?"
+1357,Vanden Bogard,Vanden Bogard,Individual,I think Ms. Vanden Bogard is asking you questions about it.
+1358,Angela Vanden Bogard,Angela Vanden Bogard,Individual,"Yes, this looks again like an email from Angela Vanden Bogard to myself where I have actually
+inserted with the G.I.J. prefix my responses to her various questions."
+1358,G.I.J.,G.I.J.,Organisation,"Yes, this looks again like an email from Angela Vanden Bogard to myself where I have actually
+inserted with the G.I.J. prefix my responses to her various questions."
+1362,Gareth,Gareth,Individual,"In the
+first paragraph, you say, I've added replies with Gareth, Idris, Jenkins, G.I.J. In the
+second paragraph, you say, this is all outside of our official remit."
+1362,Idris,Idris,Individual,"In the
+first paragraph, you say, I've added replies with Gareth, Idris, Jenkins, G.I.J. In the
+second paragraph, you say, this is all outside of our official remit."
+1362,G.I.J.,G.I.J.,Individual,"In the
+first paragraph, you say, I've added replies with Gareth, Idris, Jenkins, G.I.J. In the
+second paragraph, you say, this is all outside of our official remit."
+1370,Penny,Penny,Individual,"I probably spent about half an hour or an
+hour replying to this email, so I thought it was simpler to just reply to the email
+then point out that this should really go through official channels, and that is why
+I'd copied Penny in on the response because I saw her as being the official channel."
+1378,Helen Rose,Helen Rose,Individual,"I think at this stage I may have already had some sort of contact with Helen Rose about
+this"
+1383,Penny,Penny,Individual,"I try and be helpful when I can, yes, but I'm aware that I also need to try and put
+some sort of control in, which is why I copied Penny in on this to make her aware that I
+was being asked these sort of questions."
+1391,Allen,Allen,Individual,"And you tell us in your witness statements that you lacked that understanding in Ms Misra's
+case, that's paragraphs 233 and 329 of your third witness statement, Mr Allen's case,
+paragraph 619, and in Ms Sefton and Ms Neal's case, paragraph 689."
+1391,Ms Sefton,Ms Sefton,Individual,"And you tell us in your witness statements that you lacked that understanding in Ms Misra's
+case, that's paragraphs 233 and 329 of your third witness statement, Mr Allen's case,
+paragraph 619, and in Ms Sefton and Ms Neal's case, paragraph 689."
+1391,Ms Neal's,Ms Neal's,Individual,"And you tell us in your witness statements that you lacked that understanding in Ms Misra's
+case, that's paragraphs 233 and 329 of your third witness statement, Mr Allen's case,
+paragraph 619, and in Ms Sefton and Ms Neal's case, paragraph 689."
+1394,Thomas,Thomas,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Ms Misra's,Ms Misra's,Organisation,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Allen,Allen,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Sefton,Sefton,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Neal,Neal,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Ishak,Ishak,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1394,Paragraphs,Paragraphs,Individual,"And that includes in Mr Thomas's case Para 313, Ms Misra's case Para 329, Mr Allen's
+case Para 619, Miss Sefton and Miss Neal's case Para 689, and Mr. Ishak's case Paragraphs
+643 and 646.
+Correct."
+1397,Ms Misera's,Ms Misera's,Individual,"And that applied in both Ms Misera's case, Para 478, and Mr Ishak's case, Para 666."
+1397,Ishak,Ishak,Individual,"And that applied in both Ms Misera's case, Para 478, and Mr Ishak's case, Para 666."
+1399,the Post Office,Post Office,Organisation,"And fourthly, you say that you were never asked by the Post Office to provide a witness
+statement that contained an expert witness's declaration."
+1401,Allen,Allen,Individual,"That applied in Ms Misra's case, paragraphs 233, 466, and 483, Mr Allen's case, paragraph
+619, Ms Sefton and Ms Neal's case, paragraph 689, and Mr Ishak's case, paragraph 669."
+1401,Ms Sefton,Ms Sefton,Individual,"That applied in Ms Misra's case, paragraphs 233, 466, and 483, Mr Allen's case, paragraph
+619, Ms Sefton and Ms Neal's case, paragraph 689, and Mr Ishak's case, paragraph 669."
+1401,Ms Neal's,Ms Neal's,Individual,"That applied in Ms Misra's case, paragraphs 233, 466, and 483, Mr Allen's case, paragraph
+619, Ms Sefton and Ms Neal's case, paragraph 689, and Mr Ishak's case, paragraph 669."
+1401,Ishak,Ishak,Individual,"That applied in Ms Misra's case, paragraphs 233, 466, and 483, Mr Allen's case, paragraph
+619, Ms Sefton and Ms Neal's case, paragraph 689, and Mr Ishak's case, paragraph 669."
+1403,Seema Misra's,Seema Misra,Individual,"You tell us in your witness statement, it's your third witness statement, about circumstances
+in which you asked for guidance in the run-up to Seema Misra's trial as to what was expected
+of you as a witness?"
+1412,Thomas,Thomas,Individual,"You just got to tell the truth, that one.
+going back to that was Mr. Thomas's case I believe yes"
+1419,Fujitsu,Fujitsu,Organisation,"Why do we not see you asking any of your own managers at Fujitsu for assistance in
+this regard?"
+1424,Fujitsu,Fujitsu,Organisation,"They were clearly aware that I was spending time doing these sort of things, but I didn't
+feel that I needed any further guidance from them, in that I thought what I'm looking for
+is guidance about legal things, therefore I'd probably get it better from the lawyers
+that I'm talking to in post office, than managers in Fujitsu who know more about the law than
+I do."
+1430,Fujitsu,Fujitsu,Organisation,"Why do we not see you asking the lawyers at Fujitsu,
+with whom you did correspond relatively frequently, for greater support and guidance on the role that
+you were to perform?"
+1431,Mishra,Mishra,Individual,"I think that came after about 2010, sort of in Mrs. Mishra's case,
+and I did seek guidance from David Jones and I had that meeting with him in February and for a
+while then he actually acted as a buffer between me and post office lawyers and so on."
+1431,David Jones,David Jones,Individual,"I think that came after about 2010, sort of in Mrs. Mishra's case,
+and I did seek guidance from David Jones and I had that meeting with him in February and for a
+while then he actually acted as a buffer between me and post office lawyers and so on."
+1432,Jean-Pierre,Jean-Pierre,Individual,"Then later
+on I was involved with Jean-Pierre who did give me a bit of further guidance but not the true
+guidance that maybe I should have had in terms of what an expert duties were."
+1435,David Jennings,David Jennings,Individual,"An email exchange between you and David Jennings, who was David Jennings?"
+1438,Penny,Penny,Organisation,"This looks to be to do with booking time and concerned about what time I was charging to
+post office for activities in support of Penny."
+1440,Dave,Dave,Individual,"And you say, Dave, in response to your questions, and then his question is, I understand you
+act from time to time to support prosecution activity, sort of an expert witness, I suppose."
+1444,Horizon,Horizon,Technical System,"Well, I was clearly an expert in how Horizon operated, and that's what I assume that meant."
+1447,Penny,Penny,Organisation,"You say it's ad hoc, tend to have various questions from Penny a couple of times a month,
+how much effort, it varies, where do you book the time, and then you say I have a code for
+prosecution support and you give the codes."
+1459,Dave Jennings',Dave Jennings',Individual,"Yeah, and I think that must have been Dave Jennings' role was looking at the commercials
+of it, because I think it comes back to say that I'd spent about a week on it over the
+past year or something like that."
+1462,Fujitsu,Fujitsu,Organisation,"Were there any exchanges internally with Fujitsu, to your knowledge, over the status of your
+evidence?"
+1464,Penny,Penny,Individual,"As I say, what usually happened is if there was going to be some sort of engagement of
+my time for a particular case, then they would arrange with post office to have some sort
+commercial cover for a number of days of my time and if necessary that would get extended
+so that I had something to book the time against but exactly how those I left that really to Penny
+to sort out as long as I had the time code to book to on a Friday afternoon and that was all I was
+really worried about."
+1471,Patel,Patel,Individual,"This case, that's Patel, is due for trial."
+1475,Sharon Jennings,Sharon Jennings,Individual,"Reply from Sharon Jennings, Gareth, this is the one you supplied,
+the expert report and witness statement for the week before last."
+1475,Gareth,Gareth,Individual,"Reply from Sharon Jennings, Gareth, this is the one you supplied,
+the expert report and witness statement for the week before last."
+1482,Risma,Risma,Individual,"No, because as far as I was concerned, what an expert report meant was a report by someone
+understood what Risma is about."
+1489,Horizon,Horizon,Technical System,"Again, as an expert on how Horizon operated."
+87,Fujitsu,Fujitsu,Organisation,And ICL became Fujitsu Services Limited in 2002?
+95,Fujitsu,Fujitsu,Organisation,"Dealing briefly at the moment with the stages of your career at ICL Fujitsu,
+so far as concerns us, from about 1996 to about 2000, did you work in the agent team?"
+122,Post Office,Post Office,Organisation,"You tell us in your witness statement that you, quote, worked with post office analysts
+in defining the technical requirements for Horizon Online."
+125,Post Office,Post Office,Organisation,"And that you, quote, supported post office's requirements team in specifying use cases
+for the counter functionality."
+128,Post Office,Post Office,Organisation,"The contractual definition of how Horizon Online was to work was that the counter should
+operate in the same way as it did on legacy horizon and therefore it was decided that
+we needed to put in place something that actually defined exactly what that was and the technique
+that was decided was that the post office would put together the use cases to define
+the various activities that went on in the post office, to define the steps that people
+went through from how do you sell a stamp to how do you balance at the end of the week
+or whatever."
+174,Post Office,Post Office,Organisation,"I wasn't involved in any particular prosecutions as such, but there
+was quite a lot of work going on in the background, which, talking to various lawyers, I got pulled
+in in 2016 for a bug that had been found that was quite serious, the Dalmellington bug that
+I think you may well be coming back to later on, and it was felt that I could maybe help
+explain what the consequences of that was to post office."
+175,Post Office,Post Office,Organisation,"I spent, there was a problem that the post office had, again, I can't remember the exact
+date now, it's in my witness statement, when there was a mismatch in post office's back
+end accounts."
+268,Post Office,Post Office,Organisation,"What they eventually did was they paid people's benefits directly into
+their bank accounts rather than doing it through a special application in the post office."
+284,Post Office,Post Office,Organisation,"In your role between 1996 and 2002, were you in any way responsible for communicating with
+the post office team as to their requirements?
+Not so much with their requirements though."
+285,Post Office,Post Office,Organisation,"That really started with Project Impact, but I certainly was working with the post office
+team in terms of defining the interfaces between how Fujitsu's agents were operating and how
+they interacted."
+289,Post Office,Post Office,Organisation,"Did you come into contact with Jeremy Fowkes, the infrastructure assurance team leader from the post office?"
+291,Post Office,Post Office,Organisation,"So I did come across Jeremy in his role with Escher, but I don't remember coming across him when he was working with post office."
+292,Post Office,Post Office,Organisation,"He told the inquiry, it was back on the 2nd of November 2022, that we, and by that he
+meant the benefits agency and the post office counters limited team, had, quote, been denied
+viability of the application design."
+299,Post Office,Post Office,Organisation,"Just chat around the office
+to say I wasn't directly involved in all of that, but clearly people were talking about,
+I think I was aware that post office did not have the right to see various design documents that
+were being produced."
+301,Post Office,Post Office,Organisation,"That it was up to Fujitsu
+exactly how they designed the application and the details of how the internal design was done was
+something for Fujitsu YCL to worry about and it wasn't something that post office would get involved
+in."
+302,Post Office,Post Office,Organisation,"Would a consequence of that be in relation, for example, to EPOSS mean that it would be
+difficult if not impossible for the post office to ensure that there was data integrity?"
+306,Post Office,Post Office,Organisation,"There were post office testers involved in testing the system to
+make sure that it came up with the right outputs."
+308,Post Office,Post Office,Organisation,"He suggested that the fact that the post office had purchased a black box and had no rights
+to see how the black box worked meant that it was difficult, if not impossible, to ensure
+data integrity within the Horizon system."
+344,Post Office,Post Office,Organisation,"As part of that, but there was also, there was the whole point of the customer services
+directorate was to actually manage the interface with post office, including knowledge of what
+had been going on in the system, what sort of problems there were and things like that."
+363,Post Office,Post Office,Organisation,"So when something was identified as being a serious problem, and I think we're probably
+going to go on talking about the receipts and payments mismatch problem at some stage,
+I was often called in to help, well, firstly, analyse the problem and explain that problem
+so that Fujitsu management could understand what it was all about, and I often got involved
+in explaining it to the equivalent people in post office about what the impact of that
+was and what could be done to remedy it, both in terms of fixing the code, but also fixing
+whatever the business impact of the problem was, which wouldn't necessarily be fixed
+directly just because you'd fix the code."
+594,Post Office,Post Office,Organisation,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+603,Post Office,Post Office,Organisation,"That was the name given to it by the post office and it was essentially the replacement
+of the back-end accounting system, is that an overall description of it?"
+607,Post Office,Post Office,Organisation,"Now CBDB worked on the basis that it would take the information from the cash accounts
+that were signed off each week and derive everything from that which meant that it was
+always about a week behind what was really going on whilst with an SAP system they thought
+they could get a much more real-time knowledge of what was going on in the system so with
+they would know what had happened yesterday, and therefore be in a much better position,
+particularly to control their cash flow, because they saw the amount of cash flowing through
+the post offices as being a fairly critical measure, because obviously cash had to be
+paid for, and it was all to do with Treasury interest rates and things like that that I
+didn't really understand, but I understood that having a good handle on exactly how much
+cash you had where made a big difference in terms of post office finances."
+611,Post Office,Post Office,Organisation,My involvement was to design the changes which the post office wanted.
+612,Post Office,Post Office,Organisation,"I remember that these phases of the work required a major re-engineering of the accounting processes
+in each post office branch, for example removing the cash account and introducing the branch
+trading statement."
+628,Post Office,Post Office,Organisation,"So post office decided that the term conceptual design was what should be the document be
+called"
+630,Post Office,Post Office,Organisation,"This was setting out what post office wanted to happen and this was actually written by
+post office though aided by a Fujitsu requirements analyst called Phil Bordman who I believe
+has been in front of the inquiry a year or so ago."
+643,Post Office,Post Office,Organisation,"So if we just read this together, this area of functions has the purpose of providing
+mechanisms to make adjustments to branch accounts to correct errors and ensure branch accounts
+align with the post office accounts within Poll FS.
+Various mechanisms are available to identify errors that require adjustments and the discrepancy
+management functions may be initiated from various places across the business."
+644,Post Office,Post Office,Organisation,"The main areas will be from within the branch, from post office clients, or centrally by
+distributing electronic transaction corrections."
+659,Post Office,Post Office,Organisation,"So they were trying to actually automate things and
+reduce the flexibility on the postmasters, which I thought was a business decision for
+post office and nothing for me to get involved in."
+660,Post Office,Post Office,Organisation,"Were you told that the suspense account was considered by the post office to be a vehicle
+for some postmasters to hide fraud?"
+665,Post Office,Post Office,Organisation,"That is what I understood the post office wanted
+the system to do, so yes."
+666,Post Office,Post Office,Organisation,"And if they didn't pay, the post office would, in the language of this
+document enforce contractual requirements?"
+677,Post Office,Post Office,Organisation,"We've heard evidence from Susan Harding, who told us that the business drivers for the
+impact programme were to reduce the cost to the business, increasing accounting efficiency
+and reducing the losses to the post office."
+681,Post Office,Post Office,Organisation,"Were you told that a business driver was to improve the post office's debt recovery from
+some postmasters?"
+688,Post Office,Post Office,Organisation,"You tell us in your witness statement, paragraph 43 of your first witness statement, that the
+decision to remove the ability of sub-postmasters to post discrepancies to a suspense account
+was because the post office, quote, took what I assume to be a business decision to remove
+this functionality.
+was the only thing you were told about the business decision was that it was to reduce
+staff costs?"
+705,Post Office,Post Office,Organisation,"Do you remember being told by the post office that some postmasters hid their discrepancies
+in the suspense account?"
+727,Post Office,Post Office,Organisation,"You can
+see here a letter dated the 18th of November from Bond Pierce, who are the post office's
+solicitors in the case against Mr. Castleton, addressed to Fujitsu."
+731,Post Office,Post Office,Organisation,We act on behalf of the post office.
+732,Post Office,Post Office,Organisation,"Between those dates, Mr.
+Coulson was a sub-postmaster at the Marine Drive post office."
+760,Post Office,Post Office,Organisation,"Whilst the post office will be liable to pay your fees, in preparing your report and giving
+evidence, your overriding duty will be to help the court on the matters within your
+expertise."
+761,Post Office,Post Office,Organisation,"You agree to meet the requirements of the Civil Procedure Rules, Part 35, and the copy
+is enclosed, and that your report will be, one, addressed to the court and not to the
+post office, two, confirm that you understand your duty to the court and you've complied
+and will continue to comply with that duty, three, contain a statement setting out the
+substance of all material facts and instructions, whether written or oral, on the basis of which
+your report is written."
+773,Post Office,Post Office,Organisation,"Two,
+no, of no reason why you shouldn't act as a witness for the post office in relation
+to the dispute."
+774,Post Office,Post Office,Organisation,"Three, will advise us in writing immediately if there's any conflict between
+your interest and the post office interest."
+808,Post Office,Post Office,Organisation,"They were responsible for overall security, so making sure that the systems were secure,
+but they were also involved with communicating with post office in terms of providing what
+was called prosecution support or litigation support."
+818,Post Office,Post Office,Organisation,"I've been asked by the fraud investigation team to answer several questions to assist
+an inquiry regarding a post office employee, sub postmaster, alleging that the horizon
+system may have lost his money."
+1001,Post Office,Post Office,Organisation,"So, the shortened reply has been sent back to the post office."
+1002,Post Office,Post Office,Organisation,"You were able to comment, weren't you, whereas your reply has gone back to the post office
+saying that you're not able to comment."
+1046,Post Office,Post Office,Organisation,"As I've highlighted the two paragraphs I would like you to have
+a look at, basically they state the Horizon system is equipped with a facility via which
+its operating software can be updated remotely via the connection to the post office's head
+office and that the system sometimes went offline when there are software updates."
+1163,Post Office,Post Office,Organisation,"He says, just been chasing Stephen up, read your attendance and any matters still outstanding
+for us, post office account, as follows my words."
+1226,Post Office,Post Office,Organisation,Nor indeed a lead engineer for the post office account?
+1229,Post Office,Post Office,Organisation,Why did the post office rely on you specifically as its expert witness?
+1239,Post Office,Post Office,Organisation,"Did you ever discuss with anyone senior at Fujitsu
+the demands being placed upon you by the post office?"
+1244,Post Office,Post Office,Organisation,"But was the focus on your capacity
+and the money that the post office would be charged for the work that you did?
+I don't think the money came into it because the post office were paying for me regardless
+of what I did so it was really a case of they could pay for me to do designs of new bits of
+the system or they could pay for me to do support prosecutions and it's really up to them."
+1250,Post Office,Post Office,Organisation,"During your involvement in the various criminal cases, did you feel under any pressure
+placed upon you by the post office or its lawyers publicly to refute any suggestion
+by the defence that there were issues with the reliability of Horizon?"
+1259,Post Office,Post Office,Organisation,"He was a
+post office lawyer?"
+1264,Post Office,Post Office,Organisation,"She felt
+that the post office were getting to be very demanding of Fujitsu in general, and me and
+her to some extent in particular, because not only was there the case for Mrs. Misra,
+there was also the case to do with Mr. Hosey going on at the same sort of time."
+1280,Post Office,Post Office,Organisation,"You should really be addressing such requests
+through the post office, rather than directly to myself."
+1285,Post Office,Post Office,Organisation,"We're fully on board to support,
+but all approaches must come through post office
+by the correct change process."
+1291,Post Office,Post Office,Organisation,"Why?
+just so that the right people knew what was going on and then there was
+separately the question of making sure that post office was being charged
+correctly for the use of time and so on."
+1297,Post Office,Post Office,Organisation,"It was their responsibility that there was supposed
+to be a line of communication between the post office legal department, well not
+the legal departments, their investigators, Jane Owen is the name that I think of
+in that role and the fiduciary team to actually know what was going on to coordinate the work
+so as to be aware of what was happening and what was going on."
+1310,Post Office,Post Office,Organisation,What was your understanding of the post office's duties of disclosure?
+1323,Post Office,Post Office,Organisation,"Anyway, Jane Owen, security manager in the post office, says, at High Penning, I'm a
+little out of the loop with this now, I've changed roles, I asked Mark about raising
+an invoice, he has the budget to cover the expert witness requirements for one of Sharon's
+cases, which I think the email below will relate to."
+1327,Post Office,Post Office,Organisation,"Did you feel that you were being ambushed by the
+post office?"
+1375,Post Office,Post Office,Organisation,"Because my job was designing new changes to the system, not answering questions from random
+people in post office."
+1376,Post Office,Post Office,Organisation,Why did you answer random questions from people in post office?
+1392,Post Office,Post Office,Organisation,"The second thing, and again I'm trying to summarise a large body of text here, is this
+right, you say you were never provided with written instructions to be an expert witness
+in any case in which the post office asked you to give evidence."
+1405,Post Office,Post Office,Organisation,"By that time, had you suffered from a lack of confidence in the management of the requests
+coming from the post office?"
+1422,Post Office,Post Office,Organisation,"I thought I was being told what was required of me by post office, so
+I didn't really understand that I wasn't being told the right thing."
+1423,Post Office,Post Office,Organisation,"So I just trusted
+what I was being asked by post office and didn't see the need to involve my management."
+1424,Post Office,Post Office,Organisation,"They were clearly aware that I was spending time doing these sort of things, but I didn't
+feel that I needed any further guidance from them, in that I thought what I'm looking for
+is guidance about legal things, therefore I'd probably get it better from the lawyers
+that I'm talking to in post office, than managers in Fujitsu who know more about the law than
+I do."
+1425,Post Office,Post Office,Organisation,But you've got no guidance from the post office?
+1428,Post Office,Post Office,Organisation,What guidance did you think you were getting from the post office at the time?
+1431,Post Office,Post Office,Organisation,"I think that came after about 2010, sort of in Mrs. Mishra's case,
+and I did seek guidance from David Jones and I had that meeting with him in February and for a
+while then he actually acted as a buffer between me and post office lawyers and so on."
+1438,Post Office,Post Office,Organisation,"This looks to be to do with booking time and concerned about what time I was charging to
+post office for activities in support of Penny."
+1464,Post Office,Post Office,Organisation,"As I say, what usually happened is if there was going to be some sort of engagement of
+my time for a particular case, then they would arrange with post office to have some sort
+commercial cover for a number of days of my time and if necessary that would get extended
+so that I had something to book the time against but exactly how those I left that really to Penny
+to sort out as long as I had the time code to book to on a Friday afternoon and that was all I was
+really worried about."
+117,Horizon,Horizon,Technical System,"So I worked on impact until
+that went live in 2005, I think it was, then I worked on Bureau de Charge and credit card
+changes and then a few other minor things before I moved on to Horizon Online requirements
+capture."
+118,Horizon,Horizon,Technical System,Did you move on to Horizon Online from about 2008?
+120,Horizon,Horizon,Technical System,And did you work on Horizon Online from 2008 to about 2015?
+122,Horizon,Horizon,Technical System,"You tell us in your witness statement that you, quote, worked with post office analysts
+in defining the technical requirements for Horizon Online."
+128,Horizon,Horizon,Technical System,"The contractual definition of how Horizon Online was to work was that the counter should
+operate in the same way as it did on legacy horizon and therefore it was decided that
+we needed to put in place something that actually defined exactly what that was and the technique
+that was decided was that the post office would put together the use cases to define
+the various activities that went on in the post office, to define the steps that people
+went through from how do you sell a stamp to how do you balance at the end of the week
+or whatever."
+128,Legacy Horizon,Legacy Horizon,Technical System,"The contractual definition of how Horizon Online was to work was that the counter should
+operate in the same way as it did on legacy horizon and therefore it was decided that
+we needed to put in place something that actually defined exactly what that was and the technique
+that was decided was that the post office would put together the use cases to define
+the various activities that went on in the post office, to define the steps that people
+went through from how do you sell a stamp to how do you balance at the end of the week
+or whatever."
+133,Horizon,Horizon,Technical System,"You tell us that during your time at Fujitsu you were a group of anywhere
+between 20 and 100 software designers and developers who would provide
+fourth-line support for both Legacy Horizon and Horizon Online?"
+134,the system,the system,Technical System,"Yes, the way fourth-line support worked was that the people who were doing the development
+were expected to spend a small part of their time in actually supporting the live service
+and the system under test, and so that's what fourth-line support was all about, and I did
+that just like everyone else in the development team."
+168,Horizon,Horizon,Technical System,"So did your retainer essentially come to an end
+at the time of the publication of the Horizon Issues Judgment, which was December 19?"
+170,Horizon,Horizon,Technical System,"The last few things were actually talking to the lawyers about the consequences of the
+Horizon Issues judgment."
+187,Horizon,Horizon,Technical System,"Would it be fair to say that the majority of this time, certainly between 2015 and the
+Horizon Issues judgement in December 2019, was given over to the provision of litigation
+support?"
+192,Horizon,Horizon,Technical System,Have you read the horizon issues judgment?
+195,Legacy Horizon,Legacy Horizon,Technical System,"In high-level summary, would you agree that Mr Justice Fraser concluded, firstly, that
+legacy Horizon was not remotely robust?"
+198,Horizon,Horizon,Technical System,Do you accept that Horizon Online was susceptible to accounting flaws?
+201,Horizon,Horizon,Technical System,"I felt that
+Horizon Online was and is, because after all it is still the system that's operating today,
+doing a good job in terms of the accounting, particularly with the monitoring that was
+going on in terms of being able to detect things when they had occurred."
+201,Horizon Online,Horizon Online,Technical System,"I felt that
+Horizon Online was and is, because after all it is still the system that's operating today,
+doing a good job in terms of the accounting, particularly with the monitoring that was
+going on in terms of being able to detect things when they had occurred."
+201,the system,the system,Technical System,"I felt that
+Horizon Online was and is, because after all it is still the system that's operating today,
+doing a good job in terms of the accounting, particularly with the monitoring that was
+going on in terms of being able to detect things when they had occurred."
+207,Horizon,Horizon,Technical System,Do I take it that you accept his first finding that Legacy Horizon was not remotely robust?
+209,Horizon,Horizon,Technical System,You don't accept his finding that Horizon Online was susceptible to accounting flaws?
+221,Horizon,Horizon,Technical System,"So between 1996 and 2002, you tell us that your initial role with Legacy Horizon was
+quote to integrate Riposte and the Oracle based software, yes?"
+231,Riposte,Riposte,Technical System,"And that bit of Riposte I had not very little involvement with in
+the early days."
+276,the system,the system,Technical System,"So the main thing I was doing in the early 2000s was network banking was introduced into
+the system in 2003, and a few months later the support of debit cards was introduced."
+306,the system,the system,Technical System,"There were post office testers involved in testing the system to
+make sure that it came up with the right outputs."
+314,the system,the system,Technical System,"Were you conscious, and those with whom you worked conscious, that the nature of the contract
+was a PFI contract, and therefore the client had no rights, no visibility over the way
+the system was built."
+330,Horizon,Horizon,Technical System,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+330,the system,the system,Technical System,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+332,the system,the system,Technical System,"So you couldn't at any particular time speak to the existence or non-existence of bugs,
+errors and defects in the system?
+Not from my personal knowledge, no."
+337,the system,the system,Technical System,"So I would have thought that if there was an overall knowledge of how well the system
+was behaving, it would be part of their role."
+344,the system,the system,Technical System,"As part of that, but there was also, there was the whole point of the customer services
+directorate was to actually manage the interface with post office, including knowledge of what
+had been going on in the system, what sort of problems there were and things like that."
+350,PinICL,PinICL,Technical System,"There was a system called Peak and it had a predecessor called PinICL and the way
+that that operated, that was effectively a database of the various defects and that included
+those found during testing as well as those during live, and what happened was that peaks
+or PinICL would be allocated to a particular person, and I think you'd normally get an
+email saying, you've had this peak that's allocated to you, you could then log into
+the peak system, have a look at the peak, see what it said, and then decide what you
+need to do with it next."
+350,PEAK,PEAK,Technical System,"There was a system called Peak and it had a predecessor called PinICL and the way
+that that operated, that was effectively a database of the various defects and that included
+those found during testing as well as those during live, and what happened was that peaks
+or PinICL would be allocated to a particular person, and I think you'd normally get an
+email saying, you've had this peak that's allocated to you, you could then log into
+the peak system, have a look at the peak, see what it said, and then decide what you
+need to do with it next."
+351,Horizon,Horizon,Technical System,"And again, same questions within your various roles within Horizon Online."
+351,Horizon Online,Horizon Online,Technical System,"And again, same questions within your various roles within Horizon Online."
+352,Horizon,Horizon,Technical System,"Did you have oversight of all bugs, errors and defects?
+Not as such, but I did have a probably a better view of them, particularly during the pilot
+phase of Horizon Online, because during the pilot phase there was a project team in place
+that was managing the pilot and taking very close monitoring of any issues that were going
+on during the pilot and I would often get called in to that by that team to investigate
+particular problems particularly ones that are the factor of the counter."
+358,Horizon,Horizon,Technical System,"How would you generally become aware of such bugs, errors, and defects as you became aware
+of in Horizon Online?"
+358,Horizon Online,Horizon Online,Technical System,"How would you generally become aware of such bugs, errors, and defects as you became aware
+of in Horizon Online?"
+359,PEAK,PEAK,Technical System,The peak system was working.
+360,Horizon,Horizon,Technical System,There was the same peak system that operated for both Legacy Horizon and Horizon Online.
+360,PEAK,PEAK,Technical System,There was the same peak system that operated for both Legacy Horizon and Horizon Online.
+361,Horizon,Horizon,Technical System,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+361,PinICL,PinICL,Technical System,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+361,PEAK,PEAK,Technical System,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+364,Horizon,Horizon,Technical System,"So for you personally, there were two ways in which you
+became aware of bugs, errors, and defects in Horizon."
+367,PEAK,PEAK,Technical System,The 10% wasn't just for the peak.
+373,the system,the system,Technical System,"So in terms of what was actually there in the live system at any one time, it was very
+rare for there to be a bug there that would cause problems, and therefore I was confident
+in the way that the system was operating, that it was operating correctly."
+379,the system,the system,Technical System,"And the that in that sentence, meaning a general confidence in the system and the way that
+it operated?"
+381,the system,the system,Technical System,"So general confidence in the system plus processes that you thought were working
+allowed you confidently to give a generalized view, is that right?"
+394,Horizon,Horizon,Technical System,"Certainly when we got on to things like Horizon Online,
+if it was seen as having an impact on the accounts, then we realised that that was a
+very serious problem and that I would get involved in those, which is why I got involved
+with what I see as the main serious issues in Horizon Online."
+394,Horizon Online,Horizon Online,Technical System,"Certainly when we got on to things like Horizon Online,
+if it was seen as having an impact on the accounts, then we realised that that was a
+very serious problem and that I would get involved in those, which is why I got involved
+with what I see as the main serious issues in Horizon Online."
+396,Horizon,Horizon,Technical System,"receipts and payments match, the local suspense issue and Del Mannington's, those are the
+ones I see as being the serious issues with Horizon Online and I got involved in all of
+them because they saw me being helpful in terms of my expertise and background for those
+particular cases."
+408,the system,the system,Technical System,"That didn't occur to me, but again, as I've said before, I was confident, and possibly
+wrongly so, that when problems did occur, they were quickly fixed and they weren't
+left to sort of fester in the system to have a larger impact."
+425,Riposte,Riposte,Technical System,"You've told us already that Esha was responsible
+for provision of the riposte software, is that right?"
+440,Horizon,Horizon,Technical System,"In relation to the development of EPOSS before the rollout
+of Legacy Horizon, we've heard evidence from David MacDonald."
+454,Horizon,Horizon,Technical System,"Were you the chief
+architect of Horizon?"
+456,Horizon,Horizon,Technical System,Who was the chief architect of Horizon?
+490,PinICL,PinICL,Technical System,"It's a report of the EPOSS PinICL Task Force, and it reports on the activities of the EPOSS
+PinICL Task Force, which was in place between the 19th of August and the 18th of September
+December 1998 to reduce to manageable levels the EPOSS PinICL outstanding at that time."
+521,EPOSS,EPOSS,Technical System,"I don't think I had any involvement with the EPOSS PinICL Task Force.
+said that we managed to get Gareth down to the counter team twice."
+521,PinICL,PinICL,Technical System,"I don't think I had any involvement with the EPOSS PinICL Task Force.
+said that we managed to get Gareth down to the counter team twice."
+547,the system,the system,Technical System,"I think maybe later on then that could be said, but at that time my main role was to
+do with the way the agents worked, which was a fairly small cog in the system."
+590,the system,the system,Technical System,"So the fact that there are problems during the pilot and the rollout don't necessarily
+mean that the problems carry on into the system."
+591,the system,the system,Technical System,"I was confident in the way that problems were
+being picked up and fixed and new things were being put into the system to actually manage
+the issues that are being found early on."
+607,the system,the system,Technical System,"Now CBDB worked on the basis that it would take the information from the cash accounts
+that were signed off each week and derive everything from that which meant that it was
+always about a week behind what was really going on whilst with an SAP system they thought
+they could get a much more real-time knowledge of what was going on in the system so with
+they would know what had happened yesterday, and therefore be in a much better position,
+particularly to control their cash flow, because they saw the amount of cash flowing through
+the post offices as being a fairly critical measure, because obviously cash had to be
+paid for, and it was all to do with Treasury interest rates and things like that that I
+didn't really understand, but I understood that having a good handle on exactly how much
+cash you had where made a big difference in terms of post office finances."
+609,Horizon,Horizon,Technical System,"Paragraphs 45 and 46, you say, I believe that ICL Fujitsu was only involved in one aspect
+of project impact, which was implementing changes to legacy horizon that would enable
+it to interface with the new backend system."
+609,Legacy Horizon,Legacy Horizon,Technical System,"Paragraphs 45 and 46, you say, I believe that ICL Fujitsu was only involved in one aspect
+of project impact, which was implementing changes to legacy horizon that would enable
+it to interface with the new backend system."
+614,Legacy Horizon,Legacy Horizon,Technical System,"And so, as the counters specialist, which is what you were, you redesigned part of the
+legacy Horizon system that produced the accounts for the sub-postmaster to sign off."
+617,the system,the system,Technical System,"I think the main detail was done by other designers, but my main role was actually identifying
+exactly what the output needed to be of the system."
+665,the system,the system,Technical System,"That is what I understood the post office wanted
+the system to do, so yes."
+690,the system,the system,Technical System,"My main focus on was what was it they wanted changed in the system, not why they were doing
+it."
+708,the system,the system,Technical System,"Were you given any information as to why sub-postmasters might hide their discrepancies in suspense
+accounts?
+that I can remember to say I wasn't that interested in the whys. I was interested in what it was
+that I was being asked to do in the system, not why it was being done."
+748,the system,the system,Technical System,"We attach an email from Fujitsu to Richard Benton
+at the Post Office dated the 5th of May, in which Fujitsu state, quote,
+it is possible that they are not accurately recording
+all transactions on the system, and that there was no evidence
+whatsoever of any system problem."
+818,Horizon,Horizon,Technical System,"I've been asked by the fraud investigation team to answer several questions to assist
+an inquiry regarding a post office employee, sub postmaster, alleging that the horizon
+system may have lost his money."
+879,Horizon,Horizon,Technical System,"My feeling was that that was more likely than an error in Horizon, yes."
+893,Horizon,Horizon,Technical System,"And then you finish, I think this is you at the end saying happy to discuss further if
+you want to look at some more specific areas of Horizon."
+1046,the system,the system,Technical System,"As I've highlighted the two paragraphs I would like you to have
+a look at, basically they state the Horizon system is equipped with a facility via which
+its operating software can be updated remotely via the connection to the post office's head
+office and that the system sometimes went offline when there are software updates."
+1047,the system,the system,Technical System,"They
+have therefore asked for documents relating to the updating of the software of the system."
+1065,the system,the system,Technical System,"I'd expect the system to record details of all software updates and when they
+took place at which branches."
+1244,the system,the system,Technical System,"But was the focus on your capacity
+and the money that the post office would be charged for the work that you did?
+I don't think the money came into it because the post office were paying for me regardless
+of what I did so it was really a case of they could pay for me to do designs of new bits of
+the system or they could pay for me to do support prosecutions and it's really up to them."
+1375,the system,the system,Technical System,"Because my job was designing new changes to the system, not answering questions from random
+people in post office."
+174,bug,bug,Event/Issue,"I wasn't involved in any particular prosecutions as such, but there
+was quite a lot of work going on in the background, which, talking to various lawyers, I got pulled
+in in 2016 for a bug that had been found that was quite serious, the Dalmellington bug that
+I think you may well be coming back to later on, and it was felt that I could maybe help
+explain what the consequences of that was to post office."
+175,mismatch,mismatch,Event/Issue,"I spent, there was a problem that the post office had, again, I can't remember the exact
+date now, it's in my witness statement, when there was a mismatch in post office's back
+end accounts."
+177,mismatch,mismatch,Event/Issue,"One was taking what the cash positions were at seven o'clock in the evening,
+and the other was taking the cash position at midnight, and therefore this accounted for the
+mismatch that they had in the account."
+202,bugs,bug,Event/Issue,"He concluded that some postmasters were not informed of and were therefore oblivious to
+a range of bugs, errors, and defects."
+202,errors,error,Event/Issue,"He concluded that some postmasters were not informed of and were therefore oblivious to
+a range of bugs, errors, and defects."
+202,defects,defect,Event/Issue,"He concluded that some postmasters were not informed of and were therefore oblivious to
+a range of bugs, errors, and defects."
+205,bugs,bug,Event/Issue,"And lastly, that those bugs, errors, and defects
+could result in, i.e., cause discrepancies or shortfalls
+in the branch accounts of sub-postmasters,
+thereby corrupting transactions, disrupting data processing,
+and recording transactions."
+205,errors,error,Event/Issue,"And lastly, that those bugs, errors, and defects
+could result in, i.e., cause discrepancies or shortfalls
+in the branch accounts of sub-postmasters,
+thereby corrupting transactions, disrupting data processing,
+and recording transactions."
+205,shortfalls,shortfall,Event/Issue,"And lastly, that those bugs, errors, and defects
+could result in, i.e., cause discrepancies or shortfalls
+in the branch accounts of sub-postmasters,
+thereby corrupting transactions, disrupting data processing,
+and recording transactions."
+205,defects,defect,Event/Issue,"And lastly, that those bugs, errors, and defects
+could result in, i.e., cause discrepancies or shortfalls
+in the branch accounts of sub-postmasters,
+thereby corrupting transactions, disrupting data processing,
+and recording transactions."
+206,bugs,bug,Event/Issue,"That was a possibility, but I'm not sure that I, even today,
+I understand what bugs actually did cause the problems that people have suffered from."
+210,bugs,bug,Event/Issue,"There were some discrete bugs that caused problems to the accounts, but they were very
+discreet and I believe that they were all well controlled and managed at the time."
+211,bugs,bug,Event/Issue,"And you don't accept his findings that bugs, errors and defects could result in, i.e. cause
+discrepancies or shortfalls in branch accounts?"
+211,errors,error,Event/Issue,"And you don't accept his findings that bugs, errors and defects could result in, i.e. cause
+discrepancies or shortfalls in branch accounts?"
+211,shortfalls,shortfall,Event/Issue,"And you don't accept his findings that bugs, errors and defects could result in, i.e. cause
+discrepancies or shortfalls in branch accounts?"
+211,defects,defect,Event/Issue,"And you don't accept his findings that bugs, errors and defects could result in, i.e. cause
+discrepancies or shortfalls in branch accounts?"
+328,bugs,bug,Event/Issue,"In relation to your fourth line support role,
+you tell us in your witness statements, the first witness statement of paragraph 25,
+quote, I would only have been aware of bugs, errors and defects specifically allocated to me
+by third-line support or where I was asked to root the issue to the correct person in
+fourth-line support or where I was asked for specific input on the problem because of my
+particular expertise, correct?"
+328,errors,error,Event/Issue,"In relation to your fourth line support role,
+you tell us in your witness statements, the first witness statement of paragraph 25,
+quote, I would only have been aware of bugs, errors and defects specifically allocated to me
+by third-line support or where I was asked to root the issue to the correct person in
+fourth-line support or where I was asked for specific input on the problem because of my
+particular expertise, correct?"
+328,defects,defect,Event/Issue,"In relation to your fourth line support role,
+you tell us in your witness statements, the first witness statement of paragraph 25,
+quote, I would only have been aware of bugs, errors and defects specifically allocated to me
+by third-line support or where I was asked to root the issue to the correct person in
+fourth-line support or where I was asked for specific input on the problem because of my
+particular expertise, correct?"
+330,bugs,bug,Event/Issue,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+330,errors,error,Event/Issue,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+330,defects,defect,Event/Issue,"Within your roles in Legacy Horizon, did you have any oversight of all bugs, errors and defects
+within the system at any given time?"
+332,bugs,bug,Event/Issue,"So you couldn't at any particular time speak to the existence or non-existence of bugs,
+errors and defects in the system?
+Not from my personal knowledge, no."
+332,errors,error,Event/Issue,"So you couldn't at any particular time speak to the existence or non-existence of bugs,
+errors and defects in the system?
+Not from my personal knowledge, no."
+332,defects,defect,Event/Issue,"So you couldn't at any particular time speak to the existence or non-existence of bugs,
+errors and defects in the system?
+Not from my personal knowledge, no."
+333,bugs,bug,Event/Issue,"If you did not have knowledge of or oversight of all bugs, errors and defects within the
+system at any given time, who did?
+I would have thought the SSC would, and there was an area called customer services, SSC
+was part of that."
+333,errors,error,Event/Issue,"If you did not have knowledge of or oversight of all bugs, errors and defects within the
+system at any given time, who did?
+I would have thought the SSC would, and there was an area called customer services, SSC
+was part of that."
+333,defects,defect,Event/Issue,"If you did not have knowledge of or oversight of all bugs, errors and defects within the
+system at any given time, who did?
+I would have thought the SSC would, and there was an area called customer services, SSC
+was part of that."
+335,bugs,bug,Event/Issue,"Now, incidents could be to do with bugs or defects, or more commonly, there would be
+operational issues where a bit of the network went down or connections to banks went down
+for a few hours, which clearly caused fairly catastrophic effects at the time."
+335,defects,defect,Event/Issue,"Now, incidents could be to do with bugs or defects, or more commonly, there would be
+operational issues where a bit of the network went down or connections to banks went down
+for a few hours, which clearly caused fairly catastrophic effects at the time."
+338,bugs,bug,Event/Issue,"We've heard from a lot of people from the SSC, and they've told us that there were between
+20 and 30 people at any one time working in the SSC, sometimes working shifts, some working
+at home, some working in the office, that they only knew about the bugs that they were
+allocated on the stack, and that it was correct that there might be informal sharing of information
+by people who were sitting next to each other or talking about it at the water cooler, but
+there was no formalised system for sharing knowledge within the SSC."
+343,bugs,bug,Event/Issue,"But when I asked you who may have oversight of all bugs, errors and defects within the
+Horizon system, you pointed to the SSC."
+343,errors,error,Event/Issue,"But when I asked you who may have oversight of all bugs, errors and defects within the
+Horizon system, you pointed to the SSC."
+343,defects,defect,Event/Issue,"But when I asked you who may have oversight of all bugs, errors and defects within the
+Horizon system, you pointed to the SSC."
+346,bugs,bug,Event/Issue,"I'm looking for, it might be described as an all-seeing eye, but somebody who took a
+step back and would be able to say, we've had these problems in the past with Horizon,
+these bugs, errors and defects, and at the moment we're servicing the existence of these
+possible bugs, errors and defects."
+346,errors,error,Event/Issue,"I'm looking for, it might be described as an all-seeing eye, but somebody who took a
+step back and would be able to say, we've had these problems in the past with Horizon,
+these bugs, errors and defects, and at the moment we're servicing the existence of these
+possible bugs, errors and defects."
+346,defects,defect,Event/Issue,"I'm looking for, it might be described as an all-seeing eye, but somebody who took a
+step back and would be able to say, we've had these problems in the past with Horizon,
+these bugs, errors and defects, and at the moment we're servicing the existence of these
+possible bugs, errors and defects."
+349,bugs,bug,Event/Issue,"When you were in fourth line support, how would you generally become aware of such bugs,
+errors and defects as you did become aware?"
+349,errors,error,Event/Issue,"When you were in fourth line support, how would you generally become aware of such bugs,
+errors and defects as you did become aware?"
+349,defects,defect,Event/Issue,"When you were in fourth line support, how would you generally become aware of such bugs,
+errors and defects as you did become aware?"
+350,defects,defect,Event/Issue,"There was a system called Peak and it had a predecessor called PinICL and the way
+that that operated, that was effectively a database of the various defects and that included
+those found during testing as well as those during live, and what happened was that peaks
+or PinICL would be allocated to a particular person, and I think you'd normally get an
+email saying, you've had this peak that's allocated to you, you could then log into
+the peak system, have a look at the peak, see what it said, and then decide what you
+need to do with it next."
+352,bugs,bug,Event/Issue,"Did you have oversight of all bugs, errors and defects?
+Not as such, but I did have a probably a better view of them, particularly during the pilot
+phase of Horizon Online, because during the pilot phase there was a project team in place
+that was managing the pilot and taking very close monitoring of any issues that were going
+on during the pilot and I would often get called in to that by that team to investigate
+particular problems particularly ones that are the factor of the counter."
+352,errors,error,Event/Issue,"Did you have oversight of all bugs, errors and defects?
+Not as such, but I did have a probably a better view of them, particularly during the pilot
+phase of Horizon Online, because during the pilot phase there was a project team in place
+that was managing the pilot and taking very close monitoring of any issues that were going
+on during the pilot and I would often get called in to that by that team to investigate
+particular problems particularly ones that are the factor of the counter."
+352,defects,defect,Event/Issue,"Did you have oversight of all bugs, errors and defects?
+Not as such, but I did have a probably a better view of them, particularly during the pilot
+phase of Horizon Online, because during the pilot phase there was a project team in place
+that was managing the pilot and taking very close monitoring of any issues that were going
+on during the pilot and I would often get called in to that by that team to investigate
+particular problems particularly ones that are the factor of the counter."
+353,bugs,bug,Event/Issue,"After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+and defects within the Horizon Online system?"
+353,errors,error,Event/Issue,"After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+and defects within the Horizon Online system?"
+353,defects,defect,Event/Issue,"After the pilot phase of Horizon Online was over, did you have oversight of all bugs errors
+and defects within the Horizon Online system?"
+358,bugs,bug,Event/Issue,"How would you generally become aware of such bugs, errors, and defects as you became aware
+of in Horizon Online?"
+358,errors,error,Event/Issue,"How would you generally become aware of such bugs, errors, and defects as you became aware
+of in Horizon Online?"
+358,defects,defect,Event/Issue,"How would you generally become aware of such bugs, errors, and defects as you became aware
+of in Horizon Online?"
+361,bugs,bug,Event/Issue,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+361,errors,error,Event/Issue,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+361,defects,defect,Event/Issue,"And so for both Legacy Horizon and Horizon Online, you became aware of things that might
+be bugs, errors and defects through the PinICL and then the peak system?"
+363,mismatch,mismatch,Event/Issue,"So when something was identified as being a serious problem, and I think we're probably
+going to go on talking about the receipts and payments mismatch problem at some stage,
+I was often called in to help, well, firstly, analyse the problem and explain that problem
+so that Fujitsu management could understand what it was all about, and I often got involved
+in explaining it to the equivalent people in post office about what the impact of that
+was and what could be done to remedy it, both in terms of fixing the code, but also fixing
+whatever the business impact of the problem was, which wouldn't necessarily be fixed
+directly just because you'd fix the code."
+364,bugs,bug,Event/Issue,"So for you personally, there were two ways in which you
+became aware of bugs, errors, and defects in Horizon."
+364,errors,error,Event/Issue,"So for you personally, there were two ways in which you
+became aware of bugs, errors, and defects in Horizon."
+364,defects,defect,Event/Issue,"So for you personally, there were two ways in which you
+became aware of bugs, errors, and defects in Horizon."
+369,bug,bug,Event/Issue,"In any event, in your role in fourth line support, it would be largely happenstance,
+whether it was you or somebody else, one of the other people performing fourth line support
+who had a particular bug, error or defect allocated to them."
+369,error,error,Event/Issue,"In any event, in your role in fourth line support, it would be largely happenstance,
+whether it was you or somebody else, one of the other people performing fourth line support
+who had a particular bug, error or defect allocated to them."
+369,defect,defect,Event/Issue,"In any event, in your role in fourth line support, it would be largely happenstance,
+whether it was you or somebody else, one of the other people performing fourth line support
+who had a particular bug, error or defect allocated to them."
+371,bug,bug,Event/Issue,"If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+evidence about the existence or non-existence of bugs, errors and defects in Horizon?"
+371,error,error,Event/Issue,"If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+evidence about the existence or non-existence of bugs, errors and defects in Horizon?"
+371,defect,defect,Event/Issue,"If it was largely happenstance that you became aware of a bug error or defect in both Legacy
+Horizon and Horizon Online, how could you subsequently give full, complete and accurate
+evidence about the existence or non-existence of bugs, errors and defects in Horizon?"
+372,bugs,bug,Event/Issue,"What I was aware of was the fact that bugs that actually impacted the accounts were very
+there was good monitoring in place to detect them, and they got fixed shortly afterwards."
+373,bug,bug,Event/Issue,"So in terms of what was actually there in the live system at any one time, it was very
+rare for there to be a bug there that would cause problems, and therefore I was confident
+in the way that the system was operating, that it was operating correctly."
+374,bugs,bug,Event/Issue,"To give that kind of very confident answer to a court, wouldn't you want to know the
+existence of each of the bugs and how they've been resolved and whether in fact there was
+any ongoing impact?"
+383,bugs,bug,Event/Issue,"During your employment within Fujitsu, did any of your roles
+entails any overall responsibility for monitoring identifying or fixing bugs
+errors or defects?"
+383,errors,error,Event/Issue,"During your employment within Fujitsu, did any of your roles
+entails any overall responsibility for monitoring identifying or fixing bugs
+errors or defects?"
+383,defects,defect,Event/Issue,"During your employment within Fujitsu, did any of your roles
+entails any overall responsibility for monitoring identifying or fixing bugs
+errors or defects?"
+411,bugs,bug,Event/Issue,"What interactions did you have with the third line of support, the SSC, in relation to identifying
+and rectifying bugs, errors and defects?"
+411,errors,error,Event/Issue,"What interactions did you have with the third line of support, the SSC, in relation to identifying
+and rectifying bugs, errors and defects?"
+411,defects,defect,Event/Issue,"What interactions did you have with the third line of support, the SSC, in relation to identifying
+and rectifying bugs, errors and defects?"
+594,bugs,bug,Event/Issue,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+594,errors,error,Event/Issue,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+594,defects,defect,Event/Issue,"Yes.
+rather than giving evidence about the existence of bugs, errors, and defects within Horizon,
+how quickly they manifested themselves to Fujitsu, how promptly the post office was
+told about them, and the extent to which sub-postmasters had themselves been informed."
+643,errors,error,Event/Issue,"So if we just read this together, this area of functions has the purpose of providing
+mechanisms to make adjustments to branch accounts to correct errors and ensure branch accounts
+align with the post office accounts within Poll FS.
+Various mechanisms are available to identify errors that require adjustments and the discrepancy
+management functions may be initiated from various places across the business."
+643,discrepancy,discrepancy,Event/Issue,"So if we just read this together, this area of functions has the purpose of providing
+mechanisms to make adjustments to branch accounts to correct errors and ensure branch accounts
+align with the post office accounts within Poll FS.
+Various mechanisms are available to identify errors that require adjustments and the discrepancy
+management functions may be initiated from various places across the business."
+645,error,error,Event/Issue,"These corrections will replace the current error notice processes and should not involve
+any manual paperwork or processing."
+646,error,error,Event/Issue,"They'll be received and actioned by Horizon and will be distributed more quickly, potentially
+only days after an error is recorded."
+647,suspense account,suspense account,Event/Issue,"The analysis has also identified requirements to more tightly control and police the use
+of the suspense account within the branch accounts."
+648,suspense account,suspense account,Event/Issue,"Only a limited subset of the existing
+suspense account products will be retained."
+649,errors,error,Event/Issue,"The contractual requirements for agents to
+make good unknown errors in branch accounts will be used instead."
+652,suspense account,suspense account,Event/Issue,"My understanding was that there were a number of suspense accounts, and postmasters could
+actually post money to the suspense account for some sort of business reason, which I
+never really did understand, and they wanted to reduce the amount of money that was being
+posted into the suspense accounts."
+656,suspense account,suspense account,Event/Issue,"Were you told why they wanted to quote more tightly control and police the use of the
+suspense account?"
+660,suspense account,suspense account,Event/Issue,"Were you told that the suspense account was considered by the post office to be a vehicle
+for some postmasters to hide fraud?"
+664,discrepancy,discrepancy,Event/Issue,"Given that reduction on usage, if there was a discrepancy in a sub-postmaster's account
+after project impact, the sub-postmaster would have to accept it and pay it before they could
+roll over into the new trading period, correct?"
+688,suspense account,suspense account,Event/Issue,"You tell us in your witness statement, paragraph 43 of your first witness statement, that the
+decision to remove the ability of sub-postmasters to post discrepancies to a suspense account
+was because the post office, quote, took what I assume to be a business decision to remove
+this functionality.
+was the only thing you were told about the business decision was that it was to reduce
+staff costs?"
+691,suspense account,suspense account,Event/Issue,"Ms Harding told us that it was agreed during the design of the impact programme that the
+suspense account would be removed because historically it was used by sub-postmasters
+to hide discrepancies in their accounts."
+694,suspense account,suspense account,Event/Issue,What understanding did you have as to how the local suspense account had worked historically?
+695,suspense account,suspense account,Event/Issue,"We need to be careful here about terminology because one of the things we introduced here
+was something called a local suspense account."
+697,suspense account,suspense account,Event/Issue,What was your understanding as to how the local suspense account worked?
+699,suspense account,suspense account,Event/Issue,We introduced a new concept as part of the impact called a local suspense account.
+700,suspense account,suspense account,Event/Issue,"So as far as I'm concerned, there wasn't a local suspense account prior to impact,
+but I think I know what you're referring to."
+704,suspense account,suspense account,Event/Issue,"I think I understood that in order to post something to a local suspense account you
+did need to have permission how that actually operated, presumably through MBSC, but exactly
+how that operated I didn't know and didn't really concern me particularly."
+705,suspense account,suspense account,Event/Issue,"Do you remember being told by the post office that some postmasters hid their discrepancies
+in the suspense account?"
+733,error,error,Event/Issue,"He was strictly responsible
+for the safe custody of cash and stock, was obliged to make that all losses caused through
+his own negligence, carelessness or error, are losses of any kind caused by his assistance."
+739,shortfall,shortfall,Event/Issue,"His case is that any shortfall
+is entirely the fault of the problems with the Horizon computer and accounting
+system at Marine Drive and that the Post Office wrongfully terminated his
+contract in respect of which he suffered losses not exceeding 250,000 pounds."
+742,suspense account,suspense account,Event/Issue,"Bentley
+Johnson, they were the authors of the, sorry, Jeninson, the authors of the report in the
+second attachment state that deficiencies have probably been brought forward despite
+the fact that they've been entered onto the suspense account entry."
+743,suspense account,suspense account,Event/Issue,"They suspect this
+is because the Horizon system, despite the suspense account entry, has failed to recognise
+the entry on the daily snapshots."
+744,discrepancy,discrepancy,Event/Issue,"They've drawn this conclusion through looking at the
+discrepancy of £3,500 on the 26th of February 2004."
+747,error,error,Event/Issue,"Mr. Castleton believes if he can obtain further documents,
+such as the daily snapshots,
+he'll be able to undertake a manual reconciliation
+of the cash account in order to substantiate his belief
+that the losses are not real,
+but attributable to computer error."
+755,error,error,Event/Issue,"Five, if there have been any human errors in the recording, in recording the transactions,
+Could an explanation be that A, there was nothing wrong with Horizon because it simply
+reflected the information entered onto it, but B, if staff entered the wrong numbers
+into Horizon, there may have been no real loss, even though Horizon would show a loss
+because there could be human error in accounting, accurately recording transactions."
+832,errors,error,Event/Issue,"If there have been human errors in recording the transactions, could an explanation be
+that A, there was nothing wrong with Horizon because it simply reflected the information
+entered onto it, semicolon, but, just stopping there."
+839,errors,error,Event/Issue,"So in relation to if there have been human errors in recording the transactions, could
+an explanation be there's nothing wrong with Horizon because it simply reflected information
+entered into it?"
+847,error,error,Event/Issue,"And then part B of the original question, if staff enter the wrong numbers into Horizon,
+there may have been no real loss, even though Horizon would show a loss, because there could
+be a human error in accurately recording transactions."
+849,error,error,Event/Issue,"You say, I think, is this right, again, this could be true, however, if there is some sort
+of misentering of data into Horizon, then there would be another corresponding error
+which should be picked up, e.g., as a stock error or some AP client being credited with
+an incorrect amount."
+850,error,error,Event/Issue,"Also, such error should show up as part of the balancing process."
+879,error,error,Event/Issue,"My feeling was that that was more likely than an error in Horizon, yes."
+900,errors,error,Event/Issue,"Question one, if there have been human errors, then A."
+952,errors,error,Event/Issue,"As I read this, there must have been an earlier email that we haven't got in which Mr. Pinder
+sent that first paragraph I've been asked by the Fraud Investigation Team and then the
+a second paragraph which says if there have been human errors,
+if that's marked, and then the paragraph at A,
+if that can be marked, paragraph at B,
+and then Mr. Jenkins has replied in the darker text."
+1066,audit,audit,Event/Issue,"I don't know how long these are retained, whether they're
+included in the audit trail, so you can check the history for a marine drive in 2004, and
+then you suggest a place to start."
+1143,audit,audit,Event/Issue,"I may be able to do some, to research some of the areas such as audit
+that I'm claiming ignorance of if that is required."
